@@ -1,0 +1,18 @@
+Richard Farris Rashid is an American computer scientist and the founder of Microsoft Research, which he created in 1991.[1] Between 1991 and 2013, as its chief research officer and director, he oversaw the worldwide operations for Microsoft Research which grew to encompass more than 850 researchers and a dozen labs around the world.[1]
+
+Rashid was born in Fort Madison, Iowa, and is the son of Farris Rashid and Ramona Wright Rashid.[2] Rashid graduated from Stanford University in 1974 with degrees in mathematics and comparative literature. He then received a Master of Science and a Ph.D. in computer science from the University of Rochester, finishing in 1980. While at Rochester, he and Gene Ball wrote what is probably one of the earliest networked multiplayer computer games, Alto Trek, for Xerox Alto computers.
+
+Before joining Microsoft in 1991, Rashid had been the developer of the Mach kernel during his tenure as a professor of computer science at Carnegie Mellon University.[3] The Mach multiprocessor operating system kernel developed by Rashid has had a lasting influence in the design of modern operating systems, including the design of Windows NT,[4] and remains at the core of several operating systems such as NeXTSTEP, GNU Hurd, macOS, iOS, OSF/1, and Tru64 UNIX.[3]
+Rashid's Mach kernel pioneered the concepts of microkernel architecture and its impact can be traced in today's computing landscape with hundreds of millions of people still using Mach based operating systems thirty years after its creation.[3] The Mach project popularized and refined concepts in virtual memory management, hardware abstraction, binary-code compatibility, and process management. These concepts advanced the state of operating systems and led to their practical and widespread adoption.[3]
+
+Under Rashid's leadership, Microsoft Research has conducted research across various disciplines that include machine learning; multimedia and graphics, security, search, gaming, networking, artificial intelligence and human-computer interaction. His team has collaborated with the world's most prominent researchers in academia, industry and government to advance the state of computing and to help secure the future of Microsoft's products.[5]
+
+Rashid has authored a number of patents in areas such as data compression, networking, and operating systems, and was a major developer of Microsoft's interactive TV system.
+
+He was promoted to vice president in 1994. In 2000, he became senior vice president of Microsoft.[1]
+
+Rashid was elected a member of the National Academy of Engineering in 2003 for advances in operating systems and leadership in industrial research.
+
+Rashid and his wife Terri Rashid have made several charitable donations, including the Rashid Auditorium at Carnegie Mellon University.[6][7] He has 5 children.[citation needed]
+
+While a faculty member at CMU, he also performed research and published numerous papers and articles on topics such as networking, operating systems, artificial intelligence, and programming languages for distributed computing applications.[8]

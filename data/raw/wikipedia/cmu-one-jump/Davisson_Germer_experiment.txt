@@ -1,0 +1,175 @@
+The Davisson–Germer experiment was a 1923–1927 experiment by Clinton Davisson and Lester Germer at Western Electric (later Bell Labs),[1][2][3] in which electrons, scattered by the surface of a crystal of nickel metal, displayed a diffraction pattern. This confirmed the hypothesis, advanced by Louis de Broglie in 1924, of wave-particle duality, and also the wave mechanics approach of the Schrödinger equation. It was an experimental milestone in the creation of quantum mechanics.
+
+According to Maxwell's equations in the late 19th century, light was thought to consist of waves of electromagnetic fields and matter was thought to consist of localized particles. However, this was challenged in Albert Einstein's 1905 paper on the photoelectric effect, which described light as discrete and localized quanta of energy (now called photons), which won him the Nobel Prize in Physics in 1921. In 1924 Louis de Broglie presented his thesis concerning the wave–particle duality theory, which proposed the idea that all matter displays the wave–particle duality of photons.[4] According to de Broglie, for all matter and for radiation alike, the energy 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ of the particle was related to the frequency of its associated wave 
+
+
+
+ν
+
+
+{\displaystyle \nu }
+
+ by the Planck relation:
+
+
+
+
+E
+=
+h
+ν
+
+
+{\displaystyle E=h\nu }
+
+
+And that the momentum of the particle 
+
+
+
+p
+
+
+{\displaystyle p}
+
+ was related to its wavelength by what is now known as the de Broglie relation:
+
+
+
+
+λ
+=
+
+
+h
+p
+
+
+,
+
+
+{\displaystyle \lambda ={\frac {h}{p}},}
+
+
+where h is the Planck constant.
+
+An important contribution to the Davisson–Germer experiment was made by Walter M. Elsasser in Göttingen in the 1920s, who remarked that the wave-like nature of matter might be investigated by electron scattering experiments on crystalline solids, just as the wave-like nature of X-rays had been confirmed through Barkla's X-ray scattering experiments on crystalline solids.[4][5]
+
+This suggestion of Elsasser was then communicated by his senior colleague (and later Nobel Prize recipient) Max Born to physicists in England. When the Davisson and Germer experiment was performed, the results of the experiment were explained by Elsasser's proposition. However the initial intention of the Davisson and Germer experiment was not to confirm the de Broglie hypothesis, but rather to study the surface of nickel. 
+
+In 1927 at Bell Labs, Clinton Davisson and Lester Germer fired slow moving electrons at a crystalline nickel target. The angular dependence of the reflected electron intensity was measured[1][2] and was determined to have a similar diffraction pattern as those predicted by Bragg for X-rays; some small, but significant differences[3] were due to the average potential which Hans Bethe showed in his more complete analysis.[6] At the same time George Paget Thomson and his student Alexander Reid independently demonstrated the same effect firing electrons through celluloid films to produce a diffraction pattern, and Davisson and Thomson shared the Nobel Prize in Physics in 1937.[4][7] The exclusion of Germer from sharing the prize has puzzled physicists ever since.[8] The Davisson–Germer experiment confirmed the de Broglie hypothesis that matter has wave-like behavior. This, in combination with the Compton effect discovered by Arthur Compton (who won the Nobel Prize for Physics in 1927),[9] established the wave–particle duality hypothesis which was a fundamental step in quantum theory.
+
+Davisson began work in 1921 to study electron bombardment and secondary electron emissions. A series of experiments continued through 1925.
+
+Prior to 1923, Davisson had been working with Charles H. Kunsman on detecting the effects of electron bombardment on tungsten when they noticed that 1% of the electrons bounced straight back to the electron gun in elastic scattering. This small but unexpected result led Davisson to theorize that he could examine the electron configuration of the atom in an analogous manner to how the Rutherford alpha particle scattering had examined the nucleus. They changed to a high vacuum and used nickel along with various other metals with unimpressive results.[10]
+
+In October 1924 when Germer joined the experiment, Davisson’s actual objective was to study the surface of a piece of nickel by directing a beam of electrons at the surface and observing how many electrons bounced off at various angles. They expected that because of the small size of electrons, even the smoothest crystal surface would be too rough and thus the electron beam would experience diffused reflection.[11]
+
+The experiment consisted of firing an electron beam (from an electron gun, an electrostatic particle accelerator) at a nickel crystal, perpendicular to the surface of the crystal, and measuring how the number of reflected electrons varied as the angle between the detector and the nickel surface varied. The electron gun was a heated tungsten filament that released thermally excited electrons which were then accelerated through an electric potential difference, giving them a certain amount of kinetic energy, towards the nickel crystal. To avoid collisions of the electrons with other atoms on their way towards the surface, the experiment was conducted in a vacuum chamber. To measure the number of electrons that were scattered at different angles, a faraday cup electron detector that could be moved on an arc path about the crystal was used.  The detector was designed to accept only elastically scattered electrons.
+
+During the experiment, air accidentally entered the chamber, producing an oxide film on the nickel surface. To remove the oxide, Davisson and Germer heated the specimen in a high temperature oven, not knowing that this caused the formerly polycrystalline structure of the nickel to form large single crystal areas with crystal planes continuous over the width of the electron beam.[11]
+
+When they started the experiment again and the electrons hit the surface, they were scattered by nickel atoms in crystal planes (so the atoms were regularly spaced) of the crystal.  This, in 1925, generated a diffraction pattern with unexpected and uncorrelated peaks due to the heating causing a ten crystal faceted area. They changed the experiment to a single crystal and started again.
+
+On his second honeymoon, Davisson attended the Oxford meeting of the British Association for the Advancement of Science in summer 1926. At this meeting, he learned of the recent advances in quantum mechanics. To Davisson's surprise, Max Born gave a lecture that used the uncorrelated diffraction curves from Davisson's 1923 research on platinum with Kunsman,[12] using the data as confirmation of the de Broglie hypothesis of which Davisson was unaware.[13]
+
+Davisson then learned that in prior years, other scientists – Walter Elsasser, E. G. Dymond, and Blackett, James Chadwick, and Charles Ellis – had attempted similar diffraction experiments, but were unable to generate low enough vacuums or detect the low-intensity beams needed.[13]
+
+Returning to the United States, Davisson made modifications to the tube design and detector mounting, adding azimuth in addition to colatitude. Following experiments generated a strong signal peak at 65 V and an angle θ = 45°. He published a note to Nature titled, "The Scattering of Electrons by a Single Crystal of Nickel".[1]
+
+Questions still needed to be answered and experimentation continued through 1927, because Davisson was now familiar with the de Broglie formula and had designed the test to see if any effect could be discerned for a changed electron wavelength 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+, according to the de Broglie relationship, 
+
+
+
+λ
+=
+h
+
+/
+
+(
+2
+m
+E
+
+)
+
+1
+
+/
+
+2
+
+
+
+
+{\displaystyle \lambda =h/(2mE)^{1/2}}
+
+ which they knew should create a peak at 78 and not 65 V as their paper had shown. Because of their failure to correlate with the de Broglie formula, their paper introduced an ad hoc contraction factor of 0.7, which, however, could only explain eight of the thirteen beams.[13][14]
+
+By varying the applied voltage to the electron gun, the maximum intensity of electrons diffracted by the atomic surface was found at different angles. The highest intensity was observed at an angle θ = 50° with a voltage of 54 V, giving the electrons a kinetic energy of 54 eV.[4]
+
+As Max von Laue proved in 1912, the periodic crystal structure serves as a type of three-dimensional diffraction grating. The angles of maximum reflection are given by Bragg's condition for constructive interference from an array, Bragg's law
+
+
+
+
+n
+λ
+=
+2
+d
+sin
+⁡
+
+(
+
+
+90
+
+∘
+
+
+−
+
+
+θ
+2
+
+
+
+)
+
+,
+
+
+{\displaystyle n\lambda =2d\sin \left(90^{\circ }-{\frac {\theta }{2}}\right),}
+
+
+for n = 1, θ = 50°, and for the spacing of the crystalline planes of nickel (d = 0.091 nm) obtained from previous X-ray scattering experiments on crystalline nickel.[4]
+
+According to the de Broglie relation, electrons with kinetic energy of 54 eV have a wavelength of 0.167 nm. The experimental outcome was 0.165 nm via Bragg's law, which closely matched the predictions. As Davisson and Germer state in their 1928 follow-up paper to their Nobel prize winning paper, "These results, including the failure of the data to satisfy the Bragg formula, are in accord with those previously obtained in our experiments on electron diffraction. The reflection data fail to satisfy the Bragg relation for the same reason that the electron diffraction beams fail to coincide with their Laue beam analogues."[3] However, they add, "The calculated wave-lengths are in excellent agreement with the theoretical values of h/mv as shown in the accompanying table."[3] So although electron energy diffraction does not follow the Bragg law, it did confirm de Broglie's theory that particles behave like waves. The full explanation was provided by Hans Bethe who solved Schrödinger equation[15] for the case of electron diffraction.[6]
+
+Davisson and Germer's accidental discovery of the diffraction of electrons was the first direct evidence confirming de Broglie's hypothesis that particles can have wave properties as well.
+
+Davisson's attention to detail, his resources for conducting basic research, the expertise of colleagues, and luck all contributed to the experimental success.
+
+The specific approach used by Davisson and Germer used low energy electrons, what is now called low-energy electron diffraction (LEED). It wasn't until much later that development of experimental methods exploiting ultra-high vacuum technologies (e.g. the approach described by Alpert in 1953[16]) enabled the extensive use of  LEED diffraction to explore the surfaces of crystallized elements and the spacing between atoms.[17] Methods where higher energy electrons are used for diffraction in many different ways developed much earlier.

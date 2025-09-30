@@ -1,0 +1,44 @@
+Luis von Ahn (Spanish: [ˈlwis fon ˈan]; born 19 August 1978)[2] is a Guatemalan-American entrepreneur and software developer. He is the founder of the company reCAPTCHA, which was sold to Google in 2009,[3] and the co-founder and CEO of Duolingo.[4] For these projects and others, von Ahn is known as one of the pioneers of crowdsourcing.
+
+von Ahn was a professor in the Computer Science Department at Carnegie Mellon University.[5][6][7][8][9][excessive citations]
+
+Luis von Ahn was born and raised in Guatemala City. He is of German descent.[10][11] His mother was one of the first women in Guatemala to complete medical school. She gave birth to von Ahn at age 42, and raised him as a single mother.[12] He attended the American School of Guatemala, a private English-language school in Guatemala City, an experience he cites as a great privilege.[13][14] When von Ahn was eight years old, his mother bought him a Commodore 64 computer, beginning his fascination with technology and computer science.[15] When he applied to colleges in the United States, von Ahn had to spend more than $1,200 to fly to neighboring El Salvador to take the TOEFL. This experience left him with a negative impression of an "extractive" testing industry, ripe for disruption.[12]
+
+At age 18, von Ahn began studying at Duke University, where he received a Bachelor of Science (BS) in Mathematics, summa cum laude, in 2000.[16] He later earned his PhD in Computer Science at Carnegie Mellon University in 2005.[17][18]
+
+In 2006, von Ahn became a faculty member at Carnegie Mellon University's School of Computer Science.[19]
+
+Von Ahn's early research[20] was in the field of cryptography. With Nicholas J. Hopper and John Langford, he was the first to provide rigorous definitions of steganography and to prove that private-key steganography is possible.
+
+In 2000, he did early pioneering work with Manuel Blum on CAPTCHAs,[21] computer-generated tests that humans are routinely able to pass but that computers have not yet mastered.[22] These devices are used by web sites to prevent automated programs, or bots, from perpetrating large-scale abuse, such as automatically registering for large numbers of accounts or purchasing huge numbers of tickets for resale by scalpers. CAPTCHAs brought von Ahn his first widespread fame among the general public due to their coverage in the New York Times and USA Today and on the Discovery Channel, NOVA scienceNOW, and other mainstream outlets.
+
+Von Ahn's PhD thesis, completed in 2005, was the first publication to use the term "human computation" that he had coined, referring to methods that combine human brainpower with computers to solve problems that neither could solve alone. von Ahn's PhD thesis is also the first work on Games With A Purpose, or GWAPs, which are games played by humans that produce useful computation as a side effect. The most famous example is the ESP Game,[23] an online game[24] in which two randomly paired people are simultaneously shown the same picture, with no way to communicate. Each then lists a number of words or phrases that describe the picture within a time limit, and are rewarded with points for a match. This match turns out to be an accurate description of the picture, and can be successfully used in a database for more accurate image search technology. The ESP Game was licensed by Google in the form of the Google Image Labeler, and is used to improve the accuracy of the Google Image Search. von Ahn's games brought him further coverage in the mainstream media. His thesis won the Best Doctoral Dissertation Award from Carnegie Mellon University's School of Computer Science.
+In July 2006, von Ahn gave a tech talk at Google on "Human Computation" (i.e., crowdsourcing) which was watched by over one million viewers.[25]
+
+In 2007, von Ahn invented reCAPTCHA,[26] a new form of CAPTCHA that also helps digitize books. In reCAPTCHA, the images of words displayed to the user come directly from old books that are being digitized; they are words that optical character recognition could not identify and are sent to people throughout the web to be identified. ReCAPTCHA is currently in use by over 100,000 web sites and is transcribing over 40 million words per day.[27]
+
+In 2009, von Ahn and his graduate student Severin Hacker began to develop Duolingo, a language education platform. They founded a company of the same name, with von Ahn as chief executive officer and Hacker as chief technology officer. In November 2011, a private beta test of Duolingo was launched and the app was released to the public in June 2012.[28][29] As of May 2020, Duolingo was valued at $1.5 billion.[30] In a talk with NPR, von Ahn shared that Duolingo saw a spike in users during the COVID-19 pandemic.[30] von Ahn has a chapter giving advice in Tim Ferriss' book Tools of Titans.
+
+In May 2021, von Ahn joined the executive committee of Partnership for Central America, an entity bringing together a variety of businesses, academic organizations and nonprofit organizations "to advance economic opportunity, address urgent climate, education and health challenges, and promote long-term investments and workforce capability building to support a vision of hope for Central America".[31] The Partnership for Central America was presented in the context of the United States' Vice President Kamala Harris's "call to action" to address irregular migration from Central America to the United States by "deepening investment in the Northern Triangle" (a term coined to refer to Guatemala, El Salvador and Honduras).[32][33]
+
+In July 2025, von Ahn joined the board of collaborative web application maker Figma.[34]
+
+His research on CAPTCHAs and human computation has earned him international recognition and numerous honors. He was awarded a MacArthur Fellowship in 2006,[35][36] the David and Lucile Packard Foundation Fellowship in 2009, a Sloan Fellowship in 2009, and a Microsoft New Faculty Fellowship in 2007, and the Presidential Early Career Award for Scientists and Engineers in 2012.[37] He has also been named one of the 50 Best Brains in Science by Discover, and has made it to many recognition lists that include Popular Science's Brilliant 10, Silicon.com's 50 Most Influential People in Technology, MIT Technology Review's TR35: Young Innovators Under 35, and Fast Company's 100 Most Innovative People in Business.
+
+Siglo Veintiuno, one of the biggest newspapers in Guatemala, chose him as the person of the year in 2009. In 2011, Foreign Policy Magazine in Spanish named him the most influential intellectual of Latin America and Spain.[38]
+
+In 2011, he was awarded the A. Nico Habermann development chair in computer science,[39] which is awarded every three years to a junior faculty member of unusual promise in the School of Computer Science.
+
+In 2017, he was awarded the Distinguished Leadership Award for Innovation and Social Impact by the Inter-American Dialogue.[40]
+
+In 2018, von Ahn was awarded the Lemelson-MIT prize for his "dedication to improving the world through technology."[19]
+
+In 2021, von Ahn was named by Carnegie Corporation of New York as an honoree of the Great Immigrants Award.[41]
+
+Von Ahn has used a number of unusual techniques in his teaching, which have won him multiple teaching awards at Carnegie Mellon University.[42] In the fall of 2008, he began teaching a new course at Carnegie Mellon entitled "Science of the Web". A combination of graph theory and social science, the course covers topics from network and game theory to auction theory.[43]
+
+In his 2023 Ted Talk, he emphasised on the importance of making learning as fun as playing video games or using social media apps, by using similar features such as streak, leaderboard, etc.[44]
+
+In 2021, von Ahn established the Luis von Ahn Foundation. The focus of the Foundation is to support Guatemalans, especially women and girls, through financial support to local community leaders and nonprofit organizations.[45] According to the foundation website, in 2022 the Luis von Ahn Foundation will give US$3 million to various organizations that focus on "women's and girls equality, conservation of the environment, and democracy and youth participation."[46]
+
+Von Ahn is married to Swedish Ingrid von Ahn, the co-Founder & executive director of the ILVA Foundation.[47]

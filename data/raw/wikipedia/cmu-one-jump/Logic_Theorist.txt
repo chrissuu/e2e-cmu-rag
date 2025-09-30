@@ -1,0 +1,89 @@
+Logic Theorist is a computer program written in 1956 by Allen Newell, Herbert A. Simon, and Cliff Shaw.[1] It was the first program deliberately engineered to perform automated reasoning, and has been described as "the first artificial intelligence program".[1][a] Logic Theorist proved 38 of the first 52 theorems in chapter two of Whitehead and Bertrand Russell's Principia Mathematica, and found new and shorter proofs for some of them.[3]
+
+In 1955, when Newell and Simon began to work on the Logic Theorist, the field of artificial intelligence did not yet exist; the term "artificial intelligence" would not be coined until the following summer.[b]
+
+Simon was a political scientist who had previously studied the way bureaucracies function as well as developing his theory of bounded rationality (for which he would later win the Nobel Memorial Prize in Economic Sciences in 1978). He believed the study of business organizations requires, like artificial intelligence, an insight into the nature of human problem solving and decision making. Simon has stated that when consulting at RAND Corporation in the early 1950s, he saw a printer typing out a map, using ordinary letters and punctuation as symbols. This led him to think that a machine that could manipulate symbols could simulate decision making and possibly even the process of human thought.[5][6]
+
+The program that printed the map had been written by Newell, a RAND scientist studying logistics and organization theory. For Newell, the decisive moment was in 1954 when Oliver Selfridge came to RAND to describe his work on pattern matching. Watching the presentation, Newell suddenly understood how the interaction of simple, programmable units could accomplish complex behavior, including the intelligent behavior of human beings. "It all happened in one afternoon," he would later say.[2][7] It was a rare moment of scientific epiphany.
+
+
+"I had such a sense of clarity that this was a new path, and one I was going to go down. I haven't had that sensation very many times. I'm pretty skeptical, and so I don't normally go off on a toot, but I did on that one. Completely absorbed in it—without existing with the two or three levels consciousness so that you're working, and aware that you're working, and aware of the consequences and implications, the normal mode of thought. No. Completely absorbed for ten to twelve hours."[8]
+Newell and Simon began to talk about the possibility of teaching machines to think. Their first project was a program that could prove mathematical theorems like the ones used in Bertrand Russell and Alfred North Whitehead's Principia Mathematica. They enlisted the help of computer programmer Cliff Shaw, also from RAND, to develop the program. (Newell says "Cliff was the genuine computer scientist of the three".[9])
+
+
+The first version was hand-simulated: they wrote the program onto 3x5 cards and, as Simon recalled:
+In January 1956, we assembled my wife and three children together with some graduate students. To each member of the group, we gave one of the cards, so that each one became, in effect, a component of the computer program ... Here was nature imitating art imitating nature.[10]
+They succeeded in showing that the program could successfully prove theorems as well as a talented mathematician. Eventually Shaw was able to run the program on the computer at RAND's Santa Monica facility.
+
+In the summer of 1956, John McCarthy, Marvin Minsky, Claude Shannon and Nathan Rochester organized a conference on the subject of what they called "artificial intelligence" (a term coined by McCarthy for the occasion). Newell and Simon proudly presented the group with the Logic Theorist. It was met with a lukewarm reception. Pamela McCorduck writes "the evidence is that nobody save Newell and Simon themselves sensed the long-range significance of what they were doing."[11] Simon confides that "we were probably fairly arrogant about it all"[12] and adds:
+
+They didn't want to hear from us, and we sure didn't want to hear from them: we had something to show them! ... In a way it was ironic because we already had done the first example of what they were after; and second, they didn't pay much attention to it.[13]
+Logic Theorist soon proved 38 of the first 52 theorems in chapter 2 of the Principia Mathematica. The proof of theorem 2.85 was actually more elegant than the proof produced laboriously by hand by Russell and Whitehead. Simon was able to show the new proof to Russell himself who "responded with delight".[3] They attempted to publish the new proof in The Journal of Symbolic Logic, but it was rejected on the grounds that a new proof of an elementary mathematical theorem was not notable, apparently overlooking the fact that one of the authors was a computer program.[14][3]
+
+Newell and Simon formed a lasting partnership, founding one of the first AI laboratories at the Carnegie Institute of Technology and developing a series of influential artificial intelligence programs and ideas, including the General Problem Solver, Soar, and their unified theory of cognition.
+
+The Logic Theorist is a program that performs logical processes on logical expressions.[15] The Logic Theorist operates on the following principles:
+
+For example, the logical expression 
+
+
+
+¬
+P
+→
+(
+Q
+∧
+¬
+P
+)
+
+
+{\displaystyle \neg P\to (Q\wedge \neg P)}
+
+ is represented as a tree with a root element representing 
+
+
+
+→
+
+
+{\displaystyle \to }
+
+. Among the attributes of the root element are pointers to the two elements representing the subexpressions 
+
+
+
+¬
+P
+
+
+{\displaystyle \neg P}
+
+ and 
+
+
+
+Q
+∧
+¬
+P
+
+
+{\displaystyle Q\wedge \neg P}
+
+.
+
+There are four kinds of processes, from the lowest to the highest level.
+
+Logic Theorist introduced several concepts that would be central to AI research:
+
+Pamela McCorduck writes that the Logic Theorist was "proof positive that a machine could perform tasks heretofore considered intelligent, creative and uniquely human".[3] And, as such, it represents a milestone in the development of artificial intelligence and our understanding of intelligence in general.
+
+Simon told a graduate class in January 1956, "Over Christmas, Al Newell and I invented a thinking machine,"[19][20]
+and would write:
+
+[We] invented a computer program capable of thinking non-numerically, and thereby solved the venerable mind-body problem, explaining how a system composed of matter can have the properties of mind.[21]
+This statement, that machines can have minds just as people do, would be later named "Strong AI" by philosopher John Searle. It remains a serious subject of debate up to the present day.
+
+Pamela McCorduck also sees in the Logic Theorist the debut of a new theory of the mind, the information processing model (sometimes called computationalism or cognitivism). She writes that "this view would come to be central to their later work, and in their opinion, as central to understanding mind in the 20th century as Darwin's principle of natural selection had been to understanding biology in the nineteenth century."[22] Newell and Simon would later formalize this proposal as the physical symbol systems hypothesis.

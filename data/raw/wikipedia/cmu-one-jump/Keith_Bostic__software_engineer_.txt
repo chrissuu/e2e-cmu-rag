@@ -1,0 +1,13 @@
+Keith Bostic (born July 26, 1959) is an American software engineer and one of the key people in the history of Berkeley Software Distribution (BSD) Unix and open-source software.
+
+In 1986, Bostic joined the Computer Systems Research Group (CSRG) at the University of California, Berkeley.[1] He was one of the principal architects of the Berkeley 2BSD, 4.4BSD and 4.4BSD-Lite releases.[2] Among many other tasks, he led the effort at CSRG to create a free software version of BSD Unix, which, in turn, enabled the creation of FreeBSD, NetBSD, and OpenBSD.
+
+Bostic was a founder of Berkeley Software Design Inc. (BSDi),[2] which produced BSD/OS, a proprietary version of BSD.
+
+In 1993, the USENIX Association gave a Lifetime Achievement Award (Flame) to the Computer Systems Research Group, honoring 180 individuals, including Bostic, who contributed to the group's 4.4BSD-Lite release.
+
+Bostic and his wife Margo Seltzer founded Sleepycat Software in 1996 to develop and commercialize Berkeley DB, an open-source, key-value database. Sleepycat Software was the first company to develop dual-licensed open-source software. In February 2006, the company was acquired by Oracle Corporation,[3] where Bostic worked until 2008.
+
+Bostic and Michael Cahill founded WiredTiger in 2010 to create a NoSQL database management system. In November 2014, the company was acquired by MongoDB, which employed Bostic.[4]
+
+Bostic is the author of nvi—a re-implementation of the classic text editor vi—and many other standard BSD and Linux utilities. He is a past member of the Association for Computing Machinery, IEEE, and several POSIX working groups, and a contributor to POSIX standards.[5]

@@ -1,0 +1,41 @@
+Future Concepts division (formerly Palo Alto Research Center, PARC and Xerox PARC) is a research and development company in Palo Alto, California.[2][3][4] It was founded in 1969 by Jacob E. "Jack" Goldman, chief scientist of Xerox Corporation, as a division of Xerox, tasked with creating computer technology-related products and hardware systems.[1][5]
+
+Xerox PARC has been foundational to numerous revolutionary computer developments, including laser printing, Ethernet, the modern personal computer, graphical user interface (GUI) and desktop metaphor–paradigm, object-oriented programming, ubiquitous computing, electronic paper, amorphous silicon (a-Si) applications, the computer mouse, and very-large-scale integration (VLSI) for semiconductors.[6][5]
+
+Unlike Xerox's existing research laboratory in Rochester, New York, which focused on refining and expanding the company's copier business, Goldman's "Advanced Scientific & Systems Laboratory" aimed to pioneer new technologies in advanced physics, materials science, and computer science applications.
+
+In 2002, Xerox spun off Palo Alto Research Center Incorporated as a wholly owned subsidiary.[7] In late April of 2023, Xerox announced the donation of the lab to SRI International.[8]
+
+In 1969, Goldman talked with George Pake, a physicist specializing in nuclear magnetic resonance and provost of Washington University in St. Louis, about starting a second research center for Xerox.[9]
+
+On July 1, 1970, the Xerox Palo Alto Research Center opened.[10] Its 3,000-mile distance from Xerox headquarters in Rochester, New York, afforded scientists at the new lab great freedom in their work, but it increased the difficulty of persuading management of the promise of some of their greatest achievements.
+
+In its early years, PARC's West Coast location helped it hire many employees of the nearby SRI Augmentation Research Center (ARC) as that facility's funding from DARPA, NASA, and the U.S. Air Force began to be reduced. By leasing land at Stanford Research Park, it encouraged Stanford University graduate students to be involved in PARC research projects and PARC scientists to collaborate with academic seminars and projects.
+
+Much of PARC's early success in the computer field was under the leadership of its Computer Science Laboratory manager Bob Taylor, who guided the lab as associate manager from 1970 to 1977, and as manager from 1977 to 1983.
+
+Work at PARC since the early 1980s includes advances in ubiquitous computing, aspect-oriented programming, and IPv6.[11]
+
+After three decades as a division of Xerox, PARC was transformed in 2002[7] into an independent, wholly owned subsidiary company dedicated to developing and maturing advances in science and business concepts.
+
+Xerox announced that it would donate the lab and its related assets to SRI International in April 2023. As part of the deal, Xerox would keep most of the patent rights inside PARC, and benefit from a preferred research agreement with SRI/PARC.[8] On January 18, 2024, SRI announced the research group from the PARC will become its Future Concepts division.[12]
+
+PARC's developments in information technology served for a long time as standards for much of the computing industry. Many advancements made at the center were not equaled or surpassed for two decades. Xerox PARC has been the inventor and incubator of many elements of modern computing, including:
+
+Most of these developments were included in the Alto, which added the computer mouse.[14] These developments unified into a single model most aspects of now-standard personal computers use. The integration of Ethernet[6] into the computer prompted the development of the PARC Universal Packet architecture, which is structured much like the modern Internet's architecture.
+
+The PARCTab is an experimental mobile computing device as an early experiment in ubiquitous computing (UbiComp).[15] Its appearance resembles a personal digital assistant (PDA). Its functionality depends on the user's location, by receiving location-specific information via infrared sensors from gateway nodes installed in a particular location.[16]
+
+It has a touch screen, stylus, and handwriting recognition. Xerox designed the similar and larger PARCPad. Both devices were developed around the same time as the Apple Newton.[17]
+
+PARC's distinguished researchers include four Turing Award winners: Butler Lampson (1992), Alan Kay (2003), Charles P. Thacker (2009), and Robert Metcalfe (2022). The Association for Computing Machinery (ACM) Software System Award recognized the Alto system in 1984, Smalltalk in 1987, InterLisp in 1992, and the remote procedure call in 1994. Lampson, Kay, Bob Taylor, and Thacker received the National Academy of Engineering's prestigious Charles Stark Draper Prize in 2004 for their work on the Alto. Lynn Conway was recognized by the National Inventors Hall of Fame for her work on very-large-scale integration (VLSI) in 2023.[18]
+
+Xerox has been heavily criticized, particularly by business historians, for failing to properly commercialize and profitably exploit PARC's innovations.[19] Xerox management failed to see the global potential of many of PARC's inventions, but this was mostly a problem with its computing research, a relatively small part of PARC's operations.
+
+One notable example of this is the graphical user interface (GUI), initially developed at PARC for the Alto and then sold as the Xerox 8010 Information System workstation (with office software called Star) by the Xerox Systems Development Department. It heavily influenced future system design, but was deemed a failure because Xerox only sold about 25,000 units of the computer. A small group from PARC led by David Liddle and Charles Irby formed Metaphor Computer Systems. Metaphor Computer Systems extended the Star desktop concept into an animated graphic and communicating office-automation model and sold the company to IBM.
+
+Several GUI engineers left to join Apple Computer to work on Lisa and Macintosh. Technologies pioneered by its materials scientists such as the liquid-crystal display (LCD), some major innovations in optical disc technology, and laser printing were actively and successfully introduced by Xerox to the business and consumer markets.[20]
+
+Microsoft co-founder Bill Gates has said that the Xerox graphical interface has notably influenced Microsoft and Apple. Apple Inc. co-founder Steve Jobs said that "Xerox could have owned the entire computer industry, could have been the IBM of the nineties, could have been the Microsoft of the nineties."[21][22]
+
+37°24′10″N 122°08′55″W﻿ / ﻿37.40278°N 122.14861°W﻿ / 37.40278; -122.14861

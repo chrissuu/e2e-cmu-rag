@@ -1,0 +1,39 @@
+The Institute of Electrical and Electronics Engineers (IEEE)[note 1][5] is an American 501(c)(3) charitable professional organization for electrical engineering, electronics engineering, and related disciplines. Today, it is a global network of more than 486,000 engineering and STEM professionals across a variety of disciplines whose core purpose is to foster technological innovation and excellence for the benefit of humanity.[6]
+
+The IEEE has a corporate office in New York City and an operations center in Piscataway, New Jersey. The IEEE was formed in 1963 as an amalgamation of the American Institute of Electrical Engineers and the Institute of Radio Engineers.[7]
+
+The IEEE traces its founding to 1884 and the American Institute of Electrical Engineers. In 1912, the rival Institute of Radio Engineers was formed.[8] Although the AIEE was initially larger, the IRE attracted more students and was larger by the mid-1950s. The AIEE and IRE merged in 1963.[9]
+
+The IEEE is headquartered in New York City, but most business is done at the IEEE Operations Center[10] in Piscataway, New Jersey, opened in 1975.[11]
+
+The Australian Section of the IEEE existed between 1972 and 1985, after which it split into state- and territory-based sections.[12]
+
+IEEE claims to produce over 30% of the world's literature in the electrical, electronics, and computer engineering fields, publishing approximately 200 peer-reviewed journals[13] and magazines. IEEE publishes more than 1,700 conference proceedings every year.[14]
+
+The published content in these journals as well as the content from several hundred annual conferences sponsored by the IEEE are available in the IEEE Electronic Library (IEL)[15] available through IEEE Xplore[16] platform, for subscription-based access and individual publication purchases.[17]
+
+In addition to journals and conference proceedings, the IEEE also publishes tutorials and standards that are produced by its standardization committees. The organization also has its own IEEE paper format.[18]
+
+The IEEE provides IEEE Editorial Style Manual for Authors style guide for article authors and basic templates in Microsoft Word and LaTeX file formats.[19][20] It is based on The Chicago Manual of Style and doesn't cover "Grammar" and "Usage" styles which are provided by Chicago style guideline.[21][22]
+
+In April 2024, the IEEE banned the use of Lenna test images in its journals and stated that they would decline papers containing them.[23][24]
+
+IEEE has 39 technical societies, each focused on a certain knowledge area, which provide specialized publications, conferences, business networking and other services.[25]
+
+IEEE consists of 10 global regions,[26] each serving its members and volunteers respectively. Each region consists of sections that directly serve its members and volunteers. 
+
+A region alignment is proposed to happen with effect from January 1, 2028, merging Region 1 and 2 together as just Region 2, while carving out a separate Region 11 from the existing Region 10.[27]
+
+In September 2008, the IEEE History Committee founded the IEEE Global History Network,[28][29][30] which now redirects to Engineering and Technology History Wiki.[31][28]
+
+The IEEE Foundation is a charitable foundation established in 1973[32] to support and promote technology education, innovation, and excellence.[33] It is incorporated separately from the IEEE, although it has a close relationship to it. Members of the Board of Directors of the foundation are required to be active members of IEEE, and one third of them must be current or former members of the IEEE Board of Directors.
+
+Initially, the role of the IEEE Foundation was to accept and administer donations for the IEEE Awards program, but donations increased beyond what was necessary for this purpose, and the scope was broadened. In addition to soliciting and administering unrestricted funds, the foundation also administers donor-designated funds supporting particular educational, humanitarian, historical preservation, and peer recognition programs of the IEEE.[33] As of the end of 2014, the foundation's total assets were nearly $45 million, split equally between unrestricted and donor-designated funds.[34]
+
+IEEE's Membership Geographic Activities (MGA) is focused on supporting and meeting the members' needs and IEEE membership recruitment and retention strategies and implementation.[35] MGA supports members by creating opportunities for volunteers to attend conferences, create technical, STEM, and humanitarian events through platforms like vTools.
+
+In May 2019, IEEE restricted Huawei employees from peer reviewing papers or handling papers as editors due to the "severe legal implications" of U.S. government sanctions against Huawei.[36] As members of its standard-setting body, Huawei employees could continue to exercise their voting rights, attend standards development meetings, submit proposals and comment in public discussions on new standards.[37][38] The ban sparked outrage among Chinese scientists on social media. Some professors in China decided to cancel their memberships.[39][40]
+
+On June 3, 2019, IEEE lifted restrictions on Huawei's editorial and peer review activities after receiving clearance from the United States government.[41][42][43]
+
+On February 26, 2022, the chair of the IEEE Ukraine Section, Ievgen Pichkalov, publicly appealed to the IEEE members to "freeze [IEEE] activities and membership in Russia" and requested "public reaction and strict disapproval of Russia's aggression" from the IEEE and IEEE Region 8.[44] On March 17, 2022, an article in the form of a Q&A interview with IEEE Russia (Siberia) senior member Roman Gorbunov titled "A Russian Perspective on the War in Ukraine" was published in IEEE Spectrum to demonstrate "the plurality of views among IEEE members" and the "views that are at odds with international reporting on the war in Ukraine".[45] On March 30, 2022, activist Anna Rohrbach created an open letter to the IEEE in an attempt to have them directly address the article, stating that the article used "common narratives in Russian propaganda" on the 2022 Russian invasion of Ukraine and requesting the IEEE Spectrum to acknowledge "that they have unwittingly published a piece furthering misinformation and Russian propaganda".[46] A few days later a note from the editors was added on April 6[47] with an apology "for not providing adequate context at the time of publication", though the editors did not revise the original article.[48]

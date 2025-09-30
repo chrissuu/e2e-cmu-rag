@@ -1,0 +1,73 @@
+Tata Consultancy Services (TCS) is an Indian multinational technology company specializing in information technology services and consulting. Headquartered in Mumbai, it is a part of the Tata Group and operates in 150 locations across 46 countries.[4] As of 2024, Tata Sons owned 71.74% of TCS, and close to 80% of Tata Sons' dividend income came from TCS.[5]
+
+TCS ranked seventh on the Fortune India 500 list for 2024.[6] In September 2021, TCS recorded a market capitalization of US$200 billion, becoming the first Indian IT company to achieve this valuation.[7][8][9] In 2012, it was the world's second-largest user of U.S. H-1B visas.[10]
+
+Tata Consultancy Services Limited, originally known as Tata Computer Systems, was established in 1968 by Tata Sons Limited.[11] The company's initial contracts involved providing punched card services to its sister company TISCO (now Tata Steel), developing an Inter-Branch Reconciliation System for the Central Bank of India,[12] and offering bureau services to the Unit Trust of India.
+
+In 1975, TCS implemented an electronic depository and trading system named SECOM for Swiss company SIS SegaInterSettle. It also developed System X for the Canadian Depository System and automated the Johannesburg Stock Exchange.[13] TCS also partnered with the Swiss firm TKS Teknosoft, which it later acquired.[14]
+
+In 1980, TCS established India's first dedicated software research and development center, the Tata Research Development and Design Centre (TRDDC), located in Pune.[15] The following year, it created India's first client-dedicated offshore development centre, established for Tandem.
+
+Anticipating the Y2K bug and the introduction of the unified European currency (Euro), Tata Consultancy Services developed a factory model for Y2K conversion. The company also created software tools to automate the conversion process and facilitate implementation by third-party developers and clients.[16] In late 1999, TCS introduced Decision Support System (DSS) solutions to the domestic market.[17] In 1999, the company also registered its first tagline, "Beyond the Obvious."[18][19]
+
+In 2001, TCS entered the bioinformatics segment,[20] and three years later, launched India's first bioinformatics product.[21]
+
+In 2003, TCS became the first Indian IT company to record $1 billion in revenue.[22] On 25 August 2004, TCS became a publicly listed company after its initial public offering.[23][24]
+
+In July 2005, Tata Infotech, which was until then a different IT subsidiary of Tata Sons, merged with TCS in a stock swap deal.[25] Later that year, TCS changed its tagline from "Beyond the Obvious" to "Experience Certainty".[26]
+
+In 2006, TCS developed an ERP system for the Indian Railway Catering and Tourism Corporation.[27] By 2008, its e-business operations were generating over US$500 million in annual revenue.[28][29]
+
+In 2011, TCS entered the small and medium enterprises market with cloud-based solutions.[30] On the final trading day of 2011, it surpassed RIL to achieve the highest market capitalization of any India-based company.[31] In the 2011–12 fiscal year, TCS achieved annual revenues exceeding US$10 billion for the first time.[32]
+
+In May 2013, TCS was awarded a six-year contract valued at over ₹11 billion (US$130 million) to provide services to the Indian Department of Posts.[33] In 2013, the company moved from 13th to 10th place on the list of global IT services companies by revenue.[34] In July 2014, it became the first Indian company to exceed ₹5 trillion (US$81.93 billion) in market capitalization.[35][36]
+
+In January 2015, TCS became India's most profitable company, ending Reliance Industries Limited's 23-year streak.[37]
+
+In January 2017, TCS announced a partnership with Aurus, a payments technology company, to deliver payment solutions for retailers through TCS OmniStore, a unified store commerce platform.[38] The same year, TCS China entered into a joint venture with the Chinese government.[39]
+
+In March 2018, Tata Sons sold TCS shares worth $1.25 billion in a bulk transaction.[40]
+
+In 2019, TCS received four Stevies at the American Business Awards.[41]
+
+On 8 October 2020, TCS surpassed Accenture in market capitalization, becoming the world's most valuable IT company with a market capitalization of over $144 billion.[42] On 25 January 2021, TCS briefly reclaimed the title of the world's most valuable IT company from Accenture with a market cap of $170 billion.[43] On the same day, TCS also became India's most valuable company, surpassing Reliance Industries.[44]
+
+In May 2021, TCS, in collaboration with its consortium partner Neurotechnology, was selected by the Unique Identification Authority of India (UIDAI) to provide biometric technology for the Aadhaar digital ID program.[45] The Aadhaar program, which has a database of over 1.3 billion citizens, has been described by World Bank Chief Economist Paul Romer as the "most sophisticated ID program in the world."[46]
+
+In 2021, TCS underwent a millennial rebranding, and the company updated its tagline from "Experience Certainty" to "Building on Belief".[47]  In 2021, Tata Consultancy Services was also one of the largest job providers in India, hiring 43,000 new employees in the first half of the fiscal year 2021–22.[48]
+
+In July 2025, TCS announced that it would downsize its global workforce by 2%, or about 12,000 employees, primarily from middle- and senior-level positions, citing a "skill mismatch".[49][50]
+
+As of September 2023, TCS had a total of 51 subsidiary companies in 55 countries,[75][76] and more than 500 offices globally.[77] In India, TCS has multiple delivery centers in major cities, including Mumbai, Bangalore, Chennai, and Hyderabad.[78] It has significant operations in key markets such as the United States, United Kingdom, Canada, Australia, and Singapore.[79][80]
+
+Tata Consultancy Services (TCS) is one of the largest private-sector employers in India,[81] and ranked as the fourth-largest employer overall in 2015, following Indian Railways, Indian Army, and India Post.[82] In July 2022, the employee count of TCS crossed 600,000, with a net addition of about 100,000 in one year.[83][84]
+
+In 2008, TCS was the fifth-largest recipient of H-1B visas in the United States, following Infosys, Cognizant, Wipro, and Satyam.[85] In 2012, TCS and other Tata Group companies were the second-largest recipients of H-1B visas.[86][10] As of 31 March 2013, the number of non-Indian nationals employed by TCS was 21,282, representing 7.7% of the workforce.[87]
+
+TCS has had five CEOs since its inception in 1968.
+
+In 2021, the software products and SaaS-based platforms business of TCS generated about $3 billion in revenue, accounting for 12–15% of the company's total revenue, according to COO N. Ganapathy Subramaniam.[89] Its notable products included TCS BaNCS, TCS Cognix, TCS Quartz, TCS HOBS, TCS MasterCraft, and TCS OmniStore.[90]
+
+In 2015, TCS started an enterprise software venture called Digitate, based in Pune and Santa Clara, which released its artificial intelligence platform Ignio the same year.[91][92]
+
+The TCS BPS division provides business process management services. It had an estimated revenue of $3.5 billion in financial year 2023–24, as per an Everest Group report.[93]
+
+TCS BPS also provides services for biopharmaceutical majors, including clinical research, data management, biostatistics, medical writing, clinical programming, pharmacovigilance, and RWE support towards global drug development efforts.[94][95]
+
+TCS established India's first software research centre, the Tata Research Development and Design Centre, in Pune, in 1981. TRDDC undertakes research in software engineering, process engineering, bioinformatics, and systems science. In 2005, researchers at TRDDC developed MasterCraft, a model-driven development software that can automatically create code from a computer language, and rewrite the code based on the users' needs.[96]
+
+TRDDC and Tata Chemicals jointly developed Sujal (later marketed as Tata Swach), a low-cost water purifier manufactured using rice husk ash and silver nanoparticles. TCS deployed thousands of these filters in the relief activities of the Indian Ocean tsunami disaster of 2004.[97][98][99]
+
+In 2007, TCS launched its co-innovation network, a network of innovation labs, start-up alliances, university research departments, and venture capitalists.[100][101] In addition, TCS has 19 innovation labs based in three countries.[102] TCS' partners include CollabNet and Cassatt, and academic institutions such as IITs, Stanford, MIT, and Carnegie Mellon, and venture capitalists like Sequoia and Kleiner Perkins.[103]
+
+TCS is the title sponsor for Toronto Waterfront Marathon, London Marathon, Amsterdam Marathon, Mumbai Marathon, Lidingöloppet, and New York City Marathon[104][105] and one of the sponsors of City2Surf, Australian Running Festival, Berlin Marathon, Chicago Marathon, and Boston Marathon.[106] In India, it is the title sponsor of World 10K held in Bangalore every year.[107]
+
+TCS has been a sponsor of the Indian Premier League team Rajasthan Royals since 2009.[108] It also provides the team with technology to help in the analysis of player performance, simulation, and use of RFID tags for tracking the players’ fitness levels and for security purposes in the stadiums.[109][110]
+
+TCS conducts an annual IT quiz for high school students called TCS IT Wiz.[111] TCS also currently sponsors Jaguar Racing in Formula E and Nakajima Racing in Super Formula.[112]
+
+On 14 February 2006, the US law firm Lieff Cabraser filed a nationwide class action lawsuit against TCS concerning payments to employees on deputation.[113] This lawsuit was filed on behalf of all non-US citizens employed by TCS in California from 14 February 2002 to 30 June 2005. The workers alleged that they were compelled to forfeit their federal and state tax refunds to their employer and that their Indian salaries were wrongfully deducted from their US pay.[114] On 22 February 2013, TCS agreed to settle the class-action suit for $30 million.[115] In July 2013, Judge Claudia Wilken of the US District Court, Northern District of California in Oakland, California, granted final approval for the settlement of the lawsuit.
+
+In a lawsuit filed in October 2014 in the US District Court in Madison, Epic Systems accused TCS and Tata America International Corp of "brazenly stealing the trade secrets, confidential information, documents, and data" belonging to Epic. This lawsuit was amended in January and December 2015. In April 2016, a US jury imposed a US$940 million fine on TCS and Tata America International Corp in the trade secret case,[116] which was reduced to US$420 million in 2017.[117] In 2020, an appeals court ruled that the US$280 million in punitive damages was "constitutionally excessive", but upheld the remaining portion of US$140 million in compensatory damages.[118] The case concluded in November 2023, with TCS agreeing to pay US$125 million.[119]
+
+In 2019, an employee filed a complaint with the Kancheepuram labour court,[120] alleging that Tata Consultancy Services' internal complaints committee mishandled[121] a sexual harassment case. Despite the case being approved, there has been no significant progress over the years, with the worker accusing the company of delaying investigations.[122] The worker has also reported unexplained transfers[123] and other forms of alleged workplace retribution, including in performance reviews.[124]

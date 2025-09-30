@@ -1,0 +1,7 @@
+H1ghlander is an autonomous vehicle. Created by Carnegie Mellon University's Red Team, it is a heavily modified 1999 HUMMER H1. It competed in the 2005 DARPA Grand Challenge.[1]
+
+The sensors used by H1ghlander include LIDAR laser-ranging units, one steerable LIDAR (in the globe on top), GPS and an inertial navigation system.  The GPS/INS system was an Applanix POS/LV system.
+
+H1ghlander competed in the 2005 DARPA Grand Challenge on October 8, qualifying in the pole position and finished in 7 hours and 14 minutes, placing 3rd out of the five vehicles to complete the 132 mile (212 km) course. It was preceded, in second place, by Sandstorm, its sister vehicle.
+
+The Hummer driven by Denzel Washington in the movie Déjà Vu was heavily based on H1ghlander, sharing a similar gimbal dome on the top, SICK laser sensors in the same positions, a camera tube on the side of the vehicle, and many other visual similarities.  See IMDB Trivia for Déjà Vu.

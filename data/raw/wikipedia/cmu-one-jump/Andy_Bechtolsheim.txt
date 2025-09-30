@@ -1,0 +1,43 @@
+ Andreas Maria Maximilian Freiherr von Mauchenheim genannt Bechtolsheim (born 30 September 1955[1]) is a German electrical engineer, entrepreneur and investor. He co-founded Sun Microsystems in 1982 and was its chief hardware designer. As of 2025,[update] he's 68th wealthiest according to Bloomberg Billionaires Index  and Forbes with an estimated net worth of US$28.9 billion.[2]
+
+Bechtolsheim was born at Hängeberg am Ammersee, located in Finning, Landsberg, Bavaria,[3] the second of four children. The isolated house had no television or close neighbors, so he experimented with electronics as a child. His family moved to Rome in 1963. Five years later, in 1968, the family relocated again, to Nonnenhorn on Lake Constance in Germany. At age 16, he designed an industrial controller for a nearby company based on the Intel 8008, which he then programmed in binary code as he had no access to assemblers. Royalties from the product supported much of his education.[4]
+
+Bechtolsheim participated in the Jugend forscht competition for young researchers three times and won the physics prize in 1974. He began studying electrical engineering with a focus on data processing at the Technical University of Munich, supported by the German Academic Scholarship Foundation, and graduated with an engineering degree.[5] Frustrated by the limited access to computers and dissatisfied with his studies, he moved to the United States in 1975 with the help of a Fulbright scholarship[6] and earned a master's degree in computer engineering from Carnegie Mellon University in 1976.
+
+In 1977, Bechtolsheim moved to Silicon Valley after receiving an internship offer from Justin Rattner at Intel.[7] When Rattner relocated to Oregon, Bechtolsheim chose instead to enroll at Stanford University as a Ph.D. student in electrical engineering. He left Stanford five years later to pursue opportunities in the technology industry.[4][8]
+
+At Stanford, Bechtolsheim designed  a powerful computer (called a workstation) with built-in networking called the SUN workstation, a name derived from the initials for the Stanford University Network. It was inspired by the Xerox Alto computer developed at the Xerox Palo Alto Research Center. Bechtolsheim was a "no fee consultant" at Xerox, meaning he was not remunerated directly but had free access to the research being done there. At the time, Lynn Conway was using workstations to design very-large-scale integration (VLSI) circuits.[4]
+
+Bechtolsheim's advisor was Forest Baskett. In 1980, Vaughan Pratt also provided leadership to the SUN project. Support was provided by the Computer Science Department and DARPA. The modular computer was used for research projects such as developing the V-System, and for early Internet routers. Bechtolsheim tried to interest other companies in manufacturing the workstations, but only got lukewarm responses.[4]
+
+One of the companies building computers for VLSI design was Daisy Systems, where Vinod Khosla worked at the time. Khosla had graduated a couple of years earlier from the Stanford Graduate School of Business with Scott McNealy, who managed manufacturing at Onyx Systems. Khosla, McNealy and Bechtolsheim wrote a short business plan [9] and quickly received funding from venture capitalists in 1982.[4] Bechtolsheim left Stanford to co-found the company, Sun Microsystems, as employee number one, with McNealy and Khosla, and with Bill Joy, who had been part of the team developing the BSD series of Unix operating systems at UC Berkeley; Bill is usually counted as the fourth member of the founding team. For a while Bechtolsheim and Joy shared an apartment in Palo Alto, California.[4]
+
+The first product, the Sun-1, included the Stanford CPU board design with improved memory expansion, and a sheet-metal case. By the end of the year, the experimental Ethernet interface designed by Bechtolsheim was replaced by a commercial board from 3Com.[10]
+
+Sun Microsystems had its initial public offering in 1986 and reached $1 billion in sales by 1988. Bechtolsheim formed a project code-named UniSun around this time to design a small, inexpensive desktop computer for the educational market. The result was the SPARCstation 1 (known as "campus"), the start of another line of Sun products.[11]
+
+In 1995, Bechtolsheim left Sun to found Granite Systems, a Gigabit Ethernet startup focused on developing high-speed network switches. In 1996, Cisco Systems acquired the firm for $220 million, with Bechtolsheim owning 60%.[12] He became vice president and general manager of Cisco's Gigabit Systems Business Unit, until leaving the company in December 2003 to head Kealia, Inc.[13]
+
+Bechtolsheim founded Kealia in early 2001 with Stanford Professor David Cheriton, a partner in Granite Systems, to work on advanced server technologies using the Opteron processor from Advanced Micro Devices. In February 2004, Sun Microsystems announced it was acquiring Kealia in a stock swap. Due to the acquisition, Bechtolsheim returned to Sun again as senior vice president and chief architect.[14][15] Kealia hardware technology was used in the Sun Fire X4500 storage product.[16]
+
+Along with Cheriton, in 2005 Bechtolsheim launched another high-speed networking company, Arastra. Arastra later changed its name to Arista Networks. Bechtolsheim left Sun Microsystems to become the Chairman and Chief Development Officer of Arista in October, 2008, but stated he still was associated with Sun in an advisory role.[16]
+
+Bechtolsheim and Cheriton were two of the first investors in Google, investing US$100,000 each in September 1998. When he gave the check to Larry Page and Sergey Brin, Google's founders, the company had not yet been legally incorporated. Claims that Bechtolsheim coined the name "Google" are untrue. However, he did motivate the founders to officially organize the company under that name.[17][18]
+
+As a result of investments like these, Bechtolsheim was seen as one of the most successful "angel investors",[19] particularly in areas such as electronic design automation (EDA), which refers to the software used by people designing computer chips. He has made a number of successful investments in EDA. In one such EDA company, Magma Design Automation, his stake was valued around $60 million.[citation needed] He was an early investor in another EDA start-up company, Co-Design Automation, which developed SystemVerilog which is used to design almost all digital hardware.
+
+Bechtolsheim invested in Tapulous, the maker of music games for the Apple iPhone.[20] Tapulous was acquired by the Walt Disney Company in 2010.[21] He joined George T. Haber, a former colleague at Sun, to invest in wireless chip company CrestaTech in 2006 and 2008.[22]
+
+Bechtolsheim invested in all of Haber's previous startups:[citation needed] CompCore purchased by Zoran, GigaPixel purchased by 3Dfx and Mobilygen purchased by Maxim Integrated Products in 2008, as well as  Moovweb, a cloud-based interface for mobile and computer websites in 2009.[23]
+
+He was reportedly an early investor in Claria Corporation, which ceased operating in 2008.[24] From 2015 to 2017, Bechtolsheim invested in PerimeterX, an automated attack mitigation SaaS.[25]
+
+Bechtolsheim received a Smithsonian Leadership Award for Innovation in 1999[26] and a Stanford Entrepreneur Company of the year award. He was also elected a member of the National Academy of Engineering in 2000 for contributions to the design of computer workstations and high-performance network switching.
+
+Bechtolsheim gave the opening keynote speech at the International Supercomputing Conference in 2009.[27]
+
+In 2012, he was voted by IT Pros as the person who contributed most to server innovation in the last 20 years.[28]
+
+In 2024, Bechtolsheim settled insider trading allegations with the United States Securities and Exchange Commission (SEC), in which he agreed to pay a civil penalty of nearly $1 million, and is prohibited from serving as an officer or director of a public company for five years. The SEC accused him of misusing confidential knowledge of Cisco's proposed acquisition of Acacia Communications, stating that the illegal option trades netted over $400,000 in profits between his associate and relative, to whom he passed the information.[29]
+
+Despite living most of his life in the US, Bechtolsheim never attempted to acquire US citizenship. He remains a German national.[30][31]

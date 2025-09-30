@@ -1,0 +1,11 @@
+Arie Nicolaas Habermann (26 June 1932 – 8 August 1993), often known as A.N. Habermann or Nico Habermann,[1] was a Dutch computer scientist.[2][3]
+
+Habermann was born in Groningen, Netherlands, and earned his B.S. in mathematics and physics and M.S. in mathematics from the Free University of Amsterdam in 1953 and 1958. After working as a mathematics teacher, in 1967 he received his Ph.D. in applied mathematics from the Eindhoven University of Technology under advisor Edsger Dijkstra.
+
+In 1968, Habermann was invited to join the department of computer science at Carnegie Mellon University as a visiting research scientist. In 1969 he was appointed an associate professor, and was made full professor in 1974, acting department head in 1979,[4] and department head from 1980 to 1988, after which he was named Dean of the new School of Computer Science (established under Allen Newell and Herbert A. Simon). He also cofounded Carnegie Mellon's Software Engineering Institute (SEI) in 1985.
+
+Habermann's research included programming languages, operating systems, and development of large software systems. He was known for his work on inter-process communication, process synchronization and deadlock avoidance, and software verification, but particularly for the programming languages ALGOL 60, BLISS, Pascal, and Ada. He also contributed to new operating systems such as Edsger Dijkstra's THE multiprogramming system, the Family of Operating Systems (FAMOS) at Carnegie Mellon, Berlin's Dynamically Adaptable System (DAS), and Unix.
+
+Habermann served as visiting professor at the University of Newcastle upon Tyne (1973) and Technische Universität Berlin (1976), and as adjunct professor at Shanghai Jiao Tong University (1986–1993).
+
+In 1994, the Computing Research Association began giving the A. Nico Habermann Award to people for work that increases the involvement of underrepresented communities in computer research.

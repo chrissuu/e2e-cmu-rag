@@ -1,0 +1,15 @@
+An educational programming language (EPL) is a programming language used primarily as a learning tool, and a starting point before transitioning to more complex programming languages.
+
+Initially, machine code was the sole method of programming computers. Assembly language (ASM), introduced mnemonics to replace low-level instructions, making it one of the oldest programming languages still used today. Numerous dialects and implementations exist, each tailored to a specific computer processor architecture. Assembly languages are low-level and more challenging to use, as they are untyped and rigid. For educational purposes, simplified dialects of assembly languages have been developed to make coding more accessible to beginners.
+
+
+Assembly languages are designed for specific processor architectures, and they must be written with the corresponding hardware in mind. Unlike higher-level languages, educational assembly languages require a representation of a processor which can be virtual or physical. These languages are often used in educational settings to demonstrate the fundamental operations of a computer processor.
+BASIC (Beginner's All-purpose Symbolic Instruction Code) was invented in 1964, to provide computer access to non-science students. It became popular on minicomputers during the 1960s and became a standard computing language for microcomputers during the late 1970s and early 1980s. The goals of BASIC were focused on the need to learn to program easily and they are to:
+
+What made BASIC attractive for education was the small size of programs that could illustrate a concept in a dozen lines. BASIC continues to be frequently self-taught with tutorials and implementations.
+
+See also: List of BASIC dialects by platform
+
+BASIC offers a learning path from learning-oriented BASICs such as Microsoft Small Basic, BASIC-256 SIMPLE and to more full-featured BASICs like Visual Basic, NET and Gambas.
+
+As part of the One Laptop per Child project, a sequence of Smalltalk-based languages has been developed, each designed to act as an introduction to the next. The structure is Scratch to Etoys to Squeak to any Smalltalk.[6] Each provides graphical environments that may be used to teach not only programming concepts to kids but also physics and mathematics simulations, story-telling exercises, etc., through the use of constructive learning. Smalltalk and Squeak have fully featured application development languages that have been around and well-respected for decades; Scratch is a children's learning tool.

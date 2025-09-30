@@ -1,0 +1,13 @@
+Michael J. Karels[1] (August 2, 1956 – June 2, 2024) was an American software engineer and one of the key figures in history of BSD UNIX.
+
+Karels graduated from the University of Notre Dame with a degree in microbiology and from the University of California, Berkeley with a graduate degree.[2]
+
+In 1993, the USENIX Association gave a Lifetime Achievement Award (Flame) to the Computer Systems Research Group at University of California, Berkeley, honoring 180 individuals, including Karels, who contributed to the CSRG's 4.4BSD-Lite release.[3][4] His face appears on the 7 of Spades on the USENIX 1994 Playing Card Deck.[5]
+
+In February 1992 Karels moved to BSDI (Berkeley Software Design)[6] and designed BSD/OS, which, for years, was the only commercially available BSD style Unix on Intel platform. BSDi's software assets were bought by Wind River in April 2001, and Karels joined Wind River as the Principal Technologist for the BSD/OS platform.[7]
+
+Following his time at Wind River, Karels joined Secure Computing Corporation in 2003 as a Sr. Principal Engineer. Secure Computing used BSD/OS as the basis for SecureOS, the operating system of its Sidewinder firewall, later known as McAfee Firewall Enterprise. However, BSD/OS development had ceased, so Karels was involved in transitioning SecureOS to use FreeBSD as its base, and porting its unique features over to the new kernel. Secure Computing and the Sidewinder firewall team went through a series of acquisitions and spinoffs, including McAfee, Intel, and Forcepoint, so while Karels appeared to have several different jobs from that point onward, he had remained in roughly the same role from 2003 until his retirement in 2021.[8]
+
+The Sidewinder product was eventually discontinued, though Karels fed some SecureOS changes back into the main FreeBSD codebase. Karels officially became a FreeBSD committer in 2017. He continued working on FreeBSD in his spare time following retirement.[8]
+
+Karels died in Ottawa on June 2, 2024, at the age of 67.[2][9]

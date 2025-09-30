@@ -1,0 +1,19 @@
+William Allan Wulf (December 8, 1939 – March 10, 2023) was an American computer scientist notable for his work in programming languages and compilers.
+
+Born in Chicago, Wulf attended the University of Illinois Urbana–Champaign, receiving a Bachelor of Science (B.S.) in engineering physics in 1961 and a Master of Science (M.S.) in electrical engineering in 1963. He then achieved the first Doctor of Philosophy (Ph.D.) in computer science from the University of Virginia in 1968.
+
+In 1970, while at Carnegie Mellon University (CMU), he designed the BLISS programming language and developed an optimizing compiler for it.
+
+From 1971 to 1975, as part of CMUs C.mmp project, he worked on an operating system (OS) microkernel named Hydra which is capability-based, object-oriented, and designed to support a wide range of possible OSs to run on it.
+
+With his wife Anita K. Jones, Wulf was a founder and vice president of Tartan Laboratories, a compiler technology company, in 1981.
+
+Wulf served as president of the National Academy of Engineering[1] from 1996 to 2007. He chaired the Computer Science and Telecommunications Board of the National Research Council from 1992 to 1996. Prior to that, he served as Assistant Director of the US National Science Foundation's Computer and Information Science and Engineering (CISE) directorate from 1988-1990. During this time, he played a major role in making the NSFnet computer network (as it was known at that time) available to the public as the Internet, for which he received the ACM Policy Award in 2017.[2] He served on the Council of the ACM, on the board of directors of CRDF Global,[3] and was a reviewing editor of Science. In 1994 he was inducted as a Fellow of the ACM. In 2007 Wulf was awarded the honor of delivering the prestigious Charles P. Steinmetz Lecture at Union College.[4] He was elected to the American Philosophical Society that same year.[5]
+
+Wulf's research also included computer architecture, computer security, and hardware-software codesign.
+
+Wulf ended his career at the University of Virginia by resigning on Tuesday, June 19, 2012, in protest of the forced resignation of former President Teresa A. Sullivan,[6] in what he called, "the worst example of corporate governance I have ever seen.[7][8][9][10] After widespread challenges from the faculty, student body, alumni, and the national academic community; and in the face of a direct threat from the Governor of Virginia that he would replace the entire board if they did not resolve the conflict, Sullivan was unanimously rehired some two weeks later.[11]
+
+Wulf was married to Anita K. Jones, an Emeritus Professor of Computer Science at the University of Virginia.
+
+William Wulf died in Charlottesville, Virginia, on March 10, 2023, at the age of 83.[12][13]

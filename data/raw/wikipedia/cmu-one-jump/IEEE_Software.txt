@@ -1,0 +1,5 @@
+IEEE Software is a bimonthly peer-reviewed magazine and scientific journal published by the IEEE Computer Society covering all aspects of software engineering, processes, and practices. Its mission is to be the best source of reliable, useful, peer-reviewed information for leading software practitioners—the developers and managers who want to keep up with rapid technology change. It was established in 1983 and is published by the IEEE Computer Society. According to the Journal Citation Reports, the journal has a 2022 impact factor of 3.3.[1]
+
+IEEE Software received the APEX 2016 Award of Excellence in the "Magazines, Journals & Tabloids — Electronic" category. IEEE Software's November/December 2016 issue, "The Role of the Software Architect," won the 2017 Folio Eddies Digital Award in the "Standalone Digital Magazine; Association/Non-Profit (B-to-B) – Standalone Digital Magazine – less than 6 issues" category. IEEE Software also received an honorable mention in the Folio Digital Awards in 2018.
+
+The following individuals are or have been editor-in-chief of the journal:[2][3][4]

@@ -1,0 +1,7 @@
+The Master of Software Engineering (MSE) at Carnegie Mellon University is a master's program founded in 1989 focusing on software engineering practice as a joint effort between Carnegie Mellon's School of Computer Science and the Software Engineering Institute. Its studio project was a capstone project that accounts for 40 percent of the course units.[1]
+
+Centered around software engineering workshops conducted at the Software Engineering Institute, the degree program's original concepts and curriculum were developed.
+
+The MSE program began as a joint effort of the School of Computer Science and the Software Engineering Institute. The degree program has a 16-month curriculum. Applicants to the program must have no less than two years of relevant industry experience, with an average of five years of experience.[2]
+
+The MSE curriculum has three basic components:

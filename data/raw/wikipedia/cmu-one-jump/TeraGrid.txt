@@ -1,0 +1,37 @@
+TeraGrid was an e-Science grid computing infrastructure combining resources at eleven partner sites. The project started in 2001 and operated from 2004 through 2011.
+
+The TeraGrid integrated high-performance computers, data resources and tools, and experimental facilities. Resources included more than a petaflops of computing capability and more than 30 petabytes of online and archival data storage, with rapid access and retrieval over high-performance computer network connections. Researchers could also access more than 100 discipline-specific databases.
+
+TeraGrid was coordinated through the Grid Infrastructure Group (GIG) at the University of Chicago, working in partnership with the resource provider sites in the United States.
+
+The US National Science Foundation (NSF) issued a solicitation asking for a "distributed terascale facility" from program director Richard L. Hilderbrandt.[1]
+The TeraGrid project was launched in August 2001 with $53 million in funding to four sites: the National Center for Supercomputing Applications (NCSA) at the University of Illinois at Urbana-Champaign, the San Diego Supercomputer Center (SDSC) at the University of California, San Diego, the University of Chicago Argonne National Laboratory, and the Center for Advanced Computing Research (CACR) at the California Institute of Technology in Pasadena, California.
+
+The design was meant to be an extensible distributed open system from the start.[2]
+In October 2002, the Pittsburgh Supercomputing Center (PSC) at Carnegie Mellon University and the University of Pittsburgh joined the TeraGrid as major new partners when NSF announced $35 million in supplementary funding. The TeraGrid network was transformed through the ETF project from a 4-site mesh to a dual-hub backbone network with connection points in Los Angeles and at the Starlight facilities in Chicago.
+
+In October 2003, NSF awarded $10 million to add four sites to TeraGrid as well as to establish a third network hub, in Atlanta. These new sites were Oak Ridge National Laboratory (ORNL), Purdue University, Indiana University, and the Texas Advanced Computing Center (TACC) at The University of Texas at Austin.
+
+TeraGrid construction was also made possible through corporate partnerships with Sun Microsystems, IBM, Intel Corporation, Qwest Communications, Juniper Networks, Myricom, Hewlett-Packard Company, and Oracle Corporation.
+
+TeraGrid construction was completed in October 2004, at which time the TeraGrid facility began full production.
+
+In August 2005, NSF's newly created office of cyberinfrastructure extended support for another five years with a $150 million set of awards. It included $48 million for coordination and user support to the  Grid Infrastructure Group at the University of Chicago led by Charlie Catlett.[3]
+Using high-performance network connections, the TeraGrid featured high-performance computers, data resources and tools, and high-end experimental facilities around the USA. The work supported by the project is sometimes called e-Science.
+In 2006, the University of Michigan's School of Information began a study of TeraGrid.[4]
+
+In May 2007, TeraGrid integrated resources included more than 250 teraflops of computing capability and more than 30 petabytes (quadrillions of bytes) of online and archival data storage with rapid access and retrieval over high-performance networks. Researchers could access more than 100 discipline-specific databases. In late 2009, The TeraGrid resources had grown to 2 petaflops of computing capability and more than 60 petabytes storage.  In mid 2009, NSF extended the operation of TeraGrid to 2011.
+
+A follow-on project was approved in May 2011.[5]
+In July 2011, a partnership of 17 institutions announced the Extreme Science and Engineering Discovery Environment (XSEDE).  NSF announced funding the XSEDE project for five years, at $121 million.[6]
+XSEDE is led by John Towns at the University of Illinois's National Center for Supercomputing Applications.[6]
+
+TeraGrid resources are integrated through a service-oriented architecture in that each resource provides a "service" that is defined in terms of interface and operation.  Computational resources run a set of software packages called "Coordinated TeraGrid Software and Services" (CTSS). CTSS provides a familiar user environment on all TeraGrid systems, allowing scientists to more easily port code from one system to another. CTSS also provides integrative functions such as single-signon, remote job submission, workflow support, data movement tools, etc. CTSS includes the Globus Toolkit, Condor, distributed accounting and account management software, verification and validation software, and a set of compilers, programming tools, and environment variables.
+
+TeraGrid uses a 10 Gigabits per second dedicated fiber-optical backbone network, with hubs in Chicago, Denver, and Los Angeles. All resource provider sites connect to a backbone node at 10 Gigabits per second.  Users accessed the facility through national research networks such as the Internet2 Abilene backbone and National LambdaRail.
+
+TeraGrid users primarily came from U.S. universities.  There are roughly 4,000 users at over 200 universities.  Academic researchers in the United States can obtain exploratory, or development allocations (roughly, in "CPU hours") based on an abstract describing the work to be done.  More extensive allocations involve a proposal that is reviewed during a quarterly peer-review process.  All allocation proposals are handled through the TeraGrid website.  Proposers select a scientific discipline that most closely describes their work, and this enables reporting on the allocation of, and use of, TeraGrid by scientific discipline.  As of July 2006 the scientific profile of TeraGrid allocations and usage was:
+
+Each of these discipline categories correspond to a specific program area of the National Science Foundation.
+
+Starting in 2006, TeraGrid provided application-specific services to Science Gateway partners, who serve (generally via a web portal) discipline-specific scientific and education communities.  Through the Science Gateways program TeraGrid aims to broaden access by at least an order of magnitude in terms of the number of scientists, students, and educators who are able to use TeraGrid.

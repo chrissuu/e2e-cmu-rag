@@ -1,0 +1,13 @@
+John S. Quarterman (born April 27, 1954) is an American author and longtime Internet participant. He wrote one of the classic books about networking prior to the commercialization of the Internet.  He has also written about risk management.
+
+Quarterman grew up in the Bemiss community, near Valdosta, Georgia, US.
+
+He first used the ARPANET in 1974 while attending Harvard, and worked on UNIX ARPANET software at BBN (the original prime contractor on the ARPANET) from 1977 to 1981. He was twice elected to the board of directors of the USENIX Association, a professional association related to the UNIX operating system. While on that board, he was instrumental in its vote in 1987 to approve the first funding received by UUNET, which, along with PSINet, became one of the first two commercial Internet Service Providers (ISPs).
+
+He co-founded the first[citation needed] Internet consulting firm in Texas (TIC) in 1986, and co-founded one of the first ISPs in Austin (Zilker Internet Park, since sold to Jump Point). He was a founder of TISPA, the Texas ISP Association.
+
+He was a founder and Chief Technology Officer of Matrix NetSystems Inc., established as Matrix Information and Directory Services (MIDS) in 1990. At Matrix, Quarterman published the first maps of the whole Internet; conducted the first Internet Demographic Survey and started the first continuing series of performance data about the entire Internet in 1993, on the web since 1995 in the Internet Weather Report, and also visible as Internet Average, plus comparisons of ISPs visible as ISP Ratings. Matrix NetSystems, which had also been known as Matrix.Net, Inc., merged with Alignment Software, Inc. in April, 2003, briefly becoming Xaffire Inc., before Keynote Systems, Inc. acquired  Xaffire's Austin operations in December 2003,[1] and private equity firm Thoma Bravo merged Keynote, which it had acquired in 2013,[2] into Dynatrace.[3]
+
+Inter@ctive Week listed John Quarterman as one of the 25 Unsung Heroes of the Internet in 1998, saying ..."As president of [MIDS], Quarterman, 43, is to Net demographics what The Gallup Organization is to opinion polls."[4] Internet World interviewed Quarterman at length with a full-page picture in its June 1996 issue, as Surveyors of Cyberspace.
+
+On September 21, 2006, Quarterman served as a panelist with Hank Hultquist and Michele Chaboudy at a joint meeting of the IEEE Central Texas Section and Communications and Signal Processing Chapters titled "Network Neutrality: Altruism or Capitalism" at St. Edward's University in Austin, Texas. He also organized a November 2, 2006, panel on Net Neutrality for EFF-Austin, featuring Quarterman and Hank Hultquist, Michael Hathaway, and Austin Bay.

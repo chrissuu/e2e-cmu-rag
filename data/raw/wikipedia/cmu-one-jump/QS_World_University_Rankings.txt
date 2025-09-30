@@ -1,0 +1,134 @@
+The QS World University Rankings is a portfolio of comparative college and university rankings compiled by Quacquarelli Symonds, a higher education analytics firm. Its first and earliest edition was published in collaboration with Times Higher Education (THE) magazine as Times Higher Education–QS World University Rankings, inaugurated in 2004 to provide an independent source of comparative data about university performance. In 2009, the two organizations parted ways to produce independent university rankings, the QS World University Rankings and THE World University Rankings.
+
+QS's rankings portfolio has since been expanded to consist of the QS World University Rankings, the QS World University Rankings by Subject, four regional rankings tables (including Asia, Latin America and the Caribbean, Europe, and the Arab Region), several MBA rankings, and the QS Best Student Cities rankings. In 2022, QS launched the QS World University Rankings: Sustainability, and in 2023, it launched the QS World University Rankings: Europe. The rankings are intended to reflect and articulate university performance for the next academic year. Therefore, they are usually named for the year following that in which they are produced.[1] The rankings are regarded as one of the most-widely read university rankings in the world, along with Academic Ranking of World Universities and Times Higher Education World University Rankings.[2] According to Alexa Internet, it is the most widely viewed university ranking worldwide in 2020.[3]
+
+The ranking has been criticized for its overreliance on subjective indicators and reputation surveys, which tend to fluctuate over time and form a feedback loop.[4][5][6][7][8] Concerns also exist regarding the global consistency and integrity of the data used to generate the QS rankings.[5][9][10][11] The development and production of the rankings is overseen by QS Senior Vice President Ben Sowter, who in 2016 was ranked 40th in Wonkhe's Higher Education Power List, a list of what the organisation believed to be the 50 most influential figures in British higher education value.[12]
+
+QS was founded by Nunzio Quacquarelli in 1990 to provide information and advice to students looking to study abroad. Since then, the company expanded to include a wider range of higher education-focused products and services before partnering with THE in 2004 to create the THE–QS World University Rankings.
+
+A perceived need for an international ranking of universities was highlighted in December 2003 in Richard Lambert's review of university-industry collaboration in Great Britain[13] for HM Treasury, the finance ministry of the United Kingdom. Amongst its recommendations were world university rankings, which Lambert said would help the UK gauge the global standing of its universities. Between 2004 and 2009, QS produced the rankings in partnership with THE. In 2009, THE announced they would produce their own rankings, the Times Higher Education World University Rankings, in partnership with Thomson Reuters. THE cited an asserted weakness in the methodology of the original rankings,[14] as well as a perceived favoritism in the existing methodology for science over the humanities,[15] as two of the key reasons for the decision to split with QS. THE created a new methodology with Thomson Reuters, and published the first Times Higher Education World University Rankings in September 2010. 
+
+QS publishes the rankings results in the world's media and has entered into partnerships with a number of outlets, including The Guardian in the United Kingdom and Chosun Ilbo in South Korea. The first rankings produced by QS independently of THE, and using QS's methodology, were released in September 2010; the second rankings were released a year later, in September 2011. QS designed its rankings to assess performance according to what it believes to be key aspects of a university's mission: teaching, research, nurturing employability, and internationalisation.[16] QS has a global presence with offices in Europe, Asia, and the Americas and provides products and services related to student recruitment, events, and consulting services. In 2022, the firm's founder, Nunzio Quacquarelli, was appointed as the company's president. Jessica Turner serves as the company's chief executive officer, responsible for the firm's operations and strategy.[17]
+
+The QS World University Rankings are released annually, typically in June. The 2023 edition featured 1418 institutions across 100 locations. The rankings are based on a methodology that considers a range of factors, including academic reputation, employer reputation, research impact, and internationalization. The methodology is reviewed annually to ensure that it remains relevant and up-to-date. The most recent methodology used by QS to calculate the rankings includes the following indicators:[18]
+
+Accounting for 40% of the overall score, academic reputation relates to academic excellence and the scholarly esteem in which the world's universities are held. It collates more than 150,000 responses from academics in more than 140 countries and locations.[19][20] QS has previously published the job titles and geographical distribution of the participants in this survey.[20]
+
+This indicator accounts for 15% of a university's score in the rankings. It is a classic measure used in various ranking systems as an indication of staff resources afforded to students, including teaching capacity, class size, curriculum development, lab and seminar delivery, pastoral care, teaching capacity and class size. QS has admitted that it is a limited metric, particularly in the face of modern enhancements in online teaching methods and content distribution.[19]
+
+Citations of published research are among the most widely used inputs to national and global university rankings. The QS World University Rankings used citation data from Thomson (now Thomson Reuters) from 2004 to 2007, and since then has used data from Scopus, part of Elsevier. The total number of citations for a five-year period is divided by the number of academics in a university to yield the score for this measure, which accounts for 20% of a university's score in the rankings.
+
+QS has explained that it uses this approach, rather than the citations per paper preferred for in other rankings systems because it reduces the impact of biomedical science on the overall picture – biomedicine has a ferocious "publish or perish" culture. Instead, QS attempts to measure the density of research-active staff at each institution, but issues remain about the use of citations in ranking systems, especially the fact that the arts and humanities generate comparatively few citations.[21]
+
+Since 2015, QS has made methodological enhancements designed to remove the advantage institutions specializing in the Natural Sciences or Medicine previously received. This enhancement is termed faculty area normalization and ensures that an institution's citations count in each of QS's five key Faculty Areas is weighted to account for 20% of the final citations score.[22]
+
+QS has conceded the presence of some data-collection errors regarding citations per faculty in previous years' rankings.[23]
+
+One concern is the differences between the Scopus and Thomson Reuters databases. For major world universities, the two systems capture largely the same publications and citations. For less prominent institutions, Scopus has more non-English language and smaller-circulation journals in its database leading some critics to suggest that citation averages are skewed towards English-speaking universities.[21] This area has been criticized for undermining universities that do not use English as their primary language.[24]
+
+QS's Employer Reputation indicator is obtained using another survey, like Academic Reputation, and accounts for 15% of an institution's overall score. The most recent edition surveyed some 99,000 employers at companies and organisations that hire graduates on a significant or global scale.
+
+This survey was introduced in 2005 in the belief that employers track graduate quality, making this a barometer of teaching quality and the level of work readiness acquired by students, a famously problematic factor to measure. University standing here is of special interest to potential students, and acknowledging this was the impetus behind the inaugural QS Graduate Employability Rankings, published in November 2015.[19][25] However, these rankings were subsequently discontinued in 2021, with its data rolled into the QS World University Rankings methodology.
+
+The final 10% of a university's score is derived from measures intended to capture their internationalization: half from their percentage of international students, and the other half from their percentage of international staff. This is of interest partly because it shows whether a university is putting effort into global collaboration and diversity, but also because it indicates global appeal for students and researchers around the world.[26]
+
+QS recently began distinguishing between International Faculty Ratio and International Student Ratio', both of which account for 5% of the total weightage. While the former evaluates the ratio of international faculty staff to overall staff, the latter assumes that Institutions that have a large number of international students should have better networking, cultural exchanges, a more diverse learning experience and alumni diversity.[19]
+
+Beginning with its 2024 rankings, QS implemented three new indicators to reflect the shifts in higher education, each of which accounts for 5% of the total weightage:
+
+In addition to the World University Rankings, QS produces four regional rankings, including the Arab Region, Asia, Emerging Europe and Central Asia (discontinued), and Latin America. In 2023, QS launched the QS World University Rankings: Europe. These editions include an expanded roster of ranked universities for each region than those featured in the QS World University Rankings.
+
+While the same methodological indicators tend to be used for the regional rankings, the weightings are modified and additional lenses are included to account for the unique characteristics of each region. Additional metrics include incoming and outgoing exchange students, academic staff with a PhD, and web visibility. Accordingly, the performance of institutions within their respective regional rankings can differ significantly from the QS World University Rankings released in the same academic year.[27]
+
+First published in 2014, the annual QS Arab Region University Rankings highlights leading universities in the Arab Region. The methodology for this ranking has been developed to reflect specific challenges and priorities for institutions in the region, drawing on 10 indicators.
+
+In 2009, QS launched the QS World University Rankings: Asia in partnership with The Chosun Ilbo newspaper in Korea to rank universities in Asia independently. The 15th edition, released in 2022, ranked 760 universities, with inclusion based on the United Nations' M49 Standard.
+
+First published in 2015, QS Emerging Europe and Central Asia Rankings included universities from mostly Eastern Europe and Central Asia, with Russia's Lomonosov Moscow State University in the top spot since its first publication. These rankings were discontinued in 2022.
+
+The QS World University Rankings: Latin America were launched in 2011. The 2024 edition expanded these rankings to include Caribbean universities.
+
+In 2023, QS launched the QS World University Rankings: Europe. The table showcased 688 institutions from 42 member countries of the Council of Europe.
+
+Typically, QS's first rankings release of the year is the QS World University Rankings by Subject which are usually published in March or April.
+
+The rankings provide a detailed evaluation of universities based on their performance in more than 50 specific academic disciplines (Business, Mathematics, Medicine, Law, among others), as well as their performance in five broad faculty areas (Arts & Humanities, Engineering & Technology, Life Sciences, Natural Sciences, and Social Sciences).
+
+The QS World University Rankings by Subject was first introduced in 2011 and initially covered only five subject areas. Since then, the number of subjects has increased more than tenfold and is now considered one of the most comprehensive subject-focused rankings.
+
+Way before 2024 updates of core indicators used in the World University Rankings, the QS World University Rankings by Subject was already using International Research Network. In addition, Rankings by Subject also use H-Index, which assesses research productivity and impact within specific fields.
+
+The QS Best Student Cities rankings are an annual comparison of cities around the world based on their appeal and benefits to students who study there.
+
+Launched in 2012, the rankings are based on a range of indicators that are designed to capture the experience of students living and studying in a particular city.
+
+The methodology for QS Best Student Cities is based on five indicators:[28]
+
+In 2022, QS launched the QS World University Rankings: Sustainability in response to the growing importance of sustainability in higher education and society at large.
+
+The rankings are compiled using data collected through surveys as well as external sources such as the World Bank and the United Nations to provide a resource for students, academics and policymakers to assess universities' sustainability performance and identify best practices for achieving sustainability goals.
+
+The rank of the universities featured is determined by the sum of their scores in two categories: Environmental Impact and Social Impact, which are subdivided into eight indicators. These include:
+
+Over the last three decades, QS has expanded its rankings portfolio to include business schools, MBAs and business master's degrees. It launched QS Global MBA Rankings to provide students with a comprehensive list of the best MBA programmes worldwide, based on factors such as reputation, employability, and course content.
+
+The QS Global MBA Rankings is now an annual publication released alongside its sister rankings, the QS Business Master's Rankings and until 2023 the QS MBA by Career Specialisation Rankings (discontinued) These lists the world's best master's programmes for business-related subjects and MBAs for specific career options including Finance, Business Management, Business Analytics, Marketing and Supply Chain Management.
+
+Currently, QS's methodology for ranking MBAs and business master's degrees is based on six indicators:
+
+In addition, QS produces two other annual MBA comparisons, the Online MBA Rankings[29] and the Executive MBA Rankings.[30]
+
+In September 2015, The Guardian referred to the QS World University Rankings as "the most authoritative of their kind".[31][32]
+
+In September 2012, The Independent described the QS World University Rankings as being "widely recognised throughout higher education as the most trusted international tables".[33]
+
+In September 2016, Angel Calderon, principal advisor for planning and research at RMIT University and a member of the QS Advisory Board, said, "QS Latin American University Rankings has [sic] become the annual international benchmark universities use to ascertain their relative standing in the region". He further stated that the 2016/17 edition of this ranking demonstrated improved stability.[34]
+
+The reputation surveys have received severe criticism. QS do not reveal the response rates for the survey, but statements from QS indicate that they are very low (2–8 %),[7] which would make the results highly unreliable. Other commentators have pointed at the low validity of the survey, since few people know much about the quality of teaching and research at other institutions but their own.[35][36][37][38][39]
+
+
+However, the issues extend beyond survey methodology. The QS World University Rankings have been criticised by many for placing too much emphasis on reputation, which receives 50% of the overall score. Some people have expressed concern about the manner in which the academic reputation survey has been carried out.[40] In a report,[41] Peter Wills from the University of Auckland wrote of the THE-QS World University Rankings:
+But we note also that this survey establishes its rankings by appealing to university staff, even offering financial enticements to participate (see Appendix II). Staff are likely to feel it is in their greatest interest to rank their own institution more highly than others. This means the results of the survey and any apparent change in ranking are highly questionable, and that a high ranking has no real intrinsic value in any case. We are vehemently opposed to the evaluation of the University according to the outcome of such PR competitions.
+Like many other international university rankings, QS uses a citation database to calculate some of its indicators. The use of these citations databases have been criticised, since they do not include research output from the humanities and social sciences to the same degree as the natural sciences, engineering and medicine.[35]
+
+It has also been pointed out that the indicator 'faculty/student ratio' does not measure commitment to teaching, but rather research intensity, since a large share of the faculty typically spends most or all of their time doing research rather than teaching.[9]
+
+Since the split from Times Higher Education in 2009, further concerns about the methodology QS uses for its rankings have been brought up by several experts.
+
+
+In October 2010, criticism of the old system came from Fred L. Bookstein, Horst Seidler, Martin Fieder, and Georg Winckler in the journal Scientomentrics for the unreliability of QS's methods: 
+Several individual indicators from the Times Higher Education Survey (THES) data base—the overall score, the reported staff-to-student ratio, and the peer ratings—demonstrate unacceptably high fluctuation from year to year. The inappropriateness of the summary tabulations for assessing the majority of the "top 200" universities would be apparent purely for reason of this obvious statistical instability regardless of other grounds of criticism. There are far too many anomalies in the change scores of the various indices for them to be of use in the course of university management.[6]
+In September 2011, the New Statesman labeled the rankings "The QS World University Rankings are a load of old baloney" in a headline for an article by David Blanchflower, a labour economist, who wrote that, "This ranking is complete rubbish and nobody should place any credence in it. The results are based on an entirely flawed methodology that underweights the quality of research and overweights fluff... The QS is a flawed index and should be ignored."[42]
+
+The QS Subject Rankings have been dismissed as unreliable by Brian Leiter, who points out that programmes that are known to be high quality fare poorly in the QS ranking, which tends to "overrate" the individual departments of typical top research universities.[43]
+
+In an article titled The Globalisation of College and University Rankings and appearing in the January/February 2012 issue of Change, Philip Altbach, professor of higher education at Boston College and also a member of the THE editorial board, said: "The QS World University Rankings are the most problematical.  From the beginning, the QS has relied on reputational indicators for half of its analysis … it probably accounts for the significant variability in the QS rankings over the years.  In addition, QS queries employers, introducing even more variability and unreliability into the mix.  Whether the QS rankings should be taken seriously by the higher education community is questionable."[44]
+
+In June 2012, Simon Marginson, a professor of higher education at the University of Melbourne and a member of the THE editorial board, said, "I will not discuss the QS ranking because the methodology is not sufficiently robust to provide data valid as social science".[45] On the QS website, QS's Intelligence Unit counter these criticisms by stating in the section on "Statistical Validity", reproduced here in completeness: "Over 62,000 academic respondents contributed to our 2013 academic results, four times more than in 2010. Independent academic reviews have confirmed these results to be more than 99% reliable."[46]
+
+Furthermore, the indicators used in these rankings have come under scrutiny for their lack of inclusivity and consideration of diverse institutional contexts. Several scholars, for instance, have highlighted biases against universities in the Arab region within existing rankings. They have advocated for the development of new methodologies that account for institutional disparities and ensure fair representation.[47][48]
+
+In 2021, research published by the Center for Studies in Higher Education at the University of California, Berkeley raised the possibility that institutions that employ QS's consulting services are rewarded with improved rankings. QS denied the possibility and stated that it had firm policies and practices to minimize potential conflicts of interest.[49]
+
+Dzulkifli Abdul Razak, former International Association of Universities president,  questioned the reliability and relevance of the QS World University Rankings following release of an independent report from the United Nations University's International Institute for Global Health, which criticised its ranking system and discouraged governments from using these ranking systems in policy and decision making.[50]
+
+The Independent Expert Group (IEG) convened by UNU-IIGH in November 2023 proved how universities that buy products and services from QS have better chances of moving up in those rankings.[51][52] Dzulkifli's statement sparked a lot of discussions within the academic sector in Malaysia, with some supporting his notion while others criticising it as being irrelevant itself.[53][54][55]
+
+QS Quacquarelli Symonds organizes a range of international student recruitment events throughout the year. These are generally oriented towards introducing prospective students to university admissions staff, while also facilitating access to admissions advice and scholarships. In 2019, over 360 events were hosted, attended by 265,000 candidates, in 100 cities across 50 countries.
+Separated into "tours", QS's event offerings typically comprise a series of university and business school fairs.
+
+The QS World MBA Tour is the world's largest series of international business school fairs, attended by more than 60,000 candidates in 100 cities across 50 countries.
+
+QS World MBA Premium also focuses on MBA student recruitment, but invites only business schools ranked in the top 200 internationally, according to the QS World University Rankings. The event aims to provide a more holistic overview of an MBA degree, with enhanced focus on pre- and post-study processes and insights.
+
+The QS World Grad School Tour focuses on international postgraduate programs, particularly specialised master's degrees and PhDs in FAME (Finance, Accounting, Management and Economics) and STEM disciplines.
+
+The QS World University Tour has an emphasis on undergraduate student recruitment, inviting undergraduate programs only.
+
+QS Connect MBA and QS Connect Masters differ from other event series' in that an open fair format is not followed. Instead, candidates take part in pre-arranged 1-to-1 interviews with admissions staff, based on pre-submitted CVs and academic profiles.
+
+QS also offers universities an auditing service that provides in-depth information about institutional strengths and weaknesses. Called QS Stars, this service is separate from the QS World University Rankings. It involves a detailed look at a range of functions which mark out a modern, global university. The minimum result that a university can receive is zero Stars, while truly exceptional, world-leading universities can receive '5*+', or 'Five Star Plus', status. The QS Stars audit process evaluates universities according to about 50 different indicators. By 2018, about 20 different universities worldwide had been awarded the maximum possible Five Star Plus rating.[56]
+
+QS Stars[57] ratings are derived from scores on in eight out of 12 categories. Four categories are mandatory, while institutions must choose the remaining four optional categories.[58] They are:
+
+Stars is an evaluation system, not a ranking. About 400 institutions had opted for the Stars evaluation as of early 2018.  In 2012, fees to participate in this program were $9,850 for the initial audit and an annual license fee of $6,850.[60]

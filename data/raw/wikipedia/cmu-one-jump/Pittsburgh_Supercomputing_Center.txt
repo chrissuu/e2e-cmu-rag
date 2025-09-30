@@ -1,0 +1,13 @@
+The Pittsburgh Supercomputing Center (PSC) is a high performance computing and networking center founded in 1986 and one of the original five NSF Supercomputing Centers.[1][2]  PSC is a joint effort of Carnegie Mellon University and the University of Pittsburgh in Pittsburgh, Pennsylvania, United States.[2]
+
+In addition to providing a family of Big Data-optimized supercomputers with unique shared memory architectures, PSC features the National Institutes of Health-sponsored National Resource for Biomedical Supercomputing,[3] an Advanced Networking Group that conducts research on network performance and analysis,[4] and a STEM education and outreach program supporting K-20 education.[5] In 2012, PSC established a new Public Health Applications Group that will apply supercomputing resources to problems in preventing, monitoring and responding to epidemics and other public health needs.[6]
+
+The Pittsburgh Supercomputing Center provides university, government, and industrial researchers with access to several of the most powerful systems for high-performance computing, communications and data-handling and analysis available nationwide for unclassified research.[7]  As a resource provider in the Extreme Science and Engineering Discovery Environment (XSEDE), the National Science Foundation's network of integrated advanced digital resources, PSC works with its XSEDE partners to harness the full range of information technologies to enable discovery in U.S. science and engineering.[8]
+
+PSC is a leading partner in XSEDE.[8] PSC-scientific co-director Ralph Roskies is a co-principal investigator of XSEDE and co-leads its Extended Collaborative Support Services. Other PSC staff lead XSEDE efforts in Networking, Incident Response, Systems & Software Engineering, Outreach, Allocations Coordination, and Novel & Innovative Projects. This NSF-funded program provides U.S. academic researchers with support for and access to leadership-class computing infrastructure and research.[7][8]
+
+The National Resource for Biomedical Supercomputing, sponsored by the National Institutes of Health, develops new algorithms, performs original research, and conducts training workshops, in addition to fostering collaborative projects and providing access to supercomputing resources to the national biomedical research community.[9]
+
+In partnership with the DOE National Energy Technology Laboratory, Carnegie Mellon University, the University of Pittsburgh, West Virginia University,  and Waynesburg College, PSC provides resources to the SuperComputing Science Consortium, a regional partnership to advance energy and environment technologies through the application of high performance computing and communications.[10]
+
+at PSC

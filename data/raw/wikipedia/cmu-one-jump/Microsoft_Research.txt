@@ -1,0 +1,39 @@
+Microsoft Research (MSR) is the research subsidiary of Microsoft. It was created in 1991 by Richard Rashid,[2] Bill Gates and Nathan Myhrvold with the intent to advance state-of-the-art computing and solve difficult world problems through technological innovation in collaboration with academic, government, and industry researchers. The Microsoft Research team has more than 1,000 computer scientists, physicists, engineers, and mathematicians, including Turing Award winners,[3] Fields Medal winners, MacArthur Fellows, and Dijkstra Prize winners.
+
+Between 2010 and 2018, 154,000 AI patents were filed worldwide, with Microsoft having by far the largest percentage of those patents, at 20%.[4] According to estimates in trade publications, Microsoft spent about $6 billion annually in research initiatives from 2002 to 2010 and has spent from $10–14 billion annually since 2010.[5][6]
+
+Microsoft Research has made significant advances in the field of AI which it has infused in its products including Kinect, Bing, Holo Lens, Cortana, Microsoft Translator, Linkedin, Havok and Dynamics to provide its customers with more benefits and better service.[5]
+
+The mission statement of MSR is:
+
+Microsoft Research includes the core Microsoft Research labs and Microsoft Research AI, Microsoft Research NExT (for New Experiences and Technologies), and other incubation efforts all directed by corporate vice president Peter Lee.
+
+Microsoft research is categorized into the following broad areas:[7]
+
+Microsoft Research sponsors the Microsoft Research Fellowship for graduate students.
+
+Microsoft has research labs around the world including the following non-exhaustive list:[9]
+
+Microsoft Research invests in multi-year collaborative joint research with academic institutions at Barcelona Supercomputing Center,[24] INRIA,[25] Carnegie Mellon University,  Massachusetts Institute of Technology, São Paulo Research Foundation (FAPESP), the Microsoft Research Centre for Social NUI and others.[26][27]
+
+Since 2016, Microsoft has partnered with Toyota Connected to research technology for telematics, data analytics and network security services.[28]
+
+In October 2019, Microsoft partnered with Novartis to apply artificial intelligence to enhance personalized medicine research.[29]
+
+In 2023, Microsoft signed a multi-year deal to collaborate with Syneos Health in development of a platform to leverage machine learning for the optimization of clinical trials.[30]
+
+Microsoft's "AI for Good" initiative represents a significant commitment to leveraging artificial intelligence technology for social and environmental benefits. This initiative is part of a broader vision by Microsoft to utilize AI in addressing some of the world's most challenging issues, including those related to health, the environment, accessibility, cultural heritage, and humanitarian action.[31] AI for Good includes topics like Microsoft AI for Earth.
+
+Microsoft Azure Quantum has researched quantum information science since 2000 and is developing a topological quantum computer based on Majorana zero modes.[32]
+
+In 2000, physicist Alexei Kitaev at Microsoft Research proposed developing a topological quantum computer from Majorana quasiparticles.[33][32]
+
+In 2002, Michael Freedman, who led Microsoft's quantum research at Station Q in 2005, authored a paper with Kitaev demonstrating how a topological quantum computer could perform any computation that a conventional quantum computer could.[34]
+
+In 2005, 2006 and 2008, Sankar Das Sarma, Freedman and Chetan Nayak developed theoretical proposals for a topological qubit using the fractional quantum Hall effect and for topological quantum computing based on non-abelian anyons.[35][36][37]
+
+In 2015, Microsoft developed the theoretical framework of Majorana zero modes for information processing through braiding-based topological quantum computing.[38]
+
+In 2023, Microsoft research demonstrated the creation and control of Majorana quasiparticles for topological quantum computing.[39]
+
+In 2024, Microsoft created 4 logical qubits from 30 physical qubits, demonstrating reliable logical qubits by reducing the logical error rate by 800x compared to the physical error rate.[40]

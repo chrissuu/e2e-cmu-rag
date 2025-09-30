@@ -1,0 +1,70 @@
+Human–computer interaction (HCI) is the process through which people operate and engage with computer systems. [1]Research in HCI covers the design and the use of computer technology, which focuses on the interfaces between people (users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways.[2] These include visual, auditory, and tactile (haptic) feedback systems, which serve as channels for interaction in both traditional interfaces and mobile computing contexts.[3]
+A device that allows interaction between human being and a computer is known as a "human–computer interface".
+
+As a field of research, human–computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study. The term was popularized by Stuart K. Card, Allen Newell, and Thomas P. Moran in their 1983 book, The Psychology of Human–Computer Interaction. The first known use was in 1975 by Carlisle.[4] The term is intended to convey that, unlike other tools with specific and limited uses, computers have many uses which often involve an open-ended dialogue between the user and the computer. The notion of dialogue likens human–computer interaction to human-to-human interaction: an analogy that is crucial to theoretical considerations in the field.[5][6]
+
+Humans interact with computers in many ways, and the interface between the two is crucial to facilitating this interaction. HCI is also sometimes termed human–machine interaction (HMI), man-machine interaction (MMI) or computer-human interaction (CHI). Desktop applications, web browsers, handheld computers, and computer kiosks make use of the prevalent graphical user interfaces (GUI) of today.[7] Voice user interfaces (VUIs) are used for speech recognition and synthesizing systems, and the emerging multi-modal and Graphical user interfaces (GUI) allow humans to engage with embodied character agents in a way that cannot be achieved with other interface paradigms.
+
+The Association for Computing Machinery (ACM) defines human–computer interaction as "a discipline that is concerned with the design, evaluation, and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them".[7] A key aspect of HCI is user satisfaction, also referred to as End-User Computing Satisfaction. It goes on to say:
+
+"Because human–computer interaction studies a human and a machine in communication, it draws from supporting knowledge on both the machine and the human side. On the machine side, techniques in computer graphics, operating systems, programming languages, and development environments are relevant. On the human side, communication theory, graphic and industrial design disciplines, linguistics, social sciences, cognitive psychology, social psychology, and human factors such as computer user satisfaction are relevant. And, of course, engineering and design methods are relevant."[7] HCI ensures that humans can safely and efficiently interact with complex technologies in fields like aviation and healthcare.[8]
+
+Due to the multidisciplinary nature of HCI, people with different backgrounds contribute to its success.
+
+Poorly designed human-machine interfaces can lead to many unexpected problems. A classic example is the Three Mile Island accident, a nuclear meltdown accident, where investigations concluded that the design of the human-machine interface was at least partly responsible for the disaster.[9][10][11] Similarly, some accidents in aviation have resulted from manufacturers' decisions to use non-standard flight instruments or throttle quadrant layouts: even though the new designs were proposed to be superior in basic human-machine interaction, pilots had already ingrained the "standard" layout. Thus, the conceptually good idea had unintended results.[12]
+
+A human–computer interface can be described as the interface of communication between a human user and a computer.[13] The flow of information between the human and computer is defined as the loop of interaction.[14] The loop of interaction has several aspects to it, including:
+
+Human–computer interaction involves the ways in which humans make—or do not make—use of computational artifacts, systems, and infrastructures. Much of the research in this field seeks to improve the human–computer interaction by improving the usability of computer interfaces.[15] How usability is to be precisely understood, how it relates to other social and cultural values, and when it is, and when it may not be a desirable property of computer interfaces is increasingly debated.[16][17]
+
+Much of the research in the field of human–computer interaction takes an interest in:
+
+Visions of what researchers in the field seek to achieve might vary. When pursuing a cognitivist perspective, researchers of HCI may seek to align computer interfaces with the mental model that humans have of their activities. When pursuing a post-cognitivist perspective, researchers of HCI may seek to align computer interfaces with existing social practices or existing sociocultural values.
+
+Researchers in HCI are interested in developing design methodologies, experimenting with devices, prototyping software, and hardware systems, exploring interaction paradigms, and developing models and theories of interaction.
+
+The following experimental design principles are considered, when evaluating a current user interface, or designing a new user interface:
+
+The iterative design process is repeated until a sensible, user-friendly interface is created.[20]
+
+Various strategies delineating methods for human–PC interaction design have developed since the conception of the field during the 1980s. Most plan philosophies come from a model for how clients, originators, and specialized frameworks interface. Early techniques treated clients' psychological procedures as unsurprising and quantifiable and urged plan specialists to look at subjective science to establish zones, (for example, memory and consideration) when structuring UIs. Present-day models, in general, center around a steady input and discussion between clients, creators, and specialists and push for specialized frameworks to be folded with the sorts of encounters clients need to have, as opposed to wrapping user experience around a finished framework.
+
+Topics in human–computer interaction include the following:
+
+Human-AI Interaction explores how users engage with artificial intelligence systems, particularly focusing on usability, trust, and interpretability. The research mainly aims to design AI-driven interfaces that are transparent, explainable, and ethically responsible.[24] Studies highlight the importance of explainable AI (XAI) and human-in-the-loop decision-making, ensuring that AI outputs are understandable and trustworthy.[25] Researchers also develop design guidelines for human-AI interaction, improving the collaboration between users and AI systems.[26]
+
+Augmented reality (AR) integrates digital content with the real world. It enhances human perception and interaction with physical environments. AR research mainly focuses on adaptive user interfaces, multimodal input techniques, and real-world object interaction.[27] Advances in wearable AR technology improve usability, enabling more natural interaction with AR applications.[28]
+
+Virtual reality (VR) creates a fully immersive digital environment, allowing users to interact with computer-generated worlds through sensory input devices. Research focuses on user presence, interaction techniques, and cognitive effects of immersion.[29] A key area of study is the impact of VR on cognitive load and user adaptability, influencing how users process information in virtual spaces.[30]
+
+Mixed reality (MR) blends elements of both augmented reality (AR) and virtual reality (VR). It enables real-time interaction with both physical and digital objects. HCI research in MR concentrates on spatial computing, real-world object interaction, and context-aware adaptive interfaces.[31] MR technologies are increasingly applied in education, training simulations, and healthcare, enhancing learning outcomes and user engagement.[32]
+
+Extended reality (XR) is an umbrella term encompassing AR, VR, and MR, offering a continuum between real and virtual environments. Research investigates user adaptability, interaction paradigms, and ethical implications of immersive technologies.[33] Recent studies highlight how AI-driven personalization and adaptive interfaces improve the usability of XR applications.[34]
+
+Accessibility in human–computer interaction (HCI) focuses on designing inclusive digital experiences, ensuring usability for people with diverse abilities. Research in this area is related to assistive technologies, adaptive interfaces, and universal design principles.[35] Studies indicate that accessible design benefits not only people with disabilities but also enhances usability for all users.[36]
+
+Social computing is an interactive and collaborative behavior considered between technology and people. In recent years, there has been an explosion of social science research focusing on interactions as the unit of analysis, as there are a lot of social computing technologies that include blogs, emails,  social networking, quick messaging, and various others. Much of this research draws from psychology, social psychology, and sociology. For example, one study found out that people expected a computer with a man's name to cost more than a machine with a woman's name.[37] Other research finds that individuals perceive their interactions with computers more negatively than humans, despite behaving the same way towards these machines.[38]
+
+In human and computer interactions, a semantic gap usually exists between human and computer's understandings towards mutual behaviors. Ontology, as a formal representation of domain-specific knowledge, can be used to address this problem by solving the semantic ambiguities between the two parties.[39]
+
+In the interaction of humans and computers, research has studied how computers can detect, process, and react to human emotions to develop emotionally intelligent information systems. Researchers have suggested several 'affect-detection channels'. The potential of telling human emotions in an automated and digital fashion lies in improvements to the effectiveness of human–computer interaction. The influence of emotions in human–computer interaction has been studied in fields such as financial decision-making using ECG and organizational knowledge sharing using eye-tracking and face readers as affect-detection channels. In these fields, it has been shown that affect-detection channels have the potential to detect human emotions and those information systems can incorporate the data obtained from affect-detection channels to improve decision models.
+
+A brain–computer interface (BCI), is a direct communication pathway between an enhanced or wired brain and an external device. BCI differs from neuromodulation in that it allows for bidirectional information flow. BCIs are often directed at researching, mapping, assisting, augmenting, or repairing human cognitive or sensory-motor functions.[40]
+
+Security interactions are the study of interaction between humans and computers specifically as it pertains to information security.  Its aim, in plain terms, is to improve the usability of security features in end user applications.
+
+Unlike HCI, which has roots in the early days of Xerox PARC during the 1970s, HCISec is a nascent field of study by comparison. Interest in this topic tracks with that of Internet security, which has become an area of broad public concern only in very recent years.
+
+When security features exhibit poor usability, the following are common reasons:
+
+Feminist HCI is a subfield of Human-Computer Interaction (HCI) that examines the interaction between people and technology through the lens of feminist and critical theories. This particular research topic consists of many sub-disciplines that examine the role of power, privilege, and other systems of oppression in the design and interaction of technology. 
+
+Traditionally, computer use was modeled as a human–computer dyad in which the two were connected by a narrow explicit communication channel, such as text-based terminals. Much work has been done to make the interaction between a computing system and a human more reflective of the multidimensional nature of everyday communication. Because of potential issues, human–computer interaction shifted focus beyond the interface to respond to observations as articulated by Douglas Engelbart: "If ease of use were the only valid criterion, people would stick to tricycles and never try bicycles."[41]
+
+How humans interact with computers continues to evolve rapidly. Human–computer interaction is affected by developments in computing. These forces include:
+
+As of 2010[update] the future for HCI is expected[42] to include the following characteristics:
+
+One of the main conferences for new research in human–computer interaction is the annually held Association for Computing Machinery's (ACM) Conference on Human Factors in Computing Systems, usually referred to by its short name CHI (pronounced kai, or Khai). CHI is organized by ACM Special Interest Group on Computer-Human Interaction (SIGCHI). CHI is a large conference, with thousands of attendants, and is quite broad in scope. It is attended by academics, practitioners, and industry people, with company sponsors such as Google, Microsoft, and PayPal.
+
+There are also dozens of other smaller, regional, or specialized HCI-related conferences held around the world each year, including:[43]

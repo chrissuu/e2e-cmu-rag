@@ -1,0 +1,8 @@
+Transarc Corporation was a private Pittsburgh-based software company founded in 1989 by Jeffrey Eppinger, Michael L. Kazar,  Alfred Spector, and Dean Thompson of Carnegie Mellon University.
+
+Transarc commercialized the Andrew File System (AFS), now OpenAFS, which was originally developed at Carnegie Mellon.  As a member of the Open Software Foundation (later The Open Group), Transarc developed the DFS distributed filesystem component of the Distributed Computing Environment (DCE) that was sold by Open Group members.  Other products included the distributed transaction processing system Encina (a basis for IBM's UNIX-based CICS products; included in IBM's TXSeries and later WebSphere), and the Solaris binary distribution of the DCE.
+
+Transarc was purchased by IBM in 1994[1]
+and became the IBM Transarc Lab in 1999[2] and then the IBM Pittsburgh Lab in 2001.[3] The lab was closed in 2002.[4]
+
+This United States software corporation or company article is a stub. You can help Wikipedia by expanding it.

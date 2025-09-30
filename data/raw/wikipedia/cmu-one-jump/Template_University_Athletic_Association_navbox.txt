@@ -1,0 +1,11 @@
+This is a navigational template created using {{navbox}}. It can be transcluded on pages by placing {{University Athletic Association navbox}} below the standard article appendices.
+
+This template's initial visibility currently defaults to autocollapse, meaning that if there is another collapsible item on the page (a navbox, sidebar, or table with the collapsible attribute), it is hidden apart from its title bar; if not, it is fully visible.
+
+To change this template's initial visibility, the |state= parameter may be used:
+
+Templates using the classes class=navbox ({{navbox}}) or class=nomobile ({{sidebar}}) are not displayed in article space on the mobile web site of English Wikipedia. Mobile page views account for approximately 68% of all page views (90-day average as of September 2024[update]). Briefly, these templates are not included in articles because 1) they are not well designed for mobile, and 2) they significantly increase page sizes—bad for mobile downloads—in a way that is not useful for the mobile use case. You can review/watch phab:T124168 for further discussion.
+
+A navigational box that can be placed at the bottom of articles.
+Template parameters[Edit template data]
+The initial visibility of the navbox

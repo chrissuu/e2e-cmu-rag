@@ -1,0 +1,96 @@
+Class-based programming, or more commonly class-orientation, is a style of object-oriented programming (OOP) in which inheritance occurs via defining classes of objects, instead of inheritance occurring via the objects alone (compare prototype-based programming).
+
+The most popular and developed model of OOP is a class-based model, instead of an object-based model. In this model, objects are entities that combine state (i.e., data), behavior (i.e., procedures, or methods) and identity (unique existence among all other objects). The structure and behavior of an object are defined by a class, which is a definition, or blueprint, of all objects of a specific type. An object must be explicitly created based on a class and an object thus created is considered to be an instance of that class. An object is similar to a structure, with the addition of method pointers, member access control, and an implicit data member which locates instances of the class (i.e., objects of the class) in the class hierarchy (essential for runtime inheritance features).
+
+Encapsulation prevents users from breaking the invariants of the class, which is useful because it allows the implementation of a class of objects to be changed for aspects not exposed in the interface without impact to user code. The definitions of encapsulation focus on the grouping and packaging of related information (cohesion) rather than security issues.
+
+In class-based programming, inheritance is done by defining new classes as extensions of existing classes: the existing class is the parent class and the new class is the child class. If a child class has only one parent class, this is known as single inheritance, while if a child class can have more than one parent class, this is known as multiple inheritance. This organizes classes into a hierarchy, either a tree (if single inheritance) or lattice (if multiple inheritance).
+
+The defining feature of inheritance is that both interface and implementation are inherited; if only interface is inherited, this is known as interface inheritance or subtyping. Inheritance can also be done without classes, as in prototype-based programming.
+
+Class-based languages, or, to be more precise, typed languages, where subclassing is the only way of subtyping, have been criticized for mixing up implementations and interfaces—the essential principle in object-oriented programming. The critics say one might create a bag class that stores a collection of objects, then extend it to make a new class called a set class where the duplication of objects is eliminated.[1][2]  Now, a function that takes an object of the bag class may expect that adding two objects increases the size of a bag by two, yet if one passes an object of a set class, then adding two objects may or may not increase the size of a bag by two. The problem arises precisely because subclassing implies subtyping even in the instances where the principle of subtyping, known as the Liskov substitution principle, does not hold. Barbara Liskov and Jeannette Wing formulated the principle succinctly in a 1994 paper as follows:
+
+Subtype Requirement: Let ⁠
+
+
+
+ϕ
+(
+x
+)
+
+
+{\displaystyle \phi (x)}
+
+⁠ be a property provable about objects ⁠
+
+
+
+x
+
+
+{\displaystyle x}
+
+⁠ of type ⁠
+
+
+
+T
+
+
+{\displaystyle T}
+
+⁠.  Then ⁠
+
+
+
+ϕ
+(
+y
+)
+
+
+{\displaystyle \phi (y)}
+
+⁠ should be true for objects ⁠
+
+
+
+y
+
+
+{\displaystyle y}
+
+⁠ of type ⁠
+
+
+
+S
+
+
+{\displaystyle S}
+
+⁠ where ⁠
+
+
+
+S
+
+
+{\displaystyle S}
+
+⁠ is a subtype of ⁠
+
+
+
+T
+
+
+{\displaystyle T}
+
+⁠. 
+Thus, normally one must distinguish subtyping and subclassing. Most current object-oriented languages distinguish subtyping and subclassing, however some approaches to design do not.
+
+Also, another common example is that a person object created from a child class cannot become an object of parent class because a child class and a parent class inherit a person class but class-based languages mostly do not allow to change the kind of class of the object at runtime. For class-based languages, this restriction is essential in order to preserve unified view of the class to its users. The users should not need to care whether one of the implementations of a method happens to cause changes that break the invariants of the class. Such changes can be made by destroying the object and constructing another in its place. Polymorphism can be used to preserve the relevant interfaces even when such changes are done, because the objects are viewed as black box abstractions and accessed via object identity. However, usually the value of object references referring to the object is changed, which causes effects to client code.
+
+Although Simula introduced the class abstraction, the canonical example of a class-based language is Smalltalk. Others include PHP, C++, Java, C#, and Objective-C.

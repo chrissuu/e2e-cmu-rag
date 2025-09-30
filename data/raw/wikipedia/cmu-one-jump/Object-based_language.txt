@@ -1,0 +1,5 @@
+An object-based language is a programming language that provides a construct to encapsulate state and behavior as an object. A language that also supports inheritance or subtyping is classified as object-oriented.[1] Even though object-oriented seems like a superset of object-based, they are used as mutually exclusive alternatives, rather than overlapping.[citation needed] Examples of strictly object-based languages – supporting an object feature but not inheritance or subtyping – are early versions of Ada,[2] Visual Basic 6 (VB6), and Fortran 90.
+
+Some classify prototype-based programming as object-based even though it supports inheritance and subtyping albeit not via a class concept. Instead an object inherits its state and behavior from a template object. A commonly used language with prototype-based programming support is JavaScript;
+
+This programming-language-related article is a stub. You can help Wikipedia by expanding it.

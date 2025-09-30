@@ -1,0 +1,10 @@
+Michael L. Kazar is an American engineer and technology executive.
+
+Kazar received a Bachelor of Science in Mathematics and a Bachelor of Science in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology and a Ph.D. from Carnegie Mellon University in Computer Science.[1]
+
+Kazar is a co-creator of Andrew File System (AFS)[2] (AFS). He received the 2013 IEEE Reynold B. Johnson Information Storage Systems Award.[3] This is an IEEE annual award given for outstanding contributions to information storage systems. Michael holds 38 patents related to file systems design.[4][5]
+He worked at FORE Systems and co-founded Transarc in 1989 (acquired by IBM in 1994). Transarc commercialized AFS that was originally developed at Carnegie Mellon.
+
+Kazar was chief technical officer (CTO) of Spinnaker Networks. Spinnaker Network was sold to Netapp in 2004.[6] He co-founded and became CTO of Avere Systems, Inc, where he designed and oversaw the development of the Avere OS and the virtual cloud bursting software, the vFXT.
+
+In 2016, Kazar received the ACM Software System Award for his work on the development of the Andrew File System.[7][8]

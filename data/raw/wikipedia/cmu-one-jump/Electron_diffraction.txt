@@ -1,0 +1,1988 @@
+Electron diffraction is a generic term for phenomena associated with changes in the direction of electron beams due to elastic interactions with atoms.[a] It occurs due to elastic scattering, when there is no change in the energy of the electrons.[1]: Chpt 4 [2]: Chpt 5 [3][4] The negatively charged electrons are scattered due to Coulomb forces when they interact with both the positively charged atomic core and the negatively charged electrons around the atoms. The resulting map of the directions of the electrons far from the sample is called a diffraction pattern, see for instance Figure 1. Beyond patterns showing the directions of electrons, electron diffraction also plays a major role in the contrast of images in electron microscopes.
+
+This article provides an overview of electron diffraction and electron diffraction patterns, collectively referred to by the generic name electron diffraction. This includes aspects of how in a general way electrons can act as waves, and diffract and interact with matter. It also involves the extensive history behind modern electron diffraction, how the combination of developments in the 19th century in understanding and controlling electrons in vacuum and the early 20th century developments with electron waves were combined with early instruments, giving birth to electron microscopy and diffraction in 1920–1935. While this was the birth, there have been a large number of further developments since then.
+
+There are many types and techniques of electron diffraction. The most common approach is where the electrons transmit through a thin sample, from 1 nm to 100 nm (10 to 1000 atoms thick), where the results depend upon how the atoms are arranged in the material, for instance a single crystal, many crystals or different types of solids. Other cases such as larger repeats, no periodicity or disorder have their own characteristic patterns. There are many different ways of collecting diffraction information, from parallel illumination to a converging beam of electrons or where the beam is rotated or scanned across the sample which produce information that is often easier to interpret. There are also many other types of instruments. For instance, in a scanning electron microscope (SEM), electron backscatter diffraction can be used to determine crystal orientation across the sample. Electron diffraction patterns can also be used to characterize molecules using gas electron diffraction, liquids, surfaces using lower energy electrons, a technique called LEED, and by reflecting electrons off surfaces, a technique called RHEED.
+
+There are also many levels of analysis of electron diffraction, including:
+
+Electron diffraction is similar to x-ray and neutron diffraction. However, unlike x-ray and neutron diffraction where the simplest approximations are quite accurate, with electron diffraction this is not the case.[1]: Sec 3 [2]: Chpt 5  Simple models give the geometry of the intensities in a diffraction pattern, but dynamical diffraction approaches are needed for accurate intensities and the positions of diffraction spots.
+
+All matter can be thought of as matter waves,[5]: Chpt 1-3  from small particles such as electrons up to macroscopic objects – although it is impossible to measure any of the "wave-like" behavior of macroscopic objects. Waves can move around objects and create interference patterns,[12]: Chpt 7-8  and a classic example is the Young's two-slit experiment shown in Figure 2, where a wave impinges upon two slits in the first of the two images (blue waves). After going through the slits there are directions where the wave is stronger, ones where it is weaker – the wave has been diffracted.[12]: Chpt 1,7,8  If instead of two slits there are a number of small points then similar phenomena can occur as shown in the second image where the wave (red and blue) is coming in from the bottom right corner. This is comparable to diffraction of an electron wave where the small dots would be atoms in a small crystal, see also note.[a] Note the strong dependence on the relative orientation of the crystal and the incoming wave.
+
+Close to an aperture or atoms, often called the "sample", the electron wave would be described in terms of near field or Fresnel diffraction.[12]: Chpt 7-8  This has relevance for imaging within electron microscopes,[1]: Chpt 3 [2]: Chpt 3-4  whereas electron diffraction patterns are measured far from the sample, which is described as far-field or Fraunhofer diffraction.[12]: Chpt 7-8  A map of the directions of the electron waves leaving the sample will show high intensity (white) for favored directions, such as the three prominent ones in the Young's two-slit experiment of Figure 2, while the other directions will be low intensity (dark). Often there will be an array of spots (preferred directions) as in Figure 1 and the other figures shown later.
+
+The historical background is divided into several subsections. The first is the general background to electrons in vacuum and the technological developments that led to cathode-ray tubes as well as vacuum tubes that dominated early television and electronics; the second is how these led to the development of electron microscopes; the last is work on the nature of electron beams and the fundamentals of how electrons behave, a key component of quantum mechanics and the explanation of electron diffraction.
+
+Experiments involving electron beams occurred long before the discovery of the electron; ēlektron (ἤλεκτρον) is the Greek word for amber,[13] which is connected to the recording of electrostatic charging[14] by Thales of Miletus around 585 BCE, and possibly others even earlier.[14]
+
+In 1650, Otto von Guericke invented the vacuum pump[15] allowing for the study of the effects of high voltage electricity passing through rarefied air. In 1838, Michael Faraday applied a high voltage between two metal electrodes at either end of a glass tube that had been partially evacuated of air, and noticed a strange light arc with its beginning at the cathode (negative electrode) and its end at the anode (positive electrode).[16] Building on this, in the 1850s, Heinrich Geissler was able to achieve a pressure of around 10−3 atmospheres, inventing what became known as Geissler tubes. Using these tubes, while studying electrical conductivity in rarefied gases in 1859, Julius Plücker observed that the radiation emitted from the negatively charged cathode caused phosphorescent light to appear on the tube wall near it, and the region of the phosphorescent light could be moved by application of a magnetic field.[17]
+
+In 1869, Plücker's student Johann Wilhelm Hittorf found that a solid body placed between the cathode and the phosphorescence would cast a shadow on the tube wall, e.g. Figure 3.[18] Hittorf inferred that there are straight rays emitted from the cathode and that the phosphorescence was caused by the rays striking the tube walls. In 1876 Eugen Goldstein showed that the rays were emitted perpendicular to the cathode surface, which differentiated them from the incandescent light. Eugen Goldstein dubbed them cathode rays.[19][20] By the 1870s William Crookes[21] and others were able to evacuate glass tubes below 10−6 atmospheres, and observed that the glow in the tube disappeared when the pressure was reduced but the glass behind the anode began to glow. Crookes was also able to show that the particles in the cathode rays were negatively charged and could be deflected by an electromagnetic field.[21][18]
+
+In 1897, Joseph Thomson measured the mass of these cathode rays,[22] proving they were made of particles. These particles, however, were 1800 times lighter than the lightest particle known at that time – a hydrogen atom. These were originally called corpuscles and later named electrons by George Johnstone Stoney.[23]
+
+The control of electron beams that this work led to resulted in significant technology advances in electronic amplifiers and television displays.[18]
+
+Independent of the developments for electrons in vacuum, at about the same time the components of quantum mechanics were being assembled. In 1924 Louis de Broglie in his PhD thesis Recherches sur la théorie des quanta[5] introduced his theory of electron waves. He suggested that an electron around a nucleus could be thought of as standing waves,[5]: Chpt 3  and that electrons and all matter could be considered as waves. He merged the idea of thinking about them as particles (or corpuscles), and of thinking of them as waves. He proposed that particles are bundles of waves (wave packets) that move with a group velocity[5]: Chpt 1-2  and have an effective mass, see for instance Figure 4. Both of these depend upon the energy, which in turn connects to the wavevector and the relativistic formulation of Albert Einstein a few years before.[24]
+
+
+This rapidly became part of what was called by Erwin Schrödinger undulatory mechanics,[11] now called the Schrödinger equation or wave mechanics. As stated by Louis de Broglie on September 8, 1927, in the preface to the German translation of his theses (in turn translated into English):[5]: v 
+M. Einstein from the beginning has supported my thesis, but it was M. E. Schrödinger who developed the propagation equations of a new theory and who in searching for its solutions has established what has become known as "Wave Mechanics".
+The Schrödinger equation combines the kinetic energy of waves and the potential energy due to, for electrons, the Coulomb potential. He was able to explain earlier work such as the quantization of the energy of electrons around atoms in the Bohr model,[25] as well as many other phenomena.[11] Electron waves as hypothesized[5]: Chpt 1-2  by de Broglie were automatically part of the solutions to his equation,[11] see also introduction to quantum mechanics and matter waves.
+
+Both the wave nature and the undulatory mechanics approach were experimentally confirmed for electron beams by experiments from two groups performed independently, the first the Davisson–Germer experiment,[26][27][28][29] the other by George Paget Thomson and Alexander Reid;[30] see note[b] for more discussion. Alexander Reid, who was Thomson's graduate student, performed the first experiments,[31] but he died soon after in a motorcycle accident[32] and is rarely mentioned. These experiments were rapidly followed by the first non-relativistic diffraction model for electrons by Hans Bethe[33] based upon the Schrödinger equation,[11] which is very close to how electron diffraction is now described. Significantly, Clinton Davisson and Lester Germer noticed[28][29] that their results could not be interpreted using a Bragg's law approach as the positions were systematically different; the approach of Hans Bethe[33] which includes the refraction due to the average potential yielded more accurate results. These advances in understanding of electron wave mechanics were important for many developments of electron-based analytical techniques such as Seishi Kikuchi's observations of lines due to combined elastic and inelastic scattering,[34][35] gas electron diffraction developed by Herman Mark and Raymond Weil,[36][37] diffraction in liquids by Louis Maxwell,[38] and the first electron microscopes developed by Max Knoll and Ernst Ruska.[39][40]
+
+In order to have a practical microscope or diffractometer, just having an electron beam was not enough, it needed to be controlled. Many developments laid the groundwork of electron optics; see the paper by Chester J. Calbick for an overview of the early work.[41] One significant step was the work of Heinrich Hertz in 1883[42] who made a cathode-ray tube with electrostatic and magnetic deflection, demonstrating manipulation of the direction of an electron beam. Others were focusing of electrons by an axial magnetic field by Emil Wiechert in 1899,[43] improved oxide-coated cathodes which produced more electrons by Arthur Wehnelt in 1905[44] and the development of the electromagnetic lens in 1926 by Hans Busch.[45]
+
+Building an electron microscope involves combining these elements, similar to an optical microscope but with magnetic or electrostatic lenses instead of glass ones. To this day the issue of who invented the transmission electron microscope is controversial, as discussed by Thomas Mulvey[46] and more recently by Yaping Tao.[47] Extensive additional information can be found in the articles by Martin Freundlich,[48] Reinhold Rüdenberg[49] and Mulvey.[46]
+
+One effort was university based. In 1928, at the Technische Hochschule in Charlottenburg (now Technische Universität Berlin), Adolf Matthias [de] (Professor of High Voltage Technology and Electrical Installations) appointed Max Knoll to lead a team of researchers to advance research on electron beams and cathode-ray oscilloscopes. The team consisted of several PhD students including Ernst Ruska. In 1931, Max Knoll and Ernst Ruska[39][40] successfully generated magnified images of mesh grids placed over an anode aperture. The device, a replicate of which is shown in Figure 5, used two  magnetic lenses to achieve higher magnifications, the first electron microscope. (Max Knoll died in 1969,[50] so did not receive a share of the Nobel Prize in Physics in 1986.)
+
+Apparently independent of this effort was work at Siemens-Schuckert by Reinhold Rudenberg. According to patent law (U.S. Patent No. 2058914[51] and 2070318,[52] both filed in 1932), he is the inventor of the electron microscope, but it is not clear when he had a working instrument. He stated in a very brief article in 1932[53] that Siemens had been working on this for some years before the patents were filed in 1932, so his effort was parallel to the university effort. He died in 1961,[54] so similar to Max Knoll, was not eligible for a share of the Nobel Prize.
+
+These instruments could produce magnified images, but were not particularly useful for electron diffraction; indeed, the wave nature of electrons was not exploited during the development. Key for electron diffraction in microscopes was the advance in 1936 where Hans Boersch [de] showed that they could be used as micro-diffraction cameras with an aperture[55]—the birth of selected area electron diffraction.[7]: Chpt 5-6 
+
+Less controversial was the development of LEED—the early experiments of Davisson and Germer used this approach.[27][28] As early as 1929 Germer investigated gas adsorption,[56] and in 1932 Harrison E. Farnsworth probed single crystals of copper and silver.[57] However, the vacuum systems available at that time were not good enough to properly control the surfaces, and it took almost forty years before these became available.[58][59] Similarly, it was not until about 1965 that Peter B. Sewell and M. Cohen demonstrated the power of RHEED in a system with a very well controlled vacuum.[60]
+
+
+Despite early successes such as the determination of the positions of hydrogen atoms in NH4Cl crystals by W. E. Laschkarew and I. D. Usykin in 1933,[61] boric acid by John M. Cowley in 1953[62] and orthoboric acid by William Houlder Zachariasen in 1954,[63] electron diffraction for many years was a qualitative technique used to check samples within electron microscopes. John M Cowley explains in a 1968 paper:[64] 
+Thus was founded the belief, amounting in some cases almost to an article of faith, and persisting even to the present day, that it is impossible to interpret the intensities of electron diffraction patterns to gain structural information.
+This has changed, in transmission, reflection and for low energies. Some of the key developments (some of which are also described later) from the early days to 2023 have been:
+
+What is seen in an electron diffraction pattern depends upon the sample and also the energy of the electrons. The electrons need to be considered as waves, which involves describing the electron via a wavefunction, written in crystallographic notation (see notes[c] and[d]) as:[3]
+
+
+
+ψ
+(
+
+r
+
+)
+=
+exp
+⁡
+(
+2
+π
+i
+
+k
+
+⋅
+
+r
+
+)
+
+
+{\displaystyle \psi (\mathbf {r} )=\exp(2\pi i\mathbf {k} \cdot \mathbf {r} )}
+
+for a position 
+
+
+
+
+r
+
+
+
+{\displaystyle \mathbf {r} }
+
+. This is a quantum mechanics description; one cannot use a classical approach. The vector 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+ is called the wavevector, has units of inverse nanometers, and the form above is called a plane wave as the term inside the exponential is constant on the surface of a plane. The vector 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+ is what is used when drawing ray diagrams,[1]: Chpt 3  and in vacuum is parallel to the direction or, better, group velocity[5]: Chpt 1-2 [90]: 16  or probability current[90]: 27, 130  of the plane wave. For most cases the electrons are travelling at a respectable fraction of the speed of light, so rigorously need to be considered using relativistic quantum mechanics via the Dirac equation,[91] which as spin does not normally matter can be reduced to the Klein–Gordon equation. Fortunately one can side-step many complications and use a non-relativistic approach based around the Schrödinger equation.[11] Following Kunio Fujiwara[92] and Archibald Howie,[93] the relationship between the total energy of the electrons and the wavevector is written as:
+
+
+
+E
+=
+
+
+
+
+h
+
+2
+
+
+
+k
+
+2
+
+
+
+
+2
+
+m
+
+∗
+
+
+
+
+
+
+
+{\displaystyle E={\frac {h^{2}k^{2}}{2m^{*}}}}
+
+with
+
+
+
+
+m
+
+∗
+
+
+=
+
+m
+
+0
+
+
++
+
+
+E
+
+2
+
+c
+
+2
+
+
+
+
+
+
+
+{\displaystyle m^{*}=m_{0}+{\frac {E}{2c^{2}}}}
+
+where 
+
+
+
+h
+
+
+{\displaystyle h}
+
+ is the Planck constant, 
+
+
+
+
+m
+
+∗
+
+
+
+
+{\displaystyle m^{*}}
+
+ is a relativistic effective mass used to cancel out the relativistic terms for electrons of energy 
+
+
+
+E
+
+
+{\displaystyle E}
+
+ with 
+
+
+
+c
+
+
+{\displaystyle c}
+
+ the speed of light and 
+
+
+
+
+m
+
+0
+
+
+
+
+{\displaystyle m_{0}}
+
+ the rest mass of the electron. The concept of effective mass occurs throughout physics (see for instance Ashcroft and Mermin),[6]: Chpt 12  and comes up in the behavior of quasiparticles. A common one is the electron hole, which acts as if it is a particle with a positive charge and a mass similar to that of an electron, although it can be several times lighter or heavier. For electron diffraction the electrons behave as if they are non-relativistic particles of mass 
+
+
+
+
+m
+
+∗
+
+
+
+
+{\displaystyle m^{*}}
+
+ in terms of how they interact with the atoms.[92]
+
+The wavelength of the electrons 
+
+
+
+λ
+
+
+{\displaystyle \lambda }
+
+ in vacuum is from the above equations
+
+
+
+λ
+=
+
+
+1
+k
+
+
+=
+
+
+h
+
+2
+
+m
+
+∗
+
+
+E
+
+
+
+=
+
+
+
+h
+c
+
+
+E
+(
+2
+
+m
+
+0
+
+
+
+c
+
+2
+
+
++
+E
+)
+
+
+
+,
+
+
+{\displaystyle \lambda ={\frac {1}{k}}={\frac {h}{\sqrt {2m^{*}E}}}={\frac {hc}{\sqrt {E(2m_{0}c^{2}+E)}}},}
+
+and can range from about 0.1 nm, roughly the size of an atom, down to a thousandth of that. Typically the energy of the electrons is written in electronvolts (eV), the voltage used to accelerate the electrons; the actual energy of each electron is this voltage times the electron charge. For context, the typical energy of a chemical bond is a few eV;[94] electron diffraction involves electrons up to 5000000 eV.
+
+The magnitude of the interaction of the electrons with a material scales as[1]: Chpt 4 
+
+
+
+2
+π
+
+
+
+m
+
+∗
+
+
+
+
+h
+
+2
+
+
+k
+
+
+
+=
+2
+π
+
+
+
+
+m
+
+∗
+
+
+λ
+
+
+h
+
+2
+
+
+
+
+=
+
+
+π
+
+h
+c
+
+
+
+
+
+
+
+
+2
+
+m
+
+0
+
+
+
+c
+
+2
+
+
+
+E
+
+
++
+1
+
+
+.
+
+
+{\displaystyle 2\pi {\frac {m^{*}}{h^{2}k}}=2\pi {\frac {m^{*}\lambda }{h^{2}}}={\frac {\pi }{hc}}{\sqrt {{\frac {2m_{0}c^{2}}{E}}+1}}.}
+
+While the wavevector increases as the energy increases, the change in the effective mass compensates this so even at the very high energies used in electron diffraction there are still significant interactions.[92]
+
+The high-energy electrons interact with the Coulomb potential,[33] which for a crystal can be considered in terms of a Fourier series (see for instance Ashcroft and Mermin),[6]: Chpt 8  that is
+
+
+
+V
+(
+
+r
+
+)
+=
+∑
+
+V
+
+g
+
+
+exp
+⁡
+(
+2
+π
+i
+
+g
+
+⋅
+
+r
+
+)
+
+
+{\displaystyle V(\mathbf {r} )=\sum V_{g}\exp(2\pi i\mathbf {g} \cdot \mathbf {r} )}
+
+with 
+
+
+
+
+g
+
+
+
+{\displaystyle \mathbf {g} }
+
+ a reciprocal lattice vector and 
+
+
+
+
+V
+
+g
+
+
+
+
+{\displaystyle V_{g}}
+
+ the corresponding Fourier coefficient of the potential. The reciprocal lattice vector is often referred to in terms of Miller indices 
+
+
+
+(
+h
+k
+l
+)
+
+
+{\displaystyle (hkl)}
+
+, a sum of the individual reciprocal lattice vectors 
+
+
+
+
+A
+
+,
+
+B
+
+,
+
+C
+
+
+
+{\displaystyle \mathbf {A} ,\mathbf {B} ,\mathbf {C} }
+
+ with integers 
+
+
+
+h
+,
+k
+,
+l
+
+
+{\displaystyle h,k,l}
+
+ in the form:[3]
+
+
+
+
+g
+
+=
+h
+
+A
+
++
+k
+
+B
+
++
+l
+
+C
+
+
+
+{\displaystyle \mathbf {g} =h\mathbf {A} +k\mathbf {B} +l\mathbf {C} }
+
+(Sometimes reciprocal lattice vectors are written as 
+
+
+
+
+
+a
+
+
+∗
+
+
+
+
+{\displaystyle \mathbf {a} ^{*}}
+
+,  
+
+
+
+
+
+b
+
+
+∗
+
+
+
+
+{\displaystyle \mathbf {b} ^{*}}
+
+, 
+
+
+
+
+
+c
+
+
+∗
+
+
+
+
+{\displaystyle \mathbf {c} ^{*}}
+
+ and see note.[d]) The contribution from the 
+
+
+
+
+V
+
+g
+
+
+
+
+{\displaystyle V_{g}}
+
+ needs to be combined with what is called the shape function (e.g.[95][96][1]: Chpt 2 ), which is the Fourier transform of the shape of the object. If, for instance, the object is small in one dimension then the shape function extends far in that direction in the Fourier transform—a reciprocal relationship.[97]
+
+Around each reciprocal lattice point one has this shape function.[1]: Chpt 5-7 [7]: Chpt 2  How much intensity there will be in the diffraction pattern depends upon the intersection of the Ewald sphere, that is energy conservation, and the shape function around each reciprocal lattice point—see Figure 6, 20 and 22. The vector from a reciprocal lattice point to the Ewald sphere is called the excitation error 
+
+
+
+
+
+s
+
+
+g
+
+
+
+
+{\displaystyle \mathbf {s} _{g}}
+
+.
+
+For transmission electron diffraction the samples used are thin, so most of the shape function is along the direction of the electron beam. For both LEED[86] and RHEED[87] the shape function is mainly normal to the surface of the sample. In LEED this results in (a simplification) back-reflection of the electrons leading to spots, see Figure 20 and 21 later, whereas in RHEED the electrons reflect off the surface at a small angle and typically yield diffraction patterns with streaks, see Figure 22 and 23 later. By comparison, with both x-ray and neutron diffraction the scattering is significantly weaker,[1]: Chpt 4  so typically requires much larger crystals, in which case the shape function shrinks to just around the reciprocal lattice points, leading to simpler Bragg's law diffraction.[98]
+
+For all cases, when the reciprocal lattice points are close to the Ewald sphere (the excitation error is small) the intensity tends to be higher; when they are far away it tends to be smaller. The set of diffraction spots at right angles to the direction of the incident beam are called the zero-order Laue zone (ZOLZ) spots, as shown in Figure 6. One can also have intensities further out from reciprocal lattice points which are in a higher layer. The first of these is called the first order Laue zone (FOLZ); the series is called by the generic name higher order Laue zone (HOLZ).[2]: Chpt 7 [99]
+
+The result is that the electron wave after it has been diffracted can be written as an integral over different plane waves:[8]: Chpt 1 
+
+
+
+ψ
+(
+
+r
+
+)
+=
+∫
+ϕ
+(
+
+k
+
+)
+exp
+⁡
+(
+2
+π
+i
+
+k
+
+⋅
+
+r
+
+)
+
+d
+
+3
+
+
+
+k
+
+,
+
+
+{\displaystyle \psi (\mathbf {r} )=\int \phi (\mathbf {k} )\exp(2\pi i\mathbf {k} \cdot \mathbf {r} )d^{3}\mathbf {k} ,}
+
+that is a sum of plane waves going in different directions, each with a complex amplitude 
+
+
+
+ϕ
+(
+
+k
+
+)
+
+
+{\displaystyle \phi (\mathbf {k} )}
+
+. (This is a three dimensional integral, which is often written as 
+
+
+
+d
+
+k
+
+
+
+{\displaystyle d\mathbf {k} }
+
+ rather than 
+
+
+
+
+d
+
+3
+
+
+
+k
+
+
+
+{\displaystyle d^{3}\mathbf {k} }
+
+.) For a crystalline sample these wavevectors have to be of the same magnitude for elastic scattering (no change in energy), and are related to the incident direction 
+
+
+
+
+
+k
+
+
+0
+
+
+
+
+{\displaystyle \mathbf {k} _{0}}
+
+ by (see Figure 6)
+
+
+
+
+
+k
+
+=
+
+
+k
+
+
+0
+
+
++
+
+g
+
++
+
+
+s
+
+
+g
+
+
+.
+
+
+{\displaystyle \mathbf {k} =\mathbf {k} _{0}+\mathbf {g} +\mathbf {s} _{g}.}
+
+
+A diffraction pattern detects the intensities
+
+
+
+I
+(
+
+k
+
+)
+=
+
+
+|
+
+ϕ
+(
+
+k
+
+)
+
+|
+
+
+2
+
+
+.
+
+
+{\displaystyle I(\mathbf {k} )=\left|\phi (\mathbf {k} )\right|^{2}.}
+
+For a crystal these will be near the reciprocal lattice points typically forming a two dimensional grid. Different samples and modes of diffraction give different results, as do different approximations for the amplitudes 
+
+
+
+ϕ
+(
+
+k
+
+)
+
+
+{\displaystyle \phi (\mathbf {k} )}
+
+.[1][2][4]
+
+A typical electron diffraction pattern in TEM and LEED is a grid of high intensity spots (white) on a dark background, approximating a projection of the reciprocal lattice vectors, see Figure 1, 9, 10, 11, 14 and 21 later. There are also cases which will be mentioned later where diffraction patterns are not periodic, see Figure 15, have additional diffuse structure as in Figure 16, or have rings as in Figure 12, 13 and 24. With conical illumination as in CBED they can also be a grid of discs, see Figure 7, 9 and 18. RHEED is slightly different,[87] see Figure 22, 23. If the excitation errors 
+
+
+
+
+s
+
+g
+
+
+
+
+{\displaystyle s_{g}}
+
+ were zero for every reciprocal lattice vector, this grid would be at exactly the spacings of the reciprocal lattice vectors. This would be equivalent to a Bragg's law condition for all of them. In TEM the wavelength is small and this is close to correct, but not exact. In practice the deviation of the positions from a simple Bragg's law[98] interpretation is often neglected, particularly if a column approximation is made (see below).[8]: 64 [7]: Chpt 11 [100]
+
+In Kinematical theory an approximation is made that the electrons are only scattered once.[1]: Sec 2   For transmission electron diffraction it is common to assume a constant thickness 
+
+
+
+t
+
+
+{\displaystyle t}
+
+, and also what is called the Column Approximation (e.g. references[7]: Chpt 11 [100] and further reading). For a perfect crystal the intensity for each diffraction spot 
+
+
+
+
+g
+
+
+
+{\displaystyle \mathbf {g} }
+
+ is then:
+
+
+
+
+I
+
+g
+
+
+=
+
+
+|
+
+ϕ
+(
+
+k
+
+)
+
+|
+
+
+2
+
+
+∝
+
+
+|
+
+
+F
+
+g
+
+
+
+
+
+sin
+⁡
+(
+π
+t
+
+s
+
+z
+
+
+)
+
+
+π
+
+s
+
+z
+
+
+
+
+
+
+|
+
+
+2
+
+
+
+
+{\displaystyle I_{g}=\left|\phi (\mathbf {k} )\right|^{2}\propto \left|F_{g}{\frac {\sin(\pi ts_{z})}{\pi s_{z}}}\right|^{2}}
+
+where 
+
+
+
+
+s
+
+z
+
+
+
+
+{\displaystyle s_{z}}
+
+ is the magnitude of the excitation error 
+
+
+
+
+|
+
+
+
+s
+
+
+z
+
+
+
+|
+
+
+
+{\displaystyle |\mathbf {s} _{z}|}
+
+ along z, the distance along the beam direction (z-axis by convention) from the diffraction spot to the Ewald sphere, and 
+
+
+
+
+F
+
+g
+
+
+
+
+{\displaystyle F_{g}}
+
+ is the structure factor:[3]
+
+
+
+
+F
+
+g
+
+
+=
+
+∑
+
+j
+=
+1
+
+
+N
+
+
+
+f
+
+j
+
+
+exp
+⁡
+
+(
+2
+π
+i
+
+g
+
+⋅
+
+
+r
+
+
+j
+
+
+−
+
+T
+
+j
+
+
+
+g
+
+2
+
+
+)
+
+
+
+{\displaystyle F_{g}=\sum _{j=1}^{N}f_{j}\exp {(2\pi i\mathbf {g} \cdot \mathbf {r} _{j}-T_{j}g^{2})}}
+
+the sum being over all the atoms in the unit cell with 
+
+
+
+
+f
+
+j
+
+
+
+
+{\displaystyle f_{j}}
+
+ the form factors,[3] 
+
+
+
+
+g
+
+
+
+{\displaystyle \mathbf {g} }
+
+ the reciprocal lattice vector, 
+
+
+
+
+T
+
+j
+
+
+
+
+{\displaystyle T_{j}}
+
+ is a simplified form of the Debye–Waller factor,[3] and 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+ is the wavevector for the diffraction beam which is:
+
+
+
+
+k
+
+=
+
+
+k
+
+
+0
+
+
++
+
+g
+
++
+
+
+s
+
+
+z
+
+
+
+
+{\displaystyle \mathbf {k} =\mathbf {k} _{0}+\mathbf {g} +\mathbf {s} _{z}}
+
+for an incident wavevector of 
+
+
+
+
+
+k
+
+
+0
+
+
+
+
+{\displaystyle \mathbf {k} _{0}}
+
+, as in Figure 6 and above. The excitation error comes in as the outgoing wavevector 
+
+
+
+
+k
+
+
+
+{\displaystyle \mathbf {k} }
+
+ has to have the same modulus (i.e. energy) as the incoming wavevector 
+
+
+
+
+
+k
+
+
+0
+
+
+
+
+{\displaystyle \mathbf {k} _{0}}
+
+. The intensity in transmission electron diffraction oscillates as a function of thickness, which can be confusing; there can similarly be intensity changes due to variations in orientation and also structural defects such as dislocations.[101] If a diffraction spot is strong it could be because it has a larger structure factor, or it could be because the combination of thickness and excitation error is "right". Similarly the observed intensity can be small, even though the structure factor is large. This can complicate interpretation of the intensities. By comparison, these effects are much smaller in x-ray diffraction or neutron diffraction because they interact with matter far less and often Bragg's law[98] is adequate.
+
+This form is a reasonable first approximation which is qualitatively correct in many cases, but more accurate forms including multiple scattering (dynamical diffraction) of the electrons are needed to properly understand the intensities.[1]: Sec 3 [8]: Chpt 3-5 
+
+
+While kinematical diffraction is adequate to understand the geometry of the diffraction spots, it does not correctly give the intensities and has a number of other limitations. For a more complete approach one has to include multiple scattering of the electrons using methods that date back to the early work of Hans Bethe in 1928.[33] These are based around solutions of the Schrödinger equation[11] using the relativistic effective mass 
+
+
+
+
+m
+
+∗
+
+
+
+
+{\displaystyle m^{*}}
+
+ described earlier.[92] Even at very high energies dynamical diffraction is needed as the relativistic mass and wavelength partially cancel, so the role of the potential is larger than might be thought.[92][93]
+The main components of current dynamical diffraction of electrons include:
+
+
+Kikuchi lines,[112][2]: 311–313  first observed by Seishi Kikuchi in 1928,[34][35] are linear features created by electrons scattered both inelastically and elastically. As the electron beam interacts with matter, the electrons are diffracted via elastic scattering, and also scattered inelastically losing part of their energy. These occur simultaneously, and cannot be separated – according to  the Copenhagen interpretation of quantum mechanics, only the probabilities of electrons at detectors can be measured.[113][114] These electrons form Kikuchi lines which provide information on the orientation.[115]
+Kikuchi lines come in pairs forming Kikuchi bands, and are indexed in terms of the crystallographic planes they are connected to, with the angular width of the band equal to the magnitude of the corresponding diffraction vector 
+
+
+
+
+|
+
+
+g
+
+
+|
+
+
+
+{\displaystyle |\mathbf {g} |}
+
+. The position of Kikuchi bands is fixed with respect to each other and the orientation of the sample, but not against the diffraction spots or the direction of the incident electron beam. As the crystal is tilted, the bands move on the diffraction pattern.[115] Since the position of Kikuchi bands is quite sensitive to crystal orientation, they can be used to fine-tune a zone-axis orientation or determine crystal orientation. They can also be used for navigation when changing the orientation between zone axes connected by some band, an example of such a map produced by combining many local sets of experimental Kikuchi patterns is in Figure 8; Kikuchi maps are available for many materials.
+
+Electron diffraction in a TEM exploits controlled electron beams using electron optics.[116] Different types of diffraction experiments, for instance Figure 9, provide information such as lattice constants, symmetries, and sometimes to solve an unknown crystal structure.
+
+It is common to combine it with other methods, for instance images using selected diffraction beams, high-resolution images[117] showing the atomic structure, chemical analysis through energy-dispersive x-ray spectroscopy,[118] investigations of electronic structure and bonding through electron energy loss spectroscopy,[119] and studies of the electrostatic potential through electron holography;[120] this list is not exhaustive. Compared to x-ray crystallography, TEM analysis is significantly more localized and can be used to obtain information from tens of thousands of atoms to just a few or even single atoms.
+
+In TEM, the electron beam passes through a thin film of the material as illustrated in Figure 10. Before and after the sample the beam is manipulated by the electron optics[116] including magnetic lenses, deflectors and apertures;[121] these act on the electrons similar to how glass lenses focus and control light. Optical elements above the sample are used to control the incident beam which can range from a wide and parallel beam to one which is a converging cone and can be smaller than an atom, 0.1 nm. As it interacts with the sample, part of the beam is diffracted and part is transmitted without changing its direction. This occurs simultaneously as electrons are everywhere until they are detected (wavefunction collapse) according to the Copenhagen interpretation.[113][114]
+
+Below the sample, the beam is controlled by another set of magnetic lenses and apertures.[116] Each set of initially parallel rays (a plane wave) is focused by the first lens (objective) to a point in the back focal plane of this lens, forming a spot on a detector; a map of these directions, often an array of spots, is the diffraction pattern. Alternatively the lenses can form a magnified image of the sample.[116] Herein the focus is on collecting a diffraction pattern; for other information see the pages on TEM and scanning transmission electron microscopy.
+
+The simplest diffraction technique in TEM is selected area electron diffraction (SAED) where the incident beam is wide and close to parallel.[7]: Chpt 5-6  An aperture is used to select a particular region of interest from which the diffraction is collected. These apertures are part of a thin foil of a heavy metal such as tungsten[121] which has a number of small holes in it. This way diffraction information can be limited to, for instance, individual crystallites. Unfortunately the method is limited by the spherical aberration of the objective lens,[7]: Chpt 5-6  so is only accurate for large grains with tens of thousands of atoms or more; for smaller regions a focused probe is needed.[7]: Chpt 5-6 
+
+
+If a parallel beam is used to acquire a diffraction pattern from a single-crystal, the result is similar to a two-dimensional projection of the crystal reciprocal lattice. From this one can determine interplanar distances and angles and in some cases crystal symmetry, particularly when the electron beam is down a major zone axis, see for instance the database by Jean-Paul Morniroli.[78] However, projector lens aberrations such as barrel distortion as well as dynamical diffraction effects (e.g.[122]) cannot be ignored. For instance, certain diffraction spots which are not present in x-ray diffraction can appear,[78] for instance those due to Gjønnes-Moodie extinction conditions.[108] 
+If the sample is tilted relative to the electron beam, different sets of crystallographic planes contribute to the pattern yielding different types of diffraction patterns, approximately different projections of the reciprocal lattice, see Figure 11.[78] This can be used to determine the crystal orientation, which in turn can be used to set the orientation needed for a particular experiment. Furthermore, a series of diffraction patterns varying in tilt can be acquired and processed using a diffraction tomography approach. There are ways to combine this with direct methods algorithms using electrons[123][80] and other methods such as charge flipping,[81] or automated diffraction tomography[124][125] to solve crystal structures.
+
+Diffraction patterns depend on whether the beam is diffracted by one single crystal or by a number of differently oriented crystallites, for instance in a polycrystalline material. If there are many contributing crystallites, the diffraction image is a superposition of individual crystal patterns, see Figure 12. With a large number of grains this superposition yields diffraction spots of all possible reciprocal lattice vectors. This results in a pattern of concentric rings as shown in Figure 12 and 13.[7]: Chpt 5-6 
+
+Textured materials yield a non-uniform distribution of intensity around the ring, which can be used to discriminate between nanocrystalline and amorphous phases. However, diffraction often cannot differentiate between very small grain polycrystalline materials and truly random order amorphous.[126] Here high-resolution transmission electron microscopy[127] and fluctuation electron microscopy[128][129] can be more powerful, although this is still a topic of continuing development.
+
+In simple cases there is only one grain or one type of material in the area used for collecting a diffraction pattern. However, often there is more than one. If they are in different areas then the diffraction pattern will be a combination.[7]: Chpt 5-6  In addition there can be one grain on top of another, in which case the electrons that go through the first are diffracted by the second.[7]: Chpt 5-6  Electrons have no memory (like many of us), so after they have gone through the first grain and been diffracted, they traverse the second as if their current direction was that of the incident beam. This leads to diffraction spots which are the vector sum of those of the two (or even more) reciprocal lattices of the crystals, and can lead to complicated results. It can be difficult to know if this is real and due to some novel material, or just a case where multiple crystals and diffraction is leading to odd results.[7]: Chpt 5-6 
+
+Many materials have relatively simple structures based upon small unit cell vectors 
+
+
+
+
+a
+
+,
+
+b
+
+,
+
+c
+
+
+
+{\displaystyle \mathbf {a} ,\mathbf {b} ,\mathbf {c} }
+
+ (see also note[d]). There are many others where the repeat is some larger multiple of the smaller unit cell (subcell) along one or more direction, for instance 
+
+
+
+N
+
+a
+
+,
+M
+
+b
+
+,
+
+c
+
+
+
+{\displaystyle N\mathbf {a} ,M\mathbf {b} ,\mathbf {c} }
+
+. which has larger dimensions in two directions. These superstructures[130][131][132] can arise from many reasons:
+
+In addition to those which occur in the bulk, superstructures can also occur at surfaces. When half the material is (nominally) removed to create a surface, some of the atoms will be under coordinated. To reduce their energy they can rearrange. Sometimes these rearrangements are relatively small; sometimes they are quite large.[136][137] Similar to a bulk superstructure there will be additional, weaker diffraction spots. One example is for the silicon (111) surface, where there is a supercell which is seven times larger than the simple bulk cell in two directions.[138] This leads to diffraction patterns with additional spots some of which are marked in Figure 14.[139] Here the (220) are stronger bulk diffraction spots, and the weaker ones due to the surface reconstruction are marked 7 × 7—see note[d] for convention comments.
+
+In an aperiodic crystal the structure can no longer be simply described by three different vectors in real or reciprocal space. In general there is a substructure describable by three (e.g. 
+
+
+
+
+a
+
+,
+
+b
+
+,
+
+c
+
+
+
+{\displaystyle \mathbf {a} ,\mathbf {b} ,\mathbf {c} }
+
+), similar to supercells above, but in addition there is some additional periodicity (one to three) which cannot be described as a multiple of the three; it is a genuine additional periodicity which is an irrational number relative to the subcell lattice.[130][131][132] The diffraction pattern can then only be described by more than three indices.
+
+An extreme example of this is for quasicrystals,[140] which can be described similarly by a higher number of Miller indices in reciprocal space—but not by any translational symmetry in real space. An example of this is shown in Figure 15 for an Al–Cu–Fe–Cr decagonal quasicrystal grown by magnetron sputtering on a sodium chloride substrate and then lifted off by dissolving the substrate with water.[141] In the pattern there are pentagons which are a characteristic of the aperiodic nature of these materials.
+
+A further step beyond superstructures and aperiodic materials is what is called diffuse scattering in electron diffraction patterns due to disorder,[1]: Chpt 17  which is also known for x-ray[142] or neutron[143] scattering. This can occur from inelastic processes, for instance, in bulk silicon the atomic vibrations (phonons) are more prevalent along specific directions, which leads to streaks in diffraction patterns.[1]: Chpt 12  Sometimes it is due to arrangements of point defects. Completely disordered substitutional point defects lead to a general background which is called Laue monotonic scattering.[1]: Chpt 12  Often there is a probability distribution for the distances between point defects or what type of substitutional atom there is, which leads to distinct three-dimensional intensity features in diffraction patterns. An example of this is for a Nb0.83CoSb sample, with the diffraction pattern shown in Figure 16. Because of the vacancies at the niobium sites, there is diffuse intensity with snake-like structure due to correlations of the distances between vacancies and also the relaxation of Co and Sb atoms around these vacancies.[144]
+
+In convergent beam electron diffraction (CBED),[71][73][75] the incident electrons are normally focused in a converging cone-shaped beam with a crossover located at the sample, e.g. Figure 17, although other methods exist. Unlike the parallel beam, the convergent beam is able to carry information from the sample volume, not just a two-dimensional projection available in SAED. With convergent beam there is also no need for the selected area aperture, as it is inherently site-selective since the beam crossover is positioned at the object plane where the sample is located.[115]
+
+A CBED pattern consists of disks arranged similar to the spots in SAED. Intensity within the disks represents dynamical diffraction effects and symmetries of the sample structure, see Figure 7 and 18. Even though the zone axis and lattice parameter analysis based on disk positions does not significantly differ from SAED, the analysis of disks content is more complex and simulations based on dynamical diffraction theory is often required.[145] As illustrated in Figure 18, the details within the disk change with sample thickness, as does the inelastic background. With appropriate analysis CBED patterns can be used for indexation of the crystal point group, space group identification, measurement of lattice parameters, thickness or strain.[115]
+
+The disk diameter can be controlled using the microscope optics and apertures.[116] The larger is the angle, the broader the disks are with more features. If the angle is increased to significantly, the disks begin to overlap.[70] This is avoided in large angle convergent electron beam diffraction (LACBED) where the sample is moved upwards or downwards. There are applications, however, where the overlapping disks are beneficial, for instance with a ronchigram. It is a CBED pattern, often but not always of an amorphous material, with many intentionally overlapping disks providing information about the optical aberrations of the electron optical system.[146]
+
+Precession electron diffraction (PED), invented by Roger Vincent and Paul Midgley in 1994,[148] is a method to collect electron diffraction patterns in a transmission electron microscope (TEM). The technique involves rotating (precessing) a tilted incident electron beam around the central axis of the microscope, compensating for the tilt after the sample so a spot diffraction pattern is formed, similar to a SAED pattern. However, a PED pattern is an integration over a collection of diffraction conditions, see Figure 19. This integration produces a quasi-kinematical diffraction pattern that is more suitable[149] as input into direct methods algorithms using electrons[123][80] to determine the crystal structure of the sample. Because it avoids many dynamical effects it can also be used to better identify crystallographic phases.[150]
+
+4D scanning transmission electron microscopy (4D STEM)[151] is a subset of scanning transmission electron microscopy (STEM) methods which uses a pixelated electron detector to capture a convergent beam electron diffraction (CBED) pattern at each scan location; see the main page for further information. This technique captures a 2 dimensional reciprocal space image associated with each scan point as the beam rasters across a 2 dimensional region in real space, hence the name 4D STEM. Its development was enabled by better STEM detectors and improvements in computational power. The technique has applications in diffraction contrast imaging, phase orientation and identification, strain mapping, and atomic resolution imaging among others; it has become very popular and rapidly evolving from about 2020 onwards.[151]
+
+The name 4D STEM is common in literature, however it is known by other names: 4D STEM EELS, ND STEM (N- since the number of dimensions could be higher than 4), position resolved diffraction (PRD), spatial resolved diffractometry, momentum-resolved STEM, "nanobeam precision electron diffraction", scanning electron nano diffraction, nanobeam electron diffraction, or pixelated STEM.[152] Most of these are the same, although there are instances such as momentum-resolved STEM[153] where the emphasis can be very different.
+
+Low-energy electron diffraction (LEED) is a technique for the determination of the surface structure of single-crystalline materials by bombardment with a collimated beam of low-energy electrons (30–200 eV).[83] In this case the Ewald sphere leads to approximately back-reflection, as illustrated in Figure 20, and diffracted electrons as spots on a fluorescent screen as shown in Figure 21; see the main page for more information and references.[58][86] It has been used to solve a very large number of relatively simple surface structures of metals and semiconductors, plus cases with simple chemisorbants. For more complex cases transmission electron diffraction[138][154] or surface x-ray diffraction[155] have been used, often combined with scanning tunneling microscopy and density functional theory calculations.[156]
+
+LEED may be used in one of two ways:[58][86]
+
+Reflection high energy electron diffraction (RHEED),[87] is a technique used to characterize the surface of crystalline materials by reflecting electrons off a surface. As illustrated for the Ewald sphere construction in Figure 22, it uses mainly the higher-order Laue zones which have a reflection component. An experimental diffraction pattern is shown in Figure 23 and shows both rings from the higher-order Laue zones and streaky spots.[8]: Chpt 5  RHEED systems gather information only from the surface layers of the sample, which distinguishes RHEED from other materials characterization methods that also rely on diffraction of electrons. Transmission electron microscopy samples mainly the bulk of the sample, although in special cases it can provide surface information.[157] Low-energy electron diffraction (LEED) is also surface sensitive, and achieves surface sensitivity through the use of low energy electrons. The main uses of RHEED to date have been during thin film growth,[158] as the geometry is amenable to simultaneous collection of the diffraction data and deposition. It can, for instance, be used to monitor surface roughness during growth by looking at both the shapes of the streaks in the diffraction pattern as well as variations in the intensities.[87][158]
+
+Gas electron diffraction (GED) can be used to determine the geometry of molecules in gases.[159] A gas carrying the molecules is exposed to the electron beam, which is diffracted by the molecules. Since the molecules are randomly oriented, the resulting diffraction pattern consists of broad concentric rings, see Figure 24. The diffraction intensity is a sum of several components such as background, atomic intensity or molecular intensity.[159]
+
+In GED the diffraction intensities at a particular diffraction angle 
+
+
+
+θ
+
+
+{\displaystyle \theta }
+
+ is described via a scattering variable defined as[160]
+
+
+
+
+|
+
+s
+
+|
+
+=
+
+
+
+4
+π
+
+λ
+
+
+sin
+⁡
+
+(
+
+
+θ
+2
+
+
+)
+
+.
+
+
+{\displaystyle |s|={\frac {4\pi }{\lambda }}\sin \left({\frac {\theta }{2}}\right).}
+
+The total intensity is then given as a sum of partial contributions:[161][162]
+
+
+
+
+I
+
+tot
+
+
+(
+s
+)
+=
+
+I
+
+a
+
+
+(
+s
+)
++
+
+I
+
+m
+
+
+(
+s
+)
++
+
+I
+
+t
+
+
+(
+s
+)
++
+
+I
+
+b
+
+
+(
+s
+)
+,
+
+
+{\displaystyle I_{\text{tot}}(s)=I_{a}(s)+I_{m}(s)+I_{t}(s)+I_{b}(s),}
+
+where 
+
+
+
+
+I
+
+a
+
+
+(
+s
+)
+
+
+{\displaystyle I_{a}(s)}
+
+ results from scattering by individual atoms, 
+
+
+
+
+I
+
+m
+
+
+(
+s
+)
+
+
+{\displaystyle I_{m}(s)}
+
+ by pairs of atoms and 
+
+
+
+
+I
+
+t
+
+
+(
+s
+)
+
+
+{\displaystyle I_{t}(s)}
+
+ by atom triplets. Intensity 
+
+
+
+
+I
+
+b
+
+
+(
+s
+)
+
+
+{\displaystyle I_{b}(s)}
+
+ corresponds to the background which, unlike the previous contributions, must be determined experimentally. The intensity of atomic scattering 
+
+
+
+
+I
+
+a
+
+
+(
+s
+)
+
+
+{\displaystyle I_{a}(s)}
+
+ is defined as[159]
+
+
+
+
+I
+
+a
+
+
+(
+s
+)
+=
+
+
+
+K
+
+2
+
+
+
+R
+
+2
+
+
+
+
+
+I
+
+0
+
+
+
+∑
+
+i
+=
+1
+
+
+N
+
+
+
+|
+
+
+f
+
+i
+
+
+(
+s
+)
+
+
+|
+
+
+2
+
+
+,
+
+
+{\displaystyle I_{a}(s)={\frac {K^{2}}{R^{2}}}I_{0}\sum _{i=1}^{N}|f_{i}(s)|^{2},}
+
+where 
+
+
+
+K
+=
+(
+8
+
+π
+
+2
+
+
+m
+
+e
+
+2
+
+
+)
+
+/
+
+
+h
+
+2
+
+
+
+
+{\displaystyle K=(8\pi ^{2}me^{2})/h^{2}}
+
+, 
+
+
+
+R
+
+
+{\displaystyle R}
+
+ is the distance between the scattering object detector, 
+
+
+
+
+I
+
+0
+
+
+
+
+{\displaystyle I_{0}}
+
+ is the intensity of the primary electron beam and 
+
+
+
+
+f
+
+i
+
+
+(
+s
+)
+
+
+{\displaystyle f_{i}(s)}
+
+ is the scattering amplitude of the atom 
+
+
+
+i
+
+
+{\displaystyle i}
+
+ of the molecular structure in the experiment. 
+
+
+
+
+I
+
+a
+
+
+(
+s
+)
+
+
+{\displaystyle I_{a}(s)}
+
+ is the main contribution and easily obtained for known gas composition. Note that the vector 
+
+
+
+s
+
+
+{\displaystyle s}
+
+ used here is not the same as the excitation error used in other areas of diffraction, see earlier.
+
+The most valuable information is carried by the intensity of molecular scattering 
+
+
+
+
+I
+
+a
+
+
+(
+s
+)
+
+
+{\displaystyle I_{a}(s)}
+
+, as it contains information about the distance between all pairs of atoms in the molecule. It is given by[160]
+
+
+
+
+I
+
+m
+
+
+(
+s
+)
+=
+
+
+
+K
+
+2
+
+
+
+R
+
+2
+
+
+
+
+
+I
+
+0
+
+
+
+∑
+
+i
+=
+1
+
+
+N
+
+
+
+∑
+
+
+
+
+i
+≠
+j
+
+
+j
+=
+1
+
+
+
+
+
+N
+
+
+
+|
+
+
+f
+
+i
+
+
+(
+s
+)
+
+|
+
+
+|
+
+
+f
+
+j
+
+
+(
+s
+)
+
+|
+
+
+
+
+sin
+⁡
+[
+s
+(
+
+r
+
+i
+j
+
+
+−
+κ
+
+s
+
+2
+
+
+)
+]
+
+
+s
+
+r
+
+i
+j
+
+
+
+
+
+
+e
+
+−
+(
+1
+
+/
+
+2
+
+l
+
+i
+j
+
+
+
+s
+
+2
+
+
+)
+
+
+cos
+⁡
+[
+
+η
+
+i
+
+
+(
+s
+)
+−
+
+η
+
+i
+
+
+(
+s
+)
+]
+,
+
+
+{\displaystyle I_{m}(s)={\frac {K^{2}}{R^{2}}}I_{0}\sum _{i=1}^{N}\sum _{\stackrel {j=1}{i\neq j}}^{N}\left|f_{i}(s)\right|\left|f_{j}(s)\right|{\frac {\sin[s(r_{ij}-\kappa s^{2})]}{sr_{ij}}}e^{-(1/2l_{ij}s^{2})}\cos[\eta _{i}(s)-\eta _{i}(s)],}
+
+where 
+
+
+
+
+r
+
+i
+j
+
+
+
+
+{\displaystyle r_{ij}}
+
+ is the distance between two atoms, 
+
+
+
+
+l
+
+i
+j
+
+
+
+
+{\displaystyle l_{ij}}
+
+ is the mean square amplitude of vibration between the two atoms, similar to a Debye–Waller factor, 
+
+
+
+κ
+
+
+{\displaystyle \kappa }
+
+ is the anharmonicity constant and 
+
+
+
+η
+
+
+{\displaystyle \eta }
+
+ a phase factor which is important for atomic pairs with very different nuclear charges. The summation is performed over all atom pairs. Atomic triplet intensity 
+
+
+
+
+I
+
+t
+
+
+(
+s
+)
+
+
+{\displaystyle I_{t}(s)}
+
+ is negligible in most cases. If the molecular intensity is extracted from an experimental pattern by subtracting other contributions, it can be used to match and refine a structural model against the experimental data.[160][161][162]
+
+Similar methods of analysis have also been applied to analyze electron diffraction data from liquids.[163][164][165]
+
+In a scanning electron microscope the region near the surface can be mapped using an electron beam that is scanned in a grid across the sample. A diffraction pattern can be recorded using electron backscatter diffraction (EBSD), as illustrated in Figure 25, captured with a camera inside the microscope.[166] A depth from a few nanometers to a few microns, depending upon the electron energy used, is penetrated by the electrons, some of which are diffracted backwards and out of the sample. As result of combined inelastic and elastic scattering, typical features in an EBSD image are Kikuchi lines. Since the position of Kikuchi bands is highly sensitive to the crystal orientation, EBSD data can be used to determine the crystal orientation at particular locations of the sample. The data are processed by software yielding two-dimensional orientation maps.[167][168] As the Kikuchi lines carry information about the interplanar angles and distances and, therefore, about the crystal structure, they can also be used for phase identification[169]: Chpts 6–7  or strain analysis.[169]: Chpt 17 

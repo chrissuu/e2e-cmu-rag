@@ -1,0 +1,22 @@
+Robert Heath Dennard (September 5, 1932 – April 23, 2024) was an American electrical engineer and inventor.[1]
+
+Dennard was born in Terrell, Texas. He received his B.S. and M.S. degrees in electrical engineering from Southern Methodist University, Dallas, in 1954 and 1956, respectively. He earned a Ph.D. from Carnegie Institute of Technology in Pittsburgh, Pennsylvania, in 1958. His professional career was spent as a researcher for International Business Machines.[1]
+
+Single Transistor DRAM
+
+At the time of the invention, Dennard and his colleagues were fixated on a bulky, costly memory system that used a series of six transistors to store just 1 bit of data.[2]
+
+One night while lying on the couch and pondering a presentation given by his peers earlier in the day, he had a notion: What if he could store a bit of information in a single transistor? The insight was the catalyst for DRAM — Dennard’s most important innovation.[3]
+In 1966 he invented the one transistor memory cell consisting of a transistor and a capacitor for which a patent was issued in 1968.[4] It became the basis for today's dynamic random-access memory (DRAM) and almost all other memory types such as SRAM and FLASH memory. DRAM was instrumental in changing the world of computing through faster and higher capacity memory access.[1]  Today, DRAM is used pervasively across many devices from servers to personal computers to mobile devices. 
+
+Dennard Scaling
+
+Dennard was also among the first to recognize the tremendous potential of downsizing MOSFETs. The scaling theory he and his colleagues formulated in 1974 postulated that MOSFETs continue to function as voltage-controlled switches while all key figures of merit such as layout density, operating speed, and energy efficiency improve – provided geometric dimensions, voltages, and doping concentrations are consistently scaled to maintain the same electric field. This property underlies the achievement of Moore's Law and the evolution of microelectronics over the last few decades.[1]As of 2024, the DRAM market is estimated to be over $100 billion.[5]
+
+Awards and Recognition
+
+In 1984, Dennard was elected a member of the National Academy of Engineering for pioneering work in FET technology, including invention of the one transistor dynamic RAM and contributions to scaling theory.
+
+Besides his technical accomplishments, Dennard was involved in other creative fields. Throughout his retirement, Dennard continued to fuel his creativity through choral singing and Scottish dancing.[3]
+
+Dennard died on April 23, 2024, at the age of 91.[6][1]

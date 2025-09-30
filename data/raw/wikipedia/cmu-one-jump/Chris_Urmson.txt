@@ -1,0 +1,25 @@
+Chris Urmson is a Canadian engineer, academic, and entrepreneur. He co-founded Aurora Innovation, a company developing self-driving technology, in 2017 and serves as its CEO.[1]
+
+While making the car at Carnegie Mellon University, Urmson's technical leadership was critical in the development of his team's robotic vehicles that participated in the DARPA Grand Challenges in 2004 and 2005 and the Urban Challenge in 2007.[2] He was one of the original leaders of Google's self-driving car project, which later spun off into Waymo in 2016.[3]
+
+Urmson was born in Canada in 1976, the son of emigrants from England. Urmson's father worked for the Correctional Service of Canada and eventually served as the warden of the Kent Institution. As a child, Urmson lived in Trenton, Ontario; Victoria, British Columbia; and Winnipeg before settling in Saskatoon.[4]
+
+Urmson earned his BSc in computer engineering from the University of Manitoba in 1998 and PhD in robotics from Carnegie Mellon University in 2005. His thesis was entitled "Navigation Regimes for Off-Road Autonomy".[5]
+
+Chris Urmson became a faculty member of the Robotics Institute at CMU, and his research concentrated on motion planning and perception for robotic vehicles.
+
+He also served as the technical director of the DARPA Urban and Grand Challenge teams. Urmson and the CMU Tartan "Red" Racing team developed a robotic vehicle called Sandstorm, a converted Humvee, which went the furthest distance in the DARPA Grand Challenge in 2004 (however, no winner was declared that year). With Sandstorm and H1ghlander, a modified Hummer H1, CMU placed second and third in the 2005 DARPA Grand Challenge. In the DARPA Urban Challenge in 2007, his team developed a vehicle called Boss, a Chevy Tahoe, which won the competition.[2]
+
+After his victory in the DARPA Urban Challenge, Urmson was approached by Google to lead their self-driving car project.[6][7][8] Urmson led Google's self-driving car project for nearly eight years, during the time Google vehicles accumulated 1.8 million miles of test driving. Urmson left Google in 2016.[9][3]
+
+Urmson served as the CTO of X, Google's self-driving car team, joining in 2009 and taking over from Sebastian Thrun as project lead in 2013.[10] He was the main engineer who built the code running Google's autonomous software.[11] Urmson left the company in 2016.[12]
+
+Urmson founded Aurora Innovation with Sterling Anderson, the former director of Tesla Autopilot, and Drew Bagnell, Uber's former autonomy and perception lead.[13][14] Aurora is a startup dedicated to driverless car software, data and hardware, though not the cars themselves.[15][11] With Aurora, Urmson aims to apply machine learning to the motion planning and perception components of autonomy simultaneously.[16]
+
+Aurora raised nearly $700M through Series B financing,[17] while partnering with existing transportation companies, including Fiat Chrysler and Hyundai/Kia Motors, and acquired Blackmore, a company specializing in Frequency Modulated Continuous Wave (FMCW) lidar.[18]
+
+As of December 2019, Aurora Innovation has almost 400 employees with offices in Palo Alto, Pittsburgh, San Francisco, and Bozeman, Montana.[19] Urmson and Aurora are focused on creating a transportation ecosystem around the Aurora Driver by partnering with automakers, logistics services, mobility services, and fleet management providers.[20] The Aurora Driver itself is composed of sensors, pathfinding software, and a computer which supports and integrates them both with the vehicle.[21]
+
+In December 2020, it was announced that Uber had invested 400 million dollars in Aurora, which would take over Uber's self-driving vehicle project. While Uber had initially attempted to develop self-driving taxis to replace drivers, Aurora will shift to developing a self-driving semi-truck.[22]
+
+In November 2021, Aurora merged with Reinvent Technology Partners Y, a Special Purpose Acquisition Company (SPAC).[23] This allows the company to go public. 

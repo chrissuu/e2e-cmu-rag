@@ -1,0 +1,15 @@
+pittsburgh does not = all of swpa, this needs to be cleaned up
+
+Surely the Pittsburgh Youth Ballet is not a college or university --Brad
+
+What is the purpose of this template?  Is it really desirable to have a list of all surrounding universities on each of the university pages?  It seems that people visiting one university is generally not interested in learning about other universities that's linked to the university in question only by physical proximity.  Adding this template to each of the university pages adds significant bulk.
+
+That is not to say that the information contained within the template might not be interesting in a different context.  For instance, this could be interesting material for the Pittsburgh, PA article. --BenjaminTsai 05:52, 27 December 2005 (UTC)[reply]
+
+Point Park is currently listed as a college.  It should be listed under "Universities", as Point Park is an accredited university according to the MSCHE and Pennsylvania Department of Education. --Hans404
+
+Do we really even need to distinguish between them?  After all, the point of this template is NOT to classify Pittsburgh area higher education, but to simply LIST THEM so that users can browse to the other articles.
+
+So, rather than quibble over university vs. college, lets just list them all alphabetically under a single box without any categorization.
+
+I doubt anyone ponders over which category a given school is in while using the template.  Also, since this categorization is so controversial in the first place, it may actually be a hindrance to the easy navigation to the next school the user wants to visit, since they are likely unsure of where to look for it.  Whereas if they were just listed alphabetically, then there is no controversy and one just clicks the school and we are done. Odcdtd45 02:46, 21 June 2007 (UTC)[reply]

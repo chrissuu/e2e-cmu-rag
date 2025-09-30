@@ -1,0 +1,21 @@
+Avadis "Avie" Tevanian, Jr. (born 1961) is an American software engineer and former senior vice president of software engineering at Apple from 1997 to 2003, before serving as chief software technology officer from 2003 to 2006.[1] There, he redesigned NeXTSTEP  to become macOS. Apple's macOS and iOS both incorporate the Mach Kernel, and iPadOS, watchOS, and tvOS are all derived from iOS. He was a longtime friend of Steve Jobs.[2] At Carnegie Mellon University, he was a principal designer and engineer of the Mach operating system (also known as the Mach kernel). He used that work at NeXT Inc. as the foundation of the NeXTSTEP operating system.
+
+Tevanian is from Westbrook, Maine.[3] He is of Armenian descent.[4] Tevanian cloned the 1980s arcade game Missile Command, giving it the same name in a version for the Xerox Alto, and Mac Missiles! for the Macintosh platform.[5] He has a B.A. degree in mathematics from the University of Rochester and M.S. and Ph.D. degrees in computer science from Carnegie Mellon University. There, he was a principal designer and engineer of the Mach operating system,[6] along with Richard Rashid.
+
+He was Vice President of Software Engineering at NeXT Inc. and was responsible for managing NeXT's software engineering department. There, he designed the NeXTSTEP operating system, based upon his previous academic work on Mach.[6]
+
+He was senior vice president of software engineering at Apple from 1997 to 2003, and then chief software technology officer from 2003 to 2006. There, he redesigned NeXTSTEP to become macOS, which became iOS.[1][6]
+
+In United States v. Microsoft in 2001, he was a witness for the United States Department of Justice, testifying against Microsoft.[7]
+
+In 2001, Bertrand Serlet and Tevanian initiated a secret project at the request of Steve Jobs, to sell MacOS on Vaio laptops.[8] Apple demonstrated the product to Sony executives at a golf party in Hawaii, with the most expensive Vaio they could acquire.[9] Sony refused, arguing Vaio's sales had just started to grow after years of difficulties.[10]
+
+Tevanian left Apple on March 31, 2006, and joined the boards of both Dolby Labs and Theranos, Inc.[11][12] He resigned from the board of Theranos in late 2007, with an acrimonious ending as he faced legal threats and was forced to waive his right to buy a company co-founder's shares, actions he believed were in retaliation for the scepticism he was often alone in expressing about the company's finances and progress in developing its technology at board meetings.[13]
+
+In 2019, Tevanian gave a wide-ranging interview on his time at Theranos for a six-part podcast series called "The Dropout" produced by ABC News.[14] In the interview, he said: "I had seen so many things that were bad go on. I would never expect anyone would behave the way that she [Elizabeth Holmes] behaved as a CEO. And believe me, I worked for Steve Jobs. I saw some crazy things. But Elizabeth took it to a new level.”[14]
+
+In May 2006, he joined the board of Tellme Networks, which was later sold to Microsoft.[15][16]
+
+On January 12, 2010, he became managing director of Elevation Partners.[17]
+
+In July 2015, he cofounded NextEquity Partners and as of 2017 is serving as Managing Director.[18]

@@ -1,0 +1,13 @@
+Marshall Kirk McKusick (born January 19, 1954) is an American computer scientist, known for his extensive work on BSD UNIX, from the 1980s to FreeBSD in the present day.  He served on the board of the USENIX Association from 1986 to 1992 and again from 2000 to 2006,[1] including terms as president from 1990 to 1992 and 2000 to 2002.[2] He served on the editorial board of ACM Queue Magazine from 2002 to 2019.[3] He served on the board of the FreeBSD Foundation from 2012 to 2022.[4] He is known to friends and colleagues as "Kirk".
+
+McKusick lives in California with Eric Allman, his partner since graduate school, whom he married in October, 2013.[5][6]
+
+McKusick received his B.S. in electrical engineering from Cornell University, and two M.S. degrees (in 1979 and 1980 respectively) and a Ph.D. in computer science from the University of California, Berkeley in 1984.[7]
+
+McKusick started with BSD by virtue of the fact that he shared an office at Berkeley with Bill Joy, who spearheaded the beginnings of the BSD system.[8]
+
+Some of his largest contributions to BSD have been to the file system. He helped to design the original Berkeley Fast File System (FFS). In the late 1990s, he implemented soft updates, an alternative approach to maintaining disk integrity after a crash or power outage, in FFS, and a revised version of Unix File System (UFS) known as "UFS2". The magic number used in the UFS2 super block structure reflects McKusick's birth date: #define FS_UFS2_MAGIC 0x19540119 (as found in /usr/include/ufs/ffs/fs.h on FreeBSD systems). It is included as an easter egg.
+
+He was also primarily responsible for creating the complementary features of filesystem snapshots and background fsck (file system check and repair), which both integrate closely with soft updates.  After the filesystem snapshot, the filesystem can be brought up immediately after a power outage, and fsck can run as a background process.
+
+The Design and Implementation series of books are regarded as very high-quality works in computer science.[citation needed] They have been influential in the development of the BSD descendants.[citation needed]  The BSD Daemon, often used to identify BSD, is copyrighted by Marshall Kirk McKusick.[9]

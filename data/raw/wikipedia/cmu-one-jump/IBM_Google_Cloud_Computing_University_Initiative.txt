@@ -1,0 +1,27 @@
+IBM was a 2009 project using the resources developed in 2007's IBM/Google Cloud Computing partnership. This initiative was to provide access to cloud computing for the universities of all countries.[1]
+
+This initiative was funded by the National Science Foundation awarding $5 million in grants to 14 universities, including University of Washington, Carnegie Mellon University, and Massachusetts Institute of Technology.[1] The goal of this initiative was to enhance university curricula in parallel programming techniques and to promote cloud computing research and development.[2]
+
+With funding help from the U.S. National Science Foundation, the cloud computing initiative provided assistance to hundreds of university scientists working on research projects.[3]
+
+By 2011, Google and IBM were completing the program since high-performance cloud computing clusters had become widely available to researchers at reasonable costs.[4]
+
+Public Clouds - Provide a flexible and cost-effective solution for individuals and organizations to access computing resources. They are managed by third-party providers. The cloud infrastructures are commercial cloud infrastructures. There is very minimal financial investment, these clouds operates on a pay-per-use basis.
+
+Private Clouds- The cloud infrastructures are dedicated infrastructures maintained for a specific organization, either in-house or third-party. They operate mainly for the benefit of the organization and is usually managed by the organization's IT department. 
+
+Hybrid Clouds- Integration of both private and public cloud environments. This allows movement of data and applications between them to provide more flexibility.
+
+Community Cloud - This cloud infrastructure is a shared infrastructure used by multiple organizations with similar interests and need.
+
+Data Protection- Data protection is a critical concern for enterprises, which causes them to be hesitant to trust vendors with their data security. The worry is data loss to competitors and maintaining consumer confidentiality. In cloud environments, the responsibility for data security shifts to service providers, which makes the enterprises to rely on them for protection. 
+
+Security and Privacy - Security and privacy are major concerns in cloud computing, especially around data storage and monitoring by service providers. Moving to a shared infrastructure raises the risk of unauthorized access, identity management and many more.
+
+Data and Application Interoperability - This allows systems to uses standard interfaces to work together, regardless of their location. Whether in public clouds, private clouds or traditional IT environments. Cloud providers must support interoperability standards, allowing organizations to integrate capabilities from various providers into their applications.
+
+Management Capabilities - Essential features like auto-scaling are critical for many enterprises. There is a significant opportunity to enhance scalability to enhance scalability and load balancing functionalities currently offered. 
+
+Metering and Monitoring- Cloud providers need effective monitoring of system performance across various solutions. They also must provide consistent formats for monitoring cloud applications and compatibility with existing systems. 
+
+[1]

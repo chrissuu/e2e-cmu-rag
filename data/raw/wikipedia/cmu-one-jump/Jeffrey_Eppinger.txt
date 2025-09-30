@@ -1,0 +1,11 @@
+Jeffrey Lee Eppinger (born ca 1960)[citation needed] is an American computer scientist, entrepreneur and professor at the Carnegie Mellon University, School of Computer Science.[1]
+
+Eppinger was a student at Carnegie Mellon University, where in 1983, he won the George E. Forsythe Award for best undergraduate paper on his research in binary search trees.[1][2] Eppinger had made empirical studies of their behaviour under random deletions and insertions.[3]
+
+Eppinger earned his PhD in Computer Science in 1988.[1] His dissertation demonstrated the integration of the Mach Operating System's virtual memory with the Camelot Transaction System.[4] This recoverable virtual memory concept was subsequently used to implement the Coda file system.[citation needed]
+
+Eppinger was a co-founder of Transarc Corporation, which was acquired by IBM in 1994.[1][5]
+
+In 2001, Eppinger returned to Carnegie Mellon as Professor of the Practice in the School of Computer Science.[1]
+
+Eppinger is married with two children.[1]

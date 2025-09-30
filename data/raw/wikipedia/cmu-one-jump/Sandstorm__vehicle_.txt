@@ -1,0 +1,13 @@
+Sandstorm is an autonomous vehicle created by Carnegie Mellon University's Red Team, for the 2004 and 2005 DARPA Grand Challenge competition. It is a heavily modified 1986 M998 HMMWV.
+
+Sandstorm qualified in first position in the 2004 DARPA Grand Challenge.  It traveled the fastest and farthest (7.4 miles) during the race before high-centering on an embankment.
+
+The sensors used by Sandstorm in 2004 included three body-fixed non-stabilized short-range LIDAR laser-ranging units, one long-range (100m) software steerable 3-axis Gimbal based motion-attenuated LIDAR (housed within white dome on vehicle roof), a radar unit (developed in collaboration with the Duke University Robotics Team) (white cylindrical enclosure forward of Gimbal dome), and a pair of cameras for stereo vision.  Sandstorm also used an Applanix POS/LV system, providing a GPS and inertial navigation system for determining geographical position.
+
+Since the 2004 race Sandstorm has been continually tested and modified, logging hundreds of test miles.  Testing includes an unprecedented continuous 200 mile test run at an average of 28 miles per hour.
+
+The 2005 version of Sandstorm used six fixed LIDAR units, the steerable LIDAR, and both short and long range radar.
+
+Sandstorm competed in the 2005 DARPA Grand Challenge on October 8, qualifying third from the pole position behind Stanley and finished in 7 hours, 5 minutes, placing 2nd out of the five vehicles to complete the 132-mile course.
+
+This robotics-related article is a stub. You can help Wikipedia by expanding it.

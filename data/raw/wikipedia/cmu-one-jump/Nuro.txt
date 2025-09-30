@@ -1,0 +1,29 @@
+Nuro, Inc. is an American robotics company based in Mountain View, California. Founded by Jiajun Zhu and Dave Ferguson,[2] Nuro develops autonomous delivery vehicles and is the first company to receive an autonomous exemption from the National Highway Traffic Safety Administration.[3]
+
+The company was founded by engineers of Google's self-driving car project, Waymo. Jiajun Zhu served as the principal software engineer and Dave Ferguson joined in 2011 as the principal machine learning engineer.[4][5] Both left Waymo in 2016 and founded Nuro that September.[6]
+
+Nuro brought its robotic delivery vehicles to market in January 2018 with $92 million in funding from Greylock Partners and Gaorong Capital.[7]
+
+In February 2019 Nuro raised $940 million from SoftBank Group, which valued the company at $2.7 billion. Nuro said it would use the funds to expand its delivery service to new areas, add new partners, expand its fleet, and grow its business.[8] In September 2019, the company was ranked No. 10 on LinkedIn's Top 50 Startups List for 2019.[9]
+
+In November 2020, Nuro announced that they raised $500 million in their Series C funding round led by T. Rowe Price, with a post-money valuation of $5 billion.[10]
+
+In December 2020, Nuro acquired self-driving trucking startup Ike Robotics.[11] Over 55 Ike employees (including its three founders) joined Nuro's staff after the acquisition.[12][13]
+
+In August 2021, Nuro announced that it would spend $40 million on the construction of a manufacturing facility and test track for its self-driving robot vehicles, located in southern Nevada.[14]
+
+In November 2022, Nuro announced layoffs of 20 percent of its staff, or approximately 300 employees.[1]
+
+In May 2023, Nuro announced that it would layoff 30 percent of its staff, or approximately 340 employees.[15]
+
+In June 2018, Nuro announced its first partnership with Kroger to test the fully autonomous delivery of groceries.[16] On June 17, 2019, Nuro announced its partnership with Domino's Pizza.[17] Nuro and Domino's announced that the service would launch in Houston later in 2019.[18] The company began prescription delivery through CVS Pharmacy in May 2020.[19] In December 2021, Nuro announced a partnership to commercially deliver 7-Eleven goods.[20]
+
+In September 2022, Uber and Nuro announced a 10-year partnership for autonomous food deliveries starting in California and Texas.[21]
+
+In July 2025, another partnership was announced between Nuro, Uber, and Lucid for an autonomous taxi program based on Lucid Gravity vehicles.[22]
+
+Nuro officially launched in January 2018 and showcased its first product, an electric self-driving local commerce delivery vehicle. Known as the R1, it weighs 1,500 pounds (680 kg) and is similar in height but about half the width of a sedan.[23] This vehicle is designed to carry only cargo, with space for 12 grocery bags in the first model.[23]
+
+The pilot launched on August 16, 2018, in Scottsdale, Arizona at a Fry's Food and Drug store. Initially, self-driving Toyota Prius cars were used for the pilot.[24][25][26] On December 18, 2018, the R1 was officially launched into the pilot.[27] In February 2020, Nuro announced its plans to test R2, the second generation of self-driving vehicles, in Houston, Texas.[28]
+
+In April 2020, Nuro announced that the R2 prototype was being used to transport medical supplies around medical facilities in California.[29] The R2 is designed with no steering wheel, side view mirrors, or pedals.[30]

@@ -1,0 +1,95 @@
+Neutron scattering, the irregular dispersal of free neutrons by matter, can refer to either the naturally occurring physical process itself or to the man-made experimental techniques that use the natural process for investigating materials. The natural/physical phenomenon is of elemental importance in nuclear engineering and the nuclear sciences. Regarding the experimental technique, understanding and manipulating neutron scattering is fundamental to the applications used in crystallography, physics, physical chemistry, biophysics, and materials research.
+
+Neutron scattering is practiced at research reactors and spallation neutron sources that provide neutron radiation of varying intensities. Neutron diffraction (elastic scattering) techniques are used for analyzing structures; where inelastic neutron scattering is used in studying atomic vibrations and other excitations.
+
+"Fast neutrons" (see neutron temperature) have a kinetic energy above 1 MeV. They can be scattered by condensed matter—nuclei having kinetic energies far below 1 eV—as a valid experimental approximation of an elastic collision with a particle at rest. With each collision, the fast neutron transfers a significant part of its kinetic energy to the scattering nucleus (condensed matter), the more so the lighter the nucleus. And with each collision, the "fast" neutron is slowed  until it reaches thermal equilibrium with the material in which it is scattered.
+
+Neutron moderators are used to produce thermal neutrons, which have kinetic energies below 1 eV (T < 500K).[1] Thermal neutrons are used to maintain a nuclear chain reaction in a nuclear reactor, and as a research tool in neutron scattering experiments and other applications of neutron science (see below). The remainder of this article concentrates on the scattering of thermal neutrons.
+
+Because neutrons are electrically neutral, they penetrate more deeply into matter than electrically charged particles of comparable kinetic energy, and thus are valuable as probes of bulk properties.
+
+Neutrons interact with atomic nuclei and with magnetic fields from unpaired electrons, causing pronounced interference and energy transfer effects in neutron scattering experiments. Unlike an x-ray photon with a similar wavelength, which interacts with the electron cloud surrounding the nucleus, neutrons interact primarily with the nucleus itself, as described by Fermi's pseudopotential. Neutron scattering and absorption cross sections vary widely from isotope to isotope.
+
+Neutron scattering can be incoherent or coherent, also depending on isotope. Among all isotopes, hydrogen has the highest scattering cross section. Important elements like carbon and oxygen are quite visible in neutron scattering—this is in marked contrast to X-ray scattering where cross sections systematically increase with atomic number. Thus neutrons can be used to analyze materials with low atomic numbers, including proteins and surfactants. This can be done at synchrotron sources but very high intensities are needed, which may cause the structures to change. The nucleus provides a very short range, as isotropic potential varies randomly from isotope to isotope, which makes it possible to tune the (scattering) contrast to suit the experiment.
+
+Scattering almost always presents both elastic and inelastic components. The fraction of elastic scattering is determined by the Debye-Waller factor or the Mössbauer-Lamb factor. Depending on the research question, most measurements concentrate on either elastic or inelastic scattering.
+
+Achieving a precise velocity, i.e. a precise energy and de Broglie wavelength, of a neutron beam is important. Such single-energy beams are termed 'monochromatic', and monochromaticity is achieved either with a crystal monochromator or with a time of flight (TOF) spectrometer. In the time-of-flight technique, neutrons are sent through a sequence of two rotating slits such that only neutrons of a particular velocity are selected. Spallation sources have been developed that can create a rapid pulse of neutrons. The pulse contains neutrons of many different velocities or de Broglie wavelengths, but separate velocities of the scattered neutrons can be determined afterwards by measuring the time of flight of the neutrons between the sample and neutron detector.
+
+The neutron has a net electric charge of zero, but has a significant magnetic moment, although only about 0.1% of that of the electron. Nevertheless, it is large enough to scatter from local magnetic fields inside condensed matter, providing a weakly interacting and hence penetrating probe of ordered magnetic structures and electron spin fluctuations.[2]
+
+Inelastic neutron scattering is an experimental technique commonly used in condensed matter research to study atomic and molecular motion as well as magnetic and crystal field excitations.[3][4] It distinguishes itself from other neutron scattering techniques by resolving the change in kinetic energy that occurs when the collision between neutrons and the sample is an inelastic one. Results are generally communicated as the dynamic structure factor (also called inelastic scattering law) 
+
+
+
+S
+(
+
+Q
+
+,
+ω
+)
+
+
+{\displaystyle S(\mathbf {Q} ,\omega )}
+
+, sometimes also as the dynamic susceptibility 
+
+
+
+
+χ
+
+′
+′
+
+
+(
+
+Q
+
+,
+ω
+)
+
+
+{\displaystyle \chi ^{\prime \prime }(\mathbf {Q} ,\omega )}
+
+ where the scattering vector 
+
+
+
+
+Q
+
+
+
+{\displaystyle \mathbf {Q} }
+
+ is the difference between incoming and outgoing wave vector, and 
+
+
+
+ℏ
+ω
+
+
+{\displaystyle \hbar \omega }
+
+ is the energy change experienced by the sample (negative that of the scattered neutron). When results are plotted as function of 
+
+
+
+ω
+
+
+{\displaystyle \omega }
+
+, they can often be interpreted in the same way as spectra obtained by conventional spectroscopic techniques; insofar as inelastic neutron scattering can be seen as a special spectroscopy.
+
+Inelastic scattering experiments normally require a monochromatization of the incident or outgoing beam and an energy analysis of the scattered neutrons. This can be done either through time-of-flight techniques (neutron time-of-flight scattering) or through Bragg reflection from single crystals (neutron triple-axis spectroscopy, neutron backscattering). Monochromatization is not needed in echo techniques (neutron spin echo, neutron resonance spin echo), which use the quantum mechanical phase of the neutrons in addition to their amplitudes.[citation needed]
+
+The first neutron diffraction experiments were performed in the 1930s.[1] However it was not until around 1945, with the advent of nuclear reactors, that high neutron fluxes became possible, leading to the possibility of in-depth structure investigations. The first neutron-scattering instruments were installed in beam tubes at multi-purpose research reactors. In the 1960s, high-flux reactors were built that were optimized for beam-tube experiments. The development culminated in the high-flux reactor of the Institut Laue-Langevin (in operation since 1972) that achieved the highest neutron flux to this date. Besides a few high-flux sources, there were some twenty medium-flux reactor sources at  universities and other research institutes. Starting in the 1980s, many of these medium-flux sources were shut down, and research concentrated at a few world-leading high-flux sources.
+
+Today, most neutron scattering experiments are performed by research scientists who apply for beamtime at neutron sources through a formal proposal procedure. Because of the low count rates involved in neutron scattering experiments, relatively long periods of beam time (on the order of days) are usually required for usable data sets. Proposals are assessed for feasibility and scientific interest.[5]

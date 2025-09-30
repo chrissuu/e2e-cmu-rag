@@ -1,0 +1,5 @@
+The Pittsburgh Science of Learning Center (aka LearnLab) is a Science of Learning Center funded by the National Science Foundation and managed by Carnegie Mellon University and the University of Pittsburgh.[1][2] The PSLC is led by Kenneth Koedinger and Charles Perfetti, and includes many other notable scientists, including Vincent Aleven and David Klahr.
+
+The PSLC theory wiki collects and organizes research results, including a list of instructional principles that are supported by learning science research. The wiki is open and freely editable.[3]
+
+Several notable tools, methods, and theories were developed at the PSLC, including DataShop,[4] LearnSphere,[5] the Knowledge-Learning-Instruction Framework,[6] and the Baker Rodrigo Ocumpaugh Monitoring Protocol.

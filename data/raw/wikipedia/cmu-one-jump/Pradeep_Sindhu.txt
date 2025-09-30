@@ -1,0 +1,13 @@
+Pradeep Sindhu is an Indian-American business executive. He is the chairman, chief development officer (CDO) and co-founder of data center technology company Fungible. Previously, he co-founded Juniper Networks, where he was the chief scientist and CEO until 1996.
+
+Sindhu holds a B.Tech. in electrical engineering (1974) from the Indian Institute of Technology, Kanpur, M.S. in electrical engineering (1976) from the University of Hawaiʻi, and a PhD (1982) in computer science from Carnegie Mellon University[1] where he studied under Bob Sproull.
+
+Sindhu had worked at the Computer Science Lab of Xerox PARC for 11 years.[1] Sindhu worked on design tools for very-large-scale integration (VLSI) of integrated circuits and high-speed interconnects for shared memory architecture multiprocessors.
+
+Sindhu founded Juniper Networks along with Dennis Ferguson and Bjorn Liencres in February 1996 in California.[1] The company was subsequently reincorporated in Delaware in March 1998 and went public on 25 June 1999.[2]
+
+Sindhu worked on the architecture, design, and development of the Juniper M40 data router.[3]
+
+Sindhu's earlier work at Xerox PARC influenced the architecture, design, and development of Sun Microsystems' first high-performance multiprocessor system family, which included systems such as the SPARCcenter 2000 and SPARCserver 1000.[4]
+
+Sindhu is the founder and CEO of data center technology company Fungible.[5]

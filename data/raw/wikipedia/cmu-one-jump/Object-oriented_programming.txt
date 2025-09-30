@@ -1,0 +1,118 @@
+Object-oriented programming (OOP) is a programming paradigm based on the object[1] – a software entity that encapsulates data and function(s). An OOP computer program consists of objects that interact with one another.[2][3] A programming language that provides OOP features is classified as an OOP language but as the set of features that contribute to OOP is contended, classifying a language as OOP and the degree to which it supports or is OOP, are debatable. As paradigms are not mutually exclusive, a language can be multi-paradigm; can be categorized as more than only OOP.
+
+Sometimes, objects represent real-world things and processes in digital form.[4] For example, a graphics program may have objects such as circle, square, and menu. An online shopping system might have objects such as shopping cart, customer, and product. Niklaus Wirth said, "This paradigm [OOP] closely reflects the structure of systems in the real world and is therefore well suited to model complex systems with complex behavior".[5]
+
+However, more often, objects represent abstract entities, like an open file or a unit converter. Not everyone agrees that OOP makes it easy to copy the real world exactly or that doing so is even necessary. Bob Martin suggests that because classes are software, their relationships don't match the real-world relationships they represent.[6] Bertrand Meyer argues that a program is not a model of the world but a model of some part of the world; "Reality is a cousin twice removed".[7] Steve Yegge noted that natural languages lack the OOP approach of naming a thing (object) before an action (method), as opposed to functional programming which does the reverse.[8] This can make an OOP solution more complex than one written via procedural programming.[9]
+
+Notable languages with OOP support include Ada, ActionScript, C++, Common Lisp, C#, Dart, Eiffel, Fortran 2003, Haxe, Java,[10] JavaScript, Kotlin, Logo, MATLAB, Objective-C, Object Pascal, Perl, PHP, Python, R, Raku, Ruby, Scala, SIMSCRIPT, Simula, Smalltalk, Swift, Vala and Visual Basic (.NET).
+
+The idea of "objects" in programming began with the artificial intelligence group at Massachusetts Institute of Technology (MIT) in the late 1950s and early 1960s. Here, "object" referred to LISP atoms with identified properties (attributes).[11][12]
+Another early example was Sketchpad created by Ivan Sutherland at MIT in 1960–1961. In the glossary of his technical report, Sutherland defined terms like "object" and "instance" (with the class concept covered by "master" or "definition"), albeit specialized to graphical interaction.[13] Later, in 1968, AED-0, MIT's version of the ALGOL programming language, connected data structures ("plexes") and procedures, prefiguring what were later termed "messages", "methods", and "member functions".[14][15]
+Topics such as data abstraction and modular programming were common points of discussion at this time.
+
+Meanwhile, in Norway, Simula was developed during the years 1961–1967.[14] Simula introduced essential object-oriented ideas, such as classes, inheritance, and dynamic binding.[16]
+Simula was used mainly by researchers involved with physical modelling, like the movement of ships and their content through cargo ports.[16] Simula is generally accepted as being the first language with the primary features and framework of an object-oriented language.[17]
+
+I thought of objects being like biological cells and/or individual computers on a network, only able to communicate with messages (so messaging came at the very beginning – it took a while to see how to do messaging in a programming language efficiently enough to be useful).
+
+Influenced by both MIT and Simula, Alan Kay began developing his own ideas in November 1966. He would go on to create Smalltalk, an influential OOP language. By 1967, Kay was already using the term "object-oriented programming" in conversation.[1] Although sometimes called the "father" of OOP,[18] Kay has said his ideas differ from how OOP is commonly understood, and has implied that the computer science establishment did not adopt his notion.[1]
+A 1976 MIT memo co-authored by Barbara Liskov lists Simula 67, CLU, and Alphard as object-oriented languages, but does not mention Smalltalk.[19]
+
+In the 1970s, the first version of the Smalltalk programming language was developed at Xerox PARC by Alan Kay, Dan Ingalls and Adele Goldberg. Smalltalk-72 was notable for use of objects at the language level and its graphical development environment.[20] Smalltalk was a fully dynamic system, allowing users to create and modify classes as they worked.[21] Much of the theory of OOP was developed in the context of Smalltalk, for example multiple inheritance.[22]
+
+In the late 1970s and 1980s, OOP rose to prominence. The Flavors object-oriented Lisp was developed starting 1979, introducing multiple inheritance and mixins.[23] In August 1981, Byte Magazine highlighted Smalltalk and OOP, introducing these ideas to a wide audience.[24] LOOPS, the object system for Interlisp-D, was influenced by Smalltalk and Flavors, and a paper about it was published in 1982.[25] In 1986, the first Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) was attended by 1,000 people. This conference marked the start of efforts to consolidate Lisp object systems, eventually resulting in the Common Lisp Object System. In the 1980s, there were a few attempts to design processor architectures that included hardware support for objects in memory, but these were not successful. Examples include the Intel iAPX 432 and the Linn Smart Rekursiv.
+
+In the mid-1980s, new object-oriented languages like Objective-C, C++, and Eiffel emerged. Objective-C was developed by Brad Cox, who had used Smalltalk at ITT Inc. Bjarne Stroustrup created C++ based on his experience using Simula for his PhD thesis.[20] Bertrand Meyer produced the first design of the Eiffel language in 1985, which focused on software quality using a design by contract approach.[26]
+
+In the 1990s, OOP became the main way of programming, especially as more languages supported it. These included Visual FoxPro 3.0,[27][28] C++,[29] and Delphi[citation needed]. OOP became even more popular with the rise of graphical user interfaces, which used objects for buttons, menus and other elements. One well-known example is Apple's Cocoa framework, used on macOS and written in Objective-C. OOP toolkits also enhanced the popularity of event-driven programming.[citation needed]
+
+At ETH Zürich, Niklaus Wirth and his colleagues created new approaches to OOP. Modula-2 (1978) and Oberon (1987), included a distinctive approach to object orientation, classes, and type checking across module boundaries. Inheritance is not obvious in Wirth's design since his nomenclature looks in the opposite direction: It is called type extension and the viewpoint is from the parent down to the inheritor.
+
+Many programming languages that were initially developed before OOP was popular have been augmented with object-oriented features, including Ada, BASIC, Fortran, Pascal, and COBOL.
+
+The OOP features provided by languages varies. Below are some common features of OOP languages.[30][31][32][33] Comparing OOP with other styles, like relational programming, is difficult because there isn't a clear, agreed-upon definition of OOP.[34]
+
+An object encapsulates fields and methods. A field (a.k.a. attribute or property) contains information (a.k.a. state) as a variable. A method (a.k.a. function or action) defines behavior via logic code. Encapsulation is about keeping related code together.
+
+Information hiding is organizing code so that it is accessible only to the code that needs it; not to the rest of the codebase. The internal details of an object are hidden from the outside code, allowing for changing how an object works without affecting its interface and therefore other code. Hiding information helps prevent problems when changing the code.[35] Objects act as a barrier between their internal workings and external, consuming code. Consuming code can only interact with an object via its public members. 
+
+Some programming languages, like Java, provide information hiding via visibility key words (private and public).[36] Some languages don't provide a visibility feature, but developers might follow a convention such as starting a private member name with an underscore. Intermediate levels of access also exist, such as Java's protected keyword, (which allows access from the same class and its subclasses, but not objects of a different class), and the internal keyword in C#, Swift, and Kotlin, which restricts access to files within the same module.[37]
+
+Supporters of information hiding and data abstraction say it makes code easier to reuse and intuitively represents real-world situations.[38][39] However, others argue that OOP does not enhance readability or modularity.[40][41] Eric S. Raymond has written that OOP languages tend to encourage thickly layered programs that destroy transparency.[42] Raymond compares this unfavourably to the approach taken with Unix and the C language.[42]
+
+SOLID includes the open/closed principle, which says that classes and functions should be "open for extension, but closed for modification". Luca Cardelli has stated that OOP languages have "extremely poor modularity properties with respect to class extension and modification", and tend to be extremely complex.[40] The latter point is reiterated by Joe Armstrong, the principal inventor of Erlang, who is quoted as saying:[41]
+
+The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+Leo Brodie says that information hiding can lead to duplicate code,[43] which goes against the don't repeat yourself rule of software development.[44]
+
+Via object composition, an object can contain other objects. For example, an Employee object might contain an Address object, along with other information like name and position. Composition is a "has-a" relationships, like "an employee has an address".
+
+Inheritance be supported via the class or the prototype, which have differences but use similar terms like object and instance.
+
+In class-based programming, the most common type of OOP, an object is an instance of a class. The class defines the data (variables) and methods (logic). An object is created via the constructor. Elements of class may include:
+
+Classes may inherit from other classes, creating a hierarchy of classes: a case of a subclass inheriting from a super-class. For example, an Employee class might inherit from a Person class which endows the Employee object with the variables from Person. The subclass may add variables and methods that do not affect the super-class. Most languages also allow the subclass to override super-class methods. Some languages support multiple inheritance, where a class can inherit from more than one class, and other languages similarly support mixins or traits. For example, a mixin called UnicodeConversionMixin might add a method unicode_to_ascii() to both a FileReader and a WebPageScraper class.
+
+An abstract class cannot be directly instantiated as an object. It is only used as a super-class. 
+
+Other classes are utility classes which contain only class variables and methods and are not meant to be instantiated or subclassed.[45]
+
+Instead of providing a class concept, in prototype-based programming, an object is linked to another object, called its prototype or parent. In Self, an object may have multiple or no parents,[46] but in the most popular prototype-based language, JavaScript, an object has exactly one prototype link, up to the base object whose prototype is null.
+
+A prototype acts as a model for new objects. For example, if you have an object fruit, you can make two objects apple and orange that share traits of the fruit prototype. Prototype-based languages also allow objects to have their own unique properties, so the apple object might have an attribute sugar_content, while the orange or fruit objects do not.
+
+Some languages, like Go, don't support inheritance.[47] Instead, they encourage "composition over inheritance", where objects are built using smaller parts instead of parent-child relationships. For example, instead of inheriting from class Person, the Employee class could simply contain a Person object. This lets the Employee class control how much of Person it exposes to other parts of the program. Delegation is another language feature that can be used as an alternative to inheritance.
+
+Programmers have different opinions on inheritance. Bjarne Stroustrup, author of C++, has stated that it is possible to do OOP without inheritance.[48] Rob Pike has criticized inheritance for creating complex hierarchies instead of simpler solutions.[49]
+
+People often think that if one class inherits from another, it means the subclass "is a" more specific version of the original class. This presumes the program semantics are that objects from the subclass can always replace objects from the original class without problems. This concept is known as behavioral subtyping, more specifically the Liskov substitution principle.
+
+However, this is often not true, especially in programming languages that allow mutable objects, objects that change after they are created. In fact, subtype polymorphism as enforced by the type checker in OOP languages cannot guarantee behavioral subtyping in most if not all contexts. For example, the circle-ellipse problem is notoriously difficult to handle using OOP's concept of inheritance. Behavioral subtyping is undecidable in general, so it cannot be easily implemented by a compiler. Because of this, programmers must carefully design class hierarchies to avoid mistakes that the programming language itself cannot catch.
+
+A method may be invoked via dynamic dispatch such that the method is selected at runtime instead of compile time. If the method choice depends on more than one type of object (such as other objects passed as parameters), it's called multiple dispatch.
+
+Dynamic dispatch works together with inheritance: if an object doesn't have the requested method, it looks up to its parent class (delegation), and continues up the chain to find a matching method.
+
+Message passing is when the method name and its inputs are sent like a message to the object for it to act on.
+
+Polymorphism refers to subtyping or subtype polymorphism, where a function can work with a specific interface and thus manipulate entities of different classes in a uniform manner.[50]
+
+For example, imagine a program has two shapes: a circle and a square. Both come from a common class called "Shape." Each shape has its own way of drawing itself. With subtype polymorphism, the program doesn't need to know the type of each shape, and can simply call the "Draw" method for each shape. The programming language runtime will ensure the correct version of the "Draw" method runs for each shape. Because the details of each shape are handled inside their own classes, this makes the code simpler and more organized, enabling strong separation of concerns.
+
+An object's methods can access the object's data. Many programming languages use a special word, like this or self, to refer to the current object. In languages that support open recursion, a method in an object can call other methods in the same object, including itself, using this special word. This allows a method in one class to call another method defined later in a subclass, a feature known as late binding.
+
+Design patterns are common solutions to problems in software design. Some design patterns are especially useful for OOP, and design patterns are typically introduced in an OOP context.
+
+The following are notable software design patterns for OOP objects.[51]
+
+A common anti-pattern is the God object, an object that knows or does too much.
+
+Design Patterns: Elements of Reusable Object-Oriented Software is a famous book published in 1994 by four authors: Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides. People often call them the "Gang of Four". The book talks about the strengths and weaknesses of OOP and explains 23 common ways to solve programming problems.
+
+These solutions, called "design patterns," are grouped into three types:
+
+Both OOP and relational database management systems (RDBMSs) are widely used in software today. However, relational databases don't store objects directly, which creates a challenge when using them together. This issue is called object-relational impedance mismatch.
+
+To solve this problem, developers use different methods, but none of them are perfect.[52] One of the most common solutions is object-relational mapping (ORM), which helps connect object-oriented programs to relational databases. Examples of ORM tools include Visual FoxPro, Java Data Objects, and Ruby on Rails ActiveRecord.
+
+Some databases, called object databases, are designed to work with OOP. However, they have not been as popular or successful as relational databases.
+
+Date and Darwen have proposed a theoretical foundation that uses OOP as a kind of customizable type system to support RDBMSs, but it forbids objects containing pointers to other objects.[53]
+
+In responsibility-driven design, classes are built around what they need to do and the information they share, in the form of a contract. This is different from data-driven design, where classes are built based on the data they need to store. According to Wirfs-Brock and Wilkerson, the originators of responsibility-driven design, responsibility-driven design is the better approach.[54]
+
+SOLID is a set of five rules for designing good software, created by Michael Feathers:
+
+GRASP (General Responsibility Assignment Software Patterns) is another set of software design rules, created by Craig Larman, that helps developers assign responsibilities to different parts of a program:[55]
+
+Researchers have tried to formally define the semantics of OOP. Inheritance presents difficulties, particularly with the interactions between open recursion and encapsulated state. Researchers have used recursive types and co-algebraic data types to incorporate essential features of OOP.[56] Abadi and Cardelli defined several extensions of System F<: that deal with mutable objects, allowing both subtype polymorphism and parametric polymorphism (generics), and were able to formally model many OOP concepts and constructs.[57] Although far from trivial, static analysis of object-oriented programming languages such as Java is a mature field,[58] with several commercial tools.[59]
+
+Some believe that OOP places too much focus on using objects rather than on algorithms and data structures.[60][61] For example, programmer Rob Pike pointed out that OOP can make programmers think more about type hierarchy than composition.[62] He has called OOP "the Roman numerals of computing".[63] Rich Hickey, creator of Clojure, described OOP as overly simplistic, especially when it comes to representing real-world things that change over time.[61] Alexander Stepanov said that OOP tries to fit everything into a single type, which can be limiting. He argued that sometimes we need multisorted algebras: families of interfaces that span multiple types, such as in generic programming. Stepanov also said that calling everything an "object" doesn't add much understanding.[60]
+
+OOP was created to make code easier to reuse and maintain.[64] However, it was not designed to clearly show the flow of a program's instructions. That was left to the compiler. As computers began using more parallel processing and multiple threads, it became more important to understand and control how instructions flow. This is difficult to do with OOP.[65][66][67][68]
+
+Many popular programming languages, like C++, Java, and Python, use OOP. In the past, OOP was widely accepted,[69] but recently, some programmers have criticized it and prefer functional programming instead.[70] A study by Potok et al. found no major difference in productivity between OOP and other methods.[71]
+
+Paul Graham, a well-known computer scientist, believes big companies like OOP because it helps manage large teams of average programmers. He argues that OOP adds structure, making it harder for one person to make serious mistakes, but at the same time restrains smart programmers.[72] Eric S. Raymond, a Unix programmer and open-source software advocate, argues that OOP is not the best way to write programs.[42]
+
+Richard Feldman says that, while OOP features helped some languages stay organized, their popularity comes from other reasons.[73] Lawrence Krubner argues that OOP doesn't offer special advantages compared to other styles, like functional programming, and can complicate coding.[74] Luca Cardelli says that OOP is slower and takes longer to compile than procedural programming.[40]

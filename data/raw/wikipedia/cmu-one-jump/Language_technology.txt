@@ -1,0 +1,6 @@
+Language technology, often called human language technology (HLT), studies methods of how computer programs or electronic devices can analyze, produce, modify or respond to human texts and speech.[1] Working with language technology often requires broad knowledge not only about linguistics but also about computer science. It consists of natural language processing (NLP) and computational linguistics (CL) on the one hand, many application oriented aspects of these, and more low-level aspects such as encoding and speech technology on the other hand. 
+
+Note that these elementary aspects are normally not considered to be within the scope of related terms such as natural language processing and (applied) computational linguistics, which are otherwise near-synonyms. As an example, for many of the world's lesser known languages, the foundation of language technology is providing communities with fonts and keyboard setups so their languages can be written on computers or mobile devices.[2]
+
+This computational linguistics-related article is a stub. You can help Wikipedia by expanding it.
+This article about natural language processing is a stub. You can help Wikipedia by expanding it.

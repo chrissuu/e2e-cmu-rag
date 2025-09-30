@@ -1,0 +1,13 @@
+Severin Hacker (born July 6, 1984) is a Swiss-American computer scientist who is the co-founder and CTO of Duolingo, the world's most popular language-learning platform.[1][2][3][4]
+
+Hacker was born and raised in Zug and studied at ETH Zurich. In a 2020 interview, Hacker specified that gaming played a large role in his interest in computer science: "What originally drew me to computers was video games and the desire to build your own games and understand how those games are built. I was somewhat obsessed."[5]
+
+He moved to Pittsburgh to study at Carnegie Mellon University where he co-founded Duolingo with Luis von Ahn in 2009.[6]
+
+He received his BS in computer science from ETH Zurich in 2006 and his Ph.D. in computer science from Carnegie Mellon University in 2014.
+
+Initially, Hacker and his former graduate advisor, Luis von Ahn, wanted to develop an application that could translate internet sites, so that they would be accessible for non-English speakers. They felt that automated translation software wasn't as effective as using the skills and knowledge of bilingual speakers.[7] During Hacker's doctoral studies, Duolingo became a by-product of this idea, or "happy mistake."[8] Hacker's goal for Duolingo was to make it "100% free" so the most disadvantaged person with an internet connection would still have access to it.[7]
+
+Hacker and his team of PhD students used machine learning to personalize Duolingo to each user. Specifically, they wanted to predict what language concepts the user was on the verge of forgetting. In 2012, a study by American universities showed that spending 34 hours of learning on Duolingo was equivalent to a full-semester of a college language course. In 2015, Hacker and von Ahn started selling translations, such as to the Spanish tech news group of CNN.[9]
+
+There are two parts to Hacker's "Retention Philosophy": learning should be fun and motivation should remain high.[9] Through Duolingo, Hacker wants users to have the option to increase their 'stay-tuned quota' which involves adjusting the learning time and difficulty of the course. Another idea derived from Hacker's philosophy was to apply gamification to Duolingo. This was to apply game elements and principles instead of classroom learning tools to the course.[9]

@@ -1,0 +1,24 @@
+IEEE John von Neumann Medal
+The Economist Innovation Award
+NAE Foreign Member
+
+James Arthur Gosling OC (born 19 May 1955) is a Canadian computer scientist, best known as the founder and lead designer behind the Java programming language.[3]
+
+Gosling was elected a member of the National Academy of Engineering in 2004 for the conception and development of the architecture for the Java programming language and for contributions to windowing systems.
+
+Gosling was born in Calgary, Alberta, to Joyce Morrison and Dave Gosling. He is of English, Welsh, Scottish, and Icelandic descent. Gosling attended William Aberhart High School. While in high school, he wrote some of the software to analyze data from the ISIS 2 satellite, working for the University of Calgary physics department.[4] He received a Bachelor of Science from the University of Calgary[5] and his M.A. and Ph.D. from Carnegie Mellon University, all in computer science.[2][6][7] He wrote a version of Emacs called Gosling Emacs (Gosmacs) while working toward his doctorate. He built a multi-processor version of Unix for a 16-way computer system[8] while at Carnegie Mellon University, before joining Sun Microsystems.
+
+Gosling joined Sun Microsystems in 1984, where he worked for the next 26 years.[9] At Sun he invented an early Unix windowing system called NeWS, which became a lesser-used alternative to the still used X Window System, because Sun did not give it an open source license.[citation needed]
+
+He is known as the father of the Java programming language.[10][11] He got the idea for the Java VM while writing a program to port software from a PERQ by translating Perq Q-Code to VAX assembler and emulating the hardware. He is generally credited with having invented the Java programming language in 1994.[12][13][14]
+He created the original design of Java and implemented the language's original compiler and virtual machine.[15] Gosling traces the origins of the approach to his early graduate student days, when he created a p-code virtual machine for the lab's DEC VAX computer, so that his professor could run programs written in UCSD Pascal.  In the work leading to Java at Sun, he saw that architecture-neutral execution for widely distributed programs could be achieved by implementing a similar philosophy:  always program for the same virtual machine.[16]
+
+Another contribution of Gosling's was co-writing the "bundle" program, known as "shar", a utility thoroughly detailed in Brian Kernighan and Rob Pike's book The Unix Programming Environment.[17]
+
+He left Sun Microsystems on April 2, 2010, after it was acquired by the Oracle Corporation,[10] citing reductions in pay, status, and decision-making ability, along with change of role and ethical challenges.[18] He has since taken a very critical stance towards Oracle in interviews, noting that "during the integration meetings between Sun and Oracle, where we were being grilled about the patent situation between Sun and Google, we could see the Oracle lawyer's eyes sparkle."[11] He clarified his position during the Oracle v. Google trial over Android: "While I have differences with Oracle, in this case they are in the right. Google totally slimed Sun. We were all really disturbed, even Jonathan [Schwartz]: he just decided to put on a happy face and tried to turn lemons into lemonade, which annoyed a lot of folks at Sun."[19] However, he approved of the court's ruling that APIs should not be copyrightable.[20]
+
+In March 2011, Gosling joined Google.[21] Six months later, he followed his colleague Bill Vass and joined a startup called Liquid Robotics.[1] In late 2016, Liquid Robotics was acquired by Boeing.[22] Following the acquisition, Gosling left Liquid Robotics to work at Amazon Web Services as Distinguished Engineer in May 2017.[23] He retired in July 2024.[24]
+
+He has worked as an advisor at the Scala company Lightbend,[25] Independent Director at Jelastic,[26] and Strategic Advisor for Eucalyptus,[27] and is a board member of DIRTT Environmental Solutions.[28]
+
+For his achievement, the National Academy of Engineering in the United States elected him as a Foreign Associate member.[29]

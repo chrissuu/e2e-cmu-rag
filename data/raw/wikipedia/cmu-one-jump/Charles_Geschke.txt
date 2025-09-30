@@ -1,0 +1,39 @@
+Charles Matthew "Chuck" Geschke (September 11, 1939 – April 16, 2021) was an American businessman and computer scientist best known for founding the graphics and publishing software company Adobe Inc. with John Warnock in 1982, with whom he also co-created the PDF document format.[2][3]
+
+Charles Matthew Geschke[4] was born in Cleveland, Ohio, on September 11, 1939.[5]  He attended Saint Ignatius High School.[6]
+
+Geschke earned an BA in classics in 1962 and an MS in mathematics in 1963, both from Xavier University.[5]  He taught mathematics at John Carroll University from 1963 to 1968.[7]  In 1972, he completed his PhD studies in computer science at Carnegie Mellon University under the advice of William Wulf.[4]  He was a co-author of Wulf's 1975 book The Design of an Optimizing Compiler.[8]
+
+Geschke started working at Xerox's Palo Alto Research Center (PARC) in October 1972. His first project was to build a mainframe computer.  Afterward, he worked on programming languages and developed tools that were used to build the Xerox Star workstation.[9]
+
+In 1978, Geschke started the Imaging Sciences Laboratory at PARC, and conducted research in the areas of graphics, optics, and image processing.[10]  He hired John Warnock, and together they developed Interpress, a page description language (PDL) that could describe forms as complex as typefaces.[10]  Unable to convince Xerox management of the commercial value of Interpress, the two left Xerox to start their own company.[10]
+
+Geschke’s interviews are often featured in documentary films produced by the Silicon Valley Historical Association, including the PBS Silicon Valley, a One Hundred Year Renaissance, narrated by Walter Cronkite (1998)[11]
+
+Geschke and Warnock founded Adobe in Warnock's garage in 1982, naming the company after the Adobe Creek that ran behind Warnock's home.[12]  Interpress eventually evolved into PostScript.[13]  Its use on Apple computers resulted in one of the first desktop publishing (DTP) systems which allowed users to compose documents on a personal computer and see them on screen exactly as they would appear in print, a process known as WYSIWYG, an acronym for What You See Is What You Get. Previously, graphic designers had been forced to view their work in text-only format while they worked, until they printed, or hit "print preview". [10] Because of the high quality and speed at which printing and composing could be done in WYSIWYG, the innovation "spawned an entire industry" in modern printing and publishing.[10]
+
+From December 1986 until July 1994, Geschke was Adobe's Chief Operating Officer, and from April 1989 until April 2000 he was the company's president. Geschke retired as president of Adobe in 2000, shortly before his partner Warnock left as CEO. Geschke had also been Co-Chairman of the Board of Adobe from September 1997 to 2017.[14][7][15][16]
+
+Adobe was mentioned in Forbes 400 Best Big Companies in 2009, and was ranked 1,069th on the Forbes Global 2000 list in 2010.[14]
+
+On the morning of May 26, 1992, as Geschke was arriving for work in Mountain View, California, he was kidnapped at gunpoint from the Adobe parking lot by two men, Mouhannad Albukhari, 26, of San Jose, and Jack Sayeh, 25, of Campbell.[17]  A spokesperson for the FBI reported that the agency had monitored phone calls that the kidnappers had made to Geschke's wife, demanding a ransom.[17]  The spokesperson added that Albukhari had been arrested after he had picked up the $650,000 ransom that Geschke's daughter had left at a drop-off point.[17]  An FBI agent explained that, "[a]fter a gentlemanly discussion", Albukhari had brought them to a bungalow in Hollister, where Sayeh had been holding Geschke hostage.[17]  Geschke was released unhurt after being held for four days, although he stated that he had been chained.[17][18]  The two kidnappers were eventually sentenced to life terms in state prison.[12]
+
+In 1999, Geschke was inducted as a fellow of the Association for Computing Machinery (ACM).[19]
+
+In 2002, he was made a fellow of the Computer History Museum for "his accomplishments in the commercialization of desktop publishing with John Warnock and for innovations in scalable type, computer graphics and printing."[10]
+
+In October 2006, Geschke, along with co-founder John Warnock received the annual AeA Medal of Achievement, making them the first software executives to receive this award. In 2008 he received the Computer Entrepreneur Award from the IEEE Computer Society.  He also won the 2008 National Medal of Technology and Innovation, awarded by President Barack Obama.[15][20] On October 15, 2010, the Marconi Society co-awarded Geschke and Warnock the Marconi Prize.[21]
+
+On Sunday, May 20, 2012, Geschke delivered the commencement speech at John Carroll University in University Heights, Ohio, where he had been a mathematics professor early in his career and was awarded an honorary doctorate of Humane Letters.[22]
+
+Geschke was on the boards of the San Francisco Symphony,[23] the National Leadership Roundtable on Church Management,[24] the Commonwealth Club of California,[25] Tableau Software,[26] the Egan Maritime Foundation,[15] and the Nantucket Boys and Girls Club.[15]  He was also a member of the computer science advisory board at Carnegie Mellon University.[10][15]
+
+In 1995, he was elected to the National Academy of Engineering.  In 2008, he was elected to the American Academy of Arts and Sciences.  In 2010, he completed his term as Chairman of the Board of Trustees of the University of San Francisco.[15] In 2012, he was elected to the American Philosophical Society.[27]
+
+Geschke was a Catholic[28] and met his wife Nancy "Nan" McDonough at a religious conference on social action in the spring of 1961.[29] They married in 1964.[30] Both were graduates of Catholic institutions. In 2012 they received the St. Elizabeth Ann Seton Award from the National Catholic Educational Association (NCEA) for their contributions to Catholic education.[31][29]
+
+Geschke's mother was a bankruptcy court paralegal. Both Geschke's father and paternal grandfather worked as letterpress photo engravers.[32] Geschke's father helped during the early days of Adobe by checking color separation work with his engraver's loupe. Geschke described his father's acknowledgment of the high quality of the halftone patterns as "a wonderful moment".[9]
+
+Geschke, a longtime resident of Los Altos,[33] died on April 16, 2021, at the age of 81.[33] The cause of death was cancer.[34]
+
+He is survived by his wife, three children[16] and seven grandchildren.[33]

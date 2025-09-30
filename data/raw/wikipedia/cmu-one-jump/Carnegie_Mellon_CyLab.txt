@@ -1,0 +1,9 @@
+The Carnegie Mellon CyLab Security and Privacy Institute is a computer security research center at Carnegie Mellon University.[1][2] Founded in 2003 as a university-wide research center, it involves more than 50 faculty and 100 graduate students from different departments and schools within the university.[3] It is "one of the largest university-based cyber security research and education centers in the U.S."[4]
+
+CyLab works with the CERT Coordination Center as well as US-CERT on matters relating to cybersecurity.[5] The institute is often cited for its security and privacy research.[6][7][8][9][10]
+
+picoCTF is a cybersecurity capture the flag competition hosted by CyLab. Established in 2013, the event is run annually over a period of two weeks and is geared towards high schoolers, billing itself as the largest high school cybersecurity event in the United States; the inaugural edition had 6,000 participants and 39,000 people competed in 2019.[11] The challenges, which are modeled around real-life cybersecurity problems, are themed around a different storyline each year.[12] The program aims to get high schoolers interested in computer security, offering cash prizes.[13]
+
+CyLab website
+
+This Pennsylvania-related article is a stub. You can help Wikipedia by expanding it.

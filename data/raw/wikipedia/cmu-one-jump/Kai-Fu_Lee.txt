@@ -1,0 +1,43 @@
+Kai-Fu Lee (traditional Chinese: 李開復; simplified Chinese: 李开复; pinyin: Lǐ Kāifù; born December 3, 1961) is a Taiwanese computer scientist, investor, and author.
+
+He was the founding director of Microsoft Research China, later Microsoft Research Asia, serving from 1998 to 2000, and served as president of Google China 2005 to 2009. 
+
+In 2009, Lee founded the venture capital firm Innovation Works, later renamed Sinovation Ventures. In 2023, he founded 01.AI, a Chinese artificial intelligence (AI) company.
+
+Lee is the author of AI Superpowers (2018) and AI 2041 (with Chen Qiufan, 2021). He has served as co‑chair of the World Economic Forum’s Global AI Council and was named to TIME's 2023 list of the 100 most influential people in AI.
+
+Lee was born in Taipei, Taiwan.[2] He is the son of Li Tianmin, a legislator and historian from Sichuan, China. Lee has detailed his personal life and career history in his autobiography in both Chinese and English, Making a World of Difference, published in October 2011.[3]
+
+In 1973, Lee immigrated to the United States and attended Oak Ridge High School in Oak Ridge, Tennessee. He received a Bachelor of Science, summa cum laude, with a major in computer science from Columbia University in 1983.[4][5] He then earned a Ph.D. in computer science from Carnegie Mellon University in 1988.[6][7]
+
+A Taiwanese national by birth, Lee also acquired U.S. citizenship through naturalization while young. He voluntarily relinquished his U.S. citizenship in 2011 and retained only his Taiwanese nationality, citing the reason as wanting to "get back to [his] roots" as he aged.[8][1]
+
+At Carnegie Mellon, Lee worked on topics in machine learning and pattern recognition. In 1986, he and Sanjoy Mahajan developed Bill,[9] a Bayesian learning-based system for playing the board game Othello that won the US national tournament of computer players in 1989.[10] In 1988, he completed his doctoral dissertation on Sphinx, a large-vocabulary, speaker-independent, continuous speech recognition system that drew wide notice in the field.[11]
+
+Lee has written two books on speech recognition and more than 60 papers in computer science. His doctoral dissertation was published in 1988 as a Kluwer monograph, Automatic Speech Recognition: The Development of the Sphinx Recognition System (ISBN 0898382963). Together with Alex Waibel, another Carnegie Mellon researcher, Lee edited Readings in Speech Recognition (1990, ISBN 1-55860-124-4).
+
+After two years as a faculty member at Carnegie Mellon, Lee joined Apple Computer in 1990 as a principal research scientist. While at Apple (1990–1996), he headed R&D groups responsible for Apple Bandai Pippin,[12][13] PlainTalk, Casper (speech interface), and GalaTea (text to speech system) for Mac Computers.
+
+Lee moved to Silicon Graphics in 1996 and spent a year as the Vice President of its Web Products division, and another year as president of its multimedia software division, Cosmo Software.
+
+In 1998, Lee moved to Microsoft and went to Beijing, China where he played a key role in establishing the Microsoft Research (MSR) division there. MSR China later became known as Microsoft Research Asia, regarded as one of the best computer science research labs in the world.[14] Lee returned to the United States in 2000 and was promoted to corporate vice president of interactive services division at Microsoft from 2000 to 2005.
+
+In July 2005, Lee left Microsoft to take a position at Google.[15] The search company agreed to compensation worth in excess of $10 million, including a $2.5 million cash 'signing bonus' and another $1.5 million cash payment after one year, a package referred to internally at Google as 'unprecedented'.[16]
+
+On July 19, 2005, Microsoft sued Google and Lee in a Washington state court over Google's hiring of its former Vice President of Interactive Services, claiming that Lee was violating his non-compete agreement by working for Google within one year of leaving the Redmond-based software corporation. Microsoft argued that Lee would inevitably disclose proprietary information to Google if he was allowed to work there.[17]
+
+On July 28, 2005, Washington state Superior Court Judge Steven González granted Microsoft a temporary restraining order, which prohibited Lee from working on Google projects that compete with Microsoft pending a trial scheduled for January 9, 2006.[18] On September 13, following a hearing, Judge González issued a ruling permitting Lee to work for Google, but barring him from starting work on some technical projects until the case went to trial in January 2006. Lee was still allowed to recruit employees for Google in China and to talk to government officials about licensing, but was prohibited from working on technologies such as search or speech recognition. Lee was also prohibited from setting budgets, salaries, and research directions for Google in China until the case was to go to trial in January 2006.[19]
+
+Before the case could go to trial, on December 22, 2005, Google and Microsoft announced that they had reached a settlement whose terms are confidential, ending a five-month dispute between the two companies.[15]
+
+At Google China, Lee helped establish the company in the market and oversaw its growth in the country. Under his tenure, the Google.cn regional website was launched.[20] He also strengthened the company's teams of engineers and scientists in the country.
+
+On September 4, 2009, Lee announced his resignation from Google.[21] He said "With a very strong leadership team in place, it seemed a very good moment for me to move to the next chapter in my career." Alan Eustace, senior Google vice-president for engineering, credited him with "helping dramatically to improve the quality and range of services that we offer in China, and ensuring that we continue to innovate on the Web for the benefit of users and advertisers".[22] Several months after Lee's departure, Google announced that it would stop censorship and move its mainland China servers to Hong Kong.[23]
+
+In September 2009, Lee announced details of a $115 million venture capital fund called Innovation Works (later changed to "Sinovation Ventures"), a Beijing‑based incubator and venture fund focused on early‑stage internet and mobile startups.[24] The firm raised successive funds through the 2010s that emphasized AI‑related investments.[25][26]
+
+In March 2023, Lee founded 01.AI, an artificial intelligence startup focused on  large language models (LLMs) for the Chinese market.[27] In November 2023 the company released its first open‑source model, Yi-34B.[27][28] In January 2024, the company introduced a multimodal model, Yi‑VL‑34B.[29] In February 2025, Lee said 01.AI formed a joint lab with Alibaba to advance LLM technologies.[30] In March 2025, the company launched Wanzhi, an enterprise platform for deploying AI applications.[31]
+
+Lee was barred from Weibo for three days after he used Weibo to complain about China's Internet controls. A February 16, 2013, post summarized a Wall Street Journal article about how slow speeds and instability deter overseas businesses from locating critical functions in China. In January 2013, he also posted support for staff of a Guangzhou-based newspaper during a standoff with government censors.[37] He was also a vocal critic of the government's blocking of GitHub, which he said was detrimental to China's competitiveness.[38]
+
+Lee posted on Weibo on September 5, 2013, that he had been diagnosed with lymphoma.[39][40] In December 2018, Lee spoke at the End Well Symposium on end of life in San Francisco, stating: "I was a maniacal workaholic. That workaholism ended abruptly about five years ago, when I was diagnosed with Stage IV lymphoma."[41]

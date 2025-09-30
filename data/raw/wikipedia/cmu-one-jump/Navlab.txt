@@ -1,0 +1,41 @@
+Navlab is a series of autonomous and semi-autonomous vehicles developed by teams from The Robotics Institute at the School of Computer Science, Carnegie Mellon University. Later models were produced under a new department created specifically for the research called "The Carnegie Mellon University Navigation Laboratory".[1] Navlab 5 notably steered itself almost all the way from Pittsburgh to San Diego.
+
+Research on computer controlled vehicles began at Carnegie Mellon in 1984[1] as part of the DARPA Strategic Computing Initiative[2] and production of the first vehicle, Navlab 1, began in 1986.[3][4] Navlab 1 burned in 1989 when conditioning system leaked liquid onto the computers.[5]
+
+The vehicles in the Navlab series have been designed for varying purposes, "... off-road scouting; automated highways; run-off-road collision prevention; and driver assistance for maneuvering in crowded city environments. Our current work involves pedestrian detection, surround sensing, and short range sensing for vehicle control."[6]
+
+Several types of vehicles have been developed, including "... robot cars, vans, SUVs, and buses."[1]
+
+The institute has made vehicles with the designations Navlab 1 through 11.[6] The vehicles were mainly semi-autonomous, though some were fully autonomous and required no human input.[6]
+
+Navlab 1 was built in 1986 using a Chevrolet panel van.[3]  The van had 5 racks of computer hardware, including 3 Sun workstations, video hardware and GPS receiver, and a Warp supercomputer.[3] The computer had 100 MFLOP/sec, the size of a fridge, and a portable 5 kW generator.[7] The vehicle suffered from software limitations and was not fully functional until the late 80s, when it achieved its top speed of 20 mph (32 km/h).[3]
+
+Navlab 2 was built in 1990 using a US Army HMMWV.[3] Computer power was uprated for this new vehicle with three Sparc 10 computers, "for high level data processing", and two 68000-based computers "used for low level control".[3] The Hummer was capable of driving both off- or on-road. When  driving over rough terrain, its speed was limited with a top speed of 6 mph (9.7 km/h). When Navlab 2 was driven on-road it could achieve as high as 70 mph (110 km/h)[3]
+
+Navlab 1 and 2 were semi-autonomous and used "... steering wheel and drive shaft encoders and an expensive inertial navigation system for position estimation."[3]
+
+Navlab 5 used a 1990 Pontiac Trans Sport minivan. In July 1995, the team took it from Pittsburgh to San Diego on a proof-of-concept trip, dubbed "No Hands Across America", with the system navigating for all but 50 of the 2850 miles, averaging over 60 MPH.[8][9][10] In 2007, Navlab 5 was added to the Class of 2008 inductees of the Robot Hall of Fame.[11]
+
+Navlabs 6 and 7 were both built with Pontiac Bonnevilles. Navlab 8 was built with an Oldsmobile Silhouette van. Navlabs 9 and 10 were both built out of Houston transit buses.[12]
+
+The ALVINN (An Autonomous Land Vehicle in a Neural Network) was developed in 1988.[13][14][15] Detailed information is found in Dean A. Pomerleau's PhD thesis (1992).[16] It was an early demonstration of representation learning, sensor fusion, and data augmentation. 
+
+ALVINN was a 3-layer fully connected feedforward network trained by backpropagation, with 1217-29-46 neurons and thus 36,627 weights. It had 3 types of inputs:
+
+The output layer consisted of 46 units:
+
+By inspecting the network weights, Pomerleau noticed that the feedback unit learned to measure the relative lightness of the road areas vs the non-road areas.
+
+ALVINN was trained by supervised learning on a dataset of 1200 simulated road images paired with corresponding range finder data. These images encompassed diverse road curvatures, retinal orientations, lighting conditions, and noise levels. Generating these images took 6 hours of Sun-4 CPU time.
+
+The network was trained for 40 epochs using backpropagation on Warp (taking 45 minutes). For each training example, the steering output units were trained to produce a Gaussian distribution of activations, centered on the unit representing the correct steering angle.
+
+At the end of training, the network achieved 90% accuracy in predicting the correct steering angle within two units of the true value on unseen simulated road images. 
+
+In live experiments, it ran on Navlab 1, with a video camera and a laser rangefinder. It could drive it at 0.5 m/s along a 400-meter wooded path under a variety of weathers: snowy, rainy, sunny and cloudy. This was competitive with traditional computer-vision-based algorithms at the time.
+
+Later, they applied on-line imitation learning with real data by a person driving the Navlab 1. They noticed that because a human driver never strays far from the path, the network would never be trained on what action to take if it ever finds itself straying far from the path. To deal with this problem, they applied data augmentation, where each real image is shifted to the left by 5 different amounts and to the right by 5 different amounts, and the real human steering angle is shifted accordingly. In this way, each example is augmented to 11 examples.
+
+It was found that with a short sequence of ~100 of images, the network could be online-trained to follow the road. This took just ~10 minutes of driving.
+
+The first ALVINN was trained in February 1989, trained off-line on purely simulated images of the road, in an eight-hour run on the Warp machine. After training, it would be put on a Sun 3 computer on the Navlab -- the Warp machine was unnecessary, since neural networks are fast at inference time. It takes 0.75 seconds to process one image. On March 16, 1989, a new Navlab record of 1.3 m/s was set. They discovered in June 1989 that online training works.[17]
