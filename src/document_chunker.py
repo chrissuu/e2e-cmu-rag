@@ -72,7 +72,7 @@ def split_container_with_overlap(container, window_length, overlap_length):
     return chunks
 
 
-def chunk(file_path, chunking_strategy_info, output_info):
+def chunk(file_path, chunking_strategy_info, output_info) -> list[str]:
     chunking_strategy = chunking_strategy_info["chunking_strategy"]
     window_length = chunking_strategy_info["window_length"]
     overlap_length = chunking_strategy_info["overlap_length"]
