@@ -1,0 +1,15 @@
+Vivisimo was a privately held technology company in Pittsburgh, Pennsylvania, specialising in the development of computer search engines. The company was acquired[1] by IBM in May 2012 and is now branded as IBM Watson Explorer, a product of the IBM Watson Group. Vivisimo's public web search engine Clusty was a metasearch engine with document clustering; it was sold to Yippy, Inc. in 2010.
+
+Vivisimo specialized in federated search and document clustering. For example, Vivisimo clustering could divide the results of a search for "cell" into groups including "biology", "battery", and "prison".
+
+Vivisimo software supported both structured and unstructured information.
+
+Vivisimo was founded in 2000 by three computer science researchers at Carnegie Mellon University: Chris Palmer, Jerome Pesenti, and Raul Valdes-Perez. The name was taken from the Spanish superlative adjective vivísimo meaning "very lively" or "very clever."
+
+In October 2008, Vivisimo was awarded the contract to power the search portion of FirstGov.gov (now called USA.gov), the official web portal of the United States federal government.[2]
+
+In 2012, IBM acquired Vivisimo to boost its Big Data Analytics capabilities .[1][3][4][5][6]
+
+Velocity was sold as an installed or hosted application to enterprises, governments, and OEMs. With Vivisimo providing additional professional services.
+
+Velocity's social search features allowed users to contribute to organizational content by tagging, voting, annotating and sharing search results. The contributions are instantly indexed in new searches.

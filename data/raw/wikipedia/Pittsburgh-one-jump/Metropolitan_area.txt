@@ -1,0 +1,458 @@
+
+A metropolitan area or metro is a region consisting of a densely populated urban agglomeration and its surrounding territories which share industries, commercial areas, transport network, infrastructures and housing.[1][2]  A metropolitan area usually comprises multiple principal cities, jurisdictions and municipalities: neighborhoods, townships, boroughs, cities, towns, exurbs, suburbs, counties, districts and even states and nations in areas like the eurodistricts. As social, economic and political institutions have changed, metropolitan areas have become key economic and political regions.[3]
+In the United States, metropolitan areas are delineated around the core of a core based statistical area, which is defined as an urban area and includes central and outlying counties.[4][5][6] In other countries metropolitan areas are sometimes anchored by one central city such as the Paris metropolitan area (Paris). In other cases, metropolitan areas contain multiple centers of equal or close to equal importance, especially in the United States; for example, the Dallas–Fort Worth metropolitan area has eight principal cities. The Islamabad–Rawalpindi metropolitan area in Pakistan, the Rhine-Ruhr in Germany, and the Randstad in The Netherlands are other examples.[7]
+
+In the United States, the concept of metropolitan statistical areas has gained prominence. The area of the Greater Washington metropolitan area is an example of statistically grouping independent cities and county areas from various states to form a larger city because of proximity, history, and recent urban convergence. Metropolitan areas may themselves be part of a greater megalopolis. For urban centres located outside metropolitan areas that generate a similar attraction at a smaller scale for a region, the concept of a regiopolis and a respective regiopolitan area, or regio, was introduced by German professors in 2006.[8] In the United States, the term micropolitan statistical area is used.
+
+A metropolitan area combines an urban agglomeration with the contiguous built-up areas, which are not necessarily urban in character but are closely bound to the center by employment or other commerce. These outlying zones are sometimes known as a commuter belt and may extend well beyond the urban zone to other political entities. For example, East Hampton, New York, on Long Island is considered part of the New York metropolitan area.
+
+In 2020, the European Commission, the Food and Agriculture Organization, the United Nations Human Settlements Programme, the International Labour Organization, the OECD, and the World Bank have agreed on a common methodological framework for delimitation of urban and rural areas, which contains a definition of metropolitan areas called the Functional urban area.[9] It is defined as a city and its commuting zone, which is a contiguous area of spatial units that have at least 15% of their employed residents working in the city.[10]
+
+In practice, the parameters of metropolitan areas, in both official and unofficial usage, are not consistent. Sometimes they are little different from an urban area, and in other cases, they cover broad regions that have little relation to a single urban settlement; comparative statistics for metropolitan areas should take this into account. The term metropolitan can also refer to a county-level municipal government structure, with some shared services between a central city and its suburbs, which may or may not include the entirety of a metropolitan area. Population figures given for one metro area can vary by millions.
+
+There has been no significant change in the basic concept of metropolitan areas since its adoption in 1950,[11] although significant changes in geographic distributions have occurred since then, and more are expected.[12] Because of the fluidity of the term "metropolitan statistical area", the term used colloquially is more often "metro service area", "metro area", or "MSA", taken to include not only a city but also the surrounding suburban, exurban and sometimes rural areas, all of which the city is presumed to influence. A polycentric metropolitan area contains multiple urban agglomerations not connected by continuous development. In defining a metropolitan area, it is sufficient that a city or cities form a nucleus with which other areas have a high degree of integration.
+
+A metropolitan area is commonly known and characterized by a high concentration in service sector labor and enterprises.[13][14] Macroeconomics views metropolitan areas as trade regions of economic significance.[15]
+
+Since, presently, urban data are based on arbitrary definitions that vary from country to country and from year or census to the next, making them difficult to compare, an Urban Metric System (UMS) has been conceived that could correct the problem,[16] since it allows computing the urban area limits and central points, and it can be applied in the same way to all past, present and future population and job distributions. 
+It is based on vector field calculations obtained by assuming that, in a given space, all inhabitants and jobs exert the same attractive force A and repulsive force R. The net force (A - R) exerted by each inhabitant or job is given by [1/(1 + d)] - [1/( β + d/2)], where d = distance and β is the only parameter. 
+UMS distinguishes the following types of urban areas, each type corresponding to a given value of β:
+
+UMS has been applied to some Canadian cases since 2018, but the data presented in this article are still based on the various existing national definitions, which are disparate.
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The Algiers Metropolitan Area consists of four provinces: Tipaza, Blida, Algiers, and Boumerdès. It spans approximately 5,726 km² and had a population of 5,384,175 as of the 2008 census.[19] Projections estimate that the population may exceed 9 million.
+
+The area is served by a modern railway system, the Algiers Tramway,[20] and the Algiers Metro.[21] There are plans to expand public transport to the surrounding provinces of Tipaza and Boumerdès.
+
+Notable urban and suburban areas include Sidi Abdellah and Hydra. Major commercial and industrial zones are located in Reghaïa and Ouled Hedadj. The metropolitan area is also home to key maritime trade infrastructure, including the Port of Algiers and the planned Port of El Hamdania.
+
+The Sétif–Constantine Metropolitan Area includes seven provinces: Sétif, Béjaïa, Bordj Bou Arréridj, Mila, Constantine, Skikda, and Annaba. It covers an area of approximately 24,946 km² and had a population of 6,238,698. Current estimates suggest the population may be closer to 8 million.
+
+The region is connected by a national rail system, and major cities such as Constantine and Sétif have operational tramway networks.[22] Tramway projects are also planned for Béjaïa and Annaba.
+
+This metropolitan area hosts several of the largest commercial and industrial zones in North Africa, including El Eulma, Chelghoum Laïd, El Hadjar, and Akbou. Major urban centers include Sétif city, Constantine city, El Khroub, Béjaïa, and Annaba. The area also encompasses important agricultural zones, particularly in Béjaïa and Bordj Bou Arréridj.
+
+Key maritime ports serving the region include the Port of Béjaïa, Port of Annaba, and Port of Skikda.
+
+The Oran Metropolitan Area comprises seven provinces: Oran, Aïn Témouchent, Mostaganem, Tlemcen, Sidi Bel Abbès, Mascara, and Relizane. It covers a total area of 35,643 km² and had a population of approximately 5,757,096, with estimates indicating a population nearing 7 million.
+
+The region is served by a high-speed rail line linking Oran, Sidi Bel Abbès, and Tlemcen,[23] as well as modern rail connections between other provinces. Tramway systems are currently operational in Oran,[24] Sidi Bel Abbès,[25] and Mostaganem.[26] Expansion projects are planned for Mascara, Relizane, and Tlemcen.[27]
+
+Notable urban and suburban centers include Oran city, Sidi Bel Abbès, Tlemcen, and Mostaganem. The area includes major industrial zones such as Es Sénia, Tafraoui, Hassi Mamèche, and Sig.
+
+The region is also home to several key maritime ports, including the Port of Oran, Port of Mostaganem, Port of Ghazaouet, and Port of Béni Saf. Significant agricultural activity takes place in Mascara, Relizane, and the eastern parts of Mostaganem.
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 67% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 50%(2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 68% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 35% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 16% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 69% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 67% ((2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 47% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 36% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 33% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 43% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 69% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 83% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 51% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 45% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 28% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 28% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 22% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 42%(2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 59% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 43% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 38% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 59% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 29% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 36% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 56% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 83% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 38% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 25% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 45% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 49% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 50% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 66% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 45% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 46% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 23% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 58% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 25% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 71% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 51% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 46% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 45% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The Greater Johannesburg metropolitan area is the fourth largest metropolitan area in South Africa. Its population was over 9.6 million as of the 2011 South Africa Census, in contrast to its urban area, which consisted of approximately 7.9 million inhabitants as of 2011. Conversely, metropolitan municipalities in South Africa are defined as commonly governed areas of a metropolitan area. The largest such metropolitan municipal government entity in South Africa is the City of Johannesburg Metropolitan Municipality, which presided over nearly 5 million people as of 2016. However, the Greater Johannesburg metropolitan area houses roughly ten times the population of its core municipal city of Johannesburg, which contained 957,441 people as of the 2011 census.
+
+Urban population rate: 69% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 48% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 34% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 52% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 19% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 44% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 46% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 29% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 70% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 60% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 80% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In Bangladesh, the large population centres which have significant financial, political and administrative importance are considered to be as Metropolitan cities, which are governed by City Corporations. In total, there are 12 city corporations in Bangladesh.[28] 4 of them (Dhaka North City Corporation, Dhaka South City Corporation, Narayanganj City Corporation, Gazipur City Corporation) are part of Dhaka Metropolitan Area.
+
+Urban population rate: 36% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 45% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 26% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In China, there used to be no clear distinction between megalopolis (城市群, lit. city cluster) and metropolitan area (都市圈) until National Development and Reform Commission issued Guidelines on the Cultivation and Development of Modern Metropolitan Areas (关于培育发展现代化都市圈的指导意见) on Feb 19, 2019, in which a metropolitan area was defined as "an urbanized spatial form in a megalopolis dominated by (a) supercity(-ies) or megacity(-ies), or a large metropolis playing a leading part, and within the basic range of 1-hour commute area."[29]
+
+Data are referred to borders determined by Sino-British Joint Declaration (1984), Sino-Portugal Joint Declaration (1987) and later agreements with countries that share a land border with China or influenced by disputes in the sea where China faces (see Territorial disputes focus).
+
+Urban population rate: 57% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Data are referred to pre-1974 Turkish Army occupation boundaries.
+
+Urban population rate: 62% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Data are referret to pre-2008 Russo-Georgian War.
+
+Urban population rate: 60% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In India, a metropolitan city is defined as one with a population more than one million.[30] In policing jurisdiction, state governments can declare any city or town with a population exceeding one million as a metropolitan area as per the Code of Criminal Procedure, 1973.[31]
+
+Urban population rate: 38% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In Indonesia, the government of Indonesia defines a metropolitan area as an urban agglomeration where its spatial planning is prioritised due to its highly important influence on the country. Jakarta, Surabaya, Bandung, Semarang, Medan, Makassar, Palembang are important metropolitan area in the country. Currently, there are 10 metropolitan cities in Indonesia that have been recognized by the government.[32]
+
+Urban population rate: 52% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 76% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Data are referred to 1949 Armistice boundaries, after 1948 Arab-Israeli War.
+
+Urban population rate: 58% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 83% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 66% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 98% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 42% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 43% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 90% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 77% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 69% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 42% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 25% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Boundaries are referred to the Third inter-Korean summit agreement (2018).
+
+Urban population rate: 67% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 78% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Pakistan has nine metropolitan areas with populations greater than a million. Five of these are entirely in Punjab including Lahore, Faisalabad, Gujranwala, Multan; one (Islamabad-Rawalpindi is split between Punjab and the Islamabad Capital Territory; two are located in Sindh, including Karachi, the largest metropolitan area in the country, and Hyderabad; one in Khyber Pakhtunkhwa: Peshawar; and the final in Balochistan: Quetta.
+
+Data are referred to 1972 Shimla Agreement borders, after 1971 Indo-Pakistani war.
+
+Urban population rate: 39% (2015)
+
+Data are referred to 1949 Armistice boundaries, after 1948 Arab-Israeli War.
+
+Urban population rate: 78% (2023).[17] Metropolitan area population data are referred to 2023,[18] before the Israeli Army invasion.
+
+The Philippines currently has three metropolitan areas defined by the National Economic and Development Authority (NEDA). These metropolitan areas are separated into three main geographical areas; Metro Manila (which is located in Luzon), Metro Cebu (which is located in Visayas), Metro Davao (which is located in Mindanao), and Greater Manila Area (which is the largest metropolitan area of Manila). The official definition of each area does not necessarily follow the actual extent of continuous urbanization. For example, the built-up area of Metro Manila has long spilled out of its officially defined borders into the adjacent provinces of Bulacan, Rizal, Laguna, and Cavite known as Greater Manila Area. The number of metropolitan areas in the Philippines was reduced from 13 in 2007 to the current three based from the 2017–2022 Philippine Development Plan by NEDA. The other 10 metropolitan areas were Metro Angeles, Metro Bacolod, Metro Baguio, Metro Batangas, Metro Cagayan de Oro, Metro Dagupan, Metro Iloilo–Guimaras, Metro Butuan, Metro Naga, and Metro Olongapo.
+
+Urban population rate: 59% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 46% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 86% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Boundaries are referred to the Third inter-Korean summit agreement (2018).
+
+Urban population rate: 86% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 20% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 63% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Boundaries are referred to the territories administrated by the Republic of China, after Cross-Strait Act (1992).
+
+Urban population rate: 80% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 34% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 42% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 36% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The word metropolitan describes the central municipality governing local services in a province with more than 750.000 residents in Turkey, like Istanbul and its metropolitan municipality, the Istanbul Metropolitan Municipality. There are 30 officially defined "metropolitan municipalities" in Turkey.[33] This classification, however, is only used for administrative purposes, and sometimes contradicts the colloquial use of the term "metro area". As an example, Gebze, a district in Kocaeli province and thus in the jurisdiction of the Kocaeli Metropolitan Municipality, is arguably within the metro area of Istanbul with many of its residents commuting to Istanbul for work and the Marmaray, a commuter rail line, extending into the district. The district however, as previously mentioned, is not a part of Istanbul's provincial limits, and thus not subject to the jurisdiction of its metropolitan municipality. The word metropolitan (municipality) is generally only used as an administrative distinction in Turkey.
+
+Urban population rate: 73% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 57% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Dubai-Sharjah-Ajman (DSA) is a metropolitan area in the United Arab Emirates. It consists of the combined, greater urban areas of Dubai, Ajman, and Sharjah. The urban areas at the northeast end of Dubai flow into those of Sharjah, which in turn are contiguous with those of Ajman. The total population is about 5.9 million people as of 2023[34][35][36]
+
+Urban population rate: 87% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 44% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 38% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 87% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 53% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 70% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 80% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 75% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 70% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 57% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 63% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 59% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 60% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 64% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 80% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 19% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The European Union's statistical agency Eurostat, in partnership with OECD, has created a concept named functional urban area (FUA). The FUA represents an attempt at a harmonised definition of the metropolitan area, and the goal was to have an area from which a significant share of the residents commute into the city.[37] The FUA consists of a city and its commuting zone,[38] which is a contiguous area of spatial units that have at least 15% of their employed residents working in the city.[39]
+
+A further, derived concept is the typology of metropolitan regions. A NUTS 3 region (or a group thereof) is considered to be metropolitan, if at least 50% of its residents live inside a FUA with a population of 250,000 or more. NUTS 3 regions not meeting these criteria are considered to be non-metropolitan regions.[40]
+
+Urban population rate: 61% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 79% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 98% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 56% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 76% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 65% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 78% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 74% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 88% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+France's national statistics office, INSEE, names an urban core and its surrounding area of commuter influence an aire d'attraction d'une ville  [fr] (AAV, literally meaning "catchment area of a city"), plural: aires d'attraction des villes.[41] The official translation of this statistical area in English (as used by INSEE) is "functional area".[42] The AAV follows the same definition as the Functional Urban Area (FUA) used by Eurostat and the OECD, and the AAVs are thus strictly comparable to the FUAs.[42]
+
+The AAV replaced in 2020 the metropolitan statistical area called aire urbaine (AU).[41] The AU, which was defined differently than the AAV, has now been discarded by INSEE and replaced with the AAV in order to facilitate international comparisons.[42]
+
+Urban population rate: 88% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Metropolitan regions in Germany by definition, are the eleven urban areas that are the most densely populated areas in the Federal Republic of Germany. They comprise the major German cities and their surrounding catchment areas and form the political, commercial and cultural centers of the country. For urban centers outside metropolitan areas, that generate a similar attraction at smaller scale for their region, the concept of the Regiopolis and respectively regiopolitan area or region was introduced by German professors in 2006.
+
+Urban population rate: 79% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 68% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 73% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 69% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In 2001 Italy transformed 14 provinces of some of the country's largest cities into Metropolitan Cities. Therefore, the territory of the Metropolitan City corresponds to that of a standard Italian province.
+
+Urban population rate: 73% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 42% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 88% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 55% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 86% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 67% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 84% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 68% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 68% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 65% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 78% (2024).[43] Metropolitan area population data are referred to 2024.[44]
+
+Urban population rate: 63% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 62% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 57% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 82% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The list of metropolitan areas in Sweden is collated based on statistics of commuting between central municipalities and surrounding municipalities and taking into account existing planning cooperation in the country's three geographic regions.[45] They were defined around 1965. In 2005, a number of further municipalities were added to the defined areas.
+
+Urban population rate: 88% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 77% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Boundaries are referred to the Treaty on the Russian–Ukrainian border signed in 2003.
+
+Urban population rate: 73% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The United Kingdom's Office for National Statistics defines "travel to work areas" as areas where "at least 75% of an area's resident workforce work in the area and at least 75% of the people who work in the area also live in the area".[46] The European Union's ESPON group has compiled a separate list of metropolitan areas which covers the UK. Industrial and housing growth in the United Kingdom during the 19th and early 20th centuries produced many conurbations. Greater London is by far the largest urban area and is usually counted as a conurbation in statistical terms, but differs from the others in the degree to which it is focused on a single central area. In the mid-1950s the Green Belt was introduced to stem the further urbanisation of the countryside in South East England. The list below shows the most populous urban areas in the UK as defined by the Office for National Statistics (ONS). Different organisations define conurbations in the UK differently for example, the Liverpool–Manchester or the Manchester–Liverpool conurbation is defined as one conurbation by AESOP in a comparison report published by the University of Manchester in 2005 found here. The Liverpool–Manchester Conurbation has a population of 5.68 million. 
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+In Canada, a census metropolitan area (CMA) or census agglomeration (CA) consists of one or more neighboring municipalities centered around a core population. A CMA requires a total population of at least 100,000, with 50,000 or more residing in the core, while a CA requires a core population of at least 10,000. Both are determined using data from Canada's Census of Population Program, and surrounding municipalities must demonstrate strong economic integration with the core, measured by commuting patterns.[47]
+
+Urban population rate: 85% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+As of February 28, 2013, the United States Office of Management and Budget (OMB) defined 1,098 statistical areas for the metropolitan areas of the United States and Puerto Rico.[48] These 1,098 statistical areas comprise 929 Core-Based Statistical Areas (CBSAs) and 169 Combined Statistical Areas (CSAs). The 929 Core-Based Statistical Areas are divided into 388 Metropolitan Statistical Areas (MSAs – 381 for the U.S. and seven for Puerto Rico) and 541 Micropolitan Statistical Areas (μSAs – 536 for the U.S. and five for Puerto Rico). The 169 Combined Statistical Areas (166 for the U.S. and three for Puerto Rico) each comprise two or more adjacent Core Based Statistical Areas.[citation needed]
+
+The OMB defines a Metropolitan Statistical Area as one or more adjacent counties or county equivalents that have at least one urban area of at least 50,000 population, plus adjacent territory that has a high degree of economic and social integration with the core as measured by commuting ties. The OMB then defines a Combined Statistical Area as consisting of various combinations of adjacent metropolitan and micropolitan statistical areas with economic ties measured by commuting patterns. The Office of Management and Budget further defines a core-based statistical area (CBSA) to be a geographical area that consists of one or more counties (or equivalents) anchored by an urban center of at least 10,000 people plus adjacent counties that are socioeconomically tied to the urban center by commuting.
+
+Urban population rate: 86% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Metropolitan areas are known as zonas metropolitanas in Mexico. The National Population Council (CONAPO) defines them as:[49]
+
+Urban population rate: 82% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The Australian Bureau of Statistics uses Greater Capital City Statistical Areas (GCCSAs), which are geographical areas designed to represent the functional extent of each of the eight state and territory capital cities. They were designed to reflect labor markets, using the 2011 Census "travel to work" data. Labor markets are sometimes used as proxy measures of the functional extent of a city as it contains the majority of the commuting population. GCCSAs replaced "Statistical Divisions" used until 2011.[50]
+
+Other metropolitan areas in Australia include cross border cities or continuous built-up areas between two or more cities that are connected by an extensive public transport network that allows for commuting for work or services.[citation needed]
+
+Urban population rate: 91% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 58% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 12% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 25% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 95% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 71% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+The IBGE defines also "Immediate Geographic Areas" (formerly termed microregions) which capture the region "surrounding urban centers for the supply of immediate needs of the population".[52] Intended for policy planning purposes, as of March 2021 census data is not tabulated on the level of these Areas, but instead at the municipality or state level.[53]
+
+Urban population rate: 89% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+There are three metropolitan areas in Chile, the biggest and most important one is the Gran Santiago in the Santiago Metropolitan Region. The other two metro areas are Gran Valparaiso in the Valparaiso Region with almost a million inhabitants, and Gran Concepción in the Bio Bio Region, with a population of about a million people living in it.
+Smaller "metropolitan" areas are known as conurbations. Conurbaciones tend to have a bit over 200.000 inhabitants to be considered as such. An example is the Conurbacion de Rancagua, which considers the area shared by the city of Rancagua, and the adjacent smaller towns of Machalí, Gultro and Graneros. 
+
+Urban population rate: 92% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 80% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 72% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 33% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 68% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 79% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 75% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 94% (2024).[17] Metropolitan area population data are referred to 2024.[18]
+
+Urban population rate: 96% (2024).[17] Metropolitan area population data are referred to 2024.[18]

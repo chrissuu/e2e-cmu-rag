@@ -22,20 +22,20 @@ if torch.cuda.is_available():
 
 model_id = "meta-llama/Llama-3.1-8B-Instruct"  # you can also use 70B, 405B, etc.
 
-chunking_strategy_info = {
+chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
     "window_length" : 8,
     "overlap_length" : 2,
 }
 
-output_configs = {
+output_config = {
     "print_info" : True
 }
 
 chunks = []
 file_paths = collect_file_paths(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump")
 for file_path in file_paths:
-    chunks.extend(chunk(file_path, chunking_strategy_info, output_configs))
+    chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
 retriever = SparseRetriever()
 retriever.build(chunks)

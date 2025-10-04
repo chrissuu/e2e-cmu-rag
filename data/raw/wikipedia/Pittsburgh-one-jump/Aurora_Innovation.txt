@@ -1,0 +1,51 @@
+Aurora Innovation, Inc., doing business as Aurora, is a self-driving vehicle technology company based in Pittsburgh, Pennsylvania.[1] Aurora has developed the Aurora Driver, a computer system that can be integrated into cars for autonomous driving. It was co-founded by Chris Urmson, the former chief technology officer of Google/Alphabet Inc.'s self-driving team, which became known as Waymo,[2][3] as well as by Sterling Anderson, former head of Tesla Autopilot, and Drew Bagnell, former head of Uber's autonomy and perception team.[4][5][6]
+
+Aurora tests its vehicles in the San Francisco Bay Area, Pittsburgh, and Dallas. In addition to its headquarters in Pittsburgh and Mountain View, the company also has offices in San Francisco, Bozeman, Montana, Detroit, Michigan, Louisville, Colorado, Seattle, Washington, and Texas.[7][8][9]
+
+Aurora was founded in 2017 by Chris Urmson, the former chief technology officer of Google/Alphabet Inc.'s self-driving team, which became known as Waymo.[2][3][10] Previously, Urmson was a member of Carnegie Mellon's Red Team, which competed in DARPA's Grand Challenges for autonomous vehicles.[11][12][13] His two co-founders are Sterling Anderson, former head of Tesla Autopilot, and Drew Bagnell, former head of Uber's autonomy and perception team.[2][5][4]
+
+In January 2018, Aurora signed deals with Volkswagen and Hyundai to develop self-driving software for commercial vehicles.[14] Also in January 2018, at CES 2018, Nvidia partnered with Aurora to provide hardware for Aurora's self-driving systems.[15][16][17]
+
+In October 2018, Aurora became the first self-driving vehicle company authorized to test its vehicles in Pennsylvania.[18]
+
+In January 2019, the company raised financing at a $2 billion valuation.[19]
+
+In May 2019, Aurora acquired Blackmore, a Bozeman, Montana-based company focusing on Frequency Modulated Continuous Wave (FMCW) lidar.[20][21][22] In June 2019, Aurora announced a partnership with Fiat Chrysler Automobiles to develop self-driving technology in commercial vans.[22] As a result of this partnership, the company was able to acquire Chrysler Pacifica minivans for its fleet of test vehicles.[23][24] In June 2019, Volkswagen also announced they would be ending their partnership with Aurora.[25]
+
+Aurora expanded its operations to Texas in June 2020, bringing a fleet of test vehicles into the Dallas-Fort Worth area.[23] In July 2020, Aurora debuted its own long-range lidar system called "FirstLight."[26]
+
+In September 2020, the company moved its headquarters to the Strip District.[27][28]
+
+In December 2020, Aurora acquired Advanced Technologies Group (ATG), Uber's self-driving unit. Uber CEO Dara Khosrowshahi subsequently joined Aurora's board of directors. Uber also invested $400 million in Aurora and took a 26% ownership stake in the company.[29][30]
+
+In January 2021, Aurora partnered with Paccar to develop its first commercial product, a driverless truck. Their technology will be paired with Paccar's Peterbilt 579 and Kenworth T680 semi-trucks.[31][32][33][34]
+
+In February 2021, Aurora partnered with Toyota and Denso to develop self-driving taxis.[35][36][37][38]
+
+In March 2021, Aurora acquired 5D lidar company OURS Technology, a silicon photonics startup.[39][40] Also in March, Aurora announced it was partnering with Volvo Group to develop driverless trucks.[41]
+
+In November 2021, the company became a public company via a merger with Reinvent Technology Partners Y, a special-purpose acquisition company set up by Reid Hoffman and Mark Pincus which provided $2 billion in additional funding.[42][43][44]
+
+In March 2022, Aurora unveiled its test fleet of autonomous Toyota Sienna robotaxi.[45] Following this, In May 2022, Aurora announced the development of the Aurora Beacon platform. The platform is a cloud-based mission control system designed for customers to optimise operations of autonomous vehicles via real time metrics such as status, location, and health of vehicles.[46]
+
+In May 2022, Aurora announced the expansion of the organization's self-driving freight pilot with FedEx. The expansion is to include service from Fort Worth to El Paso, Texas. The new route challenged the company for its longest freight truck journey of about 600 miles, in which they will operate on a weekly basis. As of May, Aurora and FedEx have completed a total of 60,000 miles with zero safety incidents, according to the company.[47]
+
+In March 2023, Aurora had 28 Class 8 self-driving trucks that run on public roads and are used with safety backup drivers.[48] Aurora issued a joint application along with Waymo to the Federal Motor Carrier Safety Administration. The companies requested a five-year exemption from rules that require drivers to place reflective triangles or a flare around a stopped tractor-trailer truck, to alert other drivers. Waymo and Aurora instead want to use warning beacons mounted on the truck cab, to avoid needing human drivers.[49]
+
+In April 2023, Aurora partnered with Continental to deliver autonomous driving systems for the trucking industry.[50]
+
+In May 2023, Aurora was featured in Barack Obama's Netflix docuseries Working: What We Do All Day.[51]
+
+In June 2023, David Maday replaced Richard Tame as CFO.[52] In January 2025, Uber CEO Dara Khosrowshahi resigned from Aurora's board of directors.[53]
+
+In May 2025, Sterling Anderson, Aurora's co-founder and Chief Product Officer, announced his resignation, effective June 1. He also stepped down from the company's board of directors on August 31. Anderson stated that his departure was not due to any disagreements with Aurora's operations or policies. He expressed that leaving was a difficult decision but felt confident in the company's trajectory, noting that Aurora had reached a critical inflection point with established product strategy, deployed technology, and a team poised for scaling.[54]
+
+Following his departure from Aurora, Anderson was appointed as Executive Vice President of Global Product and Chief Product Officer at General Motors (GM), effective June 2, 2025. In this role, he oversees the entire product lifecycle for both gasoline and electric vehicles and is based at GM's Mountain View Tech Center in California. Anderson's move aligns with GM's strategic shift from its robotaxi business toward enhancing autonomous capabilities in personal vehicles, particularly through the expanded deployment of its Super Cruise hands-free driving technology.[55]
+
+In the second half of 2025, Aurora plans to expand its driverless trucking operations to include night driving and operation during adverse weather conditions, such as rain and heavy winds. The company also intends to extend its driverless routes beyond the Dallas–Houston corridor to include El Paso, Texas, and Phoenix, Arizona. Aurora's CFO, Dave Maday, indicated that enabling night operations could potentially double the company's drive time, enhancing asset utilization.[56]
+
+As of May 2025, Aurora operates two driverless trucks on a daily basis and expects to scale up to "tens of trucks" by the end of the year. The company plans to own, operate, maintain, and insure its own trucks for carrier customers in the short term, with some trucks available on the Uber Freight network. Starting in 2027 or earlier, Aurora anticipates that customers will purchase self-driving trucks directly from manufacturers, transitioning to a driver-as-a-service model aimed at achieving higher gross margins.[57]
+
+The company developed the Aurora Driver, a system that consists of sensors, software, and hardware. It can be installed in passenger or commercial automobiles, converting them into self-driving vehicles.[58][59][60] The Aurora Driver's software uses data from its sensors to devise a safe path through a given route, while its computer powers these components and integrates them with the vehicle.[60] The system's sensors use Aurora's FirstLight lidar, which was developed from Blackmore's FMCW lidar technology.[26][61] The first vehicle to be outfitted with the Aurora Driver was the Toyota Sienna.[62]
+
+Conventional lidar uses pulses of light to acquire information about objects surrounding the sensor, including distance and velocity.[63] In contrast, FMCW lidar uses a low-powered continuous beam of light, enabling faster acquisition of distance, velocity, and acceleration of surrounding objects, but often requires bulky mirrors and rangefinders. By acquiring OURS, Aurora hopes to reduce the size of the FMCW lidar hardware.[64] Aurora plans to release the next generation of Aurora Driver, named "Fusion", in 2023.[63]

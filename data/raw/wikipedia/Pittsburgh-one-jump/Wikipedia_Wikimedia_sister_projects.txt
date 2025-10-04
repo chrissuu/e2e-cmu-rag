@@ -1,0 +1,44 @@
+Wikimedia sister projects are all the publicly available wikis operated by the Wikimedia Foundation, including Wikipedia. This guideline covers Wikipedia's relations to the sister projects, including linking and copying content between a Wikipedia article and a sister project's article.
+
+Wikipedia is written by volunteer editors and hosted by the Wikimedia Foundation, a non-profit organization that also hosts a range of other volunteer projects:
+
+The above list of the current English language sister projects can be easily duplicated using the {{Wikipedia's sister projects}} template.
+
+Wikipedia encourages links from Wikipedia articles to pages on sister projects when such links are likely to be useful to our readers, and interlingual crosslinking to articles on foreign-language editions of Wikipedia whenever such links are possible.
+
+By far the most common use of links to the non-Wikipedia sister projects is the use of images that are stored on the Wikimedia Commons site (see Wikipedia:Wikimedia Commons).
+
+For example:
+
+Links to sister projects are made in several ways:
+
+Sister project links generally appear in the External links section (or the last section, whatever it is), rather than the body of the article. Wiktionary and Wikisource may be linked inline (e.g. to an unusual word or the text of a document being discussed). 
+
+Appropriate material from Wikimedia Commons may also be included within the main body of an article. See Embedding Commons' media in Wikipedia articles. Links to Wikinews should not be made within the main body of an article, being made only as per the external links guideline.
+
+Most box-type templates such as {{Commons}} shown at right should be put at the beginning of the last section of the article (which is usually, but not necessarily, the "External links" section) so that boxes will appear next to, rather than below, the list items.[a] Do not make a section whose sole content is box-type templates. Many box links can be unified to one by using {{Sister project links}} or {{Sister project}}.
+Sometimes box-type templates are not aesthetically pleasing, either because there are no external links except sister project ones, or because they result in an odd layout, such as a long sequence of right-aligned boxes hanging off the bottom of the article or excessive white space when the section is laid out in columns. In such cases, consider using "inline" templates, such as {{Commons-inline}}, in the "External links" section, so that links to sister projects appear as list items, like this:
+
+Another alternative to box-type templates in the body of the article is a {{Sister bar}} navbox at the end of the article. The sister links can be combined with portal links using {{Subject bar}}.
+
+Sister project links are normally made only once within an article, as with standard links to other Wikipedia articles.
+
+Sometimes an entry is more appropriate on some other sister project than on Wikipedia because they are of a non-encyclopedic scope (e.g. they can never be expanded beyond a simple dictionary definition, or call for a level of detail more appropriate to a textbook). Normally, such articles are copied to the more appropriate sister using the transwiki process, and deleted from Wikipedia afterwards.
+
+However, if a word or phrase is commonly wikified, it is quite likely that the deleted entry will be quickly re-created again by well-meaning users. The re-created article is likely to again become non-encyclopedic.
+
+To avoid this, do seek deletion of the page (or suppress after transwiki'ing). One solution, as suggested by Wikipedia deletion policy, is to instead normally redirect the word to a relevant article within Wikipedia. For instance, Organize could redirect to a well-developed Organization article via #REDIRECT [[Organization]].
+
+If this is not possible, turn a Wikipedia page into a soft redirect to a sister project. The plain {{soft redirect}} template should not be used in the mainspace. Instead, use one of the specialized templates (see below). These templates inform readers of information on the sister project: in the case of this example, one link would be provided to the wikt:organize page. This has multiple benefits:
+
+Wikipedia does not have an article on "wikimedia sister projects", but its sister project Wiktionary does:
+
+You can also:
+
+Please keep in mind that only topics with a less-than-encyclopedic scope that are commonly wikified words or that are repeatedly recreated should become soft redirects. We don't need a soft redirect for every possible word or phrase to be included in Wikipedia.
+
+Mainspace exclusive
+
+Unified login is a mechanism which allows users to use a single login across the majority of the Wikimedia Foundation's sister projects. This allows users to maintain a consistent identity throughout Wikimedia, following a single sign-up. Other advantages of this mechanism include the removal of the threat that impersonation poses and the ability to visit many projects without having to go through the labors of logging in everywhere. Users can create a unified login by visiting Special:MergeAccount on a project where they already have an account, and following the prompts.
+
+Yes, you can copy parts of one sister project into another, but you must link to the source article in your edit summary. The exact edit summary and attribution required depends on how the sister project was licensed, see WP:SISTERCOPY for more detailed instructions. If the material is translated from another language, see WP:TFOLWP for instructions.

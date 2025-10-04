@@ -1,0 +1,3 @@
+This template's initial visibility currently defaults to autocollapse, meaning that if there is another collapsible item on the page (a navbox, sidebar, or table with the collapsible attribute), it is hidden apart from its title bar; if not, it is fully visible.
+
+To change this template's initial visibility, the |state= parameter may be used:

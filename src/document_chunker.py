@@ -72,10 +72,10 @@ def split_container_with_overlap(container, window_length, overlap_length):
     return chunks
 
 
-def chunk(file_path, chunking_strategy_info, output_info) -> list[str]:
-    chunking_strategy = chunking_strategy_info["chunking_strategy"]
-    window_length = chunking_strategy_info["window_length"]
-    overlap_length = chunking_strategy_info["overlap_length"]
+def chunk(file_path, chunking_strategy_config, output_config) -> list[str]:
+    chunking_strategy = chunking_strategy_config["chunking_strategy"]
+    window_length = chunking_strategy_config["window_length"]
+    overlap_length = chunking_strategy_config["overlap_length"]
 
     with open(file_path, "r", encoding="utf-8") as f:
         if chunking_strategy == DocumentChunkerStrategy.BY_CHAR:
@@ -106,8 +106,8 @@ def chunk(file_path, chunking_strategy_info, output_info) -> list[str]:
         joint_chunks.append(' '.join(chunk))
 
 
-    output_folder_path = output_info.get("folder_path", None)
-    print_info = output_info.get("print_info", None)
+    output_folder_path = output_config.get("folder_path", None)
+    print_info = output_config.get("print_info", None)
 
     if output_folder_path:
         for i, chunk in enumerate(joint_chunks):
@@ -125,14 +125,14 @@ def chunk(file_path, chunking_strategy_info, output_info) -> list[str]:
         """)
     return joint_chunks
 
-chunking_strategy_info = {
+chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
     "window_length" : 5,
     "overlap_length" : 1
 }
 
-output_info = {
-    "print_info" : True
+output_config = {
+   "print_info" : True
 }
 
-chunk(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump/Carnegie_Mellon_University.txt", chunking_strategy_info, output_info)
+chunk(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump/Carnegie_Mellon_University.txt", chunking_strategy_config, output_config)

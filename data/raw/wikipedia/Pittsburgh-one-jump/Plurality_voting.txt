@@ -1,0 +1,177 @@
+Condorcet methods
+
+Positional voting
+
+Cardinal voting
+
+Quota-remainder methods
+
+Approval-based committees
+
+Fractional social choice
+
+Semi-proportional representation
+
+By ballot type
+
+Pathological response
+
+Strategic voting
+
+Paradoxes of majority rule
+
+Positive results
+
+Plurality voting refers to electoral systems in which the candidates in an electoral district who poll more than any other (that is, receive a plurality) are elected.[1]
+
+Under single-winner plurality voting, and in systems based on single-member districts, plurality voting is called single member [district] plurality (SMP),[2][3] which is widely known as "first-past-the-post". In SMP/FPTP the leading candidate, whether or not they have a majority of votes, is elected.[4] Under all but a few niche election systems, the most-popular are elected. But under systems that use ranked votes, vote tallies change and are compared at various times during the vote count process. Where votes are transferred, the system is not generally referred to as a plurality system.
+
+There are several versions of plurality voting for multi-member district.[5] The system that elects multiple winners at once with the plurality rule and where each voter casts as many X votes as the number of seats in a multi-seat district is referred to as plurality block voting. A semi-proportional system that elects multiple winners elected at once with the plurality rule and where each voter casts more than one vote but fewer than the number of seats to fill in a multi-seat district is known as limited voting. A semi-proportional system that elects multiple winners elected at once with the plurality rule and where each voter casts just one vote in a multi-seat district is known as single non-transferable voting.
+
+Plurality voting is widely used throughout the English-speaking world as a result of its spread by the British Empire, including in most of the United States. Outside of the English-speaking world, it is less popular[citation needed] than its close relatives in the runoff family of methods. Overall, more countries in the world use a form of proportional representation than use plurality or a form of runoff.[6]
+
+In single-winner plurality voting (first-past-the-post), each voter is allowed to vote for only one candidate, and the winner of the election is the candidate who represents a plurality of voters or, in other words, received more votes than any other candidate. In an election for a single seat, such as for president in a presidential system, voters may vote for one candidate from a list of the candidates who are competing, and the winner is whichever candidate receives the highest number of votes. Compare first-past-the-post to a majority system, the two-round system, where usually the top two candidates in the first ballot progress to the second round, also called the runoff. A runoff is by default not held, if a candidate already received an absolute majority in the first ballot (more than half of votes), and in the second ballot, where there are only two candidates, one of the candidates will (except for a tie) receive a majority. Under plurality rules, the candidates are not at any point in the election required to have majority support.
+
+In an election for a legislative body with single-member seats, each voter in a geographically defined electoral district may vote for one candidate from a list of the candidates who are competing to represent that district. Under the plurality system, the winner of the election then becomes the representative of the whole electoral district and serves with representatives of other electoral districts. That makes plurality voting among the simplest of all electoral systems for voters and vote counting officials;[4] however, the drawing of district boundary lines can be contentious in the plurality system (see gerrymandering). The system is also independent of parties; the party with the most votes overall may not win the most seats overall (electoral inversion). Note that issues arising from single-member districts are still in place with majority voting systems, like the two-round system and instant-runoff voting too.
+
+The same principle used in single-winner plurality voting (electing the candidate with the most votes) is also used in approval voting, however with very different effects, as voters can choose to support as many or few candidates as they choose, not just one. For this reason, approval voting is usually distinguished from plurality voting, while technically being a sub-type of it.
+
+Multi-member plurality elections are only slightly more complicated. Where n is the number of seats in the district, the n candidates who get more votes than the others are elected;[7] the winners are the n candidates with the largest number of votes. The rules may allow the voter to vote for one candidate, for a number of candidates more than one but less than n, for as many as n candidates, or some other number.
+
+When voters may vote for only one candidate, it is called the single non-transferable vote. While seemingly most similar to first-past-the-post, in effect it is a semi-proportional system allowing for mixed representation in one district, and representation of both majority parties and electoral minorities within a district.
+
+When voters can vote for one or more candidates, but in total less than the number of winners, it is called limited voting.
+
+The multi-winner version considered to be the extension of first-past-the-post to multi-winner cases is plurality block voting. Here voters may vote for as many candidates as there are seats to fill, which means usually candidates from the largest party will fill all the seats in the district.
+
+The party-list version of plurality voting in multi-member districts is called party block voting. Here the party receiving a plurality of votes wins all of the seats available.
+
+Generally, plurality ballots can be categorized into two forms. The simplest form is a blank ballot in which the name of a candidate(s) is written in by hand. A more structured ballot will list all the candidates and allow a mark to be made next to the name of a single candidate (or more than one, in some cases); however, a structured ballot can also include space for a write-in candidate.
+
+This is a general example for single-winner plurality voting ("first-past-the-post"), using population percentages taken from one state for illustrative purposes.
+
+
+Suppose that Tennessee is holding an election on the location of its capital. The population is concentrated around four major cities. All voters want the capital to be as close to them as possible. The options are:
+
+The preferences of each region's voters are:
+
+
+If each voter in each city naively selects one city on the ballot (Memphis voters select Memphis, Nashville voters select Nashville, and so on), Memphis will be selected, as it has the most votes 42%. The system does not require that the winner have a majority, only a plurality. Memphis wins because it has the most votes even though 58% of the voters in the example preferred Memphis least. The opposite result would occur in instant-runoff, where Knoxville (the city furthest to the east, and the "second-worst" choice) would accumulate a majority from vote transfers from voter who initially voted for Chattanooga and Nashville. Nashville is the majority-preferred winner, and as a result would be elected by any Condorcet method.
+
+Candidates are running in a 3-member district of 10 000 voters.
+
+Under non-transferable (and non-cumulative) plurality voting, each voter may cast no more than one vote for a single candidate, even if they have multiple votes to cast.
+
+Party A has about 35% support among the electorate (with one particularly well-liked candidate), Party B around 25% (with two well-liked candidates) and the remaining voters primarily support independent candidates, but mostly lean towards party B if they have to choose between the two parties. All voters vote sincerely; there is no tactical voting. (Percentage of votes under MNTV and Limited Voting is the percentage of voters who voted for the candidate, not the percentage of votes cast.)
+
+Under all three versions of multi-winner plurality voting, the three most popular candidates according to voters' first preferences are elected, regardless of party affiliation, but with three different results.
+
+Wasted votes are those cast for candidates or parties who did not get elected. Some number of wasted votes by this definition is practically unavoidable, but plurality systems suffer from large numbers of wasted votes. For example, in the UK general election of 2005, 52% of votes were cast for losing candidates and 18% were excess votes, a total of 70% wasted votes. That is perhaps the most fundamental criticism of FPTP, the single-member plurality system, since at least half the votes are always wasted in a district, either as being placed on un-elected candidates or being surplus to what could be needed to win.
+
+SMP is in practice similar in plurality block voting. They both operate under the "winner-takes-all" principle, which means that the party of the losing candidates in each district receive no representation, regardless of the number of votes they receive.[8] Even the single non-transferable vote can result in very inefficient results if many candidates with small support compete or the most-popular candidates receive a large excess of votes. This is because like other plurality systems,  SNTV does not transfer loser and surplus votes.
+
+Another way to count wasted votes, is to see the ones that may play no part in determining the outcome.[9] Under FPTP for example, usually only votes for the top two candidates can be seen as really competing for the position, with only one possible to win; votes placed on other candidates are almost certain not to be used to elect anyone and therefore wasted. Sometimes not even two candidate are seen as being competitive. Due to having a history of repeatedly electing candidates of a certain party, many districts are known to have safe seats. On such, a candidate or party has a near 100% chance that they win the seats. Supporters of others sometimes do not even bother to vote knowing of the odds that face their candidate.
+
+Alternative electoral systems, such as proportional representation, attempt to ensure that almost all of the votes are effective in influencing the result and electing a representative, which minimizes vote wastage.[10] Such systems decreases disproportionality in election results and are also credited for increasing voter turnout.[11]
+
+To a much greater extent than many other electoral methods, plurality electoral systems encourage tactical voting techniques like "compromising".[12] Voters are under pressure to vote for one of the two candidates most likely to win, even if their true preference is neither of them; because a vote for any other candidate is unlikely to lead to the preferred candidate being elected. In single-member plurality, this will instead reduce support for one of the two major candidates whom the voter might prefer to the other. Electors who prefer not to waste their vote by voting for a candidate with a very low chance of winning their constituency vote for their lesser preferred candidate who has a higher chance of winning.[13] The minority party will then simply take votes away from one of the major parties, which could change the outcome and gain nothing for the voters. Any other party will typically need to build up its votes and credibility over a series of elections before it is seen as electable.
+
+In the Tennessee example, if all the voters for Chattanooga and Knoxville had instead voted for Nashville, Nashville would have won (with 58% of the vote). That would have only been the third choice for those voters, but voting for their respective first choices (their own cities) actually results in their fourth choice (Memphis) being elected.
+
+The difficulty is sometimes summed up in an extreme form, as "All votes for anyone other than the second place are votes for the winner". That is because by voting for other candidates, voters have denied those votes to the second-place candidate, who could have won had they received them. It is often claimed by United States Democrats that Democrat Al Gore lost the 2000 Presidential Election to Republican George W. Bush because some voters on the left voted for Ralph Nader of the Green Party, who, exit polls indicated, would have preferred Gore at 45% to Bush at 27%, with the rest not voting in Nader's absence.[14]
+
+That thinking is illustrated by elections in Puerto Rico and its three principal voter groups: the Independentistas (pro-independence), the Populares (pro-commonwealth), and the Estadistas (pro-statehood). Historically, there has been a tendency for Independentista voters to elect Popular candidates and policies. This results in more Popular victories even though the Estadistas have the most voters on the island. It is so widely recognised that the Puerto Ricans sometimes call the Independentistas who vote for the Populares "melons" in reference to the party colours, because the fruit is green on the outside but red on the inside.
+
+Such tactical voting can cause significant perturbation to the system:
+
+Proponents of other single-winner electoral systems argue that their proposals would reduce the need for tactical voting and reduce the spoiler effect. Other systems include the commonly used two-round system of runoffs and instant-runoff voting, along with less-tested and perhaps less-understood systems such as approval voting, score voting and Condorcet methods.
+
+Tactical voting is when a voter decides to vote in a way that does not represent their true preference or choice, motivated by an intent to influence election outcomes.[15] Strategic behaviour by voters can and does influence the outcome of voting in different plurality voting systems. Strategic behaviour is when a voter casts their vote for a different party or alternative district/constituency/riding[clarification needed] in order to induce, in their opinion, a better outcome. An example of this is when a person really likes party A but votes for party B because they do not like party C or D or because they believe that party A has little to no chance of winning.[16] This can cause the outcome of very close votes to be swayed for the wrong reason. This might have had an impact on the 2000 United States election that was essentially decided by fewer than 600 votes, with the winner being President Bush. When voters behave in a strategic way and expect others to do the same, they end up voting for one of the two leading candidates, making the Condorcet alternative more likely to be elected.[16] The prevalence of strategic voting in an election makes it difficult to evaluate the true political state of the population, as their true political ideologies are not reflected in their votes.[13]
+
+The spoiler effect is especially severe in plurality voting, where candidates with similar ideologies are forced to split the vote with each other.[8] One spoiler candidate's presence in the election draws votes from a major candidate with similar politics, which causes a strong opponent of both or several to win.[8] Even extremely small parties with very little first-preference support can therefore affect the outcome of an FPTP election.[8]
+
+The presence of spoilers often gives rise to suspicions that manipulation of the slate has taken place. The spoiler may have received incentives to run. A spoiler may also drop out at the last moment, which induces charges that such an act was intended from the beginning. Voters who are uninformed do not have a comparable opportunity to manipulate their votes as voters who understand all opposing sides, understand the pros and cons of voting for each party.
+
+Because FPTP permits a high level of wasted votes, an election under FPTP is easily gerrymandered unless safeguards are in place.[17] In gerrymandering, a party in power deliberately manipulates constituency boundaries to increase the number of seats that it wins unfairly.
+
+In brief, if a governing party G wishes to reduce the seats that will be won by opposition party O in the next election, it can create a number of constituencies in each of which O has an overwhelming majority of votes. O will win these seats, but many of its voters will waste their votes. Then, the rest of the constituencies are designed to have small majorities for G. Few G votes are wasted, and G will win many seats by small margins. As a result of the gerrymander, O's seats have cost it more votes than G's seats.
+
+Efficiency gap: The efficiency gap measures gerrymandering and has been scrutinized in the Supreme Court of the United States.[18][19] The efficiency gap is the difference between the two parties' wasted votes, divided by the total number of votes.[20][21]
+
+Duverger's law is a theory that constituencies that use first-past-the-post systems will eventually become a two-party system after enough time.[22] The two dominating parties regularly alternate in power and easily win constituencies due to the structure of plurality voting systems.[23] This puts smaller parties who struggle to meet the threshold of votes at a disadvantage, and inhibits growth.[23]
+
+Plurality voting tends to reduce the number of political parties to a greater extent than most other methods do, making it more likely that a single party will hold a majority of legislative seats. (In the United Kingdom, 22 out of 27 general elections since 1922 have produced a single-party majority government or, in the case of the National Governments, a parliament from which such a single-party government could have been drawn.)
+
+Plurality voting's tendency toward fewer parties and more-frequent majorities of one party can also produce a government that may not consider as wide a range of perspectives and concerns. It is entirely possible that a voter finds all major parties to have similar views on issues, and that a voter does not have a meaningful way of expressing a dissenting opinion through their vote.
+
+As fewer choices are offered to voters, voters may vote for a candidate although they disagree with them because they disagree even more with their opponents. That will make candidates less closely reflect the viewpoints of those who vote for them.
+
+Furthermore, one-party rule is more likely to lead to radical changes in government policy even though the changes are favoured only by a plurality or a bare majority of the voters, but a multi-party system usually requires more consensus to make dramatic changes in policy.
+
+Political apathy is prevalent in plurality voting systems such as FPTP.[24] Studies suggest that plurality voting system fails to incentivize citizens to vote, which results in very low voter turnouts.[24] Under this system, many people feel that voting is an empty ritual that has no influence on the composition of legislature.[9] Voters are not assured that the number of seats that political parties are accorded will reflect the popular vote, which disincentivizes them from voting and sends the message that their votes are not valued, and participation in elections does not seem necessary.[24]
+
+In August 2008, Sir Peter Kenilorea commented on what he perceived as the flaws of a first-past-the-post electoral system in the Solomon Islands:
+
+An... underlying cause of political instability and poor governance, in my opinion, is our electoral system and its related problems. It has been identified by a number of academics and practitioners that the First Past the Post system is such that a Member elected to Parliament is sometimes elected by a small percentage of voters where there are many candidates in a particular constituency. I believe that this system is part of the reason why voters ignore political parties and why candidates try an appeal to voters' material desires and relationships instead of political parties.... Moreover, this system creates a political environment where a Member is elected by a relatively small number of voters with the effect that this Member is then expected to ignore his party's philosophy and instead look after that core base of voters in terms of their material needs. Another relevant factor that I see in relation to the electoral system is the proven fact that it is rather conducive, and thus has not prevented, corrupt elections practices such as ballot buying.
+— "Realising political stability", Sir Peter Kenilorea, Solomon Star, 30 August 2008
+Plurality voting is generally considered one of the simplest methods and of the most widely known.[5] Because of its widespread use, in situations where people become voters, it will not be a new concept for most and may even be expected. Other systems may specifically need to be explained to the voters and may be perceived as more complicated.
+
+Widespread familiarity with the system does not imply widespread familiarity with the effects. Voters may not be aware of the issues in plurality voting, therefore they may vote sincerely even in situations where voting theory would suggest they should vote tactically, thereby voting against their rational interests.[citation needed]
+
+Another counter-argument is that plurality voting is partially considered simple because of its familiarity, which in turn results from its prevalence. Such argument is made by proponents of another plurality-based system, approval voting, where unlike usual plurality voting, voters may vote for any number of candidates. If approval voting is default, plurality voting (where voters only cast one otherwise fixed number of votes) would be seen at least equally unfamiliar to voters.
+
+Under plurality voting, ballots use simple marks instead of ranking or scoring, which can make especially paper-based ballots simpler.[25] However, non-plurality systems such as closed list PR may also use just as simple ballots.
+
+In cases without ballots, such as open voting by raised hands, for example, there are simpler methods that do not require checking for people who voted more than they are allowed to, for example, approval voting.
+
+With plurality voting, counting and summing up votes is generally an easy process, and this may be done on a precinct level and then summed up for a total with the same results. Some alternative methods, such as instant-runoff-voting do not work this way and either counting has to take place centrally, or complete (non-aggregated) results from precincts need to be submitted to the central authority for results.
+
+Common arguments for specifically the single-winner variant of plurality voting are constituency representation (which all other single-winner systems provide to the same degree) and governmental stability (which is dependent on other factors as well).[5] These arguments can be made for some multi-member versions and plurality voting in general too.[26]
+
+Majority criterion: Will a candidate always win who is ranked as the unique favorite by a majority of voters?
+
+No favorite betrayal: Can voters be sure that they do not need to rank any other candidate above their favorite in order to obtain a result they prefer?
+
+Plurality voting is often contrasted with (absolute) majority voting[27] where variant of runoff voting (multi-round voting) are also classified. However, in formal social choice theory, the term majority voting has a different definition, and runoff voting methods could also be classified under plurality[citation needed]. 
+
+typically plurality voting (technically: SNTV) determines which candidates compete in second round,
+majority rule for second round (with only two candidates).
+
+Some ranked systems simulate multi-round voting.
+Some ranked systems use plurality rule with weighted (positional) inputs (Borda count), but are not considered plurality voting.
+
+Plurality block voting, limited voting, single non-transferable vote
+
+Approval block voting, while using the plurality rule is also technically a score voting system.
+
+Party block voting/General ticket (plurality)
+
+(list-PR)
+
+The candidate votes change ranking within list (usually with plurality rule).
+
+(list-PR)
+
+Plurality voting is used for local and/or national elections in 43 of the 193 countries that are members of the United Nations. It is particularly prevalent in the United Kingdom, the United States, Canada and India.[28]
+
+The United Kingdom, like the United States and Canada, uses single-member districts as the base for national elections. Each electoral district (constituency) chooses one member of parliament, the candidate who gets the most votes, whether or not they get at least 50% of the votes cast ("first past the post"). In 1992, for example, a Liberal Democrat in Scotland won a seat (Inverness, Nairn and Lochaber) with just 26% of the votes. The system of single-member districts with plurality winners tends to produce two large political parties. In countries with proportional representation there is not such a great incentive to vote for a large party, which contributes to multi-party systems.
+
+Scotland, Wales and Northern Ireland use the first-past-the-post system for UK general elections but versions of proportional representation for elections to their own assemblies and parliaments. All of the UK used one form or another of proportional representation for European Parliament elections.
+
+The countries that inherited the British majoritarian system tend toward two large parties: one left and the other right, such as the U.S. Democrats and Republicans. Canada is an exception, with three major political parties consisting of the New Democratic Party, which is to the left; the Conservative Party, which is to the right; and the Liberal Party, which is slightly off-centre but to the left. A fourth party that no longer has major party status is the separatist Bloc Québécois party, which is territorial and runs only in Quebec. New Zealand once used the British system, which yielded two large parties as well. It also left many New Zealanders unhappy because other viewpoints were ignored, which made the New Zealand Parliament in 1993 adopt a new electoral law modelled on Germany's system of proportional representation (PR) with a partial selection by constituencies. New Zealand soon developed a more complex party system.[29]
+
+After the 2015 UK general election, there were calls from UKIP for a switch to the use of proportional representation after it received 3,881,129 votes that produced only one MP.[30] The Green Party was similarly underrepresented, which contrasted greatly with the SNP, a Scottish separatist party that received only 1,454,436 votes but won 56 seats because of more geographically concentrated support.
+
+The United Kingdom continues to use the first-past-the-post electoral system for general elections, and for local government elections in England and Wales. Changes to the UK system have been proposed, and alternatives were examined by the Jenkins Commission in the late 1990s. After the formation of a new coalition government in 2010, it was announced as part of the coalition agreement that a referendum would be held on switching to the alternative vote system. However the alternative vote system was rejected 2–1 by British voters in a referendum held on 5 May 2011.
+
+Canada also uses FPTP for national and provincial elections. In May 2005 the Canadian province of British Columbia had a referendum on abolishing single-member district plurality in favour of multi-member districts with the Single Transferable Vote system after the Citizens' Assembly on Electoral Reform made a recommendation for the reform. The referendum obtained 57% of the vote, but failed to meet the 60% requirement for passing. A second referendum was held in May 2009, this time the province's voters defeated the change with 39% voting in favour.
+
+An October 2007 referendum in the Canadian province of Ontario on adopting a Mixed Member Proportional system, also requiring 60% approval, failed with only 36.9% voting in favour. British Columbia again called a referendum on the issue in 2018 which was defeated by 62% voting to keep current system.
+
+Northern Ireland, Scotland, Wales, the Republic of Ireland, Australia and New Zealand are notable examples of countries within the UK, or with previous links to it, that use non-FPTP electoral systems (Northern Ireland, Scotland and Wales use FPTP in United Kingdom general elections, however).
+
+Nations which have undergone democratic reforms since 1990 but have not adopted the FPTP system include South Africa, almost all of the former Eastern bloc nations, Russia, and Afghanistan.
+
+Countries that use plurality voting to elect the lower or only house of their legislature include:[31] (Some of these may be undemocratic systems where there is effectively only one candidate allowed anyway.)
+
+The fatal flaws of Plurality (first-past-the-post) electoral systems – Proportional Representation Society of Australia
