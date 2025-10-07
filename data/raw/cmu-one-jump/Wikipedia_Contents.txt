@@ -1,0 +1,11 @@
+Easily explore Wikipedia using the topic links below. You can also search directly using the search bar. All section headers are clickable for quick navigation.
+
+Wikipedia's content is divided into broad subject areas:
+
+Lists of articles deemed most essential for the encyclopedia.
+
+Similar to vital articles, but for every language.
+
+Contributions representing the best of Wikipedia, having undergone a rigorous review process by multiple independent editors.
+
+Quality contributions that meet a core set of editorial standards, having undergone a thorough review by an independent editor.

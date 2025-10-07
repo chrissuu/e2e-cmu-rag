@@ -1,0 +1,51 @@
+Comma-separated values (CSV) is a text data format that uses commas to separate delimiter-separated values, and newlines to separate records. CSV data stores tabular data (numbers and text) in plain text, where each line typically represents one data record. Each record consists of the same number of fields, and these are separated by commas. If the field delimiter itself may appear within a field, fields can be surrounded with quotation marks.[3] A CSV file is a file containing data in CSV format.
+
+CSV is widespread in data applications and is widely supported by a variety of software, including common spreadsheet applications such as Microsoft Excel.[4] Benefits cited in favor of CSV include human readability and the simplicity of the format.[5]
+
+The CSV file format was formalized in the 2005 technical standard RFC 4180, which defines the MIME type "text/csv" for the handling of text-based fields.
+
+Comma-separated values is a data format that predates personal computers by more than a decade: the IBM Fortran (level H extended) compiler under OS/360 supported list-directed ("free form") input/output, with commas between values, in 1972.[6] List-directed input/output was defined in FORTRAN 77, approved in 1978. List-directed input used commas or spaces for delimiters, so unquoted character strings could not contain commas or spaces.[7]
+
+The term "comma-separated value" and the "CSV" abbreviation were in use by 1983.[8] The manual for the Osborne Executive computer, which bundled the SuperCalc spreadsheet, documents the CSV quoting convention that allows strings to contain embedded commas.[9]
+
+Comma-separated value lists are easier to type (for example into punched cards) than fixed-column-aligned data, and they were less prone to producing incorrect results if a value was punched one column off from its intended location.
+
+Comma separated files are used for the interchange of database information between machines of two different architectures. The plain-text character of CSV files largely avoids incompatibilities such as byte-order and word size. The files are largely human-readable, so it is easier to deal with them in the absence of perfect documentation or communication.[10]
+
+The main standardization initiative—transforming "de facto fuzzy definition" into a more precise and de jure one—was in 2005, with RFC 4180, defining CSV as a MIME Content Type.[11] Later, in 2013, some of RFC 4180's deficiencies were tackled by a W3C recommendation.[12]
+
+In 2014 IETF published RFC 7111 describing the application of URI fragments to CSV documents. RFC 7111 specifies how row, column, and cell ranges can be selected from a CSV document using position indexes.[13]
+
+In 2015 W3C, in an attempt to enhance CSV with formal semantics, publicized the first drafts of recommendations for CSV metadata standards, which began as recommendations in December of the same year.[14]
+
+Casually, the term "CSV" might refer to any file that:[1][15]
+
+The 2005 technical standard RFC 4180 formalizes the CSV file format and defines the MIME type "text/csv" for the handling of text-based fields. However, the interpretation of the text of each field is still application-specific. Files that follow the RFC 4180 standard can simplify CSV exchange and should be widely portable. Among its requirements:
+
+The format can be processed by most programs that claim to read CSV files. The exceptions are (a) programs may not support line-breaks within quoted fields, (b) programs may confuse the optional header with data or interpret the first data line as an optional header, and (c) double-quotes in a field may not be parsed correctly automatically.
+
+In 2011 Open Knowledge Foundation (OKF) and various partners created a data protocols working group, which later evolved into the Frictionless Data initiative. One of the main formats they released was the Tabular Data Package. Tabular Data package was heavily based on CSV, using it as the main data transport format and adding basic type and schema metadata (CSV lacks any type information to distinguish the string "1" from the number 1).[16] The Frictionless Data Initiative has also provided a standard CSV Dialect Description Format for describing different dialects of CSV, for example specifying the field separator or quoting rules.[17]
+
+In 2013 the W3C "CSV on the Web" working group began to specify technologies providing higher interoperability for web applications using CSV or similar formats.[18] The working group completed its work in February 2016 and is officially closed in March 2016 with the release of a set of documents and W3C recommendations[19] for modeling "Tabular Data",[14] and enhancing CSV with metadata and semantics. While the well-formedness of CSV data can readily checked, testing validity and canonical form is less well developed, relative to more precise data formats, such as XML and SQL, which offer richer types and rules-based validation.[20]
+
+CSV formats are best used to represent sets or sequences of records in which each record has an identical list of fields. This corresponds to a single relation in a relational database, or to data (though not calculations) in a typical spreadsheet.
+
+The format dates back to the early days of business computing and is widely used to pass data between computers with different internal word sizes, data formatting needs, and so forth. For this reason, CSV files are common on all computer platforms.
+
+CSV is a delimited text data format that uses a comma to separate values (many implementations of CSV import/export tools allow other separators to be used; for example, the use of a "Sep=^" row as the first row in a *.csv file will cause Excel to open the file expecting caret "^" to be the separator instead of comma ","). Simple CSV implementations may prohibit field values that contain a comma or other special characters such as newlines. More sophisticated CSV implementations permit them, often by requiring " (double quote) characters around values that contain reserved characters (such as commas, double quotes, or less commonly, newlines). Embedded double quote characters may then be represented by a pair of consecutive double quotes,[21] or by prefixing a double quote with an escape character such as a backslash (for example in Sybase Central).
+
+CSV formats are not limited to a particular character set.[1] They work just as well with Unicode in encodings such as UTF-8 or UTF-16 as they do with ASCII (although particular programs that support CSV may have their own limitations). CSV data normally will even survive naïve translation from one character set to another (unlike nearly all proprietary data formats). CSV does not, however, provide any way to indicate what character set is in use, so that must be communicated separately, or determined at the receiving end (if possible).
+
+CSV is a common data exchange format that is widely supported by consumer, business, and scientific applications. Among its most common uses is moving tabular data[22][23] between programs that natively operate on incompatible (often proprietary or undocumented) formats.[1] For example, a user may need to transfer information from a database program that stores data in a proprietary format, to a spreadsheet that uses a completely different format. Most database programs can export data as CSV. Most spreadsheet programs can read CSV data, allowing CSV to be used as an intermediate format when transferring data from a database to a spreadsheet. Every major ecommerce platform provides support for exporting data as a CSV file.[24]
+
+CSV is also used for storing data. Common data science tools such as Pandas include the option to export data to CSV for long-term storage.[25] Benefits of CSV for data storage include the simplicity of CSV makes parsing and creating CSV files easy to implement and fast compared to other data formats, human readability making editing or fixing data simpler,[26] and high compressibility leading to smaller data files.[27] Alternatively, CSV does not support more complex data relations and makes no distinction between null and empty values, and in applications where these features are needed other formats are preferred.
+
+More than 200 local, regional, and national data portals, such as those of the UK government and the European Commission, use CSV files with standardized data catalogs.[28]
+
+Some applications use CSV as a data interchange format to enhance its interoperability, exporting and importing CSV. Others use CSV as an internal format. CSV is supported by almost all spreadsheets and database management systems.
+
+Spreadsheets including Apple Numbers, LibreOffice Calc, and Apache OpenOffice Calc. support reading CSV files. Microsoft Excel also supports a dialect of CSV with restrictions in comparison to other spreadsheet software (e.g., as of 2019[update] Excel still cannot export CSV files in the commonly used UTF-8 character encoding, and separator is not enforced to be the comma). LibreOffice Calc CSV importer is actually a more generic delimited text importer, supporting multiple separators at the same time as well as field trimming.
+
+Various relational databases support saving query results to a CSV file. PostgreSQL provides the COPY command, which allows for both saving and loading data to and from a file. COPY (SELECT * FROM articles) TO '/home/wikipedia/file.csv' (FORMAT csv) saves the content of a table articles to a file called /home/wikipedia/file.csv.[29] Some relational databases, when using standard SQL, offer foreign-data wrapper (FDW). For example, PostgreSQL offers the CREATE FOREIGN TABLE[30] and CREATE EXTENSION file_fdw[31] commands to configure any variant of CSV. Databases like Apache Hive offer the option to express CSV or .csv.gz as an internal table format.
+
+Programs that work with CSV may have limits on the maximum number of rows CSV files can have. Examples include Microsoft Excel (1,048,576 rows), Apple Numbers (1,000,000 rows), Google Sheets (10,000,000 cells), and OpenOffice and LibreOffice (1,048,576 rows).[32]

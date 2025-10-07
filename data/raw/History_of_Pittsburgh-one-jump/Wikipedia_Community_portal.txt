@@ -1,0 +1,51 @@
+This page provides a listing of current collaborations, tasks, and news about English Wikipedia. New to Wikipedia? See the contributing to Wikipedia page or our tutorial for everything you need to know to get started. For a listing of internal project pages of interest, see the department directory.
+
+For a listing of ongoing discussions and current requests, see the Dashboard.
+
+Welcome to the community bulletin board, which is a page used for announcements from WikiProjects and other groups. Included here are coordinated efforts, events, projects, and other general announcements.
+
+Yearly or infrequent events
+
+Monthly or continuous events
+
+Also consider posting WikiProject, Task Force, and Collaboration news at The Signpost's WikiProject Report page.
+Please include your signature when adding a listing here.
+
+Latest tech news from the Wikimedia technical community. Please tell other users about these changes. Not all changes will affect you. Translations are available.
+
+Weekly highlight
+
+Updates for editors
+
+Updates for technical contributors
+
+Tech news prepared by Tech News writers and posted by bot • Contribute • Translate • Get help • Give feedback • Subscribe or unsubscribe.
+
+Discussions in the following areas have requested wider attention via Requests for comment:
+
+
+You can help improve the articles listed below! This list updates frequently, so check back here for more tasks to try. (See Wikipedia:Maintenance or the  Task Center for further information.)
+
+
+Help counter systemic bias by creating new articles on important women.
+
+
+Help improve popular pages, especially those of low quality.
+
+This week's article for improvement is:
+
+Genus
+
+This week's backlog of the week is:
+
+Category:Pages with duplicate reference names
+
+It is proper "Wikiquette" (WI-kee-ket) to sign your messages on talk pages. 
+This prevents readers from confusing your posts with messages by other users.  
+
+To sign a message, move the cursor to the end of the message, and then with your mouse click on 
+the signature icon () in the toolbar at the top of the edit box.
+This inserts the signature code (~~~~) where the cursor is.
+When you save the page, these tilde characters are converted to your signature followed by a date stamp.
+
+You can also type this code in manually with the four tilde characters ~+~+~+~. 

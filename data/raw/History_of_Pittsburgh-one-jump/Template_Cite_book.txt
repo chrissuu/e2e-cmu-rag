@@ -1,0 +1,457 @@
+This Citation Style 1 template is used to create citations for books. When citing an article in a periodical, use {{cite journal}} or {{cite magazine}}. For conference papers, use {{cite conference}}. For edited collections, use {{cite encyclopedia}}. For theses, use {{cite thesis}}.
+
+If the correct parameters are used, this template produces output identical to that of the {{Citation}} template, with one important exception: By default, this Citation template uses periods (full stops) in places where the Citation template use commas by default; either type of template can use periods (full stops) or commas by using an optional parameter.
+
+Copy a blank version to use. Almost all parameter names are supported only in lower case (some initialisms, such as |isbn= have upper-case aliases like |ISBN=, which are acceptable for use). Use the "|" (pipe) character between each parameter. Unused parameters may be deleted to avoid clutter in the edit window. Some samples on this documentation page may include the current date. If the date is not current, then purge the page.
+
+Title
+
+Title and year
+
+Basic usage (single author)
+
+Basic usage (two authors)
+
+Basic usage with url (and access-date) and edition
+
+Citing a chapter in a book with different authors for different chapters and an editor
+
+Citing a chapter in a book with two joint authors and an editor
+
+Three authors, title with a differently-named title link, edition
+
+Complex usage showing effect of using volume parameter and name-list-style parameter (without volume and name-list-style)
+
+Complex usage showing effect of using volume parameter and name-list-style parameter (with volume and name-list-style)
+
+Date without day, wikilinked title, publisher, pages, edition, location
+
+Other language
+
+Using a DOI
+
+Using author-mask parameter
+
+Using display-authors parameter
+
+Nested parameters rely on their parent parameters:
+
+By default, sets of fields are terminated with a period (.).
+
+This template embeds COinS metadata in the HTML output, allowing reference management software to retrieve bibliographic metadata. See Wikipedia:COinS. As a general rule, only one data item per parameter. Do not include explanatory or alternate text:
+
+Use of templates within the citation template is discouraged because many of these templates will add extraneous HTML or CSS that will be included raw in the metadata. Also, HTML entities, for example &nbsp;, &ndash;, or &#160;, should not be used in parameters that contribute to the metadata.  
+
+Note: This table of metadata is displayed in the documentation of all Citation Style 1 templates. Not all of these parameters are supported by every CS1 template. Some of these parameters are mutually exclusive, some are aliases of another parameter, and some require other parameters to be present. A full list of this template's supported parameters, their aliases, and their dependencies is shown in the Usage section near the top of this documentation page.
+
+(See also Help:Citation Style 1 § Titles and chapters.)
+
+URLs must begin with a supported URI scheme. http:// and https:// will be supported by all browsers; however, ftp://, gopher://, irc://, ircs://, mailto: and news: may require a plug-in or an external application and should normally be avoided. IPv6 host-names are currently not supported.
+
+If URLs in citation template parameters contain certain characters, then they will not display and link correctly. Those characters need to be percent-encoded. For example, a space must be replaced by %20. To encode the URL, replace the following characters with:
+
+Single apostrophes do not need to be encoded; however, unencoded multiples will be parsed as italic or bold markup. Single curly closing braces also do not need to be encoded; however, an unencoded pair will be parsed as the double closing braces for the template transclusion.
+
+The following identifiers create links and are designed to accept a single value. Using multiple values or other text will break the link and/or invalidate the identifier. In general, the parameters should include only the variable part of the identifier, e.g. |rfc=822 or |pmc=345678.
+
+In very rare cases, identifiers are published which do not follow their defined standard format or use non-conforming checksums. These would typically cause an error message to be shown. Do not alter them to match a different checksum. In order to suppress the error message, some identifiers (|doi=, |eissn=, |isbn=, |issn=, and |sbn=) support a special accept-this-as-written markup which can be applied to disable the error-checking (as |<param>=((<value>))). If the problem is down to a mere typographical error in a third-party source, correct the identifier value instead of overriding the error message.
+
+For some identifiers, it is possible to specify the access status using the corresponding |<param>-access= parameter.
+
+For {{cite journal}}, some identifiers (specifying free resources) will automatically be linked to the title when |url= and |title-link= are not used to specify a different link target. This behaviour can be overridden by one out of a number of special keywords for |title-link= to manually select a specific source (|title-link=pmc or |title-link=doi) for auto-linking or to disable the feature (|title-link=none).
+
+It is not necessary to specify a URL to a link identical to a link also produced by an identifier. The |url= parameter (or |title-link=) can then be used for providing a direct deep link to the corresponding document or a convenience link to a resource that would not otherwise be obviously accessible.
+
+
+Citations of online sources that require registration or a subscription are acceptable in Wikipedia as documented in Verifiability § Access to sources. As a courtesy to readers and other editors, editors should signal restrictions on access to material provided via the external links included in a citation. These levels describe requirements or constraints related to accessing and viewing the cited material; they are not intended to indicate the ability to reuse, or the copyright status, of the material, since that status is not relevant to verifying claims in articles. 
+
+Four access levels can be used:
+
+As there are often multiple external links with different access levels in the same citation, each value is attributed to a specific external link.
+
+Online sources linked by |url=, |article-url=, |chapter-url=, |contribution-url=, |entry-url=, |map-url=, and |section-url= are presumed to be free-to-read. When they are not free-to-read, editors should mark those sources with the matching access-indicator parameter so that an appropriate icon is included in the rendered citation. Because the sources linked by these URL-holding parameters are presumed to be free-to-read, they are not marked as free.  If the registration/limited/subscription access to the source goes dead and is no longer available, then remove the access-indicator parameter and add |archive-url= and |archive-date= values if possible.
+
+For example, this cites a web page that requires registration but not subscription:
+
+which renders as:
+
+Links inserted by named identifiers are presumed to lie behind a paywall or registration barrier – exceptions listed below. When they are free-to-read, editors should mark those sources with the matching access-indicator parameter so that an appropriate icon is included in the rendered citation.  When the sources linked by these named-identifier parameters are not presumed to carry a free-to-read full text (for instance because they're just abstracting services), they may not be marked as limited, registration, or subscription.
+
+Some named-identifiers are always free-to-read. For those named identifiers there are no access-indicator parameters; the access level is automatically indicated by the template. These named identifiers are:
+
+For embargoed pmc that will become available in the future, see pmc-embargo-date.
+
+TemplateData for Cite book
+
+Template:Cite book  uses standard parameter set; TemplateData has errors:
+
+This template formats a citation to a book using the provided bibliographic information (such as author and title) as well as various formatting options.
+Template parameters[Edit template data]
+This template has custom formatting.
+The surname of the author, don't wikilink but use 'author-link' parameter instead; can suffix with a numeral to add additional authors.
+Given or first name, middle names, or initials of the author; don't wikilink, use 'author-link' instead; can suffix with a numeral to add additional authors
+Title of existing Wikipedia article about the author; can suffix with a numeral to add additional authors
+Full date of the source; do not wikilink
+Year of the source being referenced; use 'date' instead, if month and day are also known
+The title of the book; displays in italics.
+Title of existing Wikipedia article about the source named in title – do not use a web address; do not wikilink.
+The URL of the online location where the text of the publication can be found; requires schemes of the type 'http://…', 'https://…' or the protocol relative scheme '//…'.
+If using Vancouver style, comma separated list of author names; enclose corporate or institutional author names in doubled parentheses
+The surname of the second author; don't wikilink, use 'author-link2' instead; can suffix with a numeral to add additional authors
+Given or first name, middle names, or initials of the second author; don't wikilink, use 'author-link2' instead; can suffix with a numeral to add additional authors
+Title of existing Wikipedia article about the second author; can suffix with a numeral to add additional authors
+The surname of the third author; don't wikilink, use 'author-link3' instead.
+Given or first name, middle names, or initials of the third author; don't wikilink.
+Title of existing Wikipedia article about the third author.
+The surname of the fourth author; don't wikilink, use 'author-link4' instead.
+Given or first name, middle names, or initials of the fourth author; don't wikilink.
+Title of existing Wikipedia article about the fourth author.
+The surname of the fifth author; don't wikilink, use 'author-link5' instead.
+Given or first name, middle names, or initials of the fifth author; don't wikilink.
+Title of existing Wikipedia article about the fifth author.
+The surname of the sixth author; don't wikilink, use 'author-link6' instead.
+Given or first name, middle names, or initials of the sixth author; don't wikilink.
+Title of existing Wikipedia article about the sixth author.
+The surname of the seventh author; don't wikilink, use 'author-link7' instead.
+Given or first name, middle names, or initials of the seventh author; don't wikilink.
+Title of existing Wikipedia article about the seventh author.
+The surname of the eighth author; don't wikilink, use 'author-link8' instead.
+Given or first name, middle names, or initials of the eighth author; don't wikilink.
+Title of existing Wikipedia article about the eighth author.
+The surname of the ninth author; don't wikilink, use 'author-link9' instead. If nine authors are defined, then only eight will show and 'et al.' will show in place of the last author.
+Given or first name, middle names, or initials of the ninth author; don't wikilink.
+Title of existing Wikipedia article about the ninth author.
+Name of a group of authors or collaborators; requires author, last, or vauthors which list one or more primary authors; follows author name-list; appends 'et al.' to author name-list.
+Name of the work in which the cited book text is found. This parameter is not supported by and should not be used with cite book. See Help:Citation_Style_1#|<periodical>=_ignored.
+Name of the publisher; displays after title
+Used to record other contributions to the work, such as 'Illustrated by John Smith' or 'Translated by John Smith'
+International Standard Book Number; use the 13-digit ISBN where possible
+The surname of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors
+Given or first name, middle names, or initials of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors
+Title of existing Wikipedia article about the editor
+Replaces the name of the first editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+Comma separated list of editor names in Vancouver style; enclose corporate or institutional names in doubled parentheses
+When the publication has more than one edition; for example: '2nd', 'Revised' etc.; suffixed by ' ed.'
+Series identifier when the source is part of a series, such as a book series or a journal
+For one publication published in several volumes
+Geographical place of publication; usually not wikilinked; omit when the publication name includes place
+Publication place shows after title; if 'place' or 'location' are also given, they are displayed before the title prefixed with 'written at'
+Date of publication when different from the date the work was written; do not wikilink
+The number of a single page in the source that supports the content; displays after 'p.'; use either page= or pages=, but not both
+A range of pages in the source that support the content (not an indication of the number of pages in the source); displays after 'pp.'; use either page= or pages=, but not both
+May be used instead of 'page' or 'pages' where a page number is inappropriate or insufficient
+The language in which the source is written. Do not use the full language name; use ISO 639-1. Do not use icons or templates
+The surname of the translator; don't wikilink, use 'translator-link'; can suffix with a numeral to add additional translators.
+Given or first name, middle names, or initials of the translator; don't wikilink, use 'translator-link'; can suffix with a numeral to add additional translators.
+For titles in languages that do not use a Latin-based alphabet (Arabic, Bengali, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, Vietnamese, etc), prefix with two-character ISO 639-1 language code followed by a colon, e.g. for Japanese use 'ja:…'.
+An English language title, if the source cited is in a foreign language; 'language' is recommended
+The chapter heading of the source; may be wikilinked or with 'chapter-url' but not both. For the contribution alias, see contributor-last
+Chapter heading for languages that do not use a Latin-based alphabet (Arabic, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, Vietnamese, etc); follows transliteration defined in chapter. Should be prefixed with an ISO 639-1 two-character code to help browsers properly display the script
+An English language chapter heading, if the source cited is in a foreign language; 'language' is recommended
+Additional information about the media type of the source; format in sentence case
+Format of the work referred to by 'url'; examples: PDF, DOC, XLS; do not specify HTML
+Amazon Standard Identification Number; 10 characters
+ASIN top-level domain for Amazon sites other than the US
+Bibliographic Reference Code (REFCODE); 19 characters
+biorXiv identifier; 6 digits
+CiteSeerX identifier; found after the 'doi=' query parameter
+Digital Object Identifier; begins with '10.'
+International Standard Serial Number for the electronic media of a serial publication; eight characters may be split into two groups of four using a hyphen, but not an en dash or a space.
+Handle System identifier for digital objects and other resources on the Internet
+International Standard Music Number; Use the ISMN actually printed on or in the work. Hyphens or spaces in the ISMN are optional.
+International Standard Serial Number; 8 characters; may be split into two groups of four using a hyphen
+Jahrbuch über die Fortschritte der Mathematik classification code
+JSTOR identifier
+Library of Congress Control Number
+Mathematical Reviews identifier
+Online Computer Library Center number
+Open Library identifier; do not include "OL" at beginning of identifier
+Office of Scientific and Technical Information identifier
+PubMed Center article number
+PubMed Unique Identifier
+Request for Comments number
+Social Science Research Network
+Zentralblatt MATH journal identifier
+A unique identifier used where none of the specialized ones are applicable
+Relevant text quoted from the source; displays last, enclosed in quotes; needs to include terminating punctuation
+An anchor identifier; can be made the target of wikilinks to full references; special value 'harv' generates an anchor suitable for the harv and sfn templates
+Sets separator and terminal punctuation to the style named in the assigned value; allowable values are: 'cs1' or 'cs2'
+The closing punctuation for the citation; ignored if 'quote' is defined; to suppress use reserved keyword 'none'
+Replaces the name of the first author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the second author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the third author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the fourth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the fifth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the sixth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the seventh author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the eighth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the ninth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+number of authors to display before 'et al.' is used
+The full date when the original URL was accessed; do not wikilink
+Original date of publication; provide specifics
+The surname of the second editor; don't wikilink, use 'editor2-link'
+Given or first name, middle names, or initials of the second editor; don't wikilink, use 'editor2-link'
+Title of existing Wikipedia article about the second editor
+Replaces the name of the second editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the third editor; don't wikilink, use 'editor3-link'
+Given or first name, middle names, or initials of the third editor; don't wikilink, use 'editor3-link'
+Title of existing Wikipedia article about the third editor
+Replaces the name of the third editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the fourth editor; don't wikilink, use 'editor4-link'
+Given or first name, middle names, or initials of the fourth editor; don't wikilink, use 'editor4-link'
+Title of existing Wikipedia article about the fourth editor
+Replaces the name of the fourth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the fifth editor; don't wikilink, use 'editor5-link'
+Given or first name, middle names, or initials of the fifth editor; don't wikilink, use 'editor5-link'
+Title of existing Wikipedia article about the fifth editor
+Replaces the name of the fifth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the sixth editor; don't wikilink, use 'editor6-link'
+Given or first name, middle names, or initials of the sixth editor; don't wikilink, use 'editor6-link'
+Title of existing Wikipedia article about the sixth editor
+Replaces the name of the sixth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the seventh editor; don't wikilink, use 'editor7-link'
+Given or first name, middle names, or initials of the seventh editor; don't wikilink, use 'editor7-link'
+Title of existing Wikipedia article about the seventh editor
+Replaces the name of the seventh editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the eighth editor; don't wikilink, use 'editor8-link'
+Given or first name, middle names, or initials of the eighth editor; don't wikilink, use 'editor8-link'
+Title of existing Wikipedia article about the eighth editor
+Replaces the name of the eighth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the ninth editor; don't wikilink, use 'editor9-link'
+Given or first name, middle names, or initials of the ninth editor; don't wikilink, use 'editor9-link'
+Title of existing Wikipedia article about the ninth editor
+Replaces the name of the ninth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+Controls the number of editor names that are displayed when a citation is published. To change the displayed number of editors, set display-editors to the desired number. For example, |display-editors=2 will display only the first two editors in a citation. By default, all editors are displayed. |display-editors=etal displays all editors in the list followed by et al.
+The surname of the second translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the second translator; don't wikilink, use 'translator-link'.
+The surname of the third translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the third translator; don't wikilink, use 'translator-link'.
+The surname of the fourth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the fourth translator; don't wikilink, use 'translator-link'.
+The surname of the fifth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the fifth translator; don't wikilink, use 'translator-link'.
+The surname of the sixth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the sixth translator; don't wikilink, use 'translator-link'.
+The surname of the seventh translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the seventh translator; don't wikilink, use 'translator-link'.
+The surname of the eighth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the eighth translator; don't wikilink, use 'translator-link'.
+The surname of the ninth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the ninth translator; don't wikilink, use 'translator-link'.
+Title of existing Wikipedia article about the translator; can suffix with a numeral to add additional translators.
+Title of existing Wikipedia article about the second translator.
+Title of existing Wikipedia article about the third translator.
+Title of existing Wikipedia article about the fourth translator.
+Title of existing Wikipedia article about the fifth translator.
+Title of existing Wikipedia article about the sixth translator.
+Title of existing Wikipedia article about the seventh translator.
+Title of existing Wikipedia article about the eighth translator.
+Title of existing Wikipedia article about the ninth translator.
+The URL of the online location where the text of the chapter can be found
+Format of the work referred to by chapter-url; displayed in parentheses after chapter. HTML is implied and should not be specified.
+The date that the DOI was determined to be broken
+Classification of the access restrictions on the URL ('registration', 'subscription' or 'limited')
+The URL of an archived copy of a web page, if or in case the URL becomes unavailable; requires 'archivedate'
+Date when the original URL was archived; do not wikilink
+Format of the Archive
+If set to 'live', the title display is adjusted; useful for when the URL is archived preemptively but still live. Set to "dead" or 'usurped' for broken links. Entering 'unfit' or 'usurped' makes the original link not appear at all.
+Set to 'amp' or 'and' to change the separator between the last two names of the name list to ' & ' or ' and ', respectively. Set to 'vanc' to display name lists in Vancouver style.
+Aggregate or database provider, when different from the Publisher. Typically used for Ebooks.
+If the full text is available from ADS via this Bibcode, type 'free'.
+If the full text is free to read via the DOI, type 'free'.
+If the full text is free to read via the HDL, type 'free'.
+If the full text is free to read on Jstor, type 'free'.
+If the full text is free to read on OpenLibrary, type 'free'.
+If the full text is free to read on OSTI, type 'free'.
+Issue number. This parameter is not supported by and should generally not be used with cite book. Consider that a different cite template may be more appropriate, such as cite magazine or cite journal. See Help:Citation_Style_1#Pages.
+Unusual in cite book.
+Sets rendered dates to the specified format
+This template produces COinS metadata; see COinS in Wikipedia for background information.
+
+TemplateData for Cite book
+
+Template:Cite book  uses standard parameter set; TemplateData has errors:
+
+This template formats a citation to a book using the provided bibliographic information (such as author and title) as well as various formatting options.
+Template parameters[Edit template data]
+This template has custom formatting.
+The surname of the author; don't wikilink, use 'author-link' instead; can suffix with a numeral to add additional authors
+Given or first name, middle names, or initials of the author; don't wikilink, use 'author-link' instead; can suffix with a numeral to add additional authors
+Title of existing Wikipedia article about the author; can suffix with a numeral to add additional authors
+The URL of the online location where the text of the publication can be found. Requires schemes of the type "http://..." or maybe even the  protocol relative scheme "//..."
+The title of the book; displays in italics
+Title of existing Wikipedia article about the source named in title – do not use a web address; do not wikilink.
+If using Vancouver style, comma separated list of author names; enclose corporate or institutional author names in doubled parentheses
+The surname of the second author; don't wikilink, use 'author-link2' instead; can suffix with a numeral to add additional authors
+Given or first name, middle names, or initials of the second author; don't wikilink, use 'author-link2' instead; can suffix with a numeral to add additional authors
+Title of existing Wikipedia article about the second author; can suffix with a numeral to add additional authors
+The surname of the third author; don't wikilink, use 'author-link3' instead.
+Given or first name, middle names, or initials of the third author; don't wikilink.
+Title of existing Wikipedia article about the third author.
+The surname of the fourth author; don't wikilink, use 'author-link4' instead.
+Given or first name, middle names, or initials of the fourth author; don't wikilink.
+Title of existing Wikipedia article about the fourth author.
+The surname of the fifth author; don't wikilink, use 'author-link5' instead.
+Given or first name, middle names, or initials of the fifth author; don't wikilink.
+Title of existing Wikipedia article about the fifth author.
+The surname of the sixth author; don't wikilink, use 'author-link6' instead.
+Given or first name, middle names, or initials of the sixth author; don't wikilink.
+Title of existing Wikipedia article about the sixth author.
+The surname of the seventh author; don't wikilink, use 'author-link7' instead.
+Given or first name, middle names, or initials of the seventh author; don't wikilink.
+Title of existing Wikipedia article about the seventh author.
+The surname of the eighth author; don't wikilink, use 'author-link8' instead.
+Given or first name, middle names, or initials of the eighth author; don't wikilink.
+Title of existing Wikipedia article about the eighth author.
+The surname of the ninth author; don't wikilink, use 'author-link9' instead. If nine authors are defined, then only eight will show and 'et al.' will show in place of the last author.
+Given or first name, middle names, or initials of the ninth author; don't wikilink.
+Title of existing Wikipedia article about the ninth author.
+Name of a group of authors or collaborators; requires author, last, or vauthors which list one or more primary authors; follows author name-list; appends 'et al.' to author name-list.
+Full date of the source; do not wikilink
+Name of the work in which the cited book text is found
+Name of the publisher; displays after title
+Used to record other contributions to the work, such as 'Illustrated by John Smith' or 'Translated by John Smith'
+Year of the source being referenced; use 'date' instead, if month and day are also known
+International Standard Book Number; use the 13-digit ISBN where possible
+The surname of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors
+Given or first name, middle names, or initials of the editor; don't wikilink, use 'editor-link'; can suffix with a numeral to add additional editors
+Title of existing Wikipedia article about the editor
+Replaces the name of the first editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+Comma separated list of editor names in Vancouver style; enclose corporate or institutional names in doubled parentheses
+When the publication has more than one edition; for example: '2nd', 'Revised' etc.; suffixed by ' ed.'
+Series identifier when the source is part of a series, such as a book series or a journal
+For one publication published in several volumes
+Geographical place of publication; usually not wikilinked; omit when the publication name includes place
+Publication place shows after title; if 'place' or 'location' are also given, they are displayed before the title prefixed with 'written at'
+Date of publication when different from the date the work was written; do not wikilink
+The number of a single page in the source that supports the content; displays after 'p.'; use either page= or pages=, but not both
+A range of pages in the source that support the content (not an indication of the number of pages in the source); displays after 'pp.'; use either page= or pages=, but not both
+May be used instead of 'page' or 'pages' where a page number is inappropriate or insufficient
+The language in which the source is written. Do not use the full language name; use ISO 639-1. Do not use icons or templates
+The surname of the translator; don't wikilink, use 'translator-link'; can suffix with a numeral to add additional translators.
+Given or first name, middle names, or initials of the translator; don't wikilink, use 'translator-link'; can suffix with a numeral to add additional translators.
+For titles in languages that do not use a Latin-based alphabet (Arabic, Bengali, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, Vietnamese, etc). Prefix with two-character ISO639-1 language code followed by a colon.  For Japanese use: |script-title=ja:...
+An English language title, if the source cited is in a foreign language; 'language' is recommended
+The chapter heading of the source; may be wikilinked or with 'chapter-url' but not both. For the contribution alias, see contributor-last
+Chapter heading for languages that do not use a Latin-based alphabet (Arabic, Chinese, Cyrillic, Greek, Hebrew, Japanese, Korean, Vietnamese, etc); follows transliteration defined in chapter. Should be prefixed with an ISO 639-1 two-character code to help browsers properly display the script
+An English language chapter heading, if the source cited is in a foreign language; 'language' is recommended
+Additional information about the media type of the source; format in sentence case
+Format of the work referred to by 'url'; examples: PDF, DOC, XLS; do not specify HTML
+Amazon Standard Identification Number; 10 characters
+ASIN top-level domain for Amazon sites other than the US
+Bibliographic Reference Code (REFCODE); 19 characters
+biorXiv identifier; 6 digits
+CiteSeerX identifier; found after the 'doi=' query parameter
+Digital Object Identifier; begins with '10.'
+International Standard Serial Number for the electronic media of a serial publication; eight characters may be split into two groups of four using a hyphen, but not an en dash or a space.
+Handle System identifier for digital objects and other resources on the Internet
+International Standard Music Number; Use the ISMN actually printed on or in the work. Hyphens or spaces in the ISMN are optional.
+International Standard Serial Number; 8 characters; may be split into two groups of four using a hyphen
+Jahrbuch über die Fortschritte der Mathematik classification code
+JSTOR identifier
+Library of Congress Control Number
+Mathematical Reviews identifier
+Online Computer Library Center number
+Open Library identifier; do not include "OL" at beginning of identifier
+Office of Scientific and Technical Information identifier
+PubMed Center article number
+PubMed Unique Identifier
+Request for Comments number
+Social Science Research Network
+Zentralblatt MATH journal identifier
+A unique identifier used where none of the specialized ones are applicable
+Relevant text quoted from the source; displays last, enclosed in quotes; needs to include terminating punctuation
+An anchor identifier; can be made the target of wikilinks to full references; special value 'harv' generates an anchor suitable for the harv and sfn templates
+Sets separator and terminal punctuation to the style named in the assigned value; allowable values are: 'cs1' or 'cs2'
+The closing punctuation for the citation; ignored if 'quote' is defined; to suppress use reserved keyword 'none'
+Replaces the name of the first author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the second author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the third author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the fourth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the fifth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the sixth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the seventh author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the eighth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+Replaces the name of the ninth author with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing author separator; for example, 'with' instead
+number of authors to display before 'et al.' is used
+The full date when the original URL was accessed; do not wikilink
+Original date of publication; provide specifics
+Original year of publication; provide specifics
+The surname of the second editor; don't wikilink, use 'editor2-link'
+Given or first name, middle names, or initials of the second editor; don't wikilink, use 'editor2-link'
+Title of existing Wikipedia article about the second editor
+Replaces the name of the second editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the third editor; don't wikilink, use 'editor3-link'
+Given or first name, middle names, or initials of the third editor; don't wikilink, use 'editor3-link'
+Title of existing Wikipedia article about the third editor
+Replaces the name of the third editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the fourth editor; don't wikilink, use 'editor4-link'
+Given or first name, middle names, or initials of the fourth editor; don't wikilink, use 'editor4-link'
+Title of existing Wikipedia article about the fourth editor
+Replaces the name of the fourth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the fifth editor; don't wikilink, use 'editor5-link'
+Given or first name, middle names, or initials of the fifth editor; don't wikilink, use 'editor5-link'
+Title of existing Wikipedia article about the fifth editor
+Replaces the name of the fifth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the sixth editor; don't wikilink, use 'editor6-link'
+Given or first name, middle names, or initials of the sixth editor; don't wikilink, use 'editor6-link'
+Title of existing Wikipedia article about the sixth editor
+Replaces the name of the sixth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the seventh editor; don't wikilink, use 'editor7-link'
+Given or first name, middle names, or initials of the seventh editor; don't wikilink, use 'editor7-link'
+Title of existing Wikipedia article about the seventh editor
+Replaces the name of the seventh editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the eighth editor; don't wikilink, use 'editor8-link'
+Given or first name, middle names, or initials of the eighth editor; don't wikilink, use 'editor8-link'
+Title of existing Wikipedia article about the eighth editor
+Replaces the name of the eighth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+The surname of the ninth editor; don't wikilink, use 'editor9-link'
+Given or first name, middle names, or initials of the ninth editor; don't wikilink, use 'editor9-link'
+Title of existing Wikipedia article about the ninth editor
+Replaces the name of the ninth editor with em dashes or text; set to a numeric value 'n' to set the dash 'n' em spaces wide; set to a text value to display the text without a trailing editor separator; for example, 'with' instead
+Controls the number of editor names that are displayed when a citation is published. To change the displayed number of editors, set display-editors to the desired number. For example, |display-editors=2 will display only the first two editors in a citation. By default, all editors are displayed. |display-editors=etal displays all editors in the list followed by et al.
+The surname of the second translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the second translator; don't wikilink, use 'translator-link'.
+The surname of the third translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the third translator; don't wikilink, use 'translator-link'.
+The surname of the fourth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the fourth translator; don't wikilink, use 'translator-link'.
+The surname of the fifth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the fifth translator; don't wikilink, use 'translator-link'.
+The surname of the sixth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the sixth translator; don't wikilink, use 'translator-link'.
+The surname of the seventh translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the seventh translator; don't wikilink, use 'translator-link'.
+The surname of the eighth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the eighth translator; don't wikilink, use 'translator-link'.
+The surname of the ninth translator; don't wikilink, use 'translator-link'.
+Given or first name, middle names, or initials of the ninth translator; don't wikilink, use 'translator-link'.
+Title of existing Wikipedia article about the translator; can suffix with a numeral to add additional translators.
+Title of existing Wikipedia article about the second translator.
+Title of existing Wikipedia article about the third translator.
+Title of existing Wikipedia article about the fourth translator.
+Title of existing Wikipedia article about the fifth translator.
+Title of existing Wikipedia article about the sixth translator.
+Title of existing Wikipedia article about the seventh translator.
+Title of existing Wikipedia article about the eighth translator.
+Title of existing Wikipedia article about the ninth translator.
+The URL of the online location where the text of the chapter can be found
+Format of the work referred to by chapter-url; displayed in parentheses after chapter. HTML is implied and should not be specified.
+The date that the DOI was determined to be broken
+Classification of the access restrictions on the URL ('registration', 'subscription' or 'limited')
+The URL of an archived copy of a web page, if or in case the URL becomes unavailable; requires 'archivedate'
+Format of the Archive
+Date when the original URL was archived; do not wikilink
+If set to 'live', the title display is adjusted; useful for when the URL is archived preemptively but still live. Set to "dead" or 'usurped' for broken links. Entering 'unfit' or 'usurped' makes the original link not appear at all.
+Set to 'amp' or 'and' to change the separator between the last two names of the name list to ' & ' or ' and ', respectively. Set to 'vanc' to display name lists in Vancouver style.
+Aggregate or database provider, when different from the Publisher. Typically used for Ebooks.
+If the full text is available from ADS via this Bibcode, type 'free'.
+If the full text is free to read via the DOI, type 'free'.
+If the full text is free to read via the HDL, type 'free'.
+If the full text is free to read on Jstor, type 'free'.
+If the full text is free to read on OpenLibrary, type 'free'.
+If the full text is free to read on OSTI, type 'free'.
+Issue number. This parameter is not supported by and should generally not be used with cite book. Consider that a different cite template may be more appropriate, such as cite magazine or cite journal. See Help:Citation_Style_1#Pages.
+List of authors as a free form list. This parameter is deprecated, use "lastn" or "firstn" (preferred) or "authorn" or "vauthors". Warning: do not use if last or any of its aliases are used.
+Unusual in cite book.
+Sets rendered dates to the specified format
