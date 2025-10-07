@@ -20,3 +20,11 @@ def collect_file_paths(folder_path):
         for f in files:
             file_paths.append(os.path.join(root, f))
     return file_paths
+
+def flatten(container_container):
+    flattened_container = []
+    for L in container_container:
+        for e in L:
+            flattened_container.append(e)
+
+    return flattened_container

@@ -125,14 +125,14 @@ def chunk(file_path, chunking_strategy_config, output_config) -> list[str]:
         """)
     return joint_chunks
 
-chunking_strategy_config = {
-    "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
-    "window_length" : 5,
-    "overlap_length" : 1
-}
+# chunking_strategy_config = {
+#     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
+#     "window_length" : 5,
+#     "overlap_length" : 1
+# }
 
-output_config = {
-   "print_info" : True
-}
+# output_config = {
+#    "print_info" : True
+# }
 
-chunk(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump/Carnegie_Mellon_University.txt", chunking_strategy_config, output_config)
+# chunk(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump/Carnegie_Mellon_University.txt", chunking_strategy_config, output_config)

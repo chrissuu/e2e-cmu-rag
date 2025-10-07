@@ -1,0 +1,5 @@
+Folders chunked: ['/home/chrissuu/dev/e2e-cmu-rag/data/raw']
+Random seed used: 19
+Group index: 2
+Number of files: 50
+Start index: 100, End index: 150
