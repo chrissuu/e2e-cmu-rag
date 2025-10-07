@@ -1,0 +1,343 @@
+Whether alternative energy can meet energy demands effectively enough to phase out finite fossil fuels (such as coal , oil , and natural gas ) is hotly debated. Alternative energies include renewable sources —such as solar , tidal , wind , biofuel , hydroelectric , and geothermal —and nonrenewable nuclear power (considered alternative but not renewable because it relies on uranium , a finite resource not easily replenished).
+Globally, fossil fuels have been used for energy for much of human history. The Chinese were the first to transition to fossil fuels from wood fire energy. They used coal as early as 2000 bce , natural gas since 200 bce , and petroleum since the 1st century ce . Europeans developed hydropower in 200 bce , and Persians developed windmills in the 10th century ce . The famed Dutch windmills wouldn’t be built until the 1590s. Other energies, both fossil and alternative, are relatively new for energy uses, appearing in the 19th and 20th centuries. [1] [2] [3] [4] [5] [6]
+As reported by the U.S. Energy Information Agency (EIA), at the start of 2024 the United States’ energy consumption remained primarily fossil fuels (83 percent, comprised of 9 percent coal, 36 percent natural gas, and 38 percent petroleum). Nuclear energy comprised 9 percent of total consumption, with renewable sources also comprising 9 percent (of these renewable sources, 1 percent was geothermal, 11 percent solar, 10 percent hydroelectric, 18 percent wind, and 60 percent biomass ). Note: Sum of percentages will not always equal exactly 100 percent because of the rounding of numbers. [7]
+For more detail on the history of energy use, and for the latest news on U.S. policy concerning alternative energies, see ProCon’s historical timeline .
+Pro 1: Alternative energies not only can but must replace fossil fuels if we want to continue living on Earth.
+While it may sound dramatic, the choice is between using alternative energies and your great-great-grandchildren inheriting an uninhabitable planet thanks to the continued use of fossil fuels.
+Global warming will result in catastrophe if left unchecked by measures including a swift transition away from fossil fuels. [8]
+Journalist Sarah Kaplan summarizes, “Climate disasters will become so extreme that people will not be able to adapt. Basic components of the Earth system will be fundamentally, irrevocably altered. Heat waves, famines and infectious diseases could claim millions of additional lives by [the 21st] century’s end.” If we do nothing, “a child born today would live to see several feet of sea level rise, the extinction of hundreds of species and the migration of millions of people from places where they can no longer survive.” [8]
+However, the solutions do not “depend on something that still needs to be invented. We actually have all the knowledge we need. All the tools we need. We just need to implement it,” says Friederike Otto, a climate scientist at Imperial College London. [8]
+The United Nations states simply, “Energy is at the heart of the climate challenge – and key to the solution….We need to end our reliance on fossil fuels and invest in alternative sources of energy that are clean, accessible, affordable, sustainable, and reliable.” [9]
+Pro 2: Many countries are already operating on significant renewable energy sources.
+Renewable energy is “usable energy derived from replenishable sources such as the Sun (solar energy), wind (wind power), rivers (hydroelectric power), hot springs (geothermal energy), tides (tidal power), and biomass (biofuels),” according to Encyclopӕdia Britannica . Fossil fuels (oil and coal, for example) and nuclear power (which relies on a nonrenewable resource, uranium) are not renewable. [10]
+Iceland was the first country to propose a shift to 100 percent renewable energy use in 1998. The country’s energy is now 85 percent domestically produced geothermal energy and hydropower. Fossil fuels, mainly oil used in transportation, accounted for just 15 percent of the country’s energy. [11]
+And Iceland is not an outlier. Renewable energies account for significant portions of many countries’ energy production: Paraguay (99.9 percent), Costa Rica (99.78 percent), Norway (98 percent), Uruguay (98 percent), Democratic Republic of the Congo (96 percent+), Albania (96 percent), Nicaragua (81 percent), Kenya (80 percent), New Zealand (80 percent), Denmark (67 percent), Germany (46 percent), the United Kingdom (40 percent), and Morocco (37 percent). [7] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26]
+Further, the industry is still innovating, making renewable energy adoption even easier. In addition to the traditional renewable energies that account for 68 percent of Sweden’s energy production, the country also uses “body heat”: “So-called passive houses are built without conventional heating systems and are kept warm by the heat given off by their occupants and electrical appliances. Sweden’s first passive house was completed in 2001. Since then, more buildings have followed. In Stockholm, the body heat from commuters passing through the central station is used to heat a nearby building, and in the southern town of Växjö, there are passive high-rises.” [27]
+Renewable energies are already effectively replacing fossil fuels.
+Pro 3: Nuclear energy, a low-carbon source of alternative energy, is the quickest way to end dependence on fossil fuels.
+“Advanced [nuclear] reactors can dependably generate zero-emission electricity and useful heat, and they are scalable to produce large quantities of energy from a very small footprint. New designs hold the promise of being more affordable, even safer, and are expected to produce less waste than the current generation of reactors,” explains Bob Perciasepe, president of the Center for Climate and Energy Solutions. “To meet our climate and clean energy goals, we must seek stable solutions that endure political transitions and maintain an ambitious pace to reduce emissions.” [28]
+To illustrate the need for nuclear power use, Germany and France are often compared. Germany, which relies on fossil fuels for 35 percent and renewables for 40 percent of energy consumption, emitted about 675 million tonnes of CO2 in 2021. France, which relies on nuclear power for 70 percent of energy consumption, emitted 305 million tonnes of CO2. While both carbon emissions rates are significantly lower than the American emissions of 5 billion tonnes, that France has 88 percent of Germany’s population but half the emissions rates shows the need for nuclear power to lower CO2 emissions. [29] [30] [31] [32]
+Moreover, “nuclear plants require far less land than renewables. Even in sunny California, a solar farm requires 450 times more land to produce the same amount of energy as a nuclear plant.…Nuclear requires far less in the way of materials, and produces far less in the way of waste compared to…solar and wind,” explains Michael Shellenberger, cofounder of Breakthrough Institute and founder of Environmental Progress. [29]
+Nuclear power is clearly an effective way of lowering carbon emissions and slowing global warming. At this point in the climate crisis, we ignore nuclear power at our peril.
+Pro Quotes
+The Prysmian Group, an energy and telecommunications company, states:
+“Global dependence on oil, natural gas and coal–and the damage this dependence inflicts–is well documented. But a transition away from fossil fuels is in progress and simply needs to be expedited. Alternative energy sources can effectively replace fossil fuels in key areas that keep industries and countries running, from power to public and private transport to thermal comfort.”
+—The Prysmian Group, “Can Renewable Energy Sources Replace Fossil Fuels?,” prysmiangroup.com (accessed September 27, 2023)
+Erich Pica, president of Friends of the Earth, states:
+“Transitioning to renewable energy is not only necessary to fight the climate crisis, it is also the only way we can quickly and effectively meet rising energy demands. It is foolish to think, however, that the fossil fuel industry will eagerly embrace this transition. We must push governments to enact an ambitious climate strategy that phases out all fossil fuels and transitions to a sustainable economy.
+Over a billion people around the world lack access to electricity, and increasing fossil fuel-based generation will not fix this. Coal and nuclear power plants are expensive boondoggles. Communities living in energy poverty are continuously left in the dark without access to the grid as corporations sell power to industrial users and for export to recoup the costs.
+Renewables, particularly small-scale renewables, are cheaper and faster to install. Small-scale renewables also tend to generate and keep power locally. This becomes a more effective way to fight energy poverty. Renewables are cheaper than nuclear, can compete with gas, and their price continues to fall. Rapidly phasing out fossil fuels and transitioning to renewables is the only choice for the climate and the economy.”
+— The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+Mark Moody-Stuart, chair of the United Nations Global Compact Foundation, states:
+“Undoubtedly yes, the world must accelerate its transition to renewable energy.…Cost is no longer a major barrier for renewables; intermittency is. So we need to develop technologies to store energy for periods of little or no wind or sunshine. Batteries are one answer, but they face scale, resource availability and environmental challenges. An alternative is to use spare capacity at times of high renewable availability to split water into oxygen and hydrogen. The hydrogen can then generate electricity or drive heavy transport, aircraft or processes not easy to electrify.”
+— The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+Con 1: Natural gas, a fossil fuel, is an appropriate and necessary bridge fuel to meet net-zero emissions goals.
+The assertion that we must transition to alternative energies now or face the imminent demise of the planet has kneecapped the implementation of a realistic and immediate improvement to the environment. Yes, greenhouse gas emissions must be lowered if Earth is to remain habitable, but we are already equipped to use natural gas, which is cleaner than coal, moving us toward a net-zero carbon dioxide (CO2) emissions goal. Without gas, we are left without an existing infrastructure, and we will fail to meet our clean-energy goals. [33]
+“The clearest case for switching from coal to gas comes when there is the possibility to use existing infrastructure to provide the same energy services but with lower emissions,” says the International Energy Agency. “Given the time it takes to build up new renewables and to implement energy efficiency improvements, this also represents a potential quick win for emissions reductions. There is potential in today’s power sector to reduce up to 1.2 gigatonnes of CO2 emissions by switching from coal to existing gas-fired plants….The vast majority of this potential lies in the United States and in Europe. Doing so would bring down global power sector emissions by 10 percent and total energy-related CO2 emissions by 4 percent.” [34]
+The U.S. Environmental Protection Agency (EPA) reported a 1 percent drop in CO2 emissions in 2022 as a result of the ongoing switch from coal to natural gas. [35]
+Con 2: The idea that renewable energies will fill the energy needs of large countries anytime soon is ridiculous and hinders realistic change for the better.
+“Humanity’s history is full of energy transitions that moved from one dominant source of energy, such as whale oil or timber, to a more efficient source over time,” states Cornelis van Kooten, professor of economics at the University of Victoria. “The difference now is that governments want to force the transition on an expedited timeline while optimistically assuming a technological breakthrough in the future.” Realistic policies and interim steps are critical to affecting positive climate change. [36]
+American renewable energy use has hovered between a low of 5.37 percent (in 2001) and a high of 11.44 percent (in 2019) since 1949. And nuclear energy, not used until 1959, topped out at 8.89 percent in 2002. In all, alternative energy use in the United States (the total use of both renewable sources and nuclear energy) has never topped 20 percent (the highest is 19.98 percent in 2017) of total energy use. [37]
+Further, international agreements have failed to put a dent in America’s fossil-fuel use. In the eight years since the U.S. signed the Paris Agreement in 2015 to reduce greenhouse gas emissions to net zero by 2050, American fossil-fuel use has only minimally fluctuated between a high of 81.22 percent (in 2015) and a low of 73.08 percent (in 2020). [37]
+With only some 25 years until the 2050 net-zero emissions deadline, no statistical increase in the use of alternative energies, and no clear policy changes, how can we expect alternative energies to replace fossil fuels?
+What’s needed instead are reasonable interim steps, not pie-in-the-sky policymaking. Responsible programs, perhaps in conjunction with the use of cleaner bridge energies such as natural gas, can better assist larger countries down the road to cleaner energy use.
+With doomsdaylike predictions looming about climate change, “it’s essential to focus on the realistic, broad-based approaches that are already advancing environmental progress,” says Sam Winstel, writer for the American Petroleum Institute. [38]
+Con 3: Nuclear energy is too dangerous and ineffective to be a serious solution to global warming.
+While there have been only two “major” nuclear accidents—Fukushima Daiichi in Japan and Chernobyl in the former Soviet Union—nuclear reactors have been melting down since their inception. And with increasingly volatile climate conditions caused by global warming, nuclear accidents caused by natural disasters like the earthquake and tsunami in Fukushima can be expected to rise. [39] [40]
+In addition to being ineffective, nuclear power is dangerous. The possibilities of nuclear weapon proliferation haunts the power source because the same technology is used for nuclear power and nuclear weapons. This threat isn’t just the stuff of James Bond movies: on January 8, 2025, an alleged member of Japan’s infamous crime syndicate, the Yakuza, plead guilty to trafficking nuclear materials to Iran to use in a nuclear weapons program. Furthermore, there is the problem of where to dispose of radioactive nuclear waste. Nuclear power plant meltdowns are linked to deaths, radiation sickness, increased rates of cancer, depression, alcoholism, and suicide, as well as severe environmental destruction. [40] [41] [47]
+“In the months after the [Fukushima] accident, all nuclear reactors in Japan were shuttered indefinitely, eliminating production of almost all of the country’s carbon-free electricity and about 30 percent of its total electricity production. Naturally, carbon emissions rose, and future emissions-reduction targets were slashed….[However] eight years after Fukushima…fewer than 10 of Japan’s 50 reactors have resumed operations, yet the country’s carbon emissions have dropped below their levels before the accident. How? Japan has made significant gains in energy efficiency and solar power. It turns out that relying on nuclear energy is actually a bad strategy for combating climate change: One accident wiped out Japan’s carbon gains. Only a turn to renewables and conservation brought the country back on target,” explains Gregory Jaczko, former chair of the U.S. Nuclear Regulatory Commission. [42]
+“The real choice now is between saving the planet or saving the dying nuclear industry. I vote for the planet,” concludes Jaczko. [42]
+Con Quotes
+Cornelis van Kooten, professor of economics at the University of Victoria, states:
+“Humanity’s history is full of energy transitions that moved from one dominant source of energy, such as whale oil or timber, to a more efficient source over time. The difference now is that governments want to force the transition on an expedited timeline while optimistically assuming a technological breakthrough in the future. While many proponents of the transition have lauded the study [which claims ‘a world without fossil fuels is possible’], we should be much more skeptical given the unrealistic assumptions upon which the study is based, the massive costs excluded from the study, and the history of energy transition.”
+—Cornelis van Kooten, “ ‘Renewable’ Energy Can’t Replace Fossil Fuels,” fraserinstitute.org, December 13, 2021
+Sean Comey, senior adviser for Chevron, states:
+“[T]he International Energy Agency (I.E.A.) projects global energy demand will rise more than 25 percent by 2040, driven by population growth and rising incomes. Even in the I.E.A.’s most aggressive low-carbon scenario, oil and natural gas will meet approximately half of that demand. Chevron has responded by establishing targets for emissions intensity — the amount of pollution created per unit of energy produced — and tying these goals to employees’ pay. Chevron also is lowering its carbon intensity at the lowest cost, increasing its use of renewable energy to support its business and investing in promising technologies.
+Reducing greenhouse gas emissions is a global issue that requires global action. We support a price on carbon as a possible way to reduce greenhouse gas emissions by the end user, but governments must decide which pricing system is best for their citizens. We work with governments to address potential climate change risks while continuing to produce affordable, reliable and ever cleaner energy.”
+— The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+Mark Little, president and chief executive for Suncor, states:
+“Reliable and affordable energy is critical to our quality of life, and we will need to responsibly harness all forms of energy if we are to meet growing global demand and simultaneously tackle the challenge of climate change.
+The choice is not between fossil fuels and renewable energy, but rather, how do we accelerate the growth of renewables while reducing greenhouse gas emissions from the use of fossil fuels.…
+Last year, for example, we invested 635 million Canadian dollars to develop and deploy technology in this field, including innovations that could reduce greenhouse gas emissions from operations by up to 80 percent. Our Fort Hills oil sands mine uses paraffinic froth treatment technology to cut the greenhouse gas emissions intensity of each barrel of oil produced there to be on par with the average refined barrel in North America.
+We also are investing in energy-efficient cogeneration technology to reduce emissions from burning petroleum coke and export low-carbon power to Alberta’s grid so the province can transition from coal-based power generation. This will reduce greenhouse gas emissions by 2.5 million tons per year, equivalent to removing 550,000 vehicles from the road.”
+— The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+Top 10 Pro and Con Arguments
+1. Alternative Energy
+Alternative energy consists of renewable energies ( solar , wind , hydroelectric , geothermal , and biomass ), plus nuclear energy . Renewable energy, according to the National Resources Defense Council, is “often referred to as clean energy, [and] comes from natural sources or processes that are constantly replenished. For example, sunlight or wind keep shining and blowing, even if their availability depends on time and weather.” Nuclear is not renewable (because it relies on uranium , a finite resource not easily replenished) and is not a fossil fuel . According to the Nuclear Energy Institute, nuclear is an “energy source that has zero emissions, provides electricity around-the-clock and propels our society into the future.”
+Pro
+Con
+Proponents of alternative energy argue that renewable energies and/or nuclear energy are cleaner than fossil-fuel energies, they won’t run out, and the maintenance requirements are lower. Additionally, alternative energy will save money, has health and environmental benefits, and decreases reliance on foreign energy sources.
+Opponents of alternative energy argue that there is a much higher upfront cost; the Sun and wind are intermittent sources of energy and we do not yet have storage capabilities, so backup energies will be required; and there are geographic limitations, including environmental factors, that could prevent building big wind or solar farms.
+Kerry Thoubboron, “Advantages and Disadvantages of Renewable Energy,” energysage.com, October 25, 2018
+Kerry Thoubboron, “Advantages and Disadvantages of Renewable Energy,” energysage.com, October 25, 2018
+Nuclear Energy Institute, “What Is Nuclear Energy?,” nei.org (accessed September 16, 2020)
+Nuclear Energy Institute, “What Is Nuclear Energy?,” nei.org (accessed September 16, 2020)
+National Resources Defense Council, “Renewable Energy: The Clean Facts,” nrdc.org, June 15, 2018
+National Resources Defense Council, “Renewable Energy: The Clean Facts,” nrdc.org, June 15, 2018
+2. 100 percent Renewable Energy
+Total, 100 percent renewable energy is a goal shared by at least 160 American cities, 10 counties, and eight states as of September 16, 2020, according to the Sierra Club. As a policy, 100 percent renewable energy means not using fossil-fuel energy or nuclear energy, with a goal for implementation generally between 2035 and 2050.
+Pro
+Con
+Proponents of 100 percent renewable energy policies argue that it’s not about whether to convert to all renewable energies but how, because fossil fuels are not sustainable as fuels or as healthy options for humans or the environment.
+Opponents of 100 percent renewable energy policies argue that natural gas and/or nuclear power are necessary bridge fuels already in use with low carbon outputs that can help lower global temperatures quicker than renewables alone.
+David Roberts, “A Beginner’s Guide to the Debate over 100 percent Renewable Energy,” vox.com, February 6, 2018
+David Roberts, “A Beginner’s Guide to the Debate over 100 percent Renewable Energy,” vox.com, February 6, 2018
+Sierra Club, “Committed,” sierraclub.org (accessed September 16, 2020)
+Sierra Club, “Committed,” sierraclub.org (accessed September 16, 2020)
+3. Green New Deal
+The Green New Deal is a piece of legislation proposed by Representative Alexandria Ocasio-Cortez (D-NY) and Senator Ed Markey (D-MA) that outlines benchmarks for the U.S. to meet in order to fight climate change. Those benchmarks include achieving net-zero greenhouse gas emissions, job creation, infrastructure and industry investments, access to clean water and healthy food, and stopping oppression of marginalized communities.
+Pro
+Con
+Proponents of the Green New Deal argue that the country must reduce greenhouse gas emissions to combat climate change in a way that avoids the worst consequences of global warming, while resolving social injustices that are inextricably exacerbated by climate change.
+Opponents of the Green New Deal argue that the plan is socialist and too far left of the mainstream, too vague with no specific plans about which energies to use, too costly with no plan for how to pay for everything, and that social justice issues should not be confused with climate change.
+Linda Friedman, “What Is the Green New Deal? A Climate Proposal, Explained,” nytimes.com, February 21, 2019
+Linda Friedman, “What Is the Green New Deal? A Climate Proposal, Explained,” nytimes.com, February 21, 2019
+Ed Markey, “Senator Markey and Rep. Ocasio-Cortez Introduce Green New Deal Resolution,” markey.senate.gov, February 7, 2019
+Ed Markey, “Senator Markey and Rep. Ocasio-Cortez Introduce Green New Deal Resolution,” markey.senate.gov, February 7, 2019
+Alexandria Ocasio-Cortez, et al., “H. Res. 109,” congress.gov, February 7, 2019
+Alexandria Ocasio-Cortez, et al., “H. Res. 109,” congress.gov, February 7, 2019
+4. Net-Zero Carbon
+Net-zero carbon , also called net-zero emissions or carbon neutrality, is a goal set by several climate proposals, including the Green New Deal, to balance any carbon emissions with the absorption of a comparable amount of carbon from the atmosphere in order to help reduce the global temperature by 1.5 °C, as directed by the Paris Agreement . Net zero can be achieved via offsets like tree-planting programs, carbon capture technologies, 100 percent renewable- or clean-energy plans, and other methods. Most plans call for net zero by 2050, though some set goals or benchmarks for earlier. As of September 25, 2019, over 60 countries had committed to net-zero carbon, accounting to 11 percent of global emissions. The biggest carbon emitters, China , United States, and India , had not committed.
+Pro
+Con
+Proponents of net-zero carbon policies argue that the world has to act now to get climate change under control and net-zero policies are the key to any productive climate change plan.
+Opponents of net-zero carbon polices argue that they are unrealistic grandstanding that distract from more achievable, sensible goals and could do serious economic damage.
+Center for Climate and Energy Solutions, “Getting to Zero: A U.S. Climate Agenda,” c2es.org (accessed September 16, 2020)
+Center for Climate and Energy Solutions, “Getting to Zero: A U.S. Climate Agenda,” c2es.org (accessed September 16, 2020)
+Megan Darby, “Which Countries Have a Net Zero Carbon Goal,” climatechangenews.com, June 14, 2019
+Megan Darby, “Which Countries Have a Net Zero Carbon Goal,” climatechangenews.com, June 14, 2019
+Energy Climate and Intelligence Unit, “Net Zero: Why Is It Necessary?,” eciu.net (accessed September 16, 2020)
+Energy Climate and Intelligence Unit, “Net Zero: Why Is It Necessary?,” eciu.net (accessed September 16, 2020)
+Natascha Engel, “Net-Zero Carbon Target Is Reckless and Unrealistic,” thetimes.co.uk, June 28, 2019
+Natascha Engel, “Net-Zero Carbon Target Is Reckless and Unrealistic,” thetimes.co.uk, June 28, 2019
+Roger Pielke, “The World Is Not Going to Halve Carbon Emissions by 2030, So Now What?,” forbes.com, October 27, 2019
+Roger Pielke, “The World Is Not Going to Halve Carbon Emissions by 2030, So Now What?,” forbes.com, October 27, 2019
+Steve Pye, “Countries Need to Move to Zero-Carbon Energy Now—Here’s Why,” blogs.scientificamerican.com, Apr. 19, 2017
+Steve Pye, “Countries Need to Move to Zero-Carbon Energy Now—Here’s Why,” blogs.scientificamerican.com, Apr. 19, 2017
+Somini Sengupta and Nadja Popovich, “More Than 60 Countries Say They’ll Zero Out Carbon Emissions. The Catch? They’re Not the Big Emitters.,” nytimes.com, September 25, 2019
+Somini Sengupta and Nadja Popovich, “More Than 60 Countries Say They’ll Zero Out Carbon Emissions. The Catch? They’re Not the Big Emitters.,” nytimes.com, September 25, 2019
+5. Nuclear Energy
+Debates about nuclear energy range from whether it should be included in green or clean plans as a nonrenewable energy source, whether nuclear power should be phased out of use, whether the U.S. federal government should subsidize nuclear energy, and whether the expansion of nuclear energy contributes to the proliferation of nuclear weapons . According to the Nuclear Energy Institute, “Nuclear energy comes from splitting atoms in a reactor to heat water into steam, turn a turbine and generate electricity. Ninety-four nuclear reactors in 28 states generate nearly 20 percent of the nation’s electricity, all without carbon emissions because reactors use uranium, not fossil fuels . These plants are always on: well-operated to avoid interruptions and built to withstand extreme weather , supporting the grid 24/7.”
+Pro
+Con
+Proponents of nuclear energy argue that the energy source is clean, has zero emissions, and is able to reliably support an electricity grid 24/7/365. Nuclear energy is a perfect complement to weather-dependent renewable energies that should be subsidized to replace fossil fuels. Further, nuclear energy protects national security interests by helping to maintain global non-proliferation standards.
+Opponents of nuclear energy argue that the energy is not clean because it leaves behind dangerous, radioactive nuclear waste that must be stored. Building new nuclear plants is expensive and subsidies should be directed to sustainable energies. Further, the danger of a nuclear meltdown like are always present, and any access to materials for nuclear power means nuclear weapons can be made.
+Greenpeace, “Nuclear Energy,” greenpeace.org (accessed September 16, 2020)
+Greenpeace, “Nuclear Energy,” greenpeace.org (accessed September 16, 2020)
+Nuclear Energy Institute, “What Is Nuclear Energy?,” nei.org (accessed September 16, 2020)
+Nuclear Energy Institute, “What Is Nuclear Energy?,” nei.org (accessed September 16, 2020)
+6. Fossil Fuels
+According to the National Resources Defense Council, “ Coal , crude oil , and natural gas are all considered fossil fuels because they were formed from the fossilized, buried remains of plants and animals that lived millions of years ago. Because of their origins, fossil fuels have a high carbon content.” At the start of 2024, fossil fuels accounted for 83 percent of American energy consumption. The debates about fossil fuels are generally whether to phase them out entirely, continue to use them, or use cleaner versions while transitioning to alternative energies.
+Pro
+Con
+Proponents of fossil fuels argue that renewable energies are not ready for the market and fossil-fuel energy is needed to keep affordable power in American homes. Fossil fuels can be collected and burned more cleanly in order to meet climate change goals.
+Opponents of fossil fuels argue that maintaining fossil-fuel energy hampers energy progress and sets back climate goals unnecessarily. They maintain that the fossil-fuel industry is greedy and doesn’t want to clean up its act, much less cede the way to alternative energy.
+Scott Foster and David Elzinga, “The Role of Fossil Fuels in a Sustainable Energy System,” un.org (accessed September 16, 2020)
+Scott Foster and David Elzinga, “The Role of Fossil Fuels in a Sustainable Energy System,” un.org (accessed September 16, 2020)
+National Resources Defense Council, “Fossil Fuels: The Dirty Facts,” nrdc.org, June 29, 2018
+National Resources Defense Council, “Fossil Fuels: The Dirty Facts,” nrdc.org, June 29, 2018
+The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+Jack Shapiro, “8 Reasons Why We Need to Phase Out the Fossil Fuel Industry,” greenpeace.org, September 11, 2019
+Jack Shapiro, “8 Reasons Why We Need to Phase Out the Fossil Fuel Industry,” greenpeace.org, September 11, 2019
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+7. Clean Coal
+Coal is perhaps the dirtiest of all fossil fuels , but it accounted for only 9 percent of U.S. energy consumption at the start of 2024. “Clean coal” generally refers to carbon capture and storage but can also mean wet scrubbers that remove sulfur dioxide , coal washing that removes soil and rock, or even the digitization of coal plants.
+Pro
+Con
+Proponents of clean coal argue that coal is readily available in the U.S. and cheap compared to other energy sources. Coal already provides a lot of jobs, and clean-coal technology could boost employment even more. Further, much of the world relies on coal and clean-coal technology could lower emissions globally, helping to meet climate goals. Keeping U.S. energy sources on U.S. soil increases national security as well as U.S. energy independence.
+Opponents of clean coal argue that there is no such thing. All coal is dirty and nonrenewable, because pollutants like sulfur dioxide and heavy metals linger in coal ash that is stored underground and seeps into ground water around coal plants. This pollution harms communities surrounding the plants, generally people of color. Natural gas has already sounded the death knells of coal and we shouldn’t try to resuscitate the dying industry with unproven technology.
+Sarah Dowdey, “What Is Clean Coal Technology?,” science.howstuffworks.com (accessed September 16, 2020)
+Sarah Dowdey, “What Is Clean Coal Technology?,” science.howstuffworks.com (accessed September 16, 2020)
+EndCoal.org, “Myth 2: Coal Is Clean,” endcoal.org (accessed September 16, 2020)
+EndCoal.org, “Myth 2: Coal Is Clean,” endcoal.org (accessed September 16, 2020)
+Dan Ervin, “The U.S. Must Still Focus on Clean Coal Technologies,” realclearenergy.org, July 7, 2020
+Dan Ervin, “The U.S. Must Still Focus on Clean Coal Technologies,” realclearenergy.org, July 7, 2020
+Natasha Geiling, “Clean Coal Is Not a Joke,” sierraclub.org, September 25, 2018
+Natasha Geiling, “Clean Coal Is Not a Joke,” sierraclub.org, September 25, 2018
+David Grossman, “How Does Clean Coal Work?,” popularmechanics.com, August 23, 2017
+David Grossman, “How Does Clean Coal Work?,” popularmechanics.com, August 23, 2017
+Kendra Pierre-Louis, “There’s No Such Thing as Clean Coal,” popsci.com, October 13, 2017
+Kendra Pierre-Louis, “There’s No Such Thing as Clean Coal,” popsci.com, October 13, 2017
+Rocky Mountain Coal Mining Institute, “Clean Coal Technology,” rmcmi.org (accessed September 16, 2020)
+Rocky Mountain Coal Mining Institute, “Clean Coal Technology,” rmcmi.org (accessed September 16, 2020)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Steven Winberg, “Clean Coal Is Crucial for American Jobs, Energy Security, and National Supply Chains,” energy.gov, June 26, 2020
+Steven Winberg, “Clean Coal Is Crucial for American Jobs, Energy Security, and National Supply Chains,” energy.gov, June 26, 2020
+8. Natural Gas
+Natural gas is a fossil fuel , increasingly collected via hydraulic fracturing ( fracking ). Natural gas accounted for 36 percent of American energy consumption at the start of 2024. Debates about natural gas center on whether the fossil fuel should be used as a bridge or transition fuel as we phase out coal and oil and phase in alternative energies.
+Pro
+Con
+Proponents of natural gas argue that the fossil fuel is necessary as a practical bridge fuel in the transition to renewable energies because of the intermittency of solar and wind especially. Natural gas is a clean fossil fuel that can remain in use after the demise of coal and oil.
+Opponents of natural gas argue that natural gas is a dirty energy that not only does not bridge the transition to renewable energies but hampers the efforts. Climate goals are looming and there is no time for fossil fuels that take time and money away from clean energy.
+American Petroleum Institute, “API Statement on Climate Proposal from House Select Committee,” apr.org, June 30, 2020
+American Petroleum Institute, “API Statement on Climate Proposal from House Select Committee,” apr.org, June 30, 2020
+Michael Gerrard, “When Gas Gets Serious About Phasing Out Natural Gas,” acoel.org, May 27, 2020
+Michael Gerrard, “When Gas Gets Serious About Phasing Out Natural Gas,” acoel.org, May 27, 2020
+Brian Kahn, “Please, for the Love of All Things Holy, Stop Pretending Natural Gas Is a ‘Transition Fuel,’ ” earther.gizmodo.com, February 20, 2020
+Brian Kahn, “Please, for the Love of All Things Holy, Stop Pretending Natural Gas Is a ‘Transition Fuel,’ ” earther.gizmodo.com, February 20, 2020
+The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+The New York Times , “Climate and Energy Experts Debate How to Respond to a Warming World,” nytimes.com, October 7, 2019
+David Roberts, “More Natural Gas Isn’t a ‘Middle Ground’—It’s Climate Disaster,” vox.com, May 30, 2019
+David Roberts, “More Natural Gas Isn’t a ‘Middle Ground’—It’s Climate Disaster,” vox.com, May 30, 2019
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Sam Winstel, “Common Sense Approach to Reliable, Low-Emissions Energy,” api.org, July 31, 2020
+Sam Winstel, “Common Sense Approach to Reliable, Low-Emissions Energy,” api.org, July 31, 2020
+9. Fracking
+Fracking (hydraulic fracturing) is a method of extracting natural gas from deep underground via a drilling technique. First, a vertical well is drilled and encased in steel or cement. Then, a horizontal well is drilled in the layer of rock that contains natural gas. After that, fracking fluid is pumped into the well at an extremely high pressure so that it fractures the rock in a way that allows oil and gas to flow through the cracks to the surface. The debate around fracking starts with whether the use of natural gas should end or increase and continues to whether the practice is safe in and of itself.
+Pro
+Con
+Proponents of fracking argue that fracking is safe and has allowed the U.S. to produce and export much more natural gas, which has increased national security and moved the country toward energy independence.
+Opponents of fracking argue that the practice is unsafe: it pollutes groundwater, increases greenhouse gases, and causes earthquakes. The country should transition away from natural gas, not increase its use.
+David Blackmon, “ ‘No New Fracking’—Be Careful What You Wish For,” forbes.com, March 16, 2020
+David Blackmon, “ ‘No New Fracking’—Be Careful What You Wish For,” forbes.com, March 16, 2020
+Environment America Research and Policy Center, “Fracking by the Numbers: The Damage to Our Water, Land and Climate from a Decade of Dirty Drilling,” environmentamerica.org, Apr. 14, 2016
+Environment America Research and Policy Center, “Fracking by the Numbers: The Damage to Our Water, Land and Climate from a Decade of Dirty Drilling,” environmentamerica.org, Apr. 14, 2016
+Independent Petroleum Association of America, “Hydraulic Fracturing,” ipaa.org (accessed September 17, 2020)
+Independent Petroleum Association of America, “Hydraulic Fracturing,” ipaa.org (accessed September 17, 2020)
+Marc Lallanilla, “Facts About Fracking,” livescience.com, February 10, 2018
+Marc Lallanilla, “Facts About Fracking,” livescience.com, February 10, 2018
+Bernie Sanders, “Sanders, Ocasio-Cortez Lead First-Ever Bill to Ban Fracking Nationwide,” sanders.senate.gov, January 31, 2020
+Bernie Sanders, “Sanders, Ocasio-Cortez Lead First-Ever Bill to Ban Fracking Nationwide,” sanders.senate.gov, January 31, 2020
+10. Carbon Pricing
+Carbon pricing is a market-based strategy to control the rise of greenhouse gases . Generally, companies are charged for the carbon they emit, either through a carbon tax, which sets a direct cost for greenhouse gas emissions or the carbon content of fossil fuels , or a cap-and-trade system, which puts a limit (cap) on the amount of greenhouse gas emissions a company can emit and allows lower emitters to sell their extra emissions allowance to higher emitters.
+Pro
+Con
+Proponents of carbon pricing argue that putting a market-based price on emissions can not only reduce greenhouse gas emissions, but by allowing emitters to choose how to reduce their emissions, carbon pricing can create competitive innovation in the field, benefiting climate change plans.
+Opponents of carbon pricing argue that taxes and cap-and-trade programs penalize those without the financial resources to switch to renewable energies, could result in higher costs for consumers, and creates a system to be gamed by lobbyists, resulting in no change in emissions.
+Philip Booth and Jamie White, “Debate: The Pros and Cons of Carbon Taxes,” iea.org, November 6, 2018
+Philip Booth and Jamie White, “Debate: The Pros and Cons of Carbon Taxes,” iea.org, November 6, 2018
+Helen Mountford, “A Carbon Price Can Benefit the Poor while Reducing Emissions,” wri.org, December 15, 2018
+Helen Mountford, “A Carbon Price Can Benefit the Poor while Reducing Emissions,” wri.org, December 15, 2018
+World Bank, “Pricing Carbon,” worldbank.org (accessed September 17, 2020)
+World Bank, “Pricing Carbon,” worldbank.org (accessed September 17, 2020)
+Alternative Energy Sources Explained
+Pro
+Con
+Renewable energy
+High costs
+Waste reduction
+Space requirements
+Reliability
+Environmental impact
+Biomass accounted for 60 percent of all renewable energies (renewables constituted 9 percent of total U.S. energy consumption) used by the U.S. at the start of 2024.
+According to the U.S. Energy Information Administration (EIA), “Biomass is renewable organic material that comes from plants and animals. Biomass was the largest source of total annual U.S. energy consumption until the mid-1800s.…Biomass contains stored chemical energy from the sun. Plants produce biomass through photosynthesis . Biomass can be burned directly for heat or converted to renewable liquid and gaseous fuels through various processes.
+Biomass sources for energy include:
+wood and wood processing wastes—firewood, wood pellets, and wood chips, lumber and furniture mill sawdust and waste, and black liquor from pulp and paper mills
+and wood processing wastes—firewood, wood pellets, and wood chips,
+and furniture mill sawdust and waste, and black liquor from
+and paper mills
+agricultural crops and waste materials—corn, soybeans, sugar cane, switchgrass, woody plants, and algae, and crop and food processing residues
+agricultural crops and waste materials—corn, soybeans, sugar cane, switchgrass, woody plants, and algae, and crop and food processing residues
+biogenic materials in municipal solid waste— paper , cotton , and wool products, and food, yard, and wood wastes
+biogenic materials in municipal solid waste—
+,
+, and wool products, and food, yard, and wood wastes
+animal manure and human sewage.
+animal
+and human sewage.
+Biomass is converted to energy through various processes, including:
+direct combustion (burning) to produce heat;
+direct combustion (burning) to produce heat;
+thermochemical conversion to produce solid, gaseous, and liquid fuels;
+thermochemical conversion to produce solid, gaseous, and liquid fuels;
+chemical conversion to produce liquid fuels;
+chemical conversion to produce liquid fuels;
+biological conversion to produce liquid and gaseous fuels.”
+biological conversion to produce liquid and gaseous fuels.”
+Sources:
+Energy Sage, “Biomass Pros and Cons,” energysage.com, December 24, 2019
+Energy Sage, “Biomass Pros and Cons,” energysage.com, December 24, 2019
+U.S. Energy Information Administration, “Biomass Explained,” eia.gov, August 28, 2020
+U.S. Energy Information Administration, “Biomass Explained,” eia.gov, August 28, 2020
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Pro
+Con
+Reliable
+Location dependent
+Small land footprint
+High initial costs
+Works for large- and small-scale installations
+Can lead to Earth surface instability
+Geothermal accounted for 1 percent of all renewable energies (renewables constituted 9 percent of total U.S. energy consumption) used by the U.S. at the start of 2024.
+According to the U.S. Energy Information Administration (EIA), “Geothermal energy is heat within the earth. The word geothermal comes from the Greek words geo (earth) and therme (heat). Geothermal energy is a renewable energy source because heat is continuously produced inside the earth. People use geothermal heat for bathing, to heat buildings, and to generate electricity.” The EIA also states, “Geothermal reservoirs are naturally occurring areas of hydrothermal resources. These reservoirs are deep underground and are largely undetectable above ground. Geothermal energy finds its way to the earth’s surface in three ways:
+Sources:
+Energy Sage, “Geothermal Energy Pros and Cons,” energysage.com, September 27, 2019
+Energy Sage, “Geothermal Energy Pros and Cons,” energysage.com, September 27, 2019
+U.S. Energy Information Administration, “Geothermal Explained,” eia.gov, December 5, 2019
+U.S. Energy Information Administration, “Geothermal Explained,” eia.gov, December 5, 2019
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Pro
+Con
+Renewable energy
+Environmental impact
+Pairs well with other renewable energies
+High initial costs
+Meets peak electricity demands
+Lack of available reservoirs
+Hydroelectric accounted for 10 percent of all renewable energies (renewables constituted 9 percent of total U.S. energy consumption) used by the U.S. at the start of 2024.
+According to the EIA, “People have a long history of using the force of water flowing in streams and rivers to produce mechanical energy . Hydropower was one of the first sources of energy used for electricity generation, and until 2019, hydropower was the largest source of total annual U.S. renewable electricity generation.…Because the source of hydroelectric power is water, hydroelectric power plants are usually located on or near a water source. The volume of the water flow and the change in elevation—or fall, and often referred to as head—from one point to another determine the amount of available energy in moving water. In general, the greater the water flow and the higher the head, the more electricity a hydropower plant can produce. At hydropower plants water flows through a pipe, or penstock, then pushes against and turns blades in a turbine to spin a generator to produce electricity .”
+Sources:
+Energy Sage, “Hydropower Pros and Cons,” energysage.com, December 24, 2019
+Energy Sage, “Hydropower Pros and Cons,” energysage.com, December 24, 2019
+U.S. Energy Information Administration, “Hydropower Explained,” eia.gov, March 30, 2020
+U.S. Energy Information Administration, “Hydropower Explained,” eia.gov, March 30, 2020
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Pro
+Con
+Low carbon
+Nuclear meltdowns
+Not weather dependent
+Nuclear waste
+Low running costs
+High building costs
+Nuclear accounted for 9 percent of total U.S. energy consumption at the start of 2024.
+According to the EIA, “In nuclear fission , atoms are split apart, which releases energy . All nuclear power plants use nuclear fission, and most nuclear power plants use uranium atoms. During nuclear fission, a neutron collides with a uranium atom and splits it, releasing a large amount of energy in the form of heat and radiation . More neutrons are also released when a uranium atom splits. These neutrons continue to collide with other uranium atoms, and the process repeats itself over and over again. This process is called a nuclear chain reaction. This reaction is controlled in nuclear power plant reactors to produce a desired amount of heat. Nuclear energy can also be released in nuclear fusion, where atoms are combined or fused together to form a larger atom. Fusion is the source of energy in the sun and stars.”
+Sources:
+U.S. Energy Information Administration, “Nuclear Explained,” eia.gov, Apr. 17, 2020
+U.S. Energy Information Administration, “Nuclear Explained,” eia.gov, Apr. 17, 2020
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Jack Unwin, “Nuclear Power: The Pros and Cons of the Energy Source,” power-technology.com, June 18, 2020
+Jack Unwin, “Nuclear Power: The Pros and Cons of the Energy Source,” power-technology.com, June 18, 2020
+Pro
+Con
+Renewable energy
+High initial costs
+Diverse applications
+Weather dependent
+Low maintenance costs
+Large footprint
+Solar accounted for 11 percent of all renewable energies (renewables constituted 9 percent of total U.S. energy consumption) used by the U.S. at the start of 2024.
+According to the EIA, “The sun has produced energy for billions of years and is the ultimate source for all of the energy sources and fuels that we use today. People have used the sun’s rays ( solar radiation ) for thousands of years for warmth and to dry meat, fruit, and grains. Over time, people developed technologies to collect solar energy for heat and to convert it into electricity.…
+Solar photovoltaic (PV) devices, or solar cells , change sunlight directly into electricity. Small PV cells can power calculators, watches, and other small electronic devices. Arrangements of many solar cells in PV panels and arrangements of multiple PV panels in PV arrays can produce electricity for an entire house. Some PV power plants have large arrays that cover many acres to produce electricity for thousands of homes.”
+Sources:
+Aris Vourvoulias, “Pros and Cons of Solar Energy,” greenmatch.co.uk, July 7, 2020
+Aris Vourvoulias, “Pros and Cons of Solar Energy,” greenmatch.co.uk, July 7, 2020
+U.S. Energy Information Administration, “Primary Energy Consumption by Source,” eia.gov, July 2020
+U.S. Energy Information Administration, “Primary Energy Consumption by Source,” eia.gov, July 2020
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+Pro
+Con
+Renewable energy
+Weather dependent
+Low operating costs
+Noise and visual pollution
+Efficient use of land
+Environmental impact
+Wind accounted for 18 percent of all renewable energies (renewables constituted 9 percent of total U.S. energy consumption) used by the U.S. at the start of 2024.
+According to the EIA, “Wind is caused by uneven heating of the earth’s surface by the sun . Because the earth’s surface is made up of different types of land and water, it absorbs the sun’s heat at different rates. One example of this uneven heating is the daily wind cycle.” The EIA continued, “ Wind turbines use blades to collect the wind’s kinetic energy. Wind flows over the blades creating lift (similar to the effect on airplane wings), which causes the blades to turn. The blades are connected to a drive shaft that turns an electric generator, which produces (generates) electricity .”
+Sources:
+Energy Sage, “Wind Energy Pros and Cons,” energysage.com, September 27, 2019
+Energy Sage, “Wind Energy Pros and Cons,” energysage.com, September 27, 2019
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “U.S. Energy Facts Explained,” eia.gov (accessed January 13, 2025)
+U.S. Energy Information Administration, “Wind Explained,” eia.gov, December 4, 2019
+U.S. Energy Information Administration, “Wind Explained,” eia.gov, December 4, 2019

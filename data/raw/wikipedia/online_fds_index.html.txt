@@ -1,0 +1,21 @@
+Unleash Your Inner Data Scientist
+Everyone can learn to understand and leverage data - even you.
+The volume and complexity of data has exploded in recent years, creating new challenges for organizations that want to leverage its power. To stay competitive, organizations need a mixture of data analysts and non-technical leaders who can understand the foundations of data science to collaborate effectively on how to apply it across the organization.
+This emphasis on data literacy reveals a promising opportunity for professionals in every department in nearly every industry: with fundamental skills in data science, professionals can make more data-informed decisions and lead with confidence to help their teams (and ultimately, their companies) achieve goals and reach targets more efficiently.
+Dive Deeper Into the Certificate with CMU's Dr. Rebecca Nugent
+In this video clip, Dr. Rebecca Nugent introduces the Foundations of Data Science certificate, who it's for, and what you'll learn. For a more in-depth explanation of the curriculum, an introduction to the faculty, and an inside look at the application process, watch the full info session today.
+Watch the Full Info Session
+Data science for all
+You don’t need a technical background to think like a data scientist. You just need the right education and support. In Carnegie Mellon’s new online Graduate Certificate in Foundations of Data Science, professionals from all backgrounds (both technical and non-technical) will learn how to unlock the power of data through graduate-level, credit-bearing coursework taught by expert CMU professors.
+By the end of our carefully designed program, you should feel confident:
+Performing exploratory data analysis, creating high-quality statistical graphs and communicating the ‘story behind the data’ to different audiences.
+Asking the right data questions before using and analyzing that data to solve real-world problems.
+Applying fundamental techniques in probability and statistical inference to real-life data analysis problems.
+Structuring basic data pipelines with a modern coding language, and building, validating and interpreting statistical models and algorithms.
+A powerful certificate that flexes with your schedule
+The Graduate Certificate in Foundations of Data Science is offered 100% online with a combination of live-online classes with faculty and work you will do on your own time. As a result, it's easy for you to fit the program into your busy, day-to-day life. To earn the certificate, you will complete five rigorous CMU classes over a 12-month period, including a capstone course where you’ll work with real-world data and subject matter experts to apply the skills you’ve gained throughout the program.
+For the leaders and innovators
+This cutting-edge certificate is best suited for:
+Recent graduates with a bachelor’s degree from an accredited college or university who want preparation to enroll in a master’s level program that leads to a more lucrative career in data science.
+Industry professionals in any field who recognize the power of data and would like to communicate better with data scientists in their company and/or adopt a more data-centric mindset when solving problems in their current role. Throughout this program, students will build a foundational level of data fluency that will help them communicate with stakeholders and make more data-informed decisions at work.
+Managers and supervisors across all industries who want to integrate (more) data into their team’s workflow. By the end of this program, students will have the confidence to approach complex datasets in the workplace and perform statistical analysis to make better decisions that will improve the overall efficiency and performance of their team.

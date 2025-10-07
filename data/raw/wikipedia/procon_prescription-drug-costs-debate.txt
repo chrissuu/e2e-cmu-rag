@@ -1,0 +1,388 @@
+Table of Contents Ask the Chatbot
+With 79 percent of Americans saying prescription drug costs are “unreasonable,” and 70 percent reporting lowering prescription drug costs as their highest healthcare priority, the popular debate over prescription drugs is not whether drug costs should be reduced but how they should be reduced. One consideration is whether the U.S. federal government should regulate prescription drug prices. [1]
+A prescription drug is a medication that may be obtained only with a medical professional’s recommendation and authorization. In some U.S. states physician assistants, nurse practitioners, pharmacists , clinical psychologists , and other medical professionals are permitted to write prescriptions in addition to doctors . Prescription drugs are generally divided into two categories: brand-name drugs and generic drugs . [2] [3]
+Drug Prices
+In the United States, drug companies (also called pharmaceutical companies ) set prescription drug prices, which are largely unregulated by the federal government. Some drug companies will be familiar because their names have been attached to COVID-19 vaccines or other common products—Johnson & Johnson and Pfizer , for example. Others may not be household names but command large portions of the market nonetheless: Swiss companies Roche and Novartis , to name two. [4]
+In 2020 total global drug company revenue totaled more than $1.27 trillion, which included revenue from the manufacturers’ sale of drugs and other products (such as shampoo and baby products). Drug sales accounted for about $904 billion in revenue. Johnson & Johnson had $82.6 billion in total 2020 revenue, the highest for any drug company worldwide, $45.5 billion of which was from drug sales. Roche followed at a distant second, with $62.05 billion in total 2020 revenue, $49.5 of which was from drug sales. Global drug revenue is expected to continue to rise. [5] [6] [7]
+Although there is speculation about how drug companies price drugs—including consideration of competing drugs, medical uniqueness, and the overall market—drug companies are not required to reveal how or why a drug is priced as it is, why or when a drug price may be raised, or why drug costs sometimes exceed research and development (R&D) expenses for the drug. [4] [8]
+Patient Costs
+The cost to the patient is determined by three agents. The first is the drug company, which sets a price for a drug it has developed or purchased from another company. The second is pharmacy benefit managers, who negotiate rebates and savings on behalf of health insurance companies, Medicare Part D drug plans, large employers, and other groups. (These agreements, however, are generally not publicly disclosed, so actual cost savings to patients are unknown). The third agent is health insurance companies, which determine which drugs will be approved for their customers’ use, how much the insurance company will pay for the drugs, and how much patients will pay. Patients may not know their out-of-pocket cost for a drug until standing in line at the pharmacy, and, because of disparate insurance coverage, one patient may pay more than another for the same drug. [8] [9] [10]
+According to the Rand Corporation , prescription drug prices in the United States were 2.56 times higher on average than prices in 32 other Organisation for Economic Co-operation and Development (OECD) countries, with brand-name drugs coming in at 3.44 times higher. While generic drugs in the U.S. cost slightly less than the global average and accounted for 84 percent of drugs sold, they made up only 12 percent of total drug spending in the United States. Total drug spending in the countries included in the study was estimated to be $795 billion, and the U.S. accounted for 58 percent of sales and 24 percent of volume. [11]
+Presidential Actions and Legislation
+In November 2020, the Trump Administration’s Department of Health and Human Services Centers for Medicare & Medicaid Services introduced the “ Most Favored Nation (MFN) Model .” The rule would have tested whether matching Medicare Part B drug costs with international prices could control “unsustainable growth” in prices while not “adversely affecting quality of care for beneficiaries.” The rule was almost immediately challenged and was blocked in federal court in December 2020. [111] [112]
+Two legislative efforts to reduce prescription drug prices then came before the U.S. Senate , having passed the House of Representatives in 2021 and 2022. The first was a provision in the Build Back Better Act, passed by the House on November 19, 2021, which died in the Senate in 2022. According to the Kaiser Family Foundation, the act would have done the following, among other things:
+“Allow the federal government to negotiate prices for some high-cost drugs covered under Medicare Part B and Part D
+“Allow the federal government to negotiate prices for some high-cost drugs covered under
+Part B and Part D
+Require inflation rebates to limit annual increases in drug prices in Medicare and private insurance
+Require inflation rebates to limit annual increases in drug prices in Medicare and private insurance
+Cap out-of-pocket spending for Medicare Part D enrollees and other Part D benefit design changes
+Cap out-of-pocket spending for Medicare Part D enrollees and other Part D benefit design changes
+Limit cost sharing for insulin for people with Medicare and private insurance
+Limit cost sharing for insulin for people with Medicare and private insurance
+Eliminate cost sharing for adult vaccines covered under Part D
+Eliminate cost sharing for adult vaccines covered under Part D
+Repeal the Trump Administration’s drug rebate rule” [12]
+Repeal the
+Administration’s drug rebate rule”
+The second was a bill passed by the House on March 31, 2022, that would have limited the cost of insulin to $35 a month—25 percent of the insurance plan’s negotiated price, whichever was lower—but it, too, died in the Senate. [13] [14]
+On May 12, 2025, President Donald Trump signed an executive order—“ Delivering Most-Favored-Nation Prescription Drug Pricing to American Patients ”—that Trump said would “bring the prices Americans and taxpayers pay for prescription drugs in line with those paid by similar nations.” The executive order would slash drug prices by at least 50 percent and is described as a “more aggressive” version of Trump’s 2020 Most Favored Nation model that was blocked by a federal court. [113] [114] [114]
+Drug Imports
+Section 804 of the U.S. Federal Food, Drug, and Cosmetic Act (FD&C Act) “allows importation of certain prescription drugs from Canada to: significantly reduce the cost of these drugs to the American consumer, without imposing additional risk to public health and safety.” [1] [2] [47]
+On January 5, 2024, the U.S. Food and Drug Administration (FDA) authorized Florida to import prescription drugs from Canada . The authorization was the first in the country but just the first step in the importation of prescription drugs to Florida . Canada has restrictions in place to prevent the export of drugs if doing so “will…cause or exacerbate a drug shortage in Canada.” The population of Florida is roughly half that of Canada, and Canada has had shortages of drugs, from cancer medications to weight-loss and diabetes medications, making export unlikely, according to experts. [44] [45] [46]
+Pros and Cons at a Glance
+PROS
+CONS
+Pro 1: High drug costs can force people to choose between life-saving drugs and other essentials. Read More.
+Con 1: Revenue from prescription drug sales funds research and development of new drugs. Read More.
+Pro 2: Too many companies with too many private interests are involved in drug pricing, resulting in high prices and limited access to important drugs due to corporate greed. Read More.
+Con 2: Expanded access to affordable insurance that better serves customers by covering a larger percentage of prescription drug costs would more effectively lower drug costs for patients. Read More.
+Pro 3: Without regulation, drug costs are inconsistent and often hidden, leaving doctors struggling to provide appropriate care to their patients. Read More.
+Con 3: The U.S. government is already over-involved in health care and should leave prescription drugs to the free market. Read More.
+Pro 1: High drug costs can force people to choose between life-saving drugs and other essentials.
+Some 24 percent of people taking prescription drugs in the U.S. reported difficulty affording the drugs, according to a Kaiser Family Foundation poll. Moreover, 58 percent of people whose drugs cost more than $100 a month, 49 percent of people in fair or poor health, 35 percent of those with annual incomes of less than $40,000, and 35 percent of those taking four or more drugs monthly all reported affordability issues. Additionally, 30 percent of people aged 50 to 64 reported cost issues because they generally take more drugs than younger people but are not old enough to qualify for Medicare drug benefits. [15]
+Tori Marsh, director of research at GoodRx, explained some of the consequences of having to buy expensive prescription drugs: “In 2020, 20.7 percent of people reported taking on debt or declaring bankruptcy due to the cost of their prescription medications. Borrowing from friends or family was the most common financial action (16.8 percent), followed by getting loans (5.0 percent), taking out another mortgage (1.2 percent), and filing for bankruptcy (1.0 percent).” [16]
+Because of high drug costs, 29 percent of adults surveyed in the Kaiser Family Foundation poll said they did not take their medication or medications as prescribed, 19 percent did not fill a prescription, 18 percent took an over-the-counter (OTC) drug instead, and 12 percent cut pills in half or skipped doses. Similar results were found among respondents to a Healio Internal Medicine poll. [15] [17]
+As explained by Truth in Rx, an American Medical Association campaign for drug price transparency, “Prescription drug price increases can lead some patients to not be able to afford critical medicine….The result? Among this group, three in ten say their condition got worse.” [18]
+Pro 2: Too many companies with too many private interests are involved in drug pricing, resulting in high prices and limited access to important drugs due to corporate greed.
+Drug prices are first set by drug companies, which have an interest in recouping R&D costs and raising corporate revenues. Drug costs are then negotiated by pharmacy benefit managers (PBMs), which are private companies interested in profit. Pharmacy benefit managers keep a portion of rebates, which are negotiated without public disclosure, and some health insurance companies have reported seeing none of the rebates. Then consumer drug prices are set by insurance companies, which also want to increase their bottom lines. Without government regulation, drug prices can be increased by the drug companies, rebates can be withheld by the pharmacy benefit managers, and insurance companies can refuse to cover a drug, leaving patients with few options. [8] [9] [18]
+EpiPen, a life-saving drug for patients who experience severe allergic reactions, such as to bee stings or certain foods, contains about $1 worth of epinephrine and cost about $57 in 2007. The price jumped 400 percent when the drug company Mylan acquired the drug that same year, raising the cost to $500 or more. Even an insured patient could pay upward of $400. Raising the price allowed the drug to account for 40 percent of Mylan’s operating profits in 2015. [19] [20] [21]
+Millionaire Martin Shkreli was dubbed the “most hated man in America” for raising the price of Daraprim, an AIDS drug, from $13.50 a pill to $750. And other drugs have seen similar increases. Why did drug companies raise the costs of these drugs? As journalist Emily Willingham stated, “because they could.” Life-sustaining and life-saving medications should not be subject to the whims of corporations and millionaires. [20] [22] [23]
+In September 2024, the FTC sued top PBMs CVS Health’s Caremark Rx, Cigna’s Express Scripts, and United Health Group’s OptumRx (which represent 80 percent of the market) alleging that they had artificially inflated the cost of insulin using a “perverse drug rebate system” in which lower priced insulins were excluded in favor of high priced insulins. The system allowed the PBMs to collect billions in rebates and fees. [110]
+Pro 3: Without regulation, drug costs are inconsistent and often hidden, leaving doctors struggling to provide appropriate care to their patients.
+Doctors frequently do not know, and may not have access to, prescription drug costs for their patients. Because patients have a variety of insurance policies with varying prescription drug coverage, doctors are left to prescribe drugs without knowing whether the patients will be able to afford the drug at the pharmacy. [18]
+Among physicians, 74 percent believe considering patients’ medical benefits is important when choosing which drug to prescribe. And 59 percent want to be able to compare drug costs at the point of prescription. However, 29 percent of physicians do not trust the information they have access to about prescription drug costs. Additionally, 59 percent reported that knowledge of their patients’ out-of-pocket prescription drug costs is “high-priority,” but only 11 percent have easy access to that information. [24]
+Without prescription drug cost information, doctors are left to guess. In a survey of 371 primary care physicians, gastroenterologists, and rheumatologists who were given insurance information for a hypothetical patient, only 20 percent correctly determined the patient’s out-of-pocket costs for a drug that costs $1,000 per month. [10]
+Jules Lipoff, an assistant professor of clinical dermatology at the University of Pennsylvania, stated, “Patients appreciate it when doctors have a well-thought-out backup plan (for example, an over-the-counter or other prescription alternative) and bring up costs during an office visit. Patients do not like being told reflexively to call if there’s an issue filling the medication at the pharmacy—that puts the responsibility on them to figure out a complicated system.” [25]
+As Lipoff explained, “Doctors must remember our responsibility to consider the whole patient, including his or her financial livelihood, and make a point of bringing up the cost of care with each of our patients. If patients with limited means spend more money on medications, that expense means less money for the rest of their budget, with real consequences. With better transparency and advocacy on behalf of our patients, we as physicians must strive for the most cost-effective care.” [25]
+Robert Popovian, a pharmaceutical economist, asked, “We know that the correct data exist, so why don’t physicians have access to it when they are prescribing these medications?” [10]
+For doctors to be able to meet their patients’ needs, they must have accurate cost information. One way to ensure that they do is via congressional action to make costs transparent and drugs more affordable.
+Pro Quotes
+Nicole Rapfogel, a research associate, and Thomas Waldrop, a policy analyst, for the Center for American Progress, stated,
+“The high cost of prescription drugs is a major concern for many Americans. Nearly 9 in 10 older adults take prescription medication, yet high drug prices are leading to soaring out-of-pocket costs, dangerous drug rationing, and a depletion of limited financial resources—especially for those with fixed incomes….In particular, the drug pricing provisions…would enable the federal government to finally negotiate drug prices—a policy supported by more than 80 percent of the public….
+Congress has the opportunity to pass drug pricing legislation that would be life-changing for millions of older adults. More than 4 in 5 seniors think drug costs are unreasonable. Senators should take the overwhelmingly popular step of enabling the federal government to negotiate prices. Lowering drug prices through negotiation, inflationary rebates, and insulin and cost-sharing caps would allow people—especially those with chronic conditions and disabilities—to access the treatment they need.
+Senators have the power to meaningfully lower prices for some of the nation’s most expensive drugs—drugs that treat cancer, prevent blood clots, and treat autoimmune disorders. Passing drug price negotiations and other key drug reforms is a critical step toward lowering drug costs for millions of Americans.”
+—Nicole Rapfogel and Thomas Waldrop, “Congress Can Act Now to Lower Drug Costs by Allowing Medicare to Negotiate Prices,” americanprogress.org , February 1, 2022
+Chuck Schumer , the Senate majority leader (D-NY), stated,
+“Fixing prescription drug pricing has consistently been a top issue for Americans year-after-year, including the vast majority of both Democrats and Republicans who want to see a change because they simply cannot afford their medications.
+We’ve heard this from people across the country who have serious illnesses and can’t afford their medicine. What a painstaking position to be in. It’s horrible.”
+—Chuck Schumer, “Schumer Remarks on Drug Price Negotiation Agreement,” democrats.senate.gov , November 2, 2021
+David Blumenthal, the president of the Commonwealth Fund, Mark E. Miller, an executive vice president of health care for Arnold Ventures, and Lovisa Gustafsson, a vice president of the Commonwealth Fund, stated,
+“Legislation giving Medicare the ability to negotiate drug prices in the United States would make their life-saving potential immediately available to millions of Americans who cannot now afford them, thus extending lives and alleviating suffering. The pharmaceutical industry, however, has done a masterful job of arguing that these Americans must suffer in the short term since lower prices would gut long-term innovation in drug development.
+This is a false choice. We need not trade the certainty of saved lives now for the possibility of saved lives in the future.
+The reason: Large pharmaceutical companies are nowhere near as important to real drug innovation as they purport to be. Furthermore, smart policy changes can sustain and increase the pace of life-changing breakthroughs in biomedicine through increased funding of the National Institutes of Health (NIH), cutting the costs and accelerating the speed of clinical trials, and reforming patent law to stop innovation-blocking abuses used by Big Pharma to prevent new drugs from entering the market.”
+—David Blumenthal, Mark E. Miller, and Lovisa Gustafsson, “The U.S. Can Lower Drug Prices Without Sacrificing Innovation,” hbr.org , October 1, 2021
+Ezekiel Emanuel, an oncologist and the chair of the department of medical ethics and health policy at the University of Pennsylvania, stated,
+“America is the undisputed global leader in drug research and development, and pharmaceutical companies warn that imposing controls on drug prices—like those currently being debated in Congress—will stifle that innovation. But many Americans, including the well insured, cannot afford the innovative drugs produced by that research….
+Excessively high prescription drug prices are a substantial financial burden on Americans,…but they also raise insurance premiums and taxes for you and me by increasing costs for insurance companies, Medicare and Medicaid. Society will pay the other $200,000 through those higher premiums and taxes….
+I’m an oncologist who has seen his patients reap huge benefits from the kind of high-priced innovation drug companies love to talk about. I’m also a health-policy specialist who has looked carefully at the long-term impact of drug company prices and profits. I’m convinced that we don’t have to choose between reasonable prices and innovation. The truth is, if Congress passes legislation to give Medicare negotiating power to make drugs more affordable, we will still have robust innovation.”
+—Ezekiel Emanuel, “Opinion: Why We Can Have Both Innovative Drugs and Lower Drug Prices,” politico.com , October 13, 2021
+Con 1: Revenue from prescription drug sales funds research and development of new drugs.
+R&D of a new drug costs between almost $1 billion and more than $2 billion. Considering that only approximately 12 percent of drugs tested are approved by the FDA, the average R&D cost per approved drug is significantly higher (about $12.5 billion). [26]
+The Congressional Budget Office (CBO) reported, “In 2019, the pharmaceutical industry spent $83 billion dollars on R&D. Adjusted for inflation, that amount is about 10 times what the industry spent per year in the 1980s. Between 2010 and 2019, the number of new drugs approved for sale increased by 60 percent compared with the previous decade, with a peak of 59 new drugs approved in 2018.” [26]
+Drug companies can more reliably fund R&D for new drugs with revenue from drug sales than they could with venture capital or other outside investments. Studies have shown that cuts in drug companies’ revenue result in drops in future research and the number of new drugs. [26] [27]
+Furthermore, R&D is attached to drug companies’ long-term growth strategy, not only in terms of revenue but also in terms of copyrights, patents, and trademarks. Without R&D and new drugs, the companies could fail to produce the growth and revenue needed to keep older drugs on the market. [28]
+Drug companies spent about 25 percent of revenues on R&D in 2018 and 2019 and were outpaced in R&D spending only by the semiconductor (an electronic component) industry As Investopedia editors summarized, “R&D is the pharmaceutical industry’s lifeblood. The success of major drug companies almost wholly depends upon the discovery and development of new medicines.” [28]
+Con 2: Expanded access to affordable insurance that better serves customers by covering a larger percentage of prescription drug costs would more effectively lower drug costs for patients.
+David A. Ricks, CEO of drug company Eli Lilly, explained that drug companies negotiate lower prices for government programs including Medicare and for private insurance companies. [29]
+However, Ricks stated, “What the US system does poorly is sharing these negotiated savings with patients who use the medicines. In fact, patient costs for medicines are increasing even while net drug manufacturer prices are decreasing. This paradox exists because no matter how much of a discount an insurer or provider negotiates, most [insurance] plans don’t pass the discount to patients.” [29]
+“Policy makers,” suggests Ricks, “need to focus on fixing broken health [insurance] plan designs that shift too much cost to the sick in order to lower premiums for the healthy.” [29]
+A 2021 study found that while drug companies offered rebates to health insurance companies, those rebates did not translate into lower out-of-pocket drug costs for customers. The rebates were tied to higher costs for consumers per prescription drug: $6 for those with commercial insurance, $13 for those with Medicare, and $39 for people without insurance. [30] [31]
+The study’s authors emphasized that “uninsured individuals were more likely to be in racial minority groups, amplifying pre-existing disparities in healthcare access,” and people who were “uninsured were younger, in poorer health, and…had lower personal income compared with our overall sample.” [30] [31]
+If Congress were to expand affordable, quality insurance with appropriate prescription drug coverage, the drug cost problem could be alleviated, if not eliminated, while providing better health care for everyone. [27]
+Con 3: The U.S. government is already over-involved in health care and should leave prescription drugs to the free market.
+Under the Affordable Care Act , insurance companies are required to cover at least one drug from every United States Pharmacopeia (USP) category and class. [32] [33]
+Because of this requirement, patients should be able to find a drug, covered by insurance, that will treat most conditions. The cost debate is largely over relatively few name-brand drugs. [32] [33]
+Tom Coburn, a late former U.S. senator (R-OK), explained, “The problem with drug prices…is not that they start out expensive, but that they stay expensive for years after they have been on the market. The main culprit here is the regulatory environment that limits the creation of a free, functioning and competitive market for prescription drugs….Rather than doubling down on government regulation, we should rely on the free market, which is the best way to allocate these scarce resources, increase competition, lower prices and continue to foster medical innovation for years to come.” [34]
+Other free-market options include making more drugs available over the counter (OTC), such as birth control pills and statins, which are available OTC in other countries and would lower costs if available OTC in the United States, and deregulating the ban on marketing or sharing information about drugs in research with insurers and doctors, which would lower advertising costs after FDA approval. [35]
+Furthermore, most Americans support allowing drug imports from Canada: 79 percent of Independents, 78 percent of Democrats, and 76 percent of Republicans. [15]
+Americans should be able to import drugs from Canada and Mexico. Drug companies lobbied to ban drug imports to prevent competition that would force American companies to reduce their prices. [36] [37] [38] [39]
+A 2019 Vice investigation found that patients were crossing the border into Mexico to buy Novolog insulin pens for $17 each because the cost in the United States jumped from $289 in 2013 to $540 in 2019. Other insulin prices also rose: Humalog went up from $35 in 2001 to $234 in 2015, and Lantus from $244 to $431. [36] [37] [38] [39]
+Allowing Americans to use the global free market without more government interference is the most effective way to force American drug companies to lower prices.
+Con Quotes
+Christopher Holt, the director of health care policy, and Douglas Holtz-Eakin, the president, of the American Action Forum, stated,
+“There are better ways to lower drug prices:…
+Congress should…focus on pursuing bipartisan reforms to Medicare Part D.…
+Congress should…focus on pursuing bipartisan reforms to Medicare Part D.…
+Legislative changes to drug rebates, like those pursued through rulemaking under the Trump Administration, would ensure that patients with high drug costs receive meaningful assistance.
+Legislative changes to drug rebates, like those pursued through rulemaking under the Trump Administration, would ensure that patients with high drug costs receive meaningful assistance.
+The single best way to bring down prices is to increase supply and competition; policymakers should remove regulatory barriers to new therapies and follow-on products coming to market, while also working to ensure enforcement of laws targeting anticompetitive practices.”
+The single best way to bring down prices is to increase supply and competition; policymakers should remove regulatory barriers to new therapies and follow-on products coming to market, while also working to ensure enforcement of laws targeting anticompetitive practices.”
+—Christopher Holt and Douglas Holtz-Eakin, “The Potential Impacts of the Build Back Better Act’s Drug Policies,” americanactionforum.org , January 13, 2022
+Edmund F. Haislmaier, a senior research fellow for the Heritage Foundation, stated,
+“Congressional Democrats have released their latest version of a drug-pricing proposal that would expand government’s role by setting prices for prescription drugs for the first time.
+Specifically, in HR 5376 [the Build Back Better Act], the government would set prices in Medicare for a limited number of drugs that account for substantial spending in Medicare.
+Such policies go in the wrong direction. They would hurt access to drugs and innovation, undermine the ability of private plans to negotiate further price discounts for enrollees, and discourage future generic drugs—which often cost less—from coming to market.
+In addition, the bill’s approach would overturn a decades long bipartisan consensus that the government should create a climate for innovation and lower costs in prescription drugs—without setting prices….
+A fundamentally different approach is needed.
+Rather than layering on more counterproductive government regulation, Congress should address government policies driving up prescription drug costs and making it harder to get drugs to market effectively.”
+—Edmund F. Haislmaier, “Rx for Disaster: Democrats’ Bill Shows How Not to Get Affordable, Innovative Prescription Drugs,” heritage.org , November 9, 2021
+David A. Ricks, the CEO of drug maker Eli Lilly and Company, stated,
+“Critics argue that the United States is the only developed country where the federal government doesn’t negotiate prescription drug prices and that a 40 percent cut to the pharmaceutical industry’s size will have limited or no impact on future cures or pandemic preparedness.
+If it all sounds too good to be true, that’s because it is.
+Under the guise of Medicare “negotiations,” the US House of Representatives is considering a measure that would mandate the government to set prices on some of the most widely used drugs. These price controls would shrink the sector by 40 percent or $100 billion per year in revenue. Our entire industry invests about $100 billion per year in research and development.
+Worse, government negotiation to set drug prices won’t address the root cause of the problem America’s seniors have when they buy medicine. Instead, policy makers need to focus on fixing broken health plan designs that shift too much cost to the sick in order to lower premiums for the healthy….
+The most pressing needs for policy change are not federal price mandates but rather common-sense adjustments to Medicare Part D and commercial plans. If Congress focuses on capping annual drug spending for Medicare enrollees, ensuring low monthly cost sharing amounts that are predictable each month, and implementing cost-sharing based on what a health plan saved from drug company discounts—millions of patients will see an immediate and dramatic reduction in what they pay at the pharmacy counter.”
+—David A. Ricks, “The Risks of Government Negotiation of Drug Prices,” bostonglobe.com , October 25, 2021
+Jake Novak, a political and economic analyst and a former CNBC TV producer, stated,
+“When it comes to prescription drugs, I believe that reducing government intrusion, rather than increasing it, is the best way to get prices down and expand access to lifesaving treatments….
+There are many other free market options that Big Pharma would probably support that would boost supplies of drugs and improve access to them. Chief among them is getting more drugs available over the counter.
+Birth control medication and most heart disease-fighting statins are over-the-counter drugs in most of the world’s developed countries, but not the U.S. Even if making those drugs OTC doesn’t immediately drop sticker prices, at least it reduces the costs connected with having to go to the doctor every time you need a prescription.
+OTC drugs also keep third-party insurance companies out the process entirely, also reducing costs and barriers to access.
+The drug industry would surely like a deregulatory push when it comes to the ban on drug companies sharing information about new drugs with insurers, hospitals and private practice doctors.
+That ban forces drug companies to spend a lot of money to get the word out about new drugs once they do gain approval….
+Removing the ban would allow the drugmakers to provide easier to digest updates along the way, thereby reducing and spreading the costs of informing medical professionals over a longer period.”
+—Jake Novack, “Trump’s Losses in Drug Pricing Battle Should Be a Free Market Wake-Up Call to Him,” cnbc.com , July 11, 2019
+International Prescription Drug Costs
+While private insurance and government programs in the United States covered the highest amount of prescription drug costs of ten Organisation for Economic Co-operation and Development (OECD) countries, the U.S. also had the highest out-of-pocket costs for patients.
+Sweden covered the least amount of prescription drug costs with private insurance and government programs. And patients paid the least out-of-pocket in the United Kingdom.
+Prescription drug spending per person (including private insurance, government programs, and out-of-pocket spending) increased steadily from 2004 to 2019.
+However, the United States has maintained the highest costs of 12 OECD countries, increasing from $668.15 in 2004 to $1,126.27 in 2019. Sweden and the U.K. have maintained the lowest prices per person. [48]
+All costs below are in U.S. dollars.
+Prescription Drug Spending per Person: Insurance or Government Health Program Versus Out-of-Pocket Costs, 2004–19
+country
+costs covered by private insurance or government health program
+patient out-of-pocket costs
+Australia
+$331.80
+$102.40
+Austria
+$463.68
+$56.72
+Belgium
+$381.17
+$131.43
+Canada
+$590.39
+$147.41
+Germany
+$769.75
+$55.42
+Japan
+$589.07
+$93.63
+Sweden
+$269.74
+$108.52
+Switzerland
+$523.75
+$88.73
+United Kingdom
+$272.68
+$12.16
+United States
+$962.55
+$163.72
+Prescription Drug Spending per Person, 2004–19*
+2004
+2005
+2006
+2007
+2008
+2009
+Australia
+$332.98
+$330.20
+$338.84
+$362.36
+$380.73
+$390.24
+Austria
+$358.90
+$359.05
+$378.44
+$404.84
+$429.62
+$399.14
+Belgium
+$446.37
+$439.38
+$440.73
+$461.00
+$440.83
+$445.64
+Canada
+$460.21
+$489.79
+$518.73
+$546.67
+$565.22
+$581.29
+France
+$471.37
+$486.35
+$498.91
+$510.12
+$518.75
+$525.35
+Germany
+$405.60
+$451.92
+$464.34
+$503.10
+$536.00
+$564.52
+Japan
+$359.93
+$404.43
+$420.02
+$445.60
+$467.33
+$525.09
+Sweden
+$298.20
+$298.30
+$310.43
+$326.55
+$339.57
+$334.57
+United States
+$668.15
+$705.87
+$764.46
+$794.52
+$803.45
+$828.80
+*Data from Switzerland and the United Kingdom were not available for 2004–09.
+2010
+2011
+2012
+2013
+2014
+Australia
+$398.55
+$406.43
+$403.92
+$424.91
+$416.92
+Austria
+$407.25
+$416.16
+$429.90
+$439.70
+$455.68
+Belgium
+$458.76
+$466.84
+$460.70
+$470.38
+$471.40
+Canada
+$643.24
+$638.97
+$637.04
+$633.09
+$633.15
+France
+$535.45
+$537.84
+$531.59
+$538.15
+$536.96
+Germany
+$587.21
+$576.85
+$590.37
+$610.51
+$659.45
+Japan
+$550.65
+$607.01
+$635.68
+$700.88
+$694.05
+Sweden
+$330.11
+$331.05
+$329.05
+$320.01
+$325.92
+Switzerland
+$439.37
+$449.50
+$471.29
+$488.73
+$500.17
+United Kingdom
+NA
+NA
+NA
+$276.66
+$279.86
+United States
+$819.12
+$822.73
+$818.88
+$831.11
+$936.35
+2015
+2016
+2017
+2018
+2019
+Australia
+$425.62
+$473.92
+$442.27
+$434.21
+$434.21
+Austria
+$470.92
+$478.40
+$493.97
+$506.87
+$520.40
+Belgium
+$493.27
+$505.64
+$493.98
+$505.64
+$512.61
+Canada
+$651.91
+$706.37
+$714.42
+$731.16
+$737.80
+France
+$528.30
+$540.28
+$537.39
+$536.11
+$533.11
+Germany
+$676.67
+$724.26
+$751.39
+$786.08
+$825.16
+Japan
+$751.19
+$674.13
+$691.77
+$682.70
+$682.70
+Sweden
+$341.01
+$360.09
+$351.30
+$376.61
+$378.26
+Switzerland
+$530.77
+$572.07
+$595.51
+$596.58
+$612.49
+United Kingdom
+$288.31
+$293.15
+$294.10
+$286.56
+$284.84
+United States
+$1,011.65
+$1,021.52
+$1,037.29
+$1,070.84
+$1,126.27

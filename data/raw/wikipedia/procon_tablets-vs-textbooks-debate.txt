@@ -1,0 +1,244 @@
+Table of Contents Ask the Chatbot
+ARCHIVED TOPIC: This topic was archived on Nov. 28, 2022 and will no longer be updated.
+Textbook publishing in the United States is an $11 billion industry, with five companies – Cengage Learning, Houghton Mifflin Harcourt, McGraw-Hill, Pearson Education, and Scholastic – capturing about 80% of this market. [53] [54] Tablets are an $18 billion industry with 53% of US adults, 81% of US children aged eight to 17 , and 42% of US children aged under eight, owning a tablet. [55] [56] [57] [58] As tablets have become more prevalent, a new debate has formed over whether K-12 school districts should switch from print textbooks to digital textbooks on tablets and e-readers.
+Proponents of tablets say that they are supported by most teachers and students, are much lighter than print textbooks, and improve standardized test scores. They say that tablets can hold hundreds of textbooks, save the environment by lowering the amount of printing, increase student interactivity and creativity, and that digital textbooks are cheaper than print textbooks.
+Opponents of tablets say that they are expensive, too distracting for students, easy to break, and costly/time-consuming to fix. They say that tablets contribute to eyestrain, headaches, and blurred vision, increase the excuses available for students not doing their homework, require costly Wi-Fi networks, and become quickly outdated as new technologies are released.
+2012 marked the first time that more people accessed the Internet via smartphones and tablets than desktop or laptop computers. [37] Approximately 163 million tablets were shipped worldwide in 2017. [60] A joint report by McKinsey and the GSMA predicts the mobile education market could be worth $70 billion globally by 2020, and predicts demand for mobile education devices, like smartphones and tablets, may be worth another $32 billion by the same time frame. [38]
+26% of Americans read e-books in 2018, up from 21% in 2012. [59] [61] Among children age six to 17, the percentage of those who have read an e-book has increased from 25% in 2010 to 61% in 2015. [82] In 2017, 45% of children aged six to 17 said they preferred print books to e-books, while 16% preferred e-books; 38% said they had no preference. [83]
+In 2010, Amazon announced e-books were outselling paper books, and in 2012, e-book revenue exceeded that of hardcover books for the first time ever. [33] As of Feb. 2017, 83% of e-books sold in the US were purchased on Amazon, at a rate of over one million downloads a day. [63] [62] 487,298,000 e-books were sold in the US between Feb. 2016 and Feb. 2017, making up 42% of all book sales. [63]
+In 2014, about 90% of all textbooks used in higher education were available as e-books through Vital Source; by 2018, the service offered over 20 million digital textbooks from over 1,000 publishers for higher education and grades K-12. [64] [65] [67]
+Federal Initiatives in Education Technology
+In Nov. 2010, the US Department of Education released its National Education Technology Plan, a detailed blueprint on how schools can improve learning with technology. Among its recommendations is to leverage mobile devices (the technology students already have) in the classroom. [113]
+On Feb. 1, 2012, the US Department of Education and the Federal Communications Commission (FCC), in collaboration with several tech organizations, released a downloadable “Digital Textbook Playbook” to “encourage collaboration, accelerate the development of digital textbooks and improve the quality and penetration of digital learning in K-12 public education.” [6]
+In 2013, President Obama tasked the FCC with spearheading a five-year project that aimed to provide all schools and libraries with access to high-speed broadband connections in order to facilitate improvements in digital learning. [73] Launching the ConnectEd program, President Obama noted that, “[w]e are living in a digital age, and to help our students get ahead, we must make sure they have access to cutting-edge technology.” [73]
+The Every Student Succeeds Act of 2015 created a grant program which authorizes up to $1.6 billion annually for school districts to support digital learning. [69] Schools can use grant money to fund a variety of activities such as teacher-training programs on the effective use of digital technologies in the classroom, provide resources to students in under-served communities, and fund blended-learning projects taught partly online and partly in the classroom. [69]
+State Initiatives in Education Technology
+State initiatives regarding digital learning in K-12 education vary. According to the State Educational Technology Directors Association (SETDA), some states “require the implementation of digital instructional materials” in K-12 schools while others “allow the implementation of digital instructional materials.” [90] [91] Several states have dedicated state funding for digital instructional materials and devices. [90] More than 10 states have guidance for school districts on how they can use digital learning in place of school attendance when closures are necessary due to bad weather. [90]
+According to the American Legislative Exchange Council (ALEC), “integration of technology into the classroom is widespread and necessary, but some states have done a more efficient and effective job utilizing new technology than others.” [89] Utah and Florida are the only two states rated in the “A” range for digital learning by ALEC in their 2017 Report Card on American Education, while five states, Connecticut, Montana, Nebraska, North Dakota, and Tennessee, are rated F. [89]
+A number of states operate virtual schools that provide students, especially those living in rural areas, with the opportunity to take classes that are not offered in their local schools. [86] A number of these state-run virtual schools also offer professional development training for teachers alongside support with digital learning resources. [86] Operating since the early 2000s, by 2016, 24 states had state-run virtual schools. [87] [86] Traditionally serving high school students in grades 9-12, virtual schools have expanded their offerings with some now offering courses from kindergarten through grade 12. [88]
+Internet Access and Tablet Use in K-12 Schools
+The percentage of K-12 classrooms with any type of internet access increased from 51% in 1998 to 98% in 2012. [17] By 2018, 98% of K-12 school districts covering 81,000 schools and 44.7 million students had high-speed broadband connectivity compared to 30% of K-12 school districts in 2013. [72]
+K-12 schools spend $5.8 billion annually on printed instructional materials and $2.5 billion on digital resources. [68] Many districts, schools, and states have begun transitioning their instructional materials from paper textbooks to digital learning environments, with 75% of K-12 teachers believing that printed textbooks will be completely replaced by digital content by 2026. [70] The Center for Digital Education reports that, during the 2017-2018 school year, 82% of K-12 school districts surveyed used digital textbooks. [85]
+In 2016, 42% of K-12 teachers said that they used at least one digital device in class every day. [70] The most popular devices used in classrooms in a typical week are: laptops (used by 56% of teachers), desktop computers (54%), tablets (51%), and interactive whiteboards (45%). [70]
+One-to-one computing initiatives, where each student has their own laptop, tablet, or other mobile device, are gaining popularity with 40% of K-12 students participating in such programs. [71] 18% of students get two devices. [71]
+Despite the proliferation of digital learning, only about 28% of K-12 schools worldwide offered formal digital citizenship programs designed to teach students appropriate and responsible use of internet-enabled devices in 2017. [81]
+A survey by Deloitte found that 90% of children use digital learning materials or devices outside of school, with two-thirds starting by age five. [70] Research by the Hispanic Heritage Foundation found that 96.5% of high school students across the country said they needed to use the internet for class assignments outside of school, and nearly half reported there had been times they were unable to complete their homework due to lack of access to the internet or a computer. [75] [114]
+Opinions on Tablets and Textbooks
+In a 2017 global survey of K-12 teachers in 89 countries by Schoology, 95% of teachers responded positively in response to the question “in your opinion, does digital or blended learning positively impact student growth or achievement?” with 52% saying “very much” and 43% saying “somewhat.” [81]
+A 2016 survey by Deloitte found that 88% of parents of K-12 students, 84% of K-12 teachers, and 75% of K-12 students, are “very or somewhat interested in having more at-home digital content available to supplement what’s being taught in school.” [70] 73% of students said they would spend more time learning over the summer if digital learning resources were made available to them. [70]
+A 2015 survey of K-12 school- or district-based administrators by ASCD and OverDrive found that 99% of respondents “saw at least one benefit in using digital content over print in the classroom” with 76% saying that it allows teachers “to deliver individualized instruction” and 63% saying that it “captures greater student attention/engagement.” [84] Survey respondents also had concerns about switching to digital content with 60% of public school administrators and 30% of private school administrators worried about unequal access to the internet at home. [84]
+A 2015 survey of K-12 school- or district-based administrators by ASCD and OverDrive found that 99% of respondents “saw at least one benefit in using digital content over print in the classroom” with 76% saying that it allows teachers “to deliver individualized instruction” and 63% saying that it “captures greater student attention/engagement.” [84] Survey respondents also had concerns about switching to digital content with 60% of public school administrators and 30% of private school administrators worried about unequal access to the internet at home. [84]
+Pros and Cons at a Glance
+PROS
+CONS
+Pro 1: Tablets help students learn more material faster. Read More.
+Con 1: Handheld technological devices including tablets are associated with a range of health problems. Read More.
+Pro 2: 81% of K-12 teachers believe that “tablets enrich classroom education.” Read More.
+Con 2: Using tablets is more expensive than using print textbooks. Read More.
+Pro 3: Tablets can hold hundreds of textbooks on one device, plus homework, quizzes, and other files, eliminating the need for physical storage of books and classroom materials. Read More.
+Con 3: Tablets have too many distractions for classroom use. Read More.
+Pro 4: E-textbooks on tablets cost less than print textbooks. Read More.
+Con 4: People who read print text comprehend more, remember more, and learn more than those who read digital text. Read More.
+Pro 5: Tablets help to improve student achievement on standardized tests. Read More.
+Con 5: Many students do not have sufficient home internet bandwidth to use tablets. Read More.
+Pro 6: Tablets contain many technological features that cannot be found in print textbooks. Read More.
+Con 6: Manufacturing tablets is environmentally destructive and dangerous to human health. Read More.
+Pro 7: Print textbooks are heavy and cause injuries, while a tablet only weighs 1-2 pounds. Read More.
+Con 7: A broken tablet requires an experienced technician to fix, which can be costly and time-consuming. Read More.
+Pro 8: Tablets help students better prepare for a world immersed in technology. Read More.
+Con 8: Print textbooks cannot crash, freeze, or get hacked. Read More.
+Pro 9: On a tablet, e-textbooks can be updated instantly to get new editions or information. Read More.
+Con 9: The average battery life of a tablet is 7.26 hours, shorter than the length of a school day. Read More.
+Pro 10: Tablets lower the amount of paper teachers have to print for handouts and assignments, helping to save the environment and money. Read More.
+Con 10: Tablets are more likely to be lost or stolen than print textbooks. Read More.
+Pro 11: Tablets allow teachers to better customize student learning. Read More.
+Con 11: Tablets enable students to cut corners or cheat on schoolwork. Read More.
+Pro 12: Files on one tablet can be downloaded onto any other tablet, increasing flexibility and convenience for teachers and students. Read More.
+Con 12: The higher cost of tablets marginalizes poorer school districts and increases the “digital divide.” Read More.
+Pro 13: High-level education officials support tablets over textbooks. Read More.
+Con 13: Tablets increase the number of excuses available for students not doing their schoolwork. Read More.
+Pro 14: Students who own tablets purchase and read more books than those who read print books alone. Read More.
+Con 14: Tablets shift the focus of learning from the teacher to the technology. Read More.
+Pro 15: Using a tablet is so intuitive that it makes learning fun and easy. Read More.
+Con 15: Tablets may be too difficult for less technologically savvy teachers to use. Read More.
+Con 16: Tablets are unnecessary because print textbooks that are not brand new still convey relevant information to K-12 students. Read More.
+Pro 1: Tablets help students learn more material faster.
+Technology-based instruction can reduce the time students take to reach a learning objective by 30-80%, according to the US Department of Education and studies by the National Training and Simulation Association. [6]
+Pro 2: 81% of K-12 teachers believe that “tablets enrich classroom education.”
+The survey of technology in the classroom by the Public Broadcasting Service (PBS) also concluded that 77% of teachers found technology to “increase student motivation to learn.” [7]
+Pro 3: Tablets can hold hundreds of textbooks on one device, plus homework, quizzes, and other files, eliminating the need for physical storage of books and classroom materials.
+The average tablet contains anywhere from 8 to 64 gigabytes (GB) of storage space. On the Amazon Kindle Fire, for instance, 1,000 books take up one GB of space. [8]
+Pro 4: E-textbooks on tablets cost less than print textbooks.
+According to the School Library Journal , the average price of a K-12 print textbook is approximately $70 compared with $45-$55 for a 6-year subscription to a digital textbook. [75] E-textbook prices continue to drop with VitalSource reporting, on average, a 31% drop in price between 2016 and 2018. [76] Tablet prices also continue to drop, making them increasingly affordable. Tablets cost on average $489 in 2011 compared with $299 in 2018. [10] [11] [78]
+Pro 5: Tablets help to improve student achievement on standardized tests.
+Publisher Houghton Mifflin Harcourt tested an interactive, digital version of an Algebra 1 textbook for Apple’s iPad in California’s Riverside Unified School District. Students who used the iPad version scored 20 percent higher on standardized tests versus students who learned with traditional textbooks. [4]
+Pro 6: Tablets contain many technological features that cannot be found in print textbooks.
+Tablets give users the ability to highlight and edit text and write notes without ruining a textbook for the next user. [96] Tablets have a search function, a backlighting option to read in low light, and a built-in dictionary. [95] Interactive diagrams and videos increase student creativity, motivation, attentiveness, and engagement with classroom materials. [97] [98]
+Pro 7: Print textbooks are heavy and cause injuries, while a tablet only weighs 1-2 pounds.
+Pediatricians and chiropractors recommend that students carry less than 15% of their body weight in a backpack, but the combined average weight of textbooks in History, Mathematics, Science, and Reading/Language Arts exceeds this percentage at nearly all grade levels from 1-12. [12] According to the US Consumer Product Safety Commission, during the 2011-12 school year more than 13,700 kids, aged 5 to 18, were treated for backpack-related injuries. [5] The rate dropped to 6,300 in 2016 – a 54% decrease – thanks in part to the increasing use of tablets. [77] [92]
+Pro 8: Tablets help students better prepare for a world immersed in technology.
+Students that learn technology skills early in life will be better prepared to pursue relevant careers later in life. The fastest growing and highest paying jobs in the United States are technology intensive. Employment in “computer and information systems” is expected to grow by 18% between 2010-20, according to the US Bureau of Labor Statistics. [13]
+Pro 9: On a tablet, e-textbooks can be updated instantly to get new editions or information.
+Schools will not have to constantly purchase new hardware, software, or new physical copies of textbooks. Speaking at Mooresville Middle School, NC, President Obama said, “I want to see more apps that can be instantly updated with academic content the day it’s available, so you don’t have old, outdated textbooks with student names still in them from years ago. These are the tools that our children deserve.” [93] Tablets are especially beneficial for subjects that constantly change, such as biology or computer science. [6]
+Pro 10: Tablets lower the amount of paper teachers have to print for handouts and assignments, helping to save the environment and money.
+A school with 100 teachers uses on average 250,000 pieces of paper annually. [14] A school of 1,000 students on average spends between $3,000-4,000 a month on paper, ink, and toner, not counting printer wear and tear or technical support costs. [15]
+Pro 11: Tablets allow teachers to better customize student learning.
+There are thousands of education and tutoring applications on tablets, so teachers can tailor student learning to an individual style/personality instead of a one-size-fits-all approach. There are more than 20,000 education apps available for the iPad alone. [16]
+Pro 12: Files on one tablet can be downloaded onto any other tablet, increasing flexibility and convenience for teachers and students.
+E-textbooks and other files can be stored on “cloud” servers and accessed on any equivalent device. Users can sign into an account on a different device and access all of their information. [99]
+Pro 13: High-level education officials support tablets over textbooks.
+Secretary of Education Arne Duncan and Federal Communications Commission chair Julius Genachowski said on Feb. 1, 2012 that schools and publishers should “switch to digital textbooks within five years to foster interactive education, save money on books, and ensure classrooms in the US use up-to-date content.” The federal government, in collaboration with several tech organizations, released a 70-page guide for schools called the “Digital Textbook Playbook,” a “roadmap for educators to accelerate the transition to digital textbooks.” [6]
+Pro 14: Students who own tablets purchase and read more books than those who read print books alone.
+The average tablet-owning US student reads 24 books per year on a tablet compared with 15 in print for those who do not own a tablet. [17] According to a survey by the Pew Internet and American Life Project, 30% of e-content readers (including 40% of those under age 30) say that they now spend more time reading than they used to due to the availability of e-content. [18]
+Pro 15: Using a tablet is so intuitive that it makes learning fun and easy.
+In two isolated rural villages in Ethiopia, the One Laptop Per Child organization dropped off closed boxes containing tablets pre-loaded with educational apps, taped shut, with no instruction. Within five days, elementary school-age students without prior education were using 47 apps per child, per day. Within two weeks, they were singing ABC songs, and within five months they had successfully hacked the tablet’s operating system and customized the desktop settings. [19]
+Con 1: Handheld technological devices including tablets are associated with a range of health problems.
+Handhelds contribute to Computer Vision Syndrome, which causes eyestrain, headaches, blurred vision, and dry eyes, according to the American Optometric Association. [20] People who use mobile devices more often have a higher incidence of musculoskeletal disorders associated with repetitive strain on muscles, including carpal tunnel syndrome, neck pain (“text neck”), shoulder pain, and fibromyalgia. [21] [22]
+Con 2: Using tablets is more expensive than using print textbooks.
+Implementing tablets in K-12 schools requires purchasing hardware (the tablet) and software (the textbooks), building new wi-fi infrastructure, and training teachers and administrators how to use the technology. Implementation costs for e-textbooks on iPad tablets are 552% higher than new print textbooks in an average high school. Lee Wilson, a prominent education marketing expert, estimated the annual cost per student per class with tablets to be $71.55 vs. $14.26 for print textbooks. [23]
+Con 3: Tablets have too many distractions for classroom use.
+Students may pay attention to apps, email, games, and websites instead of their teachers. 87% of K-12 teachers believe that “today’s digital technologies are creating an easily distracted generation with short attention spans.” [24] Four-fifths of students aged 8 – 18 multitask while using digital media. [25]
+Con 4: People who read print text comprehend more, remember more, and learn more than those who read digital text.
+The brain interprets printed and digital text in different ways, and people generally read digital text 20-30% slower than print. [26] [27] According to Pulitzer Prize winning technology writer Nicholas Carr, peer-reviewed studies show that reading hyper-linked text may increase the brain’s “cognitive load,” lowering the ability to process, store, and retain information, or “translate the new material into conceptual knowledge.” [28] In addition, students who type lecture notes instead of write their notes by hand tended to write more, process less, and perform worse on recall tests. [52]
+Con 5: Many students do not have sufficient home internet bandwidth to use tablets.
+Students “need home broadband to access digital content and to complete Internet based homework,” according to former FCC Chairman Julius Genachowski and Secretary of Education Arne Duncan, but about five million, predominantly low-income, families, do not have broadband internet at home. [6] [74]
+Con 6: Manufacturing tablets is environmentally destructive and dangerous to human health.
+According to the New York Times , the “adverse health impacts from making one e-reader are estimated to be 70 times greater than those from making a single book.” One tablet requires the extraction of 33 pounds of minerals, 79 gallons of water, and 100 kilowatt hours of fossil fuels resulting in 66 pounds of carbon dioxide. Print books produce 100 times fewer greenhouse gases. Two gallons of water are required to make the pulp slurry that is pressed and heat-dried to make paper, and only two kilowatt hours are required to form and dry the sheets of paper. [3]
+Con 7: A broken tablet requires an experienced technician to fix, which can be costly and time-consuming.
+Textbooks can usually be repaired with basic supplies such as glue or tape. [108] [100]
+Con 8: Print textbooks cannot crash, freeze, or get hacked.
+Unlike tablets, there is no chance of getting malware, spyware, or having personal information stolen from a print textbook. [109] [110] [111]
+Con 9: The average battery life of a tablet is 7.26 hours, shorter than the length of a school day.
+Tablets constantly need charging, increasing electricity demands on schools and the need for new electrical outlets. [29]
+Con 10: Tablets are more likely to be lost or stolen than print textbooks.
+According to research by the tech company Kensington, 70 million smartphones are lost each year, and every 53 seconds, a laptop is stolen. [79] In San Francisco, New York, and Los Angeles, robberies related to internet-enabled handheld devices (including tablets) have accounted for 50, 40, and 25 percent respectively of all robberies in one year. Stolen and lost internet-enabled handheld devices have cost Americans more than $30 billion annually. [30]
+Con 11: Tablets enable students to cut corners or cheat on schoolwork.
+Students can easily avoid reading and analyzing texts on their own because they can quickly look up passages in an e-textbook and search for answers on the internet. [102] [103] [104]
+Con 12: The higher cost of tablets marginalizes poorer school districts and increases the “digital divide.”
+Rich school districts can afford to implement e-textbooks on tablets, while poor school districts cannot. Low income schools are less likely to implement teacher training programs on how to use digital learning in the classroom. [104] [105]
+Con 13: Tablets increase the number of excuses available for students not doing their schoolwork.
+Students have new available excuses, including: “my computer/tablet crashed,” “the internet was down so I could not do any research,” and “I forgot my charger.” [106] [107]
+Con 14: Tablets shift the focus of learning from the teacher to the technology.
+This change marginalizes decades of learned wisdom in the teaching profession in favor of an unproven technology. According to education reformer Mike Schmoker, until the core elements of literacy and critical thinking are learned by every student, “it makes little sense to adopt or learn new programs, technology, or any other innovations.” Technology gets in the way and makes learning and teaching more burdensome. [31]
+Con 15: Tablets may be too difficult for less technologically savvy teachers to use.
+Despite the proliferation of digital learning, the US Department of Education’s National Education Technology Plan found that “teacher preparation and professional development programs are failing to prepare teachers to use technology effectively in the classroom.” [94] In a survey of current K-12 teachers by Deloitte, 41% of respondents said that lack of teacher-training in the use of educational technology was one of the biggest barriers to incorporating digital learning in the classroom. [70] A survey by Schoology found that only about half of K-12 schools worldwide provide their staff with professional development resources to aid the use of technology in classrooms. [81]
+Con 16: Tablets are unnecessary because print textbooks that are not brand new still convey relevant information to K-12 students.
+A K-12 student learning from an older print textbook still learns the basics of anatomy, physics, algebra, geometry, and the US government. [112]
+Take Action
+Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+Sources
+C. Claiborne Ray, "The Weight of Memory," nytimes.com, Oct. 24, 2011
+Associated Press, "Cell Phone Theft on the Rise," wowt.com, Oct. 21, 2012
+Daniel Goleman and Gregory Norris, "How Green Is My iPad?," nytimes.com, Apr. 4, 2010
+Janet Maragioglio, "iPads Boost Math Scores, Benefit Education," mobiledia.com, Jan. 31, 2012
+Mary Elizabeth Dallas, "Overloaded Backpacks Can Injure Kids: Experts," nlm.nih.gov, Aug. 26, 2012
+Federal Communications Commission, "Digital Textbook Playbook," fcc.gov, Feb. 1, 2012
+Public Broadcasting Service (PBS), "National PBS Survey Finds Teachers Want More Access to Classroom Tech," pbs.org, Jan. 23, 2012
+Emily Price, "How Much Storage Does Your Tablet Need?," tecca.com, Mar. 3, 2012
+Electronista, "Digital Textbooks May Save Schools $250 Per Student Per Year," electronista.com, Mar. 30, 2012
+Mikael Ricknas, "Average Tablet Price Drops to $386, Says IMS Research,” computerworld.com, June 8, 2012
+Patrick Thibodeau, "Tablet Sales to Soar as Prices Drop Through 2015, Says Gartner,” computerworld.com, Mar. 30, 2011
+Thomas Adams, "Textbook Weight in California: Data and Analysis," California Department of Education website, Apr. 14, 2004
+US Bureau of Labor Statistics, "Occupational Outlook Handbook," bls.gov (accessed Nov. 9, 2012)
+Del Williams, "How Much Is Out-of-Control Printing Costing Your School?," softwareshelf.com (accessed Aug. 1, 2012)
+Ben Johnson, "Paper and Pencil Curriculum: How Much Do You Rely on It?," edutopia.org, Feb. 23, 2011
+Tom Mendelsohn, "Ten Great Free Education Apps for the iPad," The Independent , Jan. 30, 2012
+LearnStuff, "Graduating with Technology," learnstuff.com, Aug. 17, 2012
+Kathryn Zickuhr, "Younger Americans’ Reading and Library Habits," libraries.pewinternet.org, Oct. 23, 2012
+David Talbot, "Given Tablets But No Teachers, Ethiopian Kids Teach Themselves," mashable.com, Oct. 29, 2012
+New York Daily News , "iStrain: Tablets and iPads Can Cause Eye Problems," articles.nydailynews.com, Mar. 14, 2012
+I-Mei Lin, "Psychophysiological Patterns During Cell Phone Text Messaging: A Preliminary Study," Applied Psychophysiological Biofeedback , Feb. 6, 2009
+Dean Fishman, "Neck Pain from Texting," The Text Neck Institute website, Nov. 2, 2010
+Lee Wilson, "Apple’s iPad Textbooks Cost 5x More Than Print," educationbusinessblog.com, Feb. 23, 2012
+Lesley Lanir, "Digital Information Overload Overwhelms and Distracts Students," decodedscience.com, Nov. 4, 2012
+Urs Gasser and John Palfrey, "Mastering Multitasking," cf.linnbenton.edu, Mar. 2009
+Kate Garland, "Computer- vs. Paper-based Tasks: Are They Equivalent?," Ergonomics , Sep. 2008
+Lorien Crow, "Are E-Books Bad for Your Memory?,” mobiledia.com, Mar. 15, 2012
+Nicholas Carr, "Author Nicholas Carr: The Web Shatters Focus, Rewires Brains," wired.com, May 24, 2010
+FindtheBest, "What Is the Average Battery Life of a Tablet Computer?,” tablets.findthebest.com (accessed Aug. 6, 2012)
+Associated Press, "Cell Phone Theft on the Rise," wowt.com, Oct. 21, 2012
+Mike Schmoker, Focus: Elevating the Essentials to Radically Improve Student Learning , 2011
+Laura Hazard Owen, "What Apple Is Wading Into: A Snapshot of the K-12 Textbook Business,” paidcontent.org, Jan. 21, 2012
+Digital Book World, "Publishers’ eBook Production Statistics," digitalbookworld-hub.com, Aug. 21, 2012
+Book Industry Study Group and the Association of American Publishers, "BookStats 2012," bisg.org, July 18, 2012
+Dian Schaffhauser, "The Price Is Right?," Campus Technology website, Apr. 1, 2012
+Christopher F. Schuetze, "Textbooks Finally Take a Big Leap to Digital," nytimes.com, Nov. 23, 2011
+Aaron Smith, "Smartphone Adoption and Usage," pewinternet.org, July 11, 2011
+The New Media Consortium, "The 2012 Horizon Report," net.educause.edu, 2012
+California State Board of Education, "Textbook Weight Standards: Adoption of Proposed Title 5 Regulations, Section 9517.2," cde.ca.gov, July 2007
+AVG, "The AVG Digital Diaries Report – How Has Technology Changed Childhood?," avgdigitaldiaries.com, Apr. 2012
+Gautham Nagesh, "Pew: Minorities Continue to Lead Twitter Adoption," thehill.com, June 1, 2011
+Will Oremus, "New Digital Divide: Whites Less Likely to Own Smartphones," slate.com, Aug. 7, 2012
+Jane Weaver, "Teens Tune Out TV, Log On Instead," msnbc.msn.com, July 24, 2012
+Rob Reynolds, "Digital Textbooks Reaching the Tipping Point in US Higher Education," Xplana Learning website, Mar. 2011
+Government Accountability Office, "College Textbooks: Enhanced Offerings Appear to Drive Recent Price Increases," gao.gov, July 2005
+Nicole Allen, "New Laws, Free Books and Textbook Rentals Could Help Curb Rising Costs This Fall," studentpirgs.org, Aug. 26, 2010
+Geoffrey Fletcher, Dian Schaffhauser, and Douglas Levin, "Out of Print: Reimagining the K-12 Textbook in a Digital Age," State Educational Technology Directors Association website, 2012
+Association of American Publishers, "School Size and Weight Policy," publishers.org (accessed Feb. 22, 2013)
+LA Times, "L.A. Unified Halts Contract for iPads," latimes.com, Aug. 25, 2014
+Thomas Himes, "Los Angeles Unified’s iPad Contract to be Re-Bid among Favoritism Concerns," dailynews.com, Aug. 26, 2014
+John Koetsier, "L.A. Unified to Give Every Student an iPad in Deal Worth ’Hundreds of Millions,’" venturebeat.com, June 19, 2013
+Pam A. Mueller and Daniel M. Oppenheimer, "The Pen Is Mightier Than the Keyboard: Advantages of Longhand over Laptop Note Taking," Psychological Science , May 22, 2014
+Statista, "Estimated Textbook Publishing Revenue in the United States from 2010 to 2016 (in Billion US Dollars)," statista.com (accessed Oct. 12, 2018)
+Chris Zook, "Infographic: Textbook Costs Skyrocket 812% in 35 Years," aeseducation.com, Sep. 7, 2017
+Grand View Research, "US Tablet Market Size, Share & Trends Analysis Report by Operating System Type (Android, iOS), Competitive Landscape, and Segment Forecasts, 2018 - 2025," grandviewresearch.com, July 2018
+Pew Research Center, "Mobile Fact Sheet," pewinternet.org, Feb. 5, 2018
+Common Sense Media, "The Common Sense Census: Media Use By Kids Age Zero to Eight," commonsense.org, 2017
+Hoang Nguyen, "Three-Quarters of Kids Between Ages 8 and 11 Regularly Use a Tablet," yougov.com, Apr. 16, 2018
+Andrew Perrin, "Nearly One-in-Five Americans Now Listen to Audiobooks," pewresearch.org, Mar. 8, 2018
+Taylor Soper, "Amazon Passes Samsung for Second Place in Worldwide Tablet Shipments, Sees 50% Growth in 2017," geekwire.com, Feb. 5, 2018
+Pew Research Center, "The Rise of E-Reading," pewinternet.org, Apr. 4, 2012
+Kinga Jenetics, "Amazon EBook Market Share 2017 - Is it Big Enough?," publishdrive.com, Oct. 25, 2017
+Author Earnings, "February 2017 Big, Bad, Wide & International Report: Covering Amazon, Apple, B&N, and Kobo Ebook Sales in the US, UK, Canada, Australia, and New Zealand," authorearnings.com, Feb. 2017
+Carl Straumsheim, "A New Course," insidehighered.com, Mar. 4, 2014
+VitalSource, "VitalSource Acquires Data Platform Acrobatiq, Dramatically Expanding Analytics and Adaptive Learning Capabilities," press.vitalsource.com, Sep. 4, 2018
+IDC, "Worldwide Smartphone Volumes Will Remain Down in 2018 Before Returning to Growth in 2019 and Beyond, According to IDC," idc.com, May 30, 2018
+VitalSource, "K-12 Schools," vitalsource.com (accessed Oct. 26, 2018)
+Sean Cavanagh, "K-12 Print Needs Persist Despite Digital Growth," edweek.org, Apr. 14, 2015
+Sean Cavanagh, "K-12 Print Needs Persist Despite Digital Growth," edweek.org, Apr. 14, 2015
+Alliance for Excellent Education, "Every Student Succeeds Act Primer: Digital Learning," all4ed.org, Mar. 2016
+Deloitte, "2016 Digital Education Survey: After the Bell Rings: Expanding the Classroom," deloitte.com, 2016
+CoSN, "CoSN’s 2017 Annual Infrastructure Survey Report," cosn.org, 2017
+Education SuperHighway, "2018 State of the States: Expanding Digital Learning to Every Classroom, Every Day," stateofthestates.educationsuperhighway.org, Oct. 2018
+Doug Gross, "Obama Wants High-Speed Internet in Schools by 2018," cnn.com, June 6, 2013
+John B. Horrigan, "The Numbers behind the Broadband ’Homework Gap’," pewresearch.org, Apr. 20, 2015
+Audrey Sumser, "Discovery Education Makes E-Textbooks Easy / Reference Online," slj.com, Dec. 4, 2016
+Lindsay McKenzie, "Are Etextbooks Affordable Now?," insidehighered.com, May 1, 2018
+American Academy of Orthopaedic Surgeons, "Back-to-School: Smart Tips to Ease the Load of Kids’ Backpacks," aaos.org, Aug. 9, 2017
+Michele Molnar, "Struggling to Compete in the K-12 Market, Apple Makes Big Product Announcement at a School," edweek.org, Mar. 27, 2018
+Steve Olenski, "Is the Data on Your Business’ Digital Device Safe?," forbes.com, Dec. 8, 2017
+Mirela Roncevic, "Directory of E-book Platforms for Libraries," journals.ala.org, Apr. 2013
+Schoology, "The Global State of Digital Learning in K-12 Education," schoology.com, 2017
+Scholastic, "Kids & Family Reading Report: 5th Edition," scholastic.com, 2015
+ASCD and OverDrive, "Digital Content Goes to School: Trends in K-12 Classroom E-Learning," ascd.org, 2016
+Janet Grenslitt, "National Survey Awards School Districts for Innovative Technology Initiatives," govtech.com, Mar. 29, 2018
+The Foundation for Blended and Online Learning and Evergreen Education Group, "Digital Learning Strategies for Rural America: A Scan of Policy and Practice in K-12 Education," evergreenedgroup.com, Mar. 2018
+Evergreen Education Group, "Keeping Pace with K-12 Online & Blended Learning: An Annual Review of Policy and Practice," evergreenedgroup.com, 2012
+Evergreen Education Group, "Keeping Pace with K-12 Online Learning: 2016," evergreenedgroup.com, 2016
+American Legislative Exchange Council (ALEC), "Report Card on American Education: Ranking State K-12 Performance, Progress and Reform," alecreportcard.org, 2018
+State Educational Technology Directors Association (SETDA), "Navigating the Digital Shift 2018," setda.org, 2018
+State Educational Technology Directors Association (SETDA), "Digital Instructional Materials: Acquisition Policies for States," dmaps.setda.org (accessed Nov. 13, 2018)
+Hallie Levine, "Pick the Best School Backpack for Your Child," consumerreports.org, Sep. 1, 2017
+Barack Obama, "President Obama Speaks on Technology in Schools," obamawhitehouse.archives.gov, June 6, 2013
+Lauren Camera, "On Tech, Teacher Doesn’t Know Best," usnews.com, Dec. 26, 2015
+Mike Johnson, "The Best Tablets for Reading – Our Top 10 Picks for Best E-Readers & Tablets," tabletunderbudget.com, Oct. 6, 2018
+Elizabeth Harper, "The Best Way to Take Notes," techlicious.com, May 31, 2018
+Jennifer Groff, "Technology-Rich Innovative Learning Environments," oecd.org, Feb. 2013
+Apple, "iPad in Education Results," apple.com, July 2016
+Sharon Hurley Hall, "8 Ways Teachers Can Benefit from Cloud Storage," cloudwards.net, Nov. 8, 2017
+Liz Bowie, "Librarians Share Their Best Book Repair Tips," demco.com (accessed Nov. 15, 2018)
+John Keilman, "New Technology Lets Students Cheat More Than Ever," businessinsider.com, Aug. 7, 2012
+Rebecca Levey, "5 Ways Students Use Technology to Cheat – What Parents Need to Know," mashable.com, Sep. 28, 2012
+The Telegraph , "Six in 10 Pupils Admit to Using Internet to Cheat in Homework," telegraph.co.uk, Sep. 10, 2009
+Nick Pandolfo, "As Some Schools Plunge into Technology, Poor Schools Are Left Behind," hechingerreport.org, Jan. 24, 2012
+Meghan Bogardus Cortez, "As Connectivity Improves, the Digital Divide Persists in Teacher Tech Preparation," edtechmagazine.com, July 18, 2017
+TeachingTimes, "Miss, A Lion Stole My Homework," teachingtimes.com (accessed Nov. 15, 2018)
+Kevin Zahner, "’My Dog Ate My Chromebook’ and Other Excuses," zahnerhistory.com, Dec. 16, 2017
+Christie Blazer, "Literature Review Digital Textbooks," dadeschools.net, July 2013
+Justin B. Hollander, "Long Live Paper," nytimes.com, Oct. 9, 2012
+Ken Myers, "7 Potential Issues to Be Prepared for When Bringing Tablets into the Classroom," emergingtech.com, Feb. 13, 2014
+Wylie Wong, "Security at K–12 Schools Ramps up as More Devices Roll In," edtechmagazine.com, Mar. 31, 2016
+Online Degree Programs, "7 Good Reasons to Keep Your Old Textbooks," onlinedegreeprograms.com, July 17, 2012
+US Department of Education Office of Educational Technology, "Transforming American Education, Learning, Powered by Technology, National Education Technology Plan 2010," ed.gov, 2010
+Claire McLaughlin, "The Homework Gap: The ’Cruelest Part of the Digital Divide’," neatoday.org, Apr. 20, 2016

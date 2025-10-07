@@ -1,0 +1,17 @@
+Whenever you borrow money—whether it’s taking out a mortgage to buy a home, or loans to finance
+                    an automobile,
+                    pay for college, or even start that microbrewery you’ve always dreamed about—you need to know
+                    the terms.
+Loan amount. How much do you need (or are you allowed) to borrow?
+Loan term. When do you plan to have the loan paid in full?
+Compound frequency and payback rate. How often will you make payments, and
+                        how often will
+                        those payments be reflected in your outstanding balance? (Typically they’re both the
+                        same—monthly or
+                        annually, for example.)
+Once you know those things, you can calculate your expected payments.
+For example, suppose you plan to buy a $30,000 car. You have enough for a $2,000 down payment,
+                    and the dealer
+                    is offering you $3,000 for your current vehicle, so your loan amount would be $25,000 . Let’s say the finance
+                    department has offered you a five-year loan, with monthly payback, at their 4.99% “incentive rate.”
+Use the calculator to find out your monthly payment: $471.67.

@@ -1,0 +1,21 @@
+Whether you’re borrowing for a home, car, or an education, investing in a CD, looking at stock
+                    market returns,
+                    or considering an annuity, it all depends on the same basic formula: the time value of money.
+A calculator for the time value of money consists of five basic inputs.
+Future value: The estimated value of a current asset at a specified future
+                        date, based on
+                        the rate of return.
+Present value: The value of an expected sum of money, discounted by
+                        compounding interest
+                        rates to the present day.
+Interest rate or rate of return: This may be a nominal rate, or the “real”
+                        rate, which
+                        accounts for inflation.
+Time: Can also be expressed as the number of periods from start to finish.
+Payments: Could be contributions to an investment account or payments on a
+                        loan.
+Using the calculator, you can answer pretty much any money math question by adding in all but
+                    one variable and
+                    “solving for X.” Once you’ve mastered the relationship between money and time, you can make
+                    saving, investing,
+                    and borrowing decisions with an extra dose of confidence.

@@ -1,0 +1,22 @@
+By: M. Granger Morgan
+The U.S. must upgrade its transmission system to meet America’s surging demand for more energy.
+Why it matters: Transmission moves electric power from the locations where it is produced to the locations where it is needed — and the U.S. urgently needs more transmission capacity.
+The Department of Energy predicts the country will need to more than double high-voltage transmission capacity over the next several decades.
+At the same time, the construction of new long-distance transmission has stalled .
+Breaking the logjam that often makes it impossible to build new transmission capacity — without placing an unacceptable burden on consumers’ electric bills — is a major challenge.
+Demand for electricity is growing again: Electricity consumption in the U.S. stopped growing in about 2007, but data centers, AI, heat pumps, EVs, the electrification of industry and other factors are driving new growth in electricity demand and the need for additional transmission capacity.
+While building new conventional high-voltage lines is important, it is not the only way to expand the capacity of the U.S. transmission system.
+“ Low sag conductors ,” which allow lines to carry more power, can be used to expand the capacity of existing transmission corridors.
+The use of nontraditional corridors — such as building overhead or underground lines along highways and railroads — would help avoid the many problems of creating new rights of way.
+Recent developments for high-voltage direct current (DC) are making long distance buried cables possible, in both traditional and nontraditional corridors, including cables buried under lakes and rivers . Systems like these will be more expensive, but the extra cost may be worthwhile if such lines can be installed with far less public opposition.
+Who will pay: Building any kind of new transmission will be expensive. As the U.S. meets the growing need for new transmission, it is important to make sure that those who benefit cover the costs. Otherwise, there is a risk that regular homeowners and other traditional electricity customers will face higher electric bills.
+All electricity customers should pay their fair share of additions to transmission that serve the electricity and reliability needs of everyone. However, the cost of large new infrastructure that will serve the needs of just a few should not be spread across ordinary rate payers.
+Most high-voltage transmission lines are owned by traditional, regulated investor-owned utilities (IOUs). The incentives these companies face from state Public Utility Commissions (PUCs) often encourage them to invest in local transmission upgrades rather than expanding the capacity of needed regional and interregional transmission.
+For some urgently needed interconnections, independent transmission developers may be able to avoid some regulatory obstacles and arguments about cost allocation. Such companies arrange power purchase agreements for those who need the power to use their lines.
+In some cases, transmission costs can be avoided if new loads like data centers can be located next to generation, such as Microsoft’s plans to restart the undamaged reactor at Three Mile Island near Harrisburg, Pennsylvania.
+What we’re doing at CMU: Carnegie Mellon University is at the forefront of a range of research on the future of the power grid.
+What’s next: CMU faculty are leading a new multi-institutional, interdisciplinary consortium that is focused on addressing the challenges of expanding transmission capacity, including: Assessing legal, regulatory, institutional and political obstacles to expanding capacity.
+Examining the sources of public resistance to new transmission and improving public understanding of the need for more capacity.
+Proposing the policy, legal and regulatory changes necessary for expanded capacity.
+The group has received initial support from the Alfred P. Sloan Foundation and is actively seeking additional resources . Beyond Carnegie Mellon other members of the consortium include investigators at Carleton University, Pacific Northwest National Laboratory, Pennsylvania State University, The University of California San Diego (UCSD), and The University of Southern California (USC).
+The bottom line: The U.S. urgently needs to expand transmission capacity to meet our growing demand for affordable and reliable power. Work being done at Carnegie Mellon University is charting a course for expanded transmission to benefit all.

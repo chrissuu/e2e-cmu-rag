@@ -1,0 +1,44 @@
+Keeping an eye on inflation pressure.
+© RealPeopleGroup—E+/Getty Images
+There are many ways to describe inflation, but people generally think of it as an overall rise in prices. Inflation is when goods and services, across the board, are getting expensive. It can show up in many ways and have different causes.
+Most of the time, inflation rises gradually. Less often, it rises rapidly. But it almost always feels the same: we all end up getting less bang for our buck.
+Key Points
+CPI measures prices at the end user level; PPI measures the prices producers pay at the wholesale level.
+Headline CPI tracks all prices, but core CPI strips out food and energy prices.
+The PCE’s weighting and source material make it the Federal Reserve’s preferred inflation measure.
+Shaping your personal budget to match a potential rise in prices seems like a smart plan. But what inflation measure can you follow, besides the local prices of groceries or gas? There are three of them: the Consumer Price Index (CPI), Producer Price Index (PPI), and Personal Consumption Expenditures (PCE) price index.
+What is the Consumer Price Index (CPI)?
+When people talk about inflation, they’re usually referring to the Consumer Price Index (CPI). The CPI measures the change in average consumer goods prices over time.
+Inflation hiding in plain sight
+Shrinkflation is what happens when prices stay the same—but package sizes get smaller. From cereal boxes to paper towels, many products quietly shrink over time while their price tags don’t. It’s a subtle form of inflation that affects your buying power just the same. Read more about shrinkflation .
+Published monthly by the U.S. Bureau of Labor Statistics (BLS), the Consumer Price Index gathers price data on approximately 94,000 goods and services across the country and crunches them into a single number.
+Most investors look to CPI figures to see how much prices have either risen or fallen on an annual or monthly basis:
+Headline CPI represents all goods and services in the report; in other words, “the whole shebang.” It represents the average inflation rate across the entire economy.
+Core CPI strips out food and energy prices. Why? Food and energy prices tend to be more volatile than other products in the CPI mix. They’re affected by changes in weather, international prices, and geopolitics, among other things. That’s why some economists, including those in the Federal Open Market Committee (FOMC), prefer to take food and energy prices out of the equation when setting monetary policy .
+What can the CPI tell me about the economy?
+The rate at which prices are rising or falling can tell you something about the economy’s growth. Fed economists tend to look for steady inflation at or near 2% year-over-year ( the Fed’s favorite “Goldilocks” rate ).
+If inflation is rising too high or too fast, it can signal that the economy is overheating. If prices are deflating, it’s a signal that the economy is slowing.
+As an investor, you can use CPI data to help you figure out whether the FOMC is likely to raise, lower, or maintain interest rates, which will have varying effects on the stock market (and your portfolio ). The CPI is one perspective you can use to get a big-picture view of the economy as a whole.
+Keep in mind that not all products rise by an equal amount. Some will rise higher (or fall lower) than others. So, for instance, there could be a situation where gas prices fall, sinking the headline CPI numbers, while food prices rise.
+What is the Producer Price Index (PPI)?
+See how prices—and your purchasing power—have changed over time.
+Encyclopædia Britannica, Inc.
+The CPI tells you the state of inflation for consumer prices. Another report measures inflation on the manufacturing end: the Producer Price Index , or PPI.
+Also published monthly by the BLS, the PPI measures the average change in prices that domestic producers charge and manufacturers pay to make consumer goods. The bureau gathers around 64,000 price quotations each month to produce its report.
+What can the PPI tell me about the economy?
+If manufacturers have to pay more to produce consumer goods (“input costs”), then businesses may have to rethink their pricing strategies:
+Absorbing higher manufacturing costs may keep customers happy, but it will also eat into a business’s bottom line.
+Transferring those costs to consumers may yield more profit for the business, but customers will have to pay a higher price for the same goods and services.
+Ideally, economic inflation shouldn't be too hot or too cold.
+Encyclopædia Britannica, Inc.
+For businesses, an increase in the PPI may back them into a corner with very few choices. They can remain price-competitive and take a hit to their operating margin (and to their earnings ), or maintain revenues by raising prices, but risk losing sales or even customers.
+For investors, a higher PPI indicates that higher consumer prices may be coming in the months ahead. Although changes in the PPI won’t always predict changes in CPI inflation, it’s a handy tool for any investor trying to forecast the inflationary environment.
+What is the Personal Consumption Expenditures (PCE) price index?
+The third indicator you might want to follow makes up a part of the monthly personal income and outlays report from the U.S. Bureau of Economic Analysis (BEA). It’s called the Personal Consumption Expenditures (PCE) price index. It also happens to be the Fed’s preferred inflation gauge.
+The GDP price deflator: Nominal output vs. real output
+Published monthly by the BEA, the PCE measures changes in the price of goods purchased by consumers. Yes, it sounds a lot like the CPI, but it’s slightly different.
+While the CPI measures the costs of various goods, the PCE takes its data from the BEA’s Gross Domestic Product (GDP) report. This means that the PCE arguably covers more of the U.S. economy. Plus, the PCE takes into account how much households are spending and what they’re spending their money on. These factors, among others, are why the PCE is the Fed’s preferred inflation measure.
+What can the PCE tell me about the economy?
+Watching the PCE along with the CPI can give you a more detailed perspective on consumer price inflation. It can help inform your outlook as to whether or not the Federal Reserve may raise or lower interest rates.
+The bottom line
+The effect that inflation has on your money—whether your “purchasing power” is decreasing or stable—will likely impact your portfolio, whether you’re investing in stocks, bonds, or alternative assets . Although the causes of inflation may be varied and not always knowable in the immediate moment, you can at least track how it affects the economy, from factory to store. Following the CPI, PPI, and PCE can give you some guidance as you navigate the fog of inflationary uncertainty.

@@ -1,0 +1,14 @@
+Table of Contents Ask the Chatbot
+Think back to your high school biology class. Do you still remember the names and functions of all those little cell parts? A little foggy on the details, perhaps? Here’s a quick refresher course of some of the major eukaryotic organelles to keep your science skills sharp. It might come in handy for your next game of Trivial Pursuit !
+Nucleus
+Known as the cell’s “command center,” the nucleus is a large organelle that stores the cell’s DNA (deoxyribonucleic acid). The nucleus controls all of the cell’s activities, such as growth and metabolism, using the DNA’s genetic information. Within the nucleus is a smaller structure called the nucleolus , which houses the RNA (ribonucleic acid). RNA helps convey the DNA’s orders to the rest of the cell and serves as a template for protein synthesis .
+Ribosomes
+Ribosomes are the protein factories of the cell. Composed of two subunits, they can be found floating freely in the cell’s cytoplasm or embedded within the endoplasmic reticulum . Using the templates and instructions provided by two different types of RNA , ribosomes synthesize a variety of proteins that are essential to the survival of the cell.
+Endoplasmic reticulum
+The endoplasmic reticulum (ER) is a membranous organelle that shares part of its membrane with that of the nucleus . Some portions of the ER, known as the rough ER , are studded with ribosomes and are involved with protein manufacture. The rest of the organelle is referred to as the smooth ER and serves to produce vital lipids (fats).
+Golgi apparatus
+If the proteins from the rough ER require further modification, they are transported to the Golgi apparatus (or Golgi complex). Like the ER, the Golgi apparatus is composed of folded membranes. It searches the protein’s amino acid sequences for specialized “codes” and modifies them accordingly. These processed proteins are then stored in the Golgi or packed in vesicles to be shipped elsewhere in the cell.
+Chloroplasts
+In plants and some algae , organelles known as chloroplasts serve as the site of photosynthesis . Chloroplasts contain a pigment known as chlorophyll , which captures the sun’s energy to transform water and carbon dioxide into glucose for food. Chloroplasts allow autotrophic organisms to meet their energy needs without consuming other organisms.
+Mitochondria
+The “powerhouses” of the cell, mitochondria are oval-shaped organelles found in most eukaryotic cells. As the site of cellular respiration , mitochondria serve to transform molecules such as glucose into an energy molecule known as ATP (adenosine triphosphate). ATP fuels cellular processes by breaking its high-energy chemical bonds. Mitochondria are most plentiful in cells that require significant amounts of energy to function, such as liver and muscle cells.

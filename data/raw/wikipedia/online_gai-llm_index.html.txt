@@ -1,0 +1,21 @@
+GenAI is Transforming the World
+What will you create with it?
+Generative AI has already revolutionized the world and it’s not slowing down. As a trained computer scientist, if you want to contribute to the revolution of Generative AI, and make an immediate impact in your organization, now is the time to enhance your expertise.
+A training ground for Generative AI
+In Carnegie Mellon’s new Generative AI and Large Language Models graduate certificate, offered by CMU’s nationally-ranked School of Computer Science, you will learn the latest and most advanced techniques in Generative AI, large language models and multimodal machine learning from expert faculty at the forefront of computer science research.
+This is not your average online certificate program. The coursework covers complex topics that build on expertise in applied mathematics, programming, machine learning and deep learning.
+By the end of this certificate, you will be prepared to build customized applications of Generative AI. You will learn how to design and implement scalable systems for large language models, evaluate and choose between existing models, do customization via finetuning, and leverage multimodal machine learning through integrating and modeling multiple communicative modalities (e.g. audio, images, and video).
+More than theory, this program takes a hard-core systems approach by giving you not only the technical skills but the ability to implement and scale solutions based on your unique organizational needs and resources. Here you will gain the depth, breadth and practical skills to apply this technology immediately.
+Our advanced program will teach you how to:
+Implement state-of-the-art language models such as GPT and LLaMA from scratch.
+Compare and contrast different models and approaches in order to determine the best setup for tasks you care about.
+Perform model training and inference using popular frameworks such as HuggingFace.
+Design and run generative AI systems on h igh performance computer infrastructure using tools like SLURM.
+Understand and be able to apply algorithms and system techniques to efficiently train LLMs with huge datasets, including efficient fine-tuning and reinforcement learning with human feedback, acceleration on GPU and other hardware, model compression for deployment, and online system maintenance.
+Implement multimodal systems such as audio-visual speech recognition, image generation, and video captioning—addressing challenges in (1) multimodal representation learning, (2) translation and mapping between modalities, (3) modality alignment, (4) multimodal fusion and (5) co-learning.
+A powerful certificate. Conveniently offered.
+The Graduate Certificate in Generative AI and Large Language Models is offered 100% online to accommodate your busy schedule as a working professional. Along with weekly, live-online interactive classes taught by expert CMU faculty, you will complete hands-on learning activities on your own time that complement the discussions you have in class. To earn the certificate, you will complete three rigorous CMU classes over a 12-month period.
+For computer science pioneers
+This certificate program is best suited for:
+Industry professionals working in computer science, data science, software engineering or a similar field who want to enhance their domain knowledge with expertise in Generative AI and large language models so they can build new and innovative solutions for the future.
+Recent college graduates with a degree in computer science, data science, software engineering or a similar field who want to gain in-depth, state-of-the-art knowledge about Generative AI and large language models to enhance their skills, make an immediate impact in their organization, and stay competitive in the job market.

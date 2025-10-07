@@ -1,0 +1,250 @@
+1
+123 Pleasant Street
+26505, 123 Pleasant Street, Morgantown, WV, US
+1
+Schedule & Tickets
+2
+19North
+15301, 19 N. Main St., Washington, PA, US
+1
+Schedule & Tickets
+3
+1st Summit Arena at Cambria County War Memorial
+15901, 326 Napoleon Street, Johnstown, PA, US
+34
+Schedule & Tickets
+4
+Acrisure Stadium
+15212, 100 Art Rooney Avenue, Pittsburgh, PA, US
+10
+Schedule & Tickets
+5
+Acrisure Stadium Parking Lots
+15212, 100 Art Rooney Avenue, Pittsburgh, PA, US
+3
+Schedule & Tickets
+6
+Amplify Church Pittsburgh East Campus
+15239, 9400 Saltsburg Rd, Pittsburgh, PA, US
+1
+Schedule & Tickets
+7
+Beeghly Center
+44555, 1 University Plaza, Youngstown, OH, US
+11
+Schedule & Tickets
+8
+Benedum Center
+15222, 237 7th Street, Pittsburgh, PA, US
+143
+Schedule & Tickets
+9
+Bishop Schmitt Field
+26003, Ignatian Way, Wheeling, WV, US
+3
+Schedule & Tickets
+10
+Bottlerocket Social Hall
+15210, 1226 Arlington Ave, Pittsburgh, PA, US
+16
+Schedule & Tickets
+11
+Byham Theater
+15222, 101 Sixth Street, Pittsburgh, PA, US
+23
+Schedule & Tickets
+12
+Cadence Clubhouse
+15101, 9999 Kummer Road, Allison Park, PA, US
+1
+Schedule & Tickets
+13
+Capitol Theatre - Wheeling
+26003, 1015 Main Street, Wheeling, WV, US
+24
+Schedule & Tickets
+14
+Carnegie Lecture Hall of Oakland - Pittsburgh
+15213, 4400 Forbes Ave., Pittsburgh, PA, US
+1
+Schedule & Tickets
+15
+Carnegie Music Hall of Oakland - Pittsburgh
+15217, 4400 Forbes Avenue, Pittsburgh, PA, US
+4
+Schedule & Tickets
+16
+Carnegie of Homestead Music Hall
+15120, 510 East 10th Avenue, Homestead, PA, US
+22
+Schedule & Tickets
+17
+City Winery - Pittsburgh
+15222, 1615 Smallman Street, Pittsburgh, PA, US
+65
+Schedule & Tickets
+18
+Clarion Memorial Stadium
+16214, 23 W Main Street, Clarion, PA, US
+2
+Schedule & Tickets
+19
+Club Cafe
+15203, 56-58 South 12th Street, Pittsburgh, PA, US
+11
+Schedule & Tickets
+20
+Covelli Centre - Youngstown
+44503, 229 East Front St., Youngstown, OH, US
+41
+Schedule & Tickets
+21
+Crafthouse Stage & Grill
+15236, 5024 Curry Road, Pittsburgh, PA, US
+31
+Schedule & Tickets
+22
+Crawford Hall Auditorium At Grove City College
+16127, 100 Campus Drive, Grove City, PA, US
+1
+Schedule & Tickets
+23
+David L. Lawrence Convention Center
+15222, 1000 Duquesne Blvd, Pittsburgh, PA, US
+10
+Schedule & Tickets
+24
+DeYor Performing Arts Center
+44503, 260 West Federal Street, Youngstown, OH, US
+1
+Schedule & Tickets
+25
+Edward W. Powers Auditorium At DeYor PAC
+44503, 260 Federal Plz E, Youngstown, OH, US
+5
+Schedule & Tickets
+26
+Enclave - PA
+15203, 1602 E. Carson Street, Pittsburgh, PA, US
+2
+Schedule & Tickets
+27
+Fitzgerald Field House
+15219, University of Pittsburgh, Pittsburgh, PA, US
+6
+Schedule & Tickets
+28
+Ford Family Recital Hall At DeYor PAC
+44503, 260 West Federal Street, Youngstown, OH, US
+1
+Schedule & Tickets
+29
+Forge Urban Winery
+15120, 210 E 7th Ave, Homestead, PA, US
+1
+Schedule & Tickets
+30
+Frank J. Pasquerilla Conference Center
+15901, 301 Napoleon St, Johnstown, PA, US
+1
+Schedule & Tickets
+31
+Gameday Hospitality - Pittsburgh
+15212, 921 Ridge Avenue, Pittsburgh, PA, US
+3
+Schedule & Tickets
+32
+Garwood Arena
+44408, 2538 Middleton Rd, Columbiana, OH, US
+3
+Schedule & Tickets
+33
+Heinz Hall
+15222, 600 Penn Ave, Pittsburgh, PA, US
+38
+Schedule & Tickets
+34
+High Point Raceway - PA
+15349, 218 Taylortown Road, Mount Morris, PA, US
+1
+Schedule & Tickets
+35
+Highmark Stadium - Pittsburgh
+15219, 510 West Station Square Drive, Pittsburgh, PA, US
+2
+Schedule & Tickets
+36
+Impact Christian Church
+15108, 330 Hookstown Grade Rd, Moon, PA, US
+1
+Schedule & Tickets
+37
+Jergel's Rhythm Grille
+15086, 285 Northgate Drive, Warrendale, PA, US
+71
+Schedule & Tickets
+38
+Joe Walton Stadium
+15108, 6001 University Blvd., Moon, PA, US
+3
+Schedule & Tickets
+39
+Kelly-Strayhorn Theater
+15206, 5941 Penn Ave, Pittsburgh, PA, US
+1
+Schedule & Tickets
+40
+Live! Casino Pittsburgh
+15601, 5260 US-30, Greensburg, PA, US
+4
+Schedule & Tickets
+41
+Lyell B Clay Concert Theatre - WVU
+26506, 1 Fine Arts Dr, Morgantown, WV, US
+10
+Schedule & Tickets
+42
+Metropolitan Theatre - WV
+26505, 369 High Street, Morgantown, WV, US
+3
+Schedule & Tickets
+43
+Milhalik-Thompson Stadium
+16057, 100 N Rd, Slippery Rock, PA, US
+2
+Schedule & Tickets
+44
+Miller Stadium at Indiana University of PA
+15701, Indiana University of Pennsylvania, Indiana, PA, US
+2
+Schedule & Tickets
+45
+Mountaineer Field at Milan Puskar Stadium
+26505, 1 Ira Errett Rodgers Drive, Morgantown, WV, US
+3
+Schedule & Tickets
+46
+Mr Small's Fun House
+15209, 400 Lincoln Avenue, Pittsburgh, PA, US
+15
+Schedule & Tickets
+47
+Mr Small's Theatre
+15209, 400 Lincoln Avenue, Pittsburgh, PA, US
+34
+Schedule & Tickets
+48
+Oaks Theater
+15139, 310 Allegheny Blvd, Oakmont, PA, US
+3
+Schedule & Tickets
+49
+Offutt Field
+15601, 109 Laird St., Greensburg, PA, US
+2
+Schedule & Tickets
+50
+Omni William Penn Hotel
+15219, 530 William Penn Pl, Pittsburgh, PA, US
+4
+Schedule & Tickets

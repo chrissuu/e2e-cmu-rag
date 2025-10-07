@@ -1,0 +1,83 @@
+Music & Technology
+A Collaborative Approach to the Future of Music
+The Master of Science in Music and Technology gives students the freedom to push the boundaries of their expertise. Students accepted into this program have presented substantial work outside the typical four-year-degree, and excel in music or some aspect of technology, demonstrating an aptitude and desire to explore a specialized area with significant depth.
+Students at the graduate level are able to hone their skills in an interdisciplinary environment, focusing on a chosen area of study, such as Recording Technology, Audio Engineering, Computer Music, Music Composition, Music Performance, and Music Theory. Our expert faculty promotes a collaborative approach to cutting-edge education that gives our students both the specialized knowledge and breadth of skills to foster development in the field of music.
+With a customizable wealth of classes to choose from, students are able to explore new educational directions while honing their current talent, and are expected to produce original work through a public performance and written thesis.
+The program consists of a set of courses that span both music and technology, as well as a comprehensive capstone composition/design/performance project. The program is designed to offer great flexibility commensurate with the incoming student’s background and goals. Course selection is supervised by the student's advisor, working in concert with an Advising Committee composed of representatives from the School of Music, the School of Computer Science, and the Department of Electrical and Computer Engineering. Working closely with expert faculty, previous students have pursued study in technologically augmented performance, computer music systems and technology, music signal processing, acoustics, sound recording, music instrument design, and music cognition and perception.
+The following is an outline of the respective competencies, which must be developed by the successful candidate for the degree:
+ELECTRICAL ENGINEERING EMPHASIS
+Basic knowledge or competency in music history, keyboard, and music theory
+Thorough knowledge of electronic devices and analog circuits
+Thorough knowledge of structure and design of digital systems
+Working knowledge of recording, editing, and mastering of software and skills (ProTools)
+Working knowledge of a professional recording studio
+COMPUTER SCIENCE EMPHASIS
+Basic knowledge or competency in music history, keyboard, and music theory
+Knowledge of parallel and sequential data structures and algorithms
+Knowledge of computer music systems
+Working knowledge of recording, editing, and mastering of software and skills (ProTools)
+MUSIC EMPHASIS
+Competency in performance or composition–conservatory level
+Thorough knowledge or competency in music history, keyboard, harmony, eurythmics, theory, and solfege
+Basic knowledge of electronic devices and analog circuits
+Basic knowledge of first-level computer programming courses
+Working knowledge of recording, editing, and mastering of software and skills (ProTools)
+Working knowledge of a professional recording studio
+Curriculum
+Master of Science in Music and Technology Curriculum Core Courses 60 units A specific set of core courses will be identified by the Graduate Advisory Committee in consultation with each student on the basis of his or her background and experience. At least 24 units will be courses in the School of Music and at least 24 units will be courses in Computer Science or Electrical and Computer Engineering.  Courses fulfilling this requirement include but are not limited to the courses listed below.  Core courses and support courses may include thesis research credits (i.e. 15-571/15-572 Music & Technology Project).
+Additional courses will be chosen by the student.  A graduate student should not repeat courses previously taken as an undergraduate student at Carnegie Mellon or elsewhere. Courses fulfilling this requirement include but are not limited to the courses listed below.  Core courses and support courses may include thesis research credits (i.e. 15-571/15-572 Music & Technology Project).
+Music and Technology Seminar 4 units 57-970 Music and Technology Seminar 57-970 Music and Technology Seminar 57-970 Music and Technology Seminar 57-970 Music and Technology Seminar
+Elective Courses 26 units TOTAL UNITS: 144
+Courses
+M.S. in Music and Technology Courses This is not a complete list of options. Masters students are encouraged to take courses in Music, Computer Science, and Electrical Engineering and any other department that are not specifically Music and Technology courses. For example, there are several excellent graduate courses on Machine Learning offered by various departments at Carnegie Mellon. Any of these courses can be taken, even though they are not listed here. Please see the Undergraduate Catalog for a complete undergraduate course listing. Courses, including graduate courses, are listed in the University Schedule of Classes (with links to short course descriptions). Your advisory committee will help you to select courses.
+Computer Music Systems and Technology 15-322 Introduction to Computer Music 15-323 Computer Music Systems and Information Processing 60-439 Advanced SIS: Hybrid Instrument Building
+Signal Processing 18-290 Signals and Systems 18-491 Digital Signal Processing 18-551 Digital Communication and Signal Processing System Design 18-792 Advanced Digital Signal Processing 18-798 Image, Video, and Multimedia
+Music Information Retrieval 11-755 Machine Learning for Signal Processing 15-826 Multimedia Databases and Data Mining Machine Learning 10-601 or 10-701 Machine Learning 10-705 Intermediate Statistics Acoustics/Recording/Instrument Design 18-493 Electro-acoustics 57-947 Sound Recording 57-948 Editing and Mastering 57-949 Multi-track Recording 48-726 Acoustics and Lighting Music Cognition / Perception 85-756 (Graduate) Music and Mind: The Cognitive Neuroscience of Sound 85-785 Auditory Perception: Sense of Sound 57-377 Psychology of Music Music Theory 57-441 Analysis of 19th Century Music 57-442 Analytical Techniques 57-430 Music of Iran 57-605 Theory and Analysis for Graduate Students 57-760 Schenkerian Analysis 57-934 Advanced Analytic Techniques 57-968 Post-tonal Theory and Analysis 57-954 Shaping Time in Performance
+Music History 57-606 Music History for Graduate Students 1 57-609 Music History for Graduate Students 2 57-209 The Beatles 79-345 The Roots of Rock and Roll
+Composition 57-721 Major Studio (Composition) 57-258 20th and 21st Century Techniques 57-27x Orchestration Performance 57-969 (Graduate) Score Reading/Keyboard Harmony 57-xxx Technologically-assisted performance independent study
+In addition, many of our masters students take undergraduate courses to strengthen their knowledge in areas where they do not already have a strong background. See the B.S. in Music and Technology Curriculum for suggestions.
+Carnegie Mellon courses are measured in units rather than credits or credit hours, with three units equaling a standard credit. There is no charge for extra units taken at Carnegie Mellon.
+General Schedule & Important Milestones
+The nominal duration of the degree program for the Master of Science in Music and Technology degree is 21 months or 4 semesters, starting late August. Graduation is in May. Exact dates are available by consulting the Carnegie Mellon University Academic Calendar.
+SEMESTER 1
+EARLY AUGUST:
+Select and register courses
+SEMESTER 2
+APR 30:
+Thesis topic decided.
+Write a one-page description of your topic.
+Choose thesis committee.
+The thesis committee should consist of at least two people: your advisor and one other member of the Carnegie Mellon faculty or staff. To select the second member of your committee, you should first consult your advisor and get approval of one or more candidates. Then, you should ask the candidate to be on your committee.
+SEMESTER 3
+EARLY AUGUST:
+Select and register courses. Remember to sign up for reading and research to allow time for your thesis project.
+SUMMER AND EARLY SEPTEMBER:
+Prepare a thesis proposal of about 2 pages.The proposal should include:
+Introduction
+Review of the state of the art and related work
+What knowledge and/or science is missing?
+What will you do?
+How will you evaluate your work?
+What are the criteria for successful completion?
+SEP 30:
+Oral thesis proposal given in Music and Technology Seminar.
+The committee in consultation with other faculty will decide to pass or fail the thesis proposal. If the proposal is not passed, the student must address the problems and present another proposal.
+SEMESTER 4
+JAN 1:
+Start writing thesis (if not already started).
+MAR 1:
+Finish thesis project.
+MAR 15:
+Completed thesis delivered to advisor.
+MAR 25:
+Make final revisions to thesis.
+APR 1:
+Final thesis draft to committee.
+APR 1 - MAY 1:
+Further editing and committee approval of changes.
+MAY 1:
+Master's defense should be complete by this date. A defense consists of a Master's oral presentation and a Master's recital.
+The Master's oral presentation is a technical talk similar to a conference presentation. The talk should be carefully prepared and supported by slides with appropriate graphs and equations. If possible, the talk should include sound and/or video examples.
+The Master's recital should ideally be a concert or recital, possibly a joint recital or even one piece on a longer program. Alternatively, the oral presentation and recital can be combined. The music should be professional in quality and relate to the thesis. The Master's candidate need not be the performer or composer provided that the thesis results are used in the music composition or performance.
+A more technical thesis may not result in music appropriate for a concert. Although a music performance in a recital is the ideal, the recital requirement can be satisfied by a musical demonstration given as part of the oral presentation with the approval of the thesis committee.
+The committee can either pass or fail the thesis oral presentation and recital. The committee can also request further changes in the thesis.

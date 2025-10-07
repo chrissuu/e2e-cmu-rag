@@ -1,0 +1,3 @@
+To measure activity Downtown, the PDP tracks daily visitors, parking garage utilization, bus ridership, residential, and office building occupancy, and other metrics that help keep local stakeholders, leaders, and citizens informed on the state of Downtown Pittsburgh. The data in this Dashboard is collected and updated on a monthly, quarterly, and annual basis.
+The PDP also produces State of Downtown Pittsburgh Snapshot Reports to dive deeper into specific topical areas, giving meaning to data, statistics, and trends for use by the general public.
+View Snapshot Reports.

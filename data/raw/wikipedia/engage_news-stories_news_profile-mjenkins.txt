@@ -1,0 +1,11 @@
+Robotics Roadmap
+After graduating from Dartmouth, Merritt took a job as a mechanical engineer at QBotix, a robotics firm focused on actuating solar panels. He enjoyed it so much that he decided to pursue a master’s degree in robotics.
+“I got drawn into robotics and worked there for almost three years,” he says. “I had amazing mentorship and that's what motivated me to go to grad school.”
+Merritt was accepted to CMU’s robotics program, where the roots for Kodama began to grow.
+He was matched with Research Professor George Kantor, who required his students to build a robot and operate it in the field. Merritt and his lab partner developed a robot to automate phenotyping of sorghum and spent two summers in South Carolina testing it.
+“It was a good experience in the hybrid of academia,” he says. “We were doing real research, building up 3D models of plants using stereo vision. I was extracting and identifying sorghum stalks. We were applying machine learning to it.”
+That experience had a powerful impact on his career.
+“It was my true introduction to agricultural robotics, and I've been in that space for the past decade,” he says. “In that decade, I've seen a ramp-up in the number of startups and the amount of funding exits in the agricultural robotics space. And I've wanted to start a company for a while. It’s been a goal of mine.”
+He enrolled at the MIT Sloan School of Management, where he received an MBA and took the first steps toward starting Kodama.
+“I was investigating sectors that intersect with climate change but don't get a lot of attention right now,” he says. “That's where I stumbled upon forest management and realized it’s a sector of agriculture few roboticists are paying attention to and it's a hundred-billion-dollar market in the world.”
+He connected with two venture capital firms, and Kodama Systems began to grow.

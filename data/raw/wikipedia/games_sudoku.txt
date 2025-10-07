@@ -1,0 +1,5 @@
+Sudoku
+Your daily logic challenge: Complete the puzzle by filling every square with a
+                number from 1 to 9 – without repeating a number across any row, column or 3x3
+                box
+Easy Medium Hard Expert Mini

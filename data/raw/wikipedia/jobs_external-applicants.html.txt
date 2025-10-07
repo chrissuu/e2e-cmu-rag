@@ -1,0 +1,105 @@
+Start Your Search
+Need help getting started? Expand the sections below for step-by-step guidance.
+Set Up Your Candidate Home Account
+Locate the job that you wish to apply for and click Apply .
+When the Start Your Application screen appears, select one of the following: Autofill with Resume to automatically populate job application fields with information from your resume. Apply Manually to complete the job application fields manually. Click Use My Last Application to automatically populate a job application using a previous job application. Alternatively, pull your work history and experience from LinkedIn by clicking Apply With LinkedIn , logging in with your LinkedIn credentials and granting permissions to the site. When the Sign In page displays, click Create Account and enter your email address and a password that complies with the rules on the following page.
+Autofill with Resume to automatically populate job application fields with information from your resume.
+Apply Manually to complete the job application fields manually.
+Click Use My Last Application to automatically populate a job application using a previous job application.
+Alternatively, pull your work history and experience from LinkedIn by clicking Apply With LinkedIn , logging in with your LinkedIn credentials and granting permissions to the site.
+When the Sign In page displays, click Create Account and enter your email address and a password that complies with the rules on the following page.
+Click the Create Account button. Note that your new candidate account must be verified within 24 hours.
+Apply for a Job
+Once you have created and verified your account, you can apply for a job at Carnegie Mellon. If you selected the Autofill with Resume option, you will be prompted to upload your resume as the first step in the application process.
+Autofill with Resume
+Click Select File or drag and drop your resume into the gray box on the Autofill with Resume page.
+Once your resume has been successfully uploaded, click the Continue button located at the bottom of the page.
+My Information
+Complete all required fields:
+Please note the section " How Did You Hear About Us ?" Please use this section to let us know how you heard about the position. If you were referred by an employee of CMU, please select the option, "Direct Source," then "I was referred to this position by an employee of the University." After selecting this option, you will be prompted to provide the individual's email address or first and last name. Please only list one referring source. Also note: if a CMU employee referred you for a position, you may receive an email in your inbox. Please utilize the application link in that email to apply so that you will be linked to that employee's referral.
+If you were referred by an employee of CMU, please select the option, "Direct Source," then "I was referred to this position by an employee of the University."
+After selecting this option, you will be prompted to provide the individual's email address or first and last name. Please only list one referring source.
+Also note: if a CMU employee referred you for a position, you may receive an email in your inbox. Please utilize the application link in that email to apply so that you will be linked to that employee's referral.
+If you chose to autofill your application with information from your resume, verify that your information is populated correctly.
+Confirm that your email address is entered correctly. All communication related to this job application will be sent to the email address entered.
+If you wish to receive automated text messages related to your employment applications and opportunities, ensure the following options are selected: Phone Device Type: Mobile Opt-In Checkbox: Checked
+Phone Device Type: Mobile
+Opt-In Checkbox: Checked
+Click the Save and Continue button located at the bottom of the page to move to the next section.
+My Experience
+Provide information about your work experience, education and certifications.
+If you chose to autofill your application with information from your resume, verify that your information is populated correctly.
+If you chose to complete the job application manually, you can upload your resume and any other additonal documents you wish to attach to your application during this step of the job application process. You can also add any relevant websites such as your LinkedIn to the application.
+Click the Save and Continue button located at the bottom of the page to move to the next page.
+Application Questions
+Complete the questions on the Application Questions page. Note that a red asterisk * indicates that an answer to this question is required.
+Click the Save and Continue button located at the bottom of the page to move to the next page.
+Voluntary Disclosues and Self Identify
+Complete the questions on the Voluntary Disclosures and Self Identify pages.
+Submission of personal information in this section is voluntary and refusal to provide it will not subject you to any adverse treatment. The information obtained is kept confidential and may only be used per the provisions of applicable federal laws, executive orders, and regulations.
+Click the Save and Continue button located at the bottom of the page to move to the next page.
+Review
+Your job application is summarized and presented to you on the Review page.
+Review your job application for accuracy.
+Use the Back button located at the bottom of the page to make changes or corrections.
+If you are satisfied with your application, click the Submit
+When your application has been submitted successfully, you will receive the following confirmations:
+An "Application Submitted" message on confirming your submission.
+Email notification that your job application was received. The email is sent to the email address provided in your job application.
+Manage Your Job Applications
+Log in to your Candidate Home account.
+Click on the Candidate Home link located in the upper right corner of your screen.
+Not Submitted
+Any applications that you have not yet submitted will display in the My Applications sections of your Candidate Home page with a status of Not Submitted
+To view, complete or delete a draft application, click the Manage button to access additional actions.
+Select Continue Application to pick up where you left off and complete the job application.
+Select View Application to view the job application.
+Select Delete Application to delete the draft job application.
+Submitted
+To view or withdraw an application, click the Manage button to access additional actions.
+Select View Application to view the full job application.
+Select Withdraw Application to withdraw your application. Withdrawing your application removes you from further consideration for the position.
+View and Respond to an Employment Offer
+Review and Respond to the Offer
+Log in to your Candidate Home account.
+Click on the Candidate Home link located in the upper right corner of your screen.
+Locate the offer in the My Tasks section of your Candidate Home page.
+Click the Review button to review the offer.
+Review Document
+To view the job offer, click on the PDF link on the Review Document page.
+To accept the offer:
+Check the "I Agree" checkbox.
+Enter a comment, if you wish to.
+Click Submit .
+Complete the additional tasks on your Candidate Home page as soon as they display. To decline the offer, click Don't Accept . Clicking Cancel cancels the review session and retains the offer on your Candidate Home page to be addressed later.
+To decline the offer, click Don't Accept .
+Clicking Cancel cancels the review session and retains the offer on your Candidate Home page to be addressed later.
+Set Up Job Alerts
+Create a Job Alert
+Log in to your Candidate Home .
+Click on the Job Alerts link located in the upper right corner of your screen.
+Click the Create Job Alert
+Name Your Job Alert* (Required): Enter a name that describes the job alert .
+Frequency* (Required): Select how often you would like to receive a job alert.
+Daily job alert notifications are sent out at 4 a.m. EST.
+Weekly job alert notifications are sent out at 9 a.m. EST each Saturday.
+Use the optional fields to specify criteria for receiving job alerts. Making a selection in an optional field will not limit the selections available in the other fields.
+Location Country : Choose a country.
+Location : Choose a primary work location.
+Job Function: Choose a job function.
+Position Type : Choose a staff position type.
+Full time/Part time: Choose a position time type.
+Opting In: Once you sign up for alerts, you will receive an email from CMU confirming your interest in receiving job alerts. To confirm, click on the link in the email, and select "Yes" on the following screen to continue receiving our emails. If at any anytime you would like to update your job alert email preferences, you can use the link in the initial opt-in email to make changes.
+Manage Existing Job Alerts
+Log in to your Candidate Home .
+Click on the Job Alerts link located in the upper right corner of your screen.
+Locate the job alert you want to change.
+Click the Manage button, and then select Edit or Delete .
+Introduce Yourself to CMU
+Are you interested in joining the CMU team as a staff member but cannot identify a current opportunity that aligns with your interests, background and experience? Take the next step and introduce yourself to the CMU Talent Acquisition team by dropping off your resume.
+If you already have a candidate account, please log out before using this feature.
+From the Careers@Carnegie Mellon homepage, click Introduce Yourself to CMU .
+Complete all required fields.
+Click Select file to upload your Resume or CV.
+Click the checkbox to permit CMU to send you information about additional job opportunities at the university.
+Click Submit .

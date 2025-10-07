@@ -1,0 +1,109 @@
+Watching MLB.TV, At Bat, and MLB Network
+Live or archived MLB.TV games
+To access MLB.TV live or on-demand content, tap on the "Watch" tab from the bottom navigation bar. Select the "Games" sub-tab to see a listing of available MLB.TV games. You can scroll to previous dates using the left and right arrows. Tap on a game to select from the game feeds available.
+At Bat
+At Bat is available for live and on-demand games, and allows you to listen to home and away radio broadcasts without blackouts. Audio archives are not available on mobile devices, but can be accessed with your subscription on the web. Live At Bat can be accessed by navigating to the "Watch" or "Scores" tab, then tapping on "Audio" icon in the upper right hand corner. At Bat does not broadcast pre-game or post-game content. You may experience silence during these periods, as well as during rain delays or commercials. If you're experiencing difficulty with live At Bat, please visit the "Troubleshooting" section to view steps you can take to resolve the issue.
+MLB Play
+MLB Play will be moving all of its games, and some new ones, to the flagship MLB App for the 2024 season. Now you can enjoy live games, news, and highlights and play your favorite MLB Play games all in one place! You can also find MLB Play games on the MLB.com homepage. More information on MLB Play can be found here .
+Gameday 3D
+Gameday 3D Live is available for all games for MLB At Bat Audio and MLB.TV subscribers on our web and mobile app platforms. Any fan with a MLB account can access Gameday 3D Live for all MLB.TV Free Games of the Day, and 3D Replay is available for many highlights within Gameday's Detailed At Bat view.
+MiLB.TV
+Watch more than 7,000 streamed games for affiliates of all 30 clubs with the free MiLB MiLB app using your At Bat subscription.
+Please tap here to download MiLB App.
+Watch on iPad®, iPhone®, or iPod touch® (iOS 16.0 or higher.)
+MLB Network
+Subscribers of participating Pay TV providers offering the MLB Network will have the ability to watch MLB Network content through the MLB app after successfully authenticating with their Pay TV username and password. MLB Network content can be accessed by tapping on the "Watch" tab from the bottom navigation bar, then tapping on "MLB Network." If you're experiencing an issue with your Pay TV username and password, you're not authorized to view the content, or your Pay TV provider is not listed or does not offer the MLB Network, please contact your Pay TV provider directly.
+MLB Network Frequently Asked Questions »
+MLB.TV Free Game of the Day
+The MLB.TV Free Game of the Day is subject to blackout restrictions. To access the Free Game of the Day, tap on the "Watch" tab on the bottom navigation bar, select "Games," then tap on the labeled game. Next, you must register your email with MLB. To register for a free account, follow the instructions below:
+In the MLB app, tap on the "Login" button in the top left of your home tab
+Login with your registered MLB account, or create a new account
+Viewing with Chromecast
+The MLB app supports the ability to cast highlights and other video on-demand content, as well as archived MLB.TV content to a Chromecast device.
+Cast Requirements
+Your mobile and Chromecast devices MUST be connected to the same Wifi network to utilize this feature.
+Please ensure that you have the latest version of the MLB app and iOS operating system, as well as the latest Chromecast firmware, to utilize this feature. If you're experiencing difficulty with Chromecast setup, please visit https://support.google.com/chromecast , or contact Google directly. While the MLB app will update automatically for most devices, you may need to manually apply the updates from the device App Store. If your Chromecast has not updated to the latest firmware, please leave your Chromecast powered on overnight. The firmware build will be pushed and the device will reboot itself when it has the new firmware.
+Casting from the MLB app to a Chromecast device can be controlled by tapping on the Chromecast icon within the MLB app on the top left of the app, or while viewing a feed.
+Apple Watch Support
+With your Apple Watch and supported Apple mobile device, you will have access to breaking news, notifications, player cards, and Gameday Pitch-by-Pitch. Favorite teams and push notifications are configured through the MLB app on your Apple mobile device. You can configure which notifications are pushed to the Apple Watch from the Apple Watch app on your mobile device.
+Push notifications will be displayed upon receipt. Lowering the wrist or tapping the "Dismiss" button will dismiss a notification. If a favorite team has been configured, the glance will display game information for the team. If a favorite team has not been configured, the glance will display information about the first game from the scoreboard.
+Upon initial launch of the Watch app, if you've selected a favorite team, you will be presented with that team's view. Long pressing on that view will allow you to view the complete scoreboard or view other team views. Tapping on a scoreboard entry will display the game view along with news and access to player cards. If a favorite team has not been selected, you will be presented with the scoreboard view on initial launch where you can access the game view or team views.
+Settings
+MLB app "Settings" can be accessed by tapping on the "Browse" icon in the top right of your home tab. Scroll down until you see the "Account Settings" row towards the bottom of the list.
+MLB Account
+The MLB Account setting allows a user to log in with their registered MLB email and password. At Bat and MLB.TV subscribers who have connected a purchase to their MLB account will use this option to view live and on-demand games.
+Push Notifications
+The MLB app can deliver push notifications to your device during the season, if enabled. See the "Subscribing to Push Notifications" section for additional information on subscribing and managing your push notifications.
+Connect Purchase to MLB
+A major benefit of connecting your Apple App Store purchase to an MLB account is being able to access the purchase across your compatible devices. You will have an opportunity to connect your purchase to an MLB account after making the purchase, or it can be completed at a later time. You can only connect an Apple App Store purchase to one MLB account. If you connect the purchase to a second MLB account, the first account will lose all entitlements.
+Tap on "Connect Purchase to MLB" and log in with your registered MLB account email and password or register for a new account.
+Screen Auto-Lock
+Setting it to "Off" will prevent the screen from going dark while the application is open; this is useful when using Gameday or watching video.
+Hide Scores
+Slide the toggle to "On" or "Off" to enable or disable the hide scores functionality
+Shake to Toggle
+Slide the toggle to "On" or "Off" to enable the functionality to hide scores by shaking the device
+Default View
+Set the tab that the app will open up to if you'd like it to be something else other than Home.
+Viewing Team Information
+In order to view a specific team's news, highlights, schedule, ticketing, standings, and roster, you will want to access their Team Page. You can also configure a "Favorite Team," which will create an additional tab for quick access to this information.
+Viewing Non-Favorite Team Information
+Tap on the "Browse" icon from the top navigation
+Tap on "Teams"
+Tap on a team
+Setting a "Favorite Team"
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "My Teams and Players"
+Tap on the "Favorite Team" row to launch the favorite team picker
+Select your favorite team
+Managing a "Favorite Team"
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Tap on "My Teams and Players"
+Tap on "Edit" in the upper right
+Select your favorite team
+Changing Your App Icon
+The MLB app has the ability to create one or more "Favorite Team" shortcuts on the home screen of your Apple device. These shortcuts will open the MLB app directly to the Favorite Team tab that you want to view.
+Tap on the "Browse" icon in the upper right of your home tab
+Scroll down until you see "Account Settings" and tap on it
+Select the row that says "Set Home Screen Icon"
+Tap on your preferred team icon
+To revert, tap on "Reset to MLB"
+Subscribing to Push Notifications
+During initial launch, if a Favorite Team is selected, you will be prompted to choose which notifications you would like to enable.
+MLB app users can choose from MLB News, Team News notifications, Team Game notifications (Game Start, Game End, Lead Change), Player Notifications (On Deck, Key Highlights, and Player Story Recap) and Exclusive Offers
+Ensure notifications are enabled at the operating system level (Required)
+From the device home screen, tap on "Settings."
+Tap on "Notification Center."
+Scroll down and tap on MLB app.
+Configure notifications to your preference.
+Set the alert style to "Banners" or "Alerts."
+Banners will appear across the top of your device screen and quickly disappear; alerts will overlay the screen and require an acknowledgement.
+Enabling "Sounds" will play a sound when a notification is received
+"Show in Notification Center" will display notifications when viewing your notification center by swiping down from the top of your screen; you can also configure how many notifications you would like to see.
+"Show on Lock Screen" will allow you to view notifications from the device lock screen and notification center.
+Configuring Push Notifications in the MLB App
+Navigate to the "Account Settings" page, then Notifications
+Ensure Notifications toggle is set to "On."
+Subscribing or Unsubscribing from a Team Calendar
+The MLB app allows you to overlay a team's complete schedule onto your native Apple calendar application.
+Subscribing with No "Favorite Team(s)" Defined
+From within the MLB app, tap on the "Browse" icon
+Tap on "Teams" from the list
+Tap on the team you're wishing to subscribe to
+Tap on "Schedule"
+Tap on the "Subscribe" icon in the upper right of the screen
+When the process has completed, you may "View Events" to open the calendar or tap "Done" to return to the MLB app
+Subscribing with "Favorite Team(s)" Defined
+Tap on "Favorite Team" tab
+Tap on a team
+Tap on "Download"
+To view TV providers in your area, enter your Zip Code, or simply skip this step
+Select your calendar (Google or Apple)
+Unsubscribing
+From the Apple device home screen, tap on the "Settings" icon
+Scroll down to "Mail, Contacts, Calendars" and tap
+Tap on "Subscribed Calendars"
+Tap on the calendar you would like to unsubscribe from
+Tap on "Delete Account," and tap a second time to confirm

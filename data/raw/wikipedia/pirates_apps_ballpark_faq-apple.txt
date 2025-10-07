@@ -1,0 +1,69 @@
+Home Tab
+The "Home" tab is your source for personalized and contextually-relevant content and suggestions as you prepare for your ballpark visit and to complement your experience at the game.
+Your Next Ticketed Event
+The "Home" tab provides quick access to tickets for your next event. Tapping on "Open Tickets" will take you to your ticket(s), to view the barcode for quick and easy scanning at the gate, Add to Apple Wallet (at select Clubs), view ticket details on the ticket back (by pressing the info icon at the bottom right of the ticket face).
+Recommended Content
+The "Home" tab is updated with contextually-relevant content and suggestions based on who you are, where you are, and what time it is relative to upcoming events, including:
+A prompt to select your favorite team to stay connected with updates on stadium information and game day communication
+In-venue features to make the most of your ballpark visit, such as mobile food and beverage ordering at select Clubs
+Game day offers and promotions to be used at the ballpark or with sponsored partners (at participating Clubs)
+Reminders to forward tickets to your friends and family
+Adding your ballpark check-in to your Profile history to capture photos and commemorate your game day experience
+Upcoming match-ups based on your location and proximity to nearby venues
+Enabling location services at the top of the "Home" tab unlocks exclusive content and relevant information throughout your ballpark visit.
+Tickets Tab
+The "Tickets" tab enables you to purchase, access, and manage your tickets all in one place. This content is split into your "Wallet" for access to purchased tickets and "Buy Tickets" to browse schedules and purchase tickets to upcoming games/events.
+Wallet
+Access and manage your existing tickets. Ensure your account is verified to view, access, and manage tickets associated with your MLB or Club.com account.
+Sell Tickets
+SeatGeek is the MLB's exclusive Fan-to-Fan Ticket Marketplace. Fans can now list their ticket(s) for resale on SeatGeek directly from the MLB Ballpark app. From the Tickets tab, tap "Sell Tickets", and select which tickets you would like to list on the SeatGeek marketplace. The MLB Ballpark app will direct you to list your tickets on SeatGeek.
+After logging into your SeatGeek account, or creating a new account if you do not already have one, you can select the quantity, seats, payout method, price, and original ticket price. Once all fields have been satisfied, your ticket(s) will be officially listed on SeatGeek's marketplace. Once your tickets have successfully sold, your tickets will automatically be removed from your MLB Ballpark app.
+View All
+For fans with tickets to more than 5 events in their Wallet, the "View All" link allows you to access all events you have.
+Buy Tickets
+Scroll through any team's upcoming schedule. Tap on a row or the green ticket icon to purchase tickets to a specific event.
+Filters allow you to narrow down the full schedule to view just home games or navigate to another team's schedule. If you have any questions about ticketing, please see the "MLB Ballpark Digital Ticketing" section in the FAQs below.
+Ticket Forwarding
+When you select a specific event, you will see a list of all of your tickets for that event. From this ticket list view, you can click "Forward Tickets" to transfer your ticket(s) to someone else via email or a share link. This view will also provide updates on the status of forwarded tickets, e.g., when pending or accepted by the recipient. You can also cancel a pending Forward by clicking on "Cancel" to the right of the ticket, or you can recall an accepted ticket by clicking on "Recall" to the right of the ticket.
+To track your sent and received forwards, simply tap on the ticket forward icon in the top right corner of the "Tickets" tab. Click into an event to see ticket details, including the date received, date accepted, and current ticketing status, e.g.,Forward Accepted, Forward Pending, Recalled.
+NOTE: Not all tickets are eligible for forwarding; if not eligible, the option to Forward Tickets will not be available, as the "Forward Tickets" button will not be displayed.
+Offers
+Fans that unlock exclusive offers by attending and completing an official Ballpark check-in at select games can view those offers from the Ballpark "Inbox" on the top right corner of the "Home" and "Profile" tabs. Unlocked offers will live in a fan's Inbox until they are redeemed or have expired. Unlocked offers are a result of a successful check-in. To learn more about checking in, please refer to the Check-in section below.
+Ballpark Digital Assistant & Ticket Troubleshooting
+The MLB Ballpark app Digital Assistant provides a universal Ticketing Guide with the ability to troubleshoot issues with ticket access, forwarding, recall, and more. The Ballpark Digital Assistant can also give information on stats, game schedules, scores, and standings. To access the Digital Assistant, select the "chat" icon in the top right-hand corner of the "Home" or "Tickets" tab in the MLB Ballpark app.
+Team Tab
+Plan your visit and enhance your game day experience using the MLB Ballpark app's Team tab. Each Club customizes its Team tab with information about its unique ballpark, including transportation options, in-venue dining, in-stadium features or services, maps, and more. In most markets, fans can browse menus and order food and drinks right from the app.
+Additionally, in select markets, fans can interact and engage with in-stadium activations, including voting, trivia, other games, and more. Navigate to your team's schedule to view events and purchase tickets by tapping on the "Schedule" tab in the subheader at the top of the Team tab.
+Maps
+Make the most of your time at the game with maps and directories to help you navigate around the stadium. From the Team tab, locate the Maps module or icon (location may vary by Club). Based on the map configuration, you will have access to search and filter for points of interest around the venue, including entry gates, dining options, merchandise, concessions, restrooms, and more.
+Profile
+To access your Profile, from the "Home" tab, tap the avatar icon or your initials in the top left-hand corner. The Profile section will allow you to edit your account information, verify your ticket accounts, modify your favorite team(s), and set notification preferences and view your Go-Ahead Entry status (where available)
+Edit Profile - Allows you to edit your MLB profile name, as displayed around the app and across MLB platforms when logged into your account.
+My History - Keeps a record of your past ballpark visits (i.e., Check-ins). See more below in the "My History" section.
+My Teams - Allows you to modify your Favorite Team(s). Tap team tiles in descending order (i.e., your favorite Club first) to rank your favorite teams or tap again to deselect a team(s).
+My Notifications - Enabling notifications allows the MLB Ballpark app to send you push notifications and Inbox messages from your favorite team(s) on tickets, events, exclusive offers, and more.
+My MLB Account Emails - Allows you to verify ownership of your ticket accounts for seamless ticket access. Also indicates whether your accounts are verified and allows you to take action to verify accounts in order to ensure you can access tickets associated with your email account(s) in the MLB Ballpark app.
+My Ticket Accounts - Allows you to view and manage your verified ticket accounts.
+Go-Ahead Entry Profile - View your Go-Ahead Entry enrollment status (where applicable), learn more about participating Go-Ahead Entry Ballparks & remove yourself from the Go-Ahead Entry program.
+My History
+My History helps you reminisce about games you've attended, including stats about your ballpark visits, where you sat, game day photos, teams seen, and final scores.
+When the "View Details" link is selected, your check-ins are displayed by year in descending order.
+Add a Game (Historic Check-In)
+Please refer to the Historic Check-in section below.
+Add Photo(s)
+To add photos to an existing check-in, simply tap on the check-in, then tap the "+ Add New Photo" button. From there, choose whether you wish to take a photo with your camera or add one from your Photo Library. Take or select your photo, and then tap "Done".
+Remove Photo(s)
+To remove photos from a check-in, simply tap on the check-in, then tap the photo you wish to remove. Then, tap the trash can icon in the lower right-hand corner of the screen. Please note, the photo will be permanently deleted from your check-in and My History.
+Edit Notes
+If you would like to edit or delete an existing check-in, simply tap on the check-in. To edit, tap the "Edit" button in the top right-hand corner. Make changes to your notes or seat information and tap "Done".
+Delete a Check In
+To delete a check-in, tap on the check-in and scroll to the bottom of the screen. You'll notice a "Delete Game" button. If you delete a game, it will no longer display in your My History nor count towards your personal ballpark stats. Any photos associated with the check-in will also be deleted.
+Check In
+Official Check In
+An Official Check-in occurs when you scan a ticket for entry, or have location services enabled, or by manually checking in from the Team Page while at the ballpark. Checking in to a game will allow you to unlock exclusive ballpark offers as well as exclusive content on the Team tab that may only be accessible while in the stadium (e.g., voting).
+Location can be turned on from the top right of the Home tab. Enabling location services for the MLB Ballpark app will allow the app to automatically complete an Official Check-in by simply opening up your MLB Ballpark app while at the ballpark during the game.
+You can also manually complete an Official Check-in from the "Team" tab of the home team by tapping on the "Check-in" button at the bottom of the screen. The earliest a "Check-in" can be completed is 2 hours prior to the scheduled start time, and you must be near or in the stadium. If you are not near or in the stadium, the app will present a message indicating you need to be within proximity to check-in. If you believe an error has occurred, you can tap on the "Refresh" button to refresh the information for the app to attempt to better locate you.
+Accessing Unlocked Offers
+Once an Official Check-in has occurred, fans can access unlocked offers directly in their Inbox. For more details on accessing and unlocking offers after a check-in, see the Offers section.
+Historic Check-In
+Time to pull out all those old ticket stubs! If you would like to check-in retroactively to a game you attended in the past, you can now do so by tapping the "+" icon in the top right corner of "My History". While adding a "Historic" Check-in does not unlock any promotions or offers, documenting your past events will allow you to see your updated personal stats, including your own win-loss record in My History. You can add a Historic Check-in at any time for any Spring Training, Regular Season, or Postseason game going back to 1903.

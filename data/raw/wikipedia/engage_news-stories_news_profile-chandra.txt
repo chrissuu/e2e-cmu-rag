@@ -1,0 +1,7 @@
+Cognitive and Contextual
+At Meta, Vikas and his team are preparing for a future where all smart devices are wearable.
+They are working to incorporate more contextual AI into smart glasses, enabling the wearer to interact with their device hands-free.
+“Now your interaction model is not through tapping, pinching and swiping like what we do on phones right now,” Vikas says. “It becomes voice-based. It becomes context-based. Sometimes, you may not even need to tell it to do something, it proactively does it for you.”
+This is made possible through different sensors and data capture devices, as well as enabling on-device computation.
+“These devices can see what you see. They can hear what you hear, when you allow them to,” Vikas says. “It has a lot more context of who you are, where you are and what you're doing. Are you running? Are you sleeping? Are you in the car? How’s the weather around you? How does your calendar look? And all that context can come together and do useful things for you, basically reducing your cognitive overload.”
+The team’s work also focuses on efficient on-device AI, which becomes super important for wearable devices. “It becomes even harder when it's glasses because it's sitting on the face,” he says. “It shouldn’t run out of battery. It shouldn’t become too hot.”

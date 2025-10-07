@@ -1,0 +1,12 @@
+Carnegie Mellon's Tartan Racing Wins $2M DARPA Urban Challenge
+A self-driving SUV called Boss made history by driving swiftly and safely while sharing the road with human drivers and other robots. The feat earned Carnegie Mellon University's Tartan Racing first place in the DARPA Urban Challenge .
+Officials of the Defense Advanced Research Projects Agency (DARPA) declared Boss the winner of the Nov. 3 event, which pitted 11 autonomous vehicles against each other on a course of suburban/urban roadways. The first place prize includes a $2 million cash award.
+After reviewing judges' scorecards overnight, DARPA officials concluded that Boss, a robotized 2007 Chevy Tahoe, followed California driving laws as it navigated the course and that it operated in a safe and stable manner.
+Surprisingly, many of the robots made good decisions, said DARPA Director Tony Tether. That meant speed became the determining factor, Tether said, and Boss was the fastest of the competitors by a large margin. Boss averaged about 14 miles an hour over approximately 55 miles, finishing the course about 20 minutes ahead of the second-place finisher, Stanford.
+"Robots sometimes stun the world, inspire a lot of people and change the belief of what is possible," said William "Red" Whittaker (E '75, '79), a Carnegie Mellon robotics professor and team leader of Tartan Racing. "We've seen that here and once the perception of what's possible changes it never goes back. This is a phenomenal thing for robotics."
+Showing the world that autonomous driving technologies are robust and will ultimately make driving safer and more enjoyable has been a major goal of the 45-member Tartan Racing team.
+"This is really a fantastic accomplishment," Tether said. "I watched these things driving and I forgot after awhile that there was nobody in there."
+Autonomous driving technology will save lives on the battlefield, he said, by removing soldiers from supply convoys and other vehicles in harm's way, he added.
+In addition to GM, Caterpillar and Continental AG, Tartan Racing's sponsors include Intel, Google, Applanix, TeleAtlas, NetApp, Vector CANTech, Ibeo, Mobileye, HP, CarSim, CleanPower Resources, M/A-Com and McCabe Software.
+Related Links: Read More | More Info | Tartan Racing | Photo Gallery
+Homepage Story Archives

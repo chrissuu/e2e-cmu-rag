@@ -1,0 +1,69 @@
+Match your money to your goals.
+© Vittaya_25/stock.adobe.com, © Tim UR/stock.adobe.com; Photo illustration Encyclopædia Britannica, Inc
+Mutual funds are a cheap and efficient way to own several companies in one investment, but choosing among them can feel overwhelming. There are thousands of funds on the market , covering nearly every type of investment style and asset class. Even if your employer’s 401(k) plan offers only a handful of options, it’s not always obvious which one is right for you.
+Mutual funds play a key role in helping workers save for long-term goals such as retirement and college tuition. That’s why you’ll find them in 401(k) plans, 529 college savings plans , and through online brokerages . Before you invest, it helps to understand how mutual funds work and what factors to consider so you can choose the best fit for your financial goals .
+Key Points
+Mutual funds are a common choice in 401(k) retirement plans.
+Diversification helps spread risk among many investments.
+Comparing fund strategies and goals takes some homework.
+Types of mutual funds to consider
+A mutual fund is a collection of securities, including stocks , bonds , or other assets, that you can buy as a single investment. Buying shares in a mutual fund allows you to have a much more diversified portfolio than if you selected investments on your own.
+Diversification is a hallmark of mutual funds, since each fund can own hundreds or even thousands of securities. Holding diverse asset classes helps to mitigate any negative impacts from any single security in the fund. Each fund’s prospectus can help you understand its objective and strategy before you invest .
+Diversification isn’t limited to the investments inside a single fund. You can also own different types of funds.
+Equity funds
+These funds hold shares in publicly traded companies and are as varied as the businesses they invest in. Equity funds often group companies by size, known as market capitalization . Small-cap funds focus on smaller, fast-growing enterprises; mid-cap funds target medium-sized companies; and large-cap funds invest in well-established businesses.
+For instance, JPMorgan Large Cap Growth (SEEGX) and American Funds Growth Fund of America (AGTHX) are two well-known large-cap growth funds, while Brown Capital Management Small Company (BCSIX) and Vanguard Small-Cap Growth Index (VSGAX) focus on smaller companies.
+Concentrating on certain industries is another way stock funds differentiate themselves. You can invest in specific market sectors , such as energy , health care , or information technology , or target a style of investing, such as growth or value . Growth funds focus on capital appreciation and can be volatile, while value funds seek out companies that are trading for less than their intrinsic value and are often more stable.
+Fixed-income funds
+Also known as bond funds , these securities feature regular income payments and are usually less volatile than stock funds. Fixed-income funds complement equity funds in a portfolio. You can choose specific types of bonds to invest in, such as municipal or corporate bonds . A few examples are PIMCO Total Return (PTTRX), Metropolitan West Total Return Bond (MWTRX), and DoubleLine Total Return Bond (DLTNX).
+Balanced funds
+These investments are often a hybrid of stock and bond funds and provide both growth and income in a single holding. Examples include Vanguard LifeStrategy Moderate Growth (VSMGX), American Funds American Balanced (ABALX), and Dodge & Cox Balanced (DODBX).
+Index funds
+Index funds are designed to track a market benchmark, such as the S&P 500 or the total U.S. stock market. Instead of trying to beat the market by picking individual stocks, these funds aim to match the performance of their index.
+Because they don’t require a research team or frequent trading , index funds usually have much lower expense ratios than actively managed funds. That cost advantage has helped them grow in popularity with long-term investors.
+Examples include the Vanguard 500 Index Fund (VFIAX), the Schwab S&P 500 Index Fund (SWPPX), and the CIT BlackRock Equity Index Fund (WBRERX), all of which mirror large segments of the U.S. stock market.
+Commodity funds
+Commodity funds invest in goods such as gold , oil , or agricultural products, often through futures contracts or companies in those industries. They can help diversify a portfolio because commodities don’t always move in step with stocks and bonds. But they also tend to be more volatile and are usually best suited for experienced investors or as a small slice of a broader portfolio.
+Money market funds
+These funds are mutual funds’ alternative to bank savings accounts and similarly named money market accounts . Money market funds invest in low-risk debt to preserve capital , that is, your initial investment. Most brokerages and employer-sponsored retirement plans offer at least one type of money market fund. Because these funds tend to invest in similar short-term debt securities, their performance is usually quite comparable.
+Target-date funds
+Often found in employer-sponsored 401(k) plans , these funds adjust their asset allocation based on the year you plan to retire, which is typically tied to your age. Early on, target-date funds are more weighted to growth investments—stocks—to help you quickly build your nest egg . They gradually shift toward preserving capital —bonds and other fixed-income investments—as you get closer to retirement.
+Target-date funds vary by provider and by target year, so choosing one depends less on the fund family and more on matching the retirement date to your own goals. They also provide broad diversification in a single fund, since most include both domestic and international stock and bond holdings.
+Putting diversification into practice
+To help you diversify even more, mutual funds not only let you invest in various asset classes but also in different regions. For example, by holding just four funds—a domestic stock fund, a domestic bond fund, an international stock fund , and an international bond fund—you can build an investment portfolio that covers much of the world’s securities markets . Target-date funds take this same approach automatically, combining those elements in a mix that grows more conservative as you get closer to retirement.
+Have you started saving toward retirement? If so, great! But how do you decide what to invest in?
+Encyclopædia Britannica, Inc.
+How to research a mutual fund’s performance and strategy
+Once you understand the main types of mutual funds, the next step is figuring out which specific funds you might want to invest in. That process involves looking beyond the fund’s name, which can sometimes be misleading, and reviewing details such as its mission, how it’s performed over the years, and other relevant information.
+Fund objective
+The fund’s stated objective should reflect its investment strategy. A fund that invests in large-cap stocks, for example, should clearly note that it invests in large companies, while a growth fund should state that its objective is to build capital quickly. Fund objectives are often the first explanation you see on a fund’s fact sheet, and may instead be listed as the fund’s mission . The fund objective and investment style should sync with your personal investment goals.
+Past performance
+Although past performance doesn’t guarantee future returns, it can provide insight into how the strategy performs over different market cycles. Compare multiyear returns, such as the three-, five-, and 10-year returns, against the fund’s stated benchmark, such as the S&P 500 or Bloomberg Aggregate Bond Index.
+Fund management
+Portfolio managers set the objective and investment philosophy of a fund and use their stock-picking skills in an attempt to beat the fund’s benchmark index. Managers’ time in the role is critical when assessing an active fund. When reviewing a fund’s past performance, its time frame should match the portfolio managers’ tenure on the fund. Its five- or 10-year track record may look impressive, but if the manager has been on the job for only three years, some or most of that history reflects someone else’s decisions. When it comes to index funds, the return should mirror the benchmark’s performance, minus fees.
+Fund size
+Also known as total assets under management (AUM), a fund’s size affects returns, liquidity, and day-to-day management. Large funds can benefit from economies of scale. The $170 billion large-cap growth Fidelity Contrafund (FCNTX), for instance, invests in some of the biggest U.S. companies. But size isn’t always important. A small-cap fund could never grow to that size, since it may not find enough investment opportunities. Sometimes, active managers close funds to new participants if the assets under management get too large.
+Evaluating fund costs and fees
+Expenses, turnover rate, and active share are important considerations when evaluating fund costs and fees.
+How often do active managers beat the market?
+Fees for actively managed funds are usually higher—sometimes much higher—than those for index funds . So, you might think you’re spending more to get better performance. But not quite.
+Nearly 90% of actively managed U.S. large-cap funds underperformed common market benchmarks such as the S&P 500 over the 15 years that ended June 30, 2025, according to S&P Global’s semiannual SPIVA Scorecard. Over the shorter term, the differences aren’t quite as stark. About 65% lagged the index over three years, while 73% fell short over the course of one year. Still, the results show that low-cost index funds often win out and explain why they’ve become so popular.
+Expenses
+The cost to operate a mutual fund is known as the annual expense ratio and is expressed as a percentage, such as 0.50%. That cost is directly deducted from the fund’s gross return before you see your net return. For example, a 0.50% expense ratio means 50 cents is taken out for every $100 the fund earns.
+Mutual funds may also impose additional costs, such as sales loads and redemption fees , which vary based on fund size and style. Index funds often have the lowest expense ratios because they track an index and don’t require active management. Conversely, the costs of portfolio manager salaries and research mean actively managed funds charge higher expense ratios .
+Turnover rate
+Expressed as a percentage, turnover rate refers to how often the manager buys and sells the fund’s investments. A turnover rate of 33% means that a third of the portfolio’s holdings change over a 12-month period. High turnover can generate increased transaction costs, as well as tax implications for mutual funds held in a taxable account. Aggressive growth funds often have high turnover rates because stocks are frequently bought and sold as portfolio managers look to cash in on short-term gains or respond to changing market conditions .
+Active share
+Active share measures how a fund’s holdings differ from its benchmark index. A high share suggests the fund’s manager is making distinctive stock picks, which can justify higher fees if the bets pay off. A low active share means the portfolio closely mirrors the benchmark, suggesting the fund is masquerading as a closet index fund—only with higher fees .
+Evaluating a fund’s risk level
+A fund’s fact sheet typically includes an overview of the investment strategy’s risk. High risk brings the chance for bigger gains, but it also exposes you to the potential for greater losses. Low risk may result in fewer gains, but it can provide steadier growth and better protection in rough markets . Metrics such as standard deviation (measuring return volatility ), beta (indicating how sensitive the fund is to market movements), and the Sharpe ratio (showing risk-adjusted returns ) are useful for determining risk.
+If you’re uncomfortable with math, those tools may seem intimidating. But there are resources, such as your brokerage’s website or Morningstar’s risk section, that often explain these metrics in easy-to-understand ways.
+Using ratings and tools to compare funds
+Once you’ve selected a fund to consider, your brokerage’s fund selector or Morningstar can show you how it stacks up, presenting the fund’s objectives, style, cost, size, and other important factors in plain language. These services also organize funds into groups and provide ratings that make comparisons easier.
+Peer groups: Funds are sorted by type, such as U.S. large-cap equity or international bonds, so you’re comparing apples to apples.
+Star ratings: Morningstar’s well-known five-star system looks at a fund’s risk-adjusted performance compared with its peers. It’s backward-looking, so it shows how the fund has performed, not how it will perform.
+Style profiles: Often displayed as a “style box,” these charts summarize a fund’s exposure to different factors, such as company size (small, medium, and large) and style ( value vs. growth ).
+These tools don’t tell you which fund to buy, but they make it easier to narrow your choices and spot whether a fund really fits your goals.
+The bottom line
+Choosing the best mutual funds for your portfolio takes some research , but it doesn’t have to be overwhelming. Start by focusing on a few key factors—the fund’s objectives, costs, risk level, and track record—and then use tools like your 401(k) provider’s fund selector or Morningstar to compare your options. Spending a little time up front can help you avoid costly mistakes and build a portfolio that supports your long-term goals .
+Specific companies and funds are mentioned in this article for educational purposes only and not as an endorsement.

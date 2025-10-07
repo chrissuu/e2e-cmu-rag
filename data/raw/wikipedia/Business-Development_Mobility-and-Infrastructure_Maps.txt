@@ -1,0 +1,24 @@
+Maps
+Welcome to the Department of Mobility and Infrastructures map hub! Here you can explore several mapped data sets on a variety of subjects that we use to inform our work. We share this information to inform the public, increase transparency, and promote governmental collaboration on all levels.
+Pittsburgh High Injury Network (HIN) The High Injury Network (HIN) identifies corridors and road segments with a high frequencies of traffic-related injuries and fatalities
+Pittsburgh Crash Data This dashboard shows information on the reportable crashes in the City of Pittsburgh which is under the jurisdiction of both the Pittsburgh Bureau of Police & Pennsylvania State Police.
+Project Map This map contains the location, project type, and status updates for projects managed by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI) and PennDOT projects.
+Right of Way Obstructions Beta - This map contains all permitted obstructions to the public right of way, which are streets, alleys, trails and sidewalks.
+Agency Counter This map contains all code enforcement violations under DOMI jurisdiction.
+Traffic Calming This map contains all requests, eligibility status, and constructed traffic calming projects on streets owned by the City of Pittsburgh. The traffic calming program introduces features such as speed humps, chicanes, and other measures to improve safety for motorists, pedestrians, and cyclists.
+5 Year Paving History This map contains all roads paved in the City of Pittsburgh from 2020 to 2024.
+Pittsburgh Bicycle Facilities This map contains all constructed and proposed bicycle facilities in the City of Pittsburgh.
+Pittsburgh City Steps This dashboard of the City Steps map shows information on the known sets of steps to be of City of Pittsburgh public right-of-way.
+Outdoor Dining Locations This map contains all permitted outdoor dining locations in the City of Pittsburgh.
+Street Ownership This map shows the ownership of streets within the City of Pittsburgh.
+Bridge Dashboard This dashboard contains the location, structure details, and some status updates for bridges owned and maintained by the City of Pittsburgh’s Department of Mobility and Infrastructure (DOMI).
+Terms and Conditions
+The City of Pittsburgh GIS data available to the public on this web page is subject to the following terms and conditions:
+The information provided on this web page is provided “as is”.
+The City of Pittsburgh makes no warranty whatsoever, neither expressed nor implied, with respect to the accuracy of the GIS Data or fitness for use of the information by the site visitor.
+The site visitor releases the City of Pittsburgh, its officers, departments, authorities, agencies, and employees from any and all claims and liabilities.
+Data Disclaimer
+The data presented in this viewer is for informational purposes and is not suitable for legal, engineering or surveying purposes.
+Contact Us
+If you have any comments or questions contact us at geoffrey.leonard@pittsburghpa.gov .
+last updated: 05/02/2025

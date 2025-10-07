@@ -1,0 +1,51 @@
+Report Concerns
+These instructions are for CMU affiliates to report an issue with their University system or account, or if a CMU account is sending email scams or phishing attempts.
+Concern Type
+Required Action(s)
+Reporting an email scam or phishing attempt to or from a CMU email account
+Reporting an email scam or phishing attempt to or from a CMU email account
+or Email iso-ir@andrew.cmu.edu or call ISO at (412) 268-2044 and include: If you clicked on a phishing email link or attachment, follow the Procedure for Responding to a Compromised Computer If you believe that you have been phished, follow the instructions for I Might Have Been Phished, What Do I Do? If you report a phishing message and receive an error/bounceback, it may be because ISO is aware of the malicious message and has already put safeguards in place
+or
+Email iso-ir@andrew.cmu.edu or call ISO at (412) 268-2044 and include:
+If you clicked on a phishing email link or attachment, follow the Procedure for Responding to a Compromised Computer
+If you believe that you have been phished, follow the instructions for I Might Have Been Phished, What Do I Do?
+If you report a phishing message and receive an error/bounceback, it may be because ISO is aware of the malicious message and has already put safeguards in place
+Suspect a computer you use for University related work or study is: Compromised (un-authorized interactive access) Infected by viruses, worms, or other malware Attacking other systems Mis-configured leading to security vulnerability or negative impact on University computing infrastructure
+Suspect a computer you use for University related work or study is:
+Compromised (un-authorized interactive access)
+Infected by viruses, worms, or other malware
+Attacking other systems
+Mis-configured leading to security vulnerability or negative impact on University computing infrastructure
+1. Follow the Procedure for Responding to a Compromised Computer 2. Email iso-ir@andrew.cmu.edu or call the ISO at (412) 268-2044.
+1. Follow the Procedure for Responding to a Compromised Computer 2. Email iso-ir@andrew.cmu.edu or call the ISO at (412) 268-2044.
+Suspect that Non-public Institutional Data was accessed by unauthorized individuals such as: A University computer or information system has been compromised. A computer, mobile device, or storage medium such as an external disk or thumb drive is lost or stolen. Non-public information is discovered to be accessible to unauthorized individuals, whether they are affiliated or unaffiliated with the University. Non-public information was accidentally or purposefully distributed to unauthorized individuals.
+Suspect that Non-public Institutional Data was accessed by unauthorized individuals such as:
+A University computer or information system has been compromised.
+A computer, mobile device, or storage medium such as an external disk or thumb drive is lost or stolen.
+Non-public information is discovered to be accessible to unauthorized individuals, whether they are affiliated or unaffiliated with the University.
+Non-public information was accidentally or purposefully distributed to unauthorized individuals.
+1. Follow the Procedure for Reporting Unauthorized Release or Access of Data 2. Email iso-ir@andrew.cmu.edu or call the ISO at (412) 268-2044.
+1. Follow the Procedure for Reporting Unauthorized Release or Access of Data 2. Email iso-ir@andrew.cmu.edu or call the ISO at (412) 268-2044.
+Reporting theft of a computer used for University related work or study
+Reporting theft of a computer used for University related work or study
+1. Report the theft to University Police 2. Email iso-ir@andrew.cmu.edu including relevant: registered hostname(s) physical (MAC) address last time used on campus network pre-theft
+1. Report the theft to University Police
+2. Email iso-ir@andrew.cmu.edu including relevant:
+registered hostname(s)
+physical (MAC) address
+last time used on campus network pre-theft
+Reporting electronic harassment involving a University affiliate OR a computer used for University work or study
+Reporting electronic harassment involving a University affiliate OR a computer used for University work or study
+File a complaint with University Police
+File a complaint with University Police
+Reporting a Digital Millennium Copyright Act (DMCA) violation
+Reporting a Digital Millennium Copyright Act (DMCA) violation
+Email dmca@andrew.cmu.edu
+Email dmca@andrew.cmu.edu
+Carnegie Mellon University Ethics Reporting Hotline The hotline is NOT an emergency service.  For emergencies, call University Police at 412-268-2323 or 911.
+Carnegie Mellon University Ethics Reporting Hotline
+The hotline is NOT an emergency service.  For emergencies, call University Police at 412-268-2323 or 911.
+Toll Free:1- 844-587-0793 Via the Internet: cmu.ethicspoint.com
+Toll Free:1- 844-587-0793
+Via the Internet: cmu.ethicspoint.com
+Advisory Notification: Note that the Information Security Office (ISO) may use email to alert you to an advisory situation; however, we will NEVER send attachments in e-mail messages as part of the initial notification. As a general rule, if you are in doubt about a message do not open it!

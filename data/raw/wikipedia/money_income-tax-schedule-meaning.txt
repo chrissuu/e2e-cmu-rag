@@ -1,0 +1,32 @@
+Because everyone loves paperwork.
+© Stone's Throwe Photo/stock.adobe.com
+It’s time to file taxes again this year. You might prepare your taxes yourself or have a tax preparer help you. But as your return gets more complex—maybe thanks to your investments, or your home business, or your kids’ college expenses—more schedules and forms will be needed to help report your income and deductions to the Internal Revenue Service (IRS).
+The individual income tax return is called a Form 1040 . There are several related schedules , which are simply further ways of organizing the information that’s needed for your tax return, depending on your specific situation. Additional forms contribute information to those schedules, by adding documentation or helping to perform calculations. The IRS uses both numbers and letters to label the schedules related to the Form 1040, while forms are labeled with a numbering system.
+There are more than 15 schedules and 100 forms that relate to the Form 1040 (your tax return). A basic knowledge of these forms and schedules can help you prepare your taxes.
+Tax schedules related to IRS Form 1040, U.S. Individual Income Tax Return
+Schedule A, Itemized Deductions is used to calculate your itemized deductions if you don’t take the standard deduction . Deductions include certain medical and dental expenses that are over 7.5% of your adjusted gross income (AGI); taxes you paid for state and local income (or state and local sales taxes, in some cases); real estate taxes and personal property taxes (total taxes are limited to $10,000 when filling out Schedule A); interest you paid; gifts to charity; and casualty and theft losses.
+Schedule B, Interest and Ordinary Dividends is generally used if you had over $1,500 in taxable interest or ordinary dividends .
+Schedule C, Profit or Loss from Business ( sole proprietorship ) is used to calculate income and expenses pertaining to a business you run for profit. You must file Schedule SE (see below) to calculate self-employment tax on your Schedule C net income.
+Schedule D, Capital Gains and Losses is used to report the sale, exchange, or involuntary conversion of capital assets.
+Schedule E, Supplemental Income and Loss is used to report income or loss from estates, trusts, S corporations, partnerships, rental real estate, and related investments.
+Schedule EIC, Earned Income Credit is used to calculate the Earned Income Credit , if you qualify.
+Schedule F, Profit or Loss from Farming is used to report farm expenses and income.
+Schedule H, Household Employment Taxes is used to report taxes for household workers, including babysitters, maids, nannies, nurses, yard workers, cleaning staff, caretakers, drivers, cooks, housekeepers, etc., whom you hired independently and paid more than $2,600 in cash.
+Schedule J, Income Averaging for Farmers and Fishermen is used for farmers and fishers whose income varied over a period of three years.
+Schedule R, Credit for the Elderly or the Disabled is used if you are 65 or older, or you are totally disabled and received disability income.
+Schedule SE, Self-Employment Tax is used to calculate taxes on the sole proprietor net income calculated on Schedule C.
+Schedule 1, Additional Income and Adjustments to Income is used to report additional income that was not already reported on a W-2 or 1099. Examples might include unemployment compensation, prize money, award money, or business or farm income or loss. This form also is used to report adjustments to income, which might include self-employment tax, educator expenses, or student loan interest.
+Schedule 2, Additional Taxes is used to report taxes other than calculated income tax. Examples include alternative minimum tax , self-employment tax, household employment taxes, or additional tax on retirement plans.
+Schedule 3, Additional Payments and Credits is used to claim certain tax credits such as the foreign tax credit, education credits, or the general business credit. Other payments made, such as those with an extension to file , are also reported on Schedule 3.
+Schedule 8812, Credits for Qualifying Children and Other Dependents is used to calculate child tax credits , dependent credits, and additional child tax credits.
+Does anyone use Schedule A anymore?
+One of the purposes of the 2017 Tax Cuts and Jobs Act was to raise the standard deduction. Before 2018, it was common for taxpayers to itemize deductions on Schedule A if they paid mortgage interest and/or real estate taxes, or had high charitable contributions . With the increased standard deduction, though, fewer people now use Schedule A and instead choose to use the standard deduction. According to the IRS, 30% of tax returns itemized deductions in 2016 before the Tax Act, whereas only 9.3% of returns filed a Schedule A in 2020 after the Tax Act.
+Forms related to IRS Form 1040
+In addition to schedules, some details relating to your Form 1040 tax return are reported on forms. There are more than 100 forms directly related to the Form 1040 . They range in topics from underpayment of estimated tax and alternative minimum tax to low-income housing credits, adoption credits, and energy credits. Some commonly used forms include:
+Form 2441, Child and Dependent Care Expenses is used if you paid someone to care for your child or dependent while you worked.
+Form 4868, Application for Automatic Extension of Time to File is used to file for an extension .
+Form 8829, Expenses for Business Use of Your Home is used to calculate which expenses are allowed when using your home as your business.
+Form 8863, Education Credits is used to claim either the American opportunity tax credit or the lifetime learning credit when you spend money on qualified education expenses.
+The bottom line
+There are so many tax schedules and forms related to an IRS Form 1040 that it might seem overwhelming. If you are using tax software or a paid tax preparer , the correct schedules should be automatically completed for you.
+But in the end, you’re the one signing your tax return to attest that it’s correct. So do your research and make sure you feel comfortable with your tax return and all of its schedules and forms. And remember to keep those documents and worksheets for at least three years, according to the IRS.

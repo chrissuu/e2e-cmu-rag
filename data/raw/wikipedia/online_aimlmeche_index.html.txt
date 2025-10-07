@@ -1,0 +1,19 @@
+Build Extraordinary Solutions
+Learn AI Engineering to design next-generation solutions for today’s industries.
+Stay Ahead in a Fast-Moving Field
+The field of engineering is experiencing a paradigm shift—companies are using artificial intelligence (AI) now more than ever before. According to a survey by Gartner, the number of organizations that heavily rely on AI increased by 270% in just 4 years.
+Simply put: engineering professionals must develop AI skills to stay ahead. That’s why we offer the following online graduate certificates in AI Engineering Fundamentals, and related fields:
+Graduate Certificate in AI Engineering Fundamentals
+Graduate Certificate in Advanced AI Models for Engineering
+These credit-bearing, graduate-level certificates will transform you into an AI-savvy engineer who can use this state-of-the-art technology to solve real-world engineering problems in new and revolutionary ways.
+Solve Engineering Problems with AI
+With expertise in artificial intelligence, you can create more efficient, accurate, and productive engineering solutions that will allow your organization to compete in a rapidly-evolving landscape. When you complete these certificates, you will be able to automate repetitive tasks, optimize designs, make predictions, improve quality control, advance the design of products using the most cutting-edge AI and machine learning techniques.
+Learning Outcomes
+In the AI Engineering Fundamentals graduate certificate, you will:
+Learning Outcomes for Advanced Models for Engineering
+In the Advanced AI Models for Engineering graduate certificate*, you will:
+Study advanced AI models used in engineering applications like surrogate modeling, matierals discovery, engineering design, manufacturing and human-AI teaming.
+Build upon fundamental deep learning concepts you mastered from the first certificate. Topics will include advanced variants of convolutional neural networks, graph neural networks, generative adversarial networks, neural operators, physics-informed neural networks and diffusion models.
+Explore Generative AI models used in engineering applications and related topics like diffusion models, transformers and large language models.
+Learn how to solve real-world engineering problems by tailoring publicly available Generative AI systems and building upon existing software. Through course projects, you will practice designing and implementing these techniques for engineering applications.
+*Please note: the Advanced AI Models for Engineering graduate certificate is still in development, so course descriptions and learning outcomes are subject to change.

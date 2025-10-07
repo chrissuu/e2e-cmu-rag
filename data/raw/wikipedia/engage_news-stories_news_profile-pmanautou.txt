@@ -1,0 +1,11 @@
+Building a Blueprint
+Pete faced a major challenge when he started Scanit. He wasn’t adapting technology that already existed — he was inventing something completely new.
+“If a technology already exists in the market and somebody already went through all the kinks and twists and troubles of figuring it out, you have a blueprint to do something better,” he says. “In our case, there was nothing that could tell us what's in the air. Specifically, classifying the actual particle that's in the air. And when you're first at doing something that the world hasn't seen, it’s going to take some time to figure out all the science and the engineering behind it.”
+Still, he felt he had the background, from his Carnegie Mellon education, and experience necessary to make it work.
+During his third year at CMU, Pete received a Small Undergraduate Research Grant to test cyclic fatigue of spinning rods.
+“I had to use a lot of the knowledge from different disciplines that I took courses on,” says Pete, referring to various electrical and mechanical engineering subjects. “There were so many things that came into play.”
+His research led to two internships at Aristech, the former U.S. Steel’s chemicals division, which manufactured chemicals used across multiple industries, and then a full-time job at DaimlerChrysler doing design work on autonomous rail systems. He worked there for about a year before deciding to switch careers.
+“With autonomous trains, you're working with a lot of government agencies and you're super busy at times and then not so busy sometimes,” Pete says. “I wanted to do something a little more active and exciting.”
+He contacted the CMU Alumni Association, which helped him set up interviews and land a job in the semiconductor inspection and process control industry in San Jose, California.
+“That's what catapulted me into learning so much about so many different disciplines,” Pete says.
+He stayed in the industry for more than 15 years, focusing on defect detection, process control and metrology, and sensor development, which involves studying the physical, chemical, material and electrical properties of semiconductor devices. The experience gave him the confidence he needed to start Scanit and develop a detection device of his own.

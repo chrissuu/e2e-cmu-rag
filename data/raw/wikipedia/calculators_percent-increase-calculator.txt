@@ -1,0 +1,31 @@
+Percent Increase Calculator
+Related Calculators
+Estimate your monthly mortgage payments with our free mortgage calculator. Account for interest rates, compound
+    frequency and pay back schedule.
+Compounding means getting returns on your previous returns plus your initial investment. Learn how to grow your
+    savings with our compound interest calculator.
+Are you on track for retirement? Use our free retirement calculator to help determine how much you'll need to save
+    each year to retire at your desired age.
+The time value of money (TVM) principle asserts that the same amount of money is worth more now than in the future.
+    Use our TVM calculator to estimate future value, present value & more.
+How to calculate percent increase
+Figuring out a percentage increase or decrease is useful in many situations, such as finding by what
+                percentage your salary grew when you received a raise.
+The calculator works by subtracting the starting value from the final value.
+(Final value - Starting value)
+That result is then divided by the absolute value of the starting value. (The absolute value of a
+                number is its distance from zero. For example, the absolute value of -4 is 4.)
+(Final value - Starting value) / |Starting value|
+The new result is then multiplied by 100.
+Percentage increase = [ (Final value - Starting value) / |Starting value| ] *
+                100
+If the final value is negative, there is a decrease between the starting and ending value.
+Related Calculators
+Estimate your monthly mortgage payments with our free mortgage calculator. Account for interest rates, compound
+    frequency and pay back schedule.
+Compounding means getting returns on your previous returns plus your initial investment. Learn how to grow your
+    savings with our compound interest calculator.
+Are you on track for retirement? Use our free retirement calculator to help determine how much you'll need to save
+    each year to retire at your desired age.
+The time value of money (TVM) principle asserts that the same amount of money is worth more now than in the future.
+    Use our TVM calculator to estimate future value, present value & more.

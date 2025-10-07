@@ -1,0 +1,32 @@
+Watch out for the witching hour.
+© pe3check/stock.adobe.com, © TSViPhoto/stock.adobe.com; Photo illustration Encyclopædia Britannica, Inc.
+Halloween comes just once a year, but Wall Street types don’t mind a good scare more often—in the form of a financial market phenomenon known as triple witching. It happens on a certain date every quarter, and even though everyone knows it’s coming, triple witching can shake up the markets. So it’s important for investors and traders to understand how triple witching works and where risks and opportunities might lie.
+What is triple witching?
+Triple witching refers to the near-simultaneous expiration, on the third Friday of every third month (March, June, September, and December), of three different types of derivatives :
+There was previously a similar phenomenon known as “quadruple witching.” It included the concurrent expiration of these three derivatives as well as single-stock futures, which were introduced in the U.S. in 2002. But single-stock futures stopped trading in the U.S. around 2020, leaving us with the original trio of witches.
+A brief triple witching primer and backstory
+Triple witching, aka “freaky Friday,” originated in the 1980s with the introduction of stock index futures and options.
+Unlike shares of stock , futures and options contracts expire , meaning they have a fixed lifetime. Impending expirations require market participants —in this case, mostly professional traders and money managers—to decide whether to exercise an option or let it expire, take or make delivery on a futures contract , or “roll” a futures or options position forward into a future month. That can all lead to a mad scramble, especially during the “witching hour,” the final trading hour (3 to 4 p.m. ET) of the triple witching day.
+The convergence of the three expiration “witches” once every quarter effectively means that a bunch of buyers and sellers are all rushing to settle their positions before the closing bell. An oversimplified way to think about it is Black Friday shoppers mobbing a big-box retail store right when the doors open to grab a shiny new flat-screen TV.
+Historically, triple witching days have been associated with elevated market volatility and sharp price swings, according to an article from Nasdaq , one of the top stock exchange groups. During triple witching, a confluence of factors “creates a complex market environment ripe for volatility.” Although market impact can vary from year to year, triple witching days “have consistently contributed to heightened trading activity and market turbulence,” the exchange said.
+In recent years, triple witching days have tended to be less dramatic in terms of volatility. That partly reflects a vastly larger pool of option contracts and other derivatives that have staggered expirations or expire on a weekly or even a daily basis . Expiration dates are now scattered across the calendar, rather than happening on just a handful of days every year.
+Triple witching and market performance
+Although the four triple witching days represent just a fraction of the 250-plus trading days in a typical year, the stakes are considerable. According to Bloomberg data, during the June 2024 triple witching, about $5.5 trillion worth of options linked to indexes, stocks, and ETFs expired, or “came off the board,” in trader lingo.
+In recent years, triple witching periods have coincided with short-term weakness in stocks. In the 14 triple witching weeks since 2021, the S&P 500 index has posted average returns of -0.33% on the Thursday before triple witching Friday and a return of -0.52% on the actual triple witching day, according to market data compiled by Reuters.
+During full triple witching weeks going back to 2017, the S&P 500 has an average return of -0.53%. In other non-expiration weeks, the S&P 500 averaged a positive return of 0.37%. These numbers suggest the activity surrounding triple witching generates heavier selling pressure on the overall market, but there may be other unrelated factors involved.
+The triple witching days in 2025, all Fridays, are:
+March 21
+June 20
+September 19
+December 19
+Triple witching and long-term investors
+For long-term investors who aren’t in and out of the market frequently, triple witching shouldn’t be of much concern and likely doesn’t require any portfolio adjustments . However, volatility is always present in the market—some days more so than others. Triple witching offers an opportunity or reminder to check volatility readings and see how calm or jittery markets may be on a given day or week, and seek out any reasons.
+One tool investors can use to monitor volatility is the Cboe Volatility Index (VIX). This index, also known as the “fear gauge,” is based on the implied volatility of S&P 500 index options—one of the ingredients in the witches’ brew that’s cooked up every quarter. Most of the time, the VIX is relatively subdued, mostly holding a range of 10 to 20. But the VIX has occasionally spiked above 20 and even 30, which can be a sign of broader market turmoil.
+Triple witching and active traders
+The potential for wider, sharper price swings can create opportunities for day traders and swing traders who are nimble and sufficiently wired into the markets to make quick decisions and take immediate action. A few triple witching trading strategies include:
+Momentum trading —seeking assets that exhibit strong upward or downward momentum.
+Pairs trading —concurrently buying one asset and shorting a related asset based on indications the pair is mispriced.
+Gap trading —focusing on gaps between the opening price and the previous day’s closing price.
+Reversal trading —where extreme price moves could send an asset into overbought or oversold status , which could in turn trigger a reversal in the other direction.
+The bottom line
+Investors and traders should always keep their eyes on the calendar for events that may affect their positions and portfolios or influence the broader market. These include not only quarterly earnings reports and key economic news , but also short-term events like triple witching Fridays. They may not carry long-term market impact, but they’re still worth following, because sometimes the markets cook up a cauldron of heightened trading volume and volatility.

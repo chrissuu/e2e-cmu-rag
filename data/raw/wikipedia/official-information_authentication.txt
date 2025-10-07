@@ -1,0 +1,25 @@
+MLB Authentication
+Hologram Authentication
+Enter your two-letter prefix followed by the hologram number. Example: CV123456
+Hologram Information
+Off-duty law enforcement officers working as independent contractors are assigned by Authenticators, Inc. to authenticate autographs and game-used memorabilia at every Major League Baseball game. Only those items that an authenticator actually witnesses being signed or used in a game may be eligible for authentication under the MLB Authentication Program. Once witnessed, authenticated items receive a tamper-proof hologram created by OpSec, U.S. with a unique alphanumeric combination to easily identify their authenticity.
+Hologram introduced in 2022:
+Unique two-letter hologram prefix
+Unique serial number for each item that when combined with prefix allows collectors to cross-reference product against the database on MLB.com
+Validation Code containing three randomized letters
+QR Code containing hologram prefix and unique serial number
+Major League Baseball silhouetted batter logo indicates item is part of the Major League Baseball Authentication Program
+Program Information
+The Major League Baseball Authentication Program is the most comprehensive league-wide memorabilia authentication initiative in professional sports. Since its launch in 2001, it has become the industry standard for autographed and game-used sports memorabilia authentication. Designed to distinguish officially authenticated MLB memorabilia from other items on the market, the program offers an objective third-party authentication system that guarantees genuine memorabilia for all MLB fans.
+Major League Baseball Properties schedules third-party authenticators from Authenticators, Inc. for every MLB game. Only those items that an authenticator actually witnesses being signed or used in a game may be eligible for authentication under the MLB Authentication Program. Once witnessed, items receive a tamper-proof hologram created by OpSec, U.S. with a unique alphanumeric combination to easily identify its authenticity.
+Authenticated items are offered to key retail partners of Major League Baseball Properties or on MLB.com. Fans can easily distinguish officially authenticated MLB memorabilia from other items by locating the official authentication hologram.
+Once fans receive their authenticated piece of memorabilia, they can trace the unique serial number on the Authentication database located on MLB.com. This convenient reference database enables fans to easily identify all of the details surrounding their new item. Since its inception in 2001, the Major League Baseball Authentication Program is responsible for authenticating over six million items, allowing fans to ensure their memorabilia is a 100% genuine piece of their favorite pastime. It's easy to get the real goods; just check for the official seal of authentication.
+Holograms used from 2006 to present:
+Hologram Details
+Unique Serial Number for each item allows collectors to crossreference product against the database on MLB.com
+Major League Baseball silohouetted batter logo indicates item is part of the Major League Baseball Authentication Program
+Text reinforces authentication
+Holograms used from 2001 to 2005:
+In this period, Deloitte & Touche was solely responsible for the authentication of all items authenticated under the auspices of the MLB Authentication Program.
+In order to ensure the security of items authenticated under the MLB Authentication Program, holograms are designed to show traces of tampering if a hologram is removed.
+In addition to the holograms featured on authenticated memorabilia, different holograms are produced by OpSec, U.S. for use on Major League Baseball Properties licensed products. These holograms, also with unique alphanumeric combinations, allow fans to easily identify merchandise as officially licensed by MLBP. These holograms are NOT used for the authentication of game-used or autographed products and, therefore, will not show up on the verification system located on MLB.com/authentication.

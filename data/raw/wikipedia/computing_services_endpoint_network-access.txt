@@ -1,0 +1,5 @@
+Network Access
+Fast and secure on-campus network access and secure access to restricted services from on or off-campus  through virtual private networking (VPN).
+An extensive wired computing and communications network is available in academic, residential, and administrative buildings across campus.
+The CMU Wireless Network provides secure wireless connectivity across all campus buildings and in many outdoor areas.
+Secure communications and the ability to extend local campus network access to offsite locations.

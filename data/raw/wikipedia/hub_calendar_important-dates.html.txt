@@ -1,0 +1,33 @@
+Date
+Date
+Day of Week
+Day of Week
+Event
+Event
+May 12
+M
+Summer All & Summer One/Mini-5 Classes Begin
+May 26
+F
+Memorial Day; University Closed
+June 18
+W
+Last Day of Summer One/Mini-5 Classes
+June 19
+M
+Juneteenth; University Closed
+June 20
+F
+Summer One/Mini-5 Final Examinations
+June 23
+M
+Summer Two/Mini-6 Classes Begin
+July 4
+F
+Independence Day; University Closed
+July 31
+Th
+Summer All & Summer Two/Mini-6 Last Day of Classes
+August 1
+Fr
+Summer All & Summer Two/Mini-6 Final Examinations

@@ -1,0 +1,3 @@
+What if robotic caregivers could improve independence?
+CMU researchers are developing new technology to enable robots to physically interact with people who are not able to care for themselves.
+These breakthroughs are being deployed in the real world , making it possible for individuals with neurological diseases, stroke, multiple sclerosis, ALS and dementia to be able to eat, clean and get dressed fully on their own.

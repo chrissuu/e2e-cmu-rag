@@ -1,0 +1,46 @@
+It's a nice round number.
+© Mustapha GUNNOUNI—iStock/Getty Images
+What if you could calculate the precise amount to withdraw from your retirement accounts? Is there a magical formula that can give you enough to live on while ensuring you never run out of money? That’s the basic—although it’s not exactly magical—concept behind the 4% rule. According to this rule, by withdrawing roughly 4% per year from your tax-deferred accounts, you can achieve the golden mean of retirement: living well, yet preserving your nest egg for the duration of your lifespan.
+Key Points
+The idea behind the 4% rule is to withdraw roughly 4% of your savings each year, adjusting for inflation.
+By keeping withdrawals low, the 4% rule—or a similar strategy—helps ensure you don’t run out of money in retirement.
+The 4% rule isn’t for everyone, but it can be a good starting place for creating your retirement drawdown strategy.
+In practice, the 4% rule can be inflexible and may not work with your unique situation. But understanding how it works can provide a useful starting point for choosing a retirement drawdown strategy that will work for you.
+What is the 4% rule in retirement?
+Bill Bengen, a former financial advisor, created the 4% rule after hearing the same question from many clients: How do you safely spend down your retirement savings without running out of money?
+Bengen, who had been an aerospace engineer early in his career, couldn’t find a satisfying answer to this question, so he decided to run the numbers himself. In 1994, he published his research in the Journal of Financial Planning, making a startling claim.
+Bengen found that if you withdrew no more than 4.2% of your portfolio in the first year of retirement, and adjusted the amount annually thereafter for inflation, there was a 90% chance your nest egg would last about 30 years. (In some of his test cases, portfolios lasted 50 years.)
+Are you ready to start planning your retirement savings? Check out the calculator in this article, plug in the appropriate numbers, and see how much you might need to save – and how long those savings might last. Are you on track?
+How the 4% rule works
+Since then, using the 4% rule in retirement planning has sparked an ongoing debate among financial advisors and researchers. To understand why, it helps to have a basic example of how the 4% rule can work.
+Let’s say you’ve saved $1 million in an IRA and you plan to retire now. If you withdraw 4% from that IRA the first year, that’s $40,000. You’d supplement that amount with your Social Security income and any other income you might have, such as a pension.
+The following year you’d adjust your 4% withdrawal to account for inflation. Let’s assume your account value appreciated such that the balance was still $1 million, and the inflation was 3%. You’d withdraw $41,200 that year ($40,000 x 1.03).
+Remember: The amount you withdraw each year is based on the principal balance. So if your account lost value over the year and was worth, say, only $950,000, your withdrawal in that second year (adjusted for 3% inflation) would be:
+$950,000 x 0.04 x 1.03 = $39,140.
+In theory, the advantage of this strategy is that by keeping your annual withdrawal rate fairly low, and assuming a modest growth rate for your portfolio, over time you’d be unlikely to run out of money.
+This strategy may be helpful even for those who are retiring into a downturn and period of high inflation , according to a 2022 study by T. Rowe Price.
+Although portfolios can suffer when the market is down, and retirees’ money doesn’t stretch as far when inflation balloons, the study—which examined periods starting in 1973, 2000, and 2008—showed that taking modest 4% withdrawals in tough times may give portfolios a certain resilience, enabling balances to recover as market conditions improve.
+The challenge, though, is that most retirees have to consider a number of variables when setting up their income plan. A one-size-fits-all approach may not work.
+Does the 4% rule make sense?
+As Bengen himself noted, the 4% rule was a guideline for retirees, not a commandment nor a guarantee.
+After all, the 4% rule that Bengen had proposed applied to a tax-deferred portfolio—such as a 401(k) or individual retirement account (IRA) —with a 50-50 allocation to stocks and fixed-income investments , and a 30-year retirement time horizon. For those with a different allocation, or longer or shorter time horizons, withdrawal rates could be substantially different.
+A number of variables can influence your ideal retirement drawdown amount, including:
+Your total account balance(s) at retirement
+Your risk tolerance and asset allocation
+Unpredictable retirement expenses (such as health care)
+Inflation
+Market conditions, including market returns and volatility
+That last point—the inevitable fluctuations of the market—is often cited as a flaw in the 4% rule, which recommends a fairly fixed withdrawal rate. A more sustainable approach for many retirees might be a flexible one that allows you to adjust your withdrawals depending on market conditions and portfolio returns, as well as personal spending needs.
+Pros and cons of the 4% rule
+Is the 4% rule right for you and your long-term retirement strategy? Here are some pros and cons to consider:
+Pros
+Simple. The 4% rule is a straightforward formula for providing steady income.
+Can be flexible. It’s not set in stone. You can use it as a starting point for establishing your own fixed or variable withdrawals.
+Part of your estate plan. In many cases, the 4% rule can leave enough of your nest egg intact so that you can pass along more of it to your heirs .
+Cons
+Subject to market whims. Without taking actual market conditions into account, plus your particular asset allocations and real-life spending needs (which rise and fall), you run the risk of withdrawing too much or too little.
+Not guaranteed. Even Bengen’s initial research gave the 4% rule a 90% certainty rate, which implies there’s a 10% likelihood of falling short. The odds may be in your favor, but it might be a gamble not worth taking.
+Ignores costs and fees. The 4% rule doesn’t take into account the impact of investment costs and portfolio management fees . Make sure you understand the expense ratios of the funds in your portfolio, as well as how much you’re paying your financial advisor , if you use one.
+The bottom line
+The 4% rule was groundbreaking in its time, and there’s no doubt it changed how professionals and individuals have structured retirement income plans. But it might be wise to consider the 4% rule more as a jumping-off point versus a mandate for your own retirement strategy.
+Having a steady retirement income that won’t deplete your nest egg would be ideal, but there are a number of ways to combine income streams (including Social Security benefits, pensions, annuities , and so on) that may be more flexible so you can tailor them to your specific needs.

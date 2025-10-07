@@ -1,0 +1,862 @@
+KEYNES LECTURE IN ECONOMICS
+The British Industrial Revolution
+in Global Perspective
+ROBERT C. ALLEN
+Fellow of the Academy
+THE INDUSTRIAL REVOLUTION was a turning point in the history of the world
+and inaugurated two centuries of economic growth that have resulted in the
+high incomes enjoyed in developed countries today.1 Technological progress
+is the motor of economic growth, and the Industrial Revolution is defi ned
+by famous technological breakthroughs: machinery to spin and weave cot-
+ton, the use of coal to smelt and refi ne iron, and the steam engine.2 In the
+words of the schoolboy made famous by T. S. Ashton: ‘About 1760 a wave
+of gadgets swept over England’ (Ashton 1955: 42). The questions for today’s
+lecture are: How can we explain the technological breakthroughs of the
+Industrial Revolution? And, why did the Industrial Revolution happen in
+Britain, rather than France, the Netherlands, or China?
+These questions will be answered by developing these themes: in com-
+parison with other countries, Britain had an unusual structure of wages
+and prices in the eighteenth century, and this structure of wages and prices
+was a major factor in explaining why the revolution happened in Britain.
+In addition Britain had an effective ‘innovation system’ based on a high
+Read at the Academy 29 October 2009.
+1 The issues in this lecture are treated at greater length and with fuller referencing in Allen (2009a).
+2 There has been a debate about the breadth of technological progress during the industrial
+revolution with Crafts (1985), and Crafts and Harley (1992, 2000) arguing that productivity
+growth was confi ned to the famous, revolutionised industries in the period 1801–31, while Temin
+(1997) has argued that many more industries experienced productivity growth. Whatever one
+believes about 1801–31, it is clear that many non-revolutionised industries experienced
+productivity growth between 1500 and 1850. The incentives to invent discussed in this paper
+applied to all industries, not just the famous ones I discuss here.
+Proceedings of the British Academy, 167, 199–224. © The British Academy 2010.
+200 Robert C. Allen
+level of human capital, the appropriate engineering capability, and a few
+scientifi c breakthroughs. These features of the British economy, which dis-
+tinguish it from other countries in the world at that time, were consequences
+of Britain’s superior trade performance and success in the European and
+global economies in the seventeenth and eighteenth centuries.
+My interpretation is opposed to a common view that goes like this:
+because the inventions of the Industrial Revolution had momentous con-
+sequences, they must have been the result of momentous ideas. On the
+contrary, I contend that the explanation of the inventions should not be
+sought in great leaps of the imagination. Instead, the inventions can be
+better understood in terms of the hard work of research and development
+that was required to turn what were often banal ideas into effective tech-
+nology. Hence, I take very seriously Edison’s quip that invention is ‘1 per
+cent inspiration and 99 per cent perspiration’. The Industrial Revolution
+was primarily an engineering challenge rather than a scientifi c challenge.
+Because so much of invention was the hard work of perfecting machin-
+ery and new products, it was an economic activity. Consequently, economic
+incentives were critical in explaining why that work was done and, hence,
+why inventions took place. Research and development became a more com-
+mon business activity in the eighteenth century than it had been previously.
+Many other explanations have been offered for the Industrial
+Revolution. Geographical dichotomies (tropics versus temperate, rain-fed
+versus irrigated agriculture, resource-abundant versus resource-scarce,
+etc.) have been invoked but face formidable counter-examples as well as
+the diffi culty that the purpose of much technology is to overcome the
+burdens of nature. Culture has often been invoked (Landes 1969, Clark
+2007). Europeans have usually fancied themselves more rational and hard
+working than the natives, and social scientists like Max Weber (1904–5)
+have given these views some respectability. The agricultural history of the
+tropics calls these thoughts into question, however, by showing that
+African and Asian farmers responded to economic and environmental
+considerations in their choice of crops and farming practices (Hopkins
+1973). Less grandly, it has been claimed that cultural developments like
+the Scientifi c Revolution of the seventeenth century are responsible for
+the Industrial Revolution of the eighteenth. I will take up this view later.
+Among economists today, ‘better institutions’ is the most common
+explanation for economic development.3 In the case of Britain, the case
+3 Proponents of this view include North and Weingast (1989), De Long and Schleifer (1993),
+LaPorta, Lopez-de-Silanes, Schleifer, Vishny (1998), Acemoglu, Johnson, and Robinson (2005).
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 201
+rests on the Glorious Revolution of 1688, which assured parliamentary
+ascendancy, limited the power of crown, guaranteed private property, and
+prevented arbitrary taxation. Another line of argument is that English
+common law was better than French law. These explanations, of course,
+are restatements of eighteenth century liberal views.
+If we consider the role of institutions and culture in a broader intel-
+lectual perspective, however, we notice an odd disjunction. As economists
+have been deciding that institutions explain everything, historians have
+been coming to the opposite conclusion. They have been re-evaluating
+many of the despotic regimes disparaged by the liberals in the eighteenth
+century and discovering that they functioned quite well. France, for
+instance, looks much better now than it did 250 years ago. Detailed com-
+parisons show that France had lower taxes than England (Mathias and
+O’Brien 1976, 1978), and that French property was arguably too secure.
+Socially profi table irrigation projects, for instance, were not undertaken in
+eighteenth-century Provence because there was no legal mechanism for the
+compulsory purchase of land. It was only after the revolution and the
+ascendancy of the Assemblée nationale in Paris that these projects were
+taken forward (Rosenthal 1990). Indeed one could argue that a virtue of
+the English Constitution was that Parliament overrode private property
+with enclosure acts, turnpike acts, and canal acts. As one historian of
+Parliament has remarked, the great achievement of the Glorious Revolution
+was that the ‘despotic power [that] was only available intermittently before
+1688 . . . was always available thereafter’ (Hoppit, 1996: 126). Indeed, we
+see it in action today.
+Empire after empire has been rehabilitated. China has fi gured promin-
+ently in these discussions, and the so-called California School has argued
+that China’s institutions were as good as Europe’s in the eighteenth cen-
+tury, and, indeed, its economy was as productive (Wong 1997, Pomeranz
+2000). It has also been argued that India had effective enough institutions
+to sustain a vast intercontinental trading empire, extensive manufacturing,
+large cities and realise high living standards (Parthasarathai 1998, 2001,
+Bayly 1989, Chaudhuri 1985). The Roman empire is another example
+where revisionist historians claim that imperial power created a large free
+trade area and sustained an extensive division of labour, advanced manu-
+facturing, and high productivity (Bowman and Wilson 2009, Scheidel,
+For critical or contrary perspectives, see Clark (1996), Epstein (2000), Quinn (2001), Hoffman,
+Postel-Vinay, Rosenthal (2000), Pomeranz (2000), Mathias and O’Brien (1976, 1978), Hoffman
+and Norberg (1994), and Bonney (1999).
+202 Robert C. Allen
+Morris, and Saller 2007, Ward-Perkins 2005). The revisionists argue that
+their empire created internal peace, order and good government. When
+these conditions were established over a wide area, interregional trade
+expanded and localities exploited their comparative advantage so produc-
+tion became spatially differentiated. The legal systems of these empires,
+while foreign, turn out to have been adequate to sustain this exchange and
+production. The result was high incomes.
+In view of these fi ndings, I take my cue from Charles Lockyer, who
+was an offi cer on the East India Company ship Streatham. He went to
+Asia to make his fortune in private trade. He was a keen student of Asian
+markets. He remarked:
+Arek, commonly called Bettle-nut from [Burma] would bear all Charges of
+Freight, Package and China Duties, and fetch fi fty per Cent. Profi t in Canton on
+a large Quantity, towards the End of Anno 1704, which is more than any other
+Commodity within my knowledge would do: But this is not always the same; for
+the Chinese, who like bees search all the coasts betwixt [India] and their own
+Country for Profi t, have undoubtedly long since brought down the Price [in
+Canton] by fi lling their Markets with it. (Lockyer 1711, p. 72)
+If the Chinese merchants were actively arbitraging markets across Asia, it
+shows that their legal arrangements were suffi cient to support extensive
+trade, and they were evincing a commercial spirit as well. So it is hard to
+believe that China was really held back by bad institutions or a non-
+commercial culture. Conversely, if Britain was not blessed with better
+culture or better institutions, why did it make the Industrial Revolution?
+The demand for technology
+To make progress on this question we have to focus on the invention and
+adoption of technology, because technological change is the proximate
+cause of growth. I use a demand and supply framework. The demand for
+technology depended on factor prices, market size, and the imitation of
+novel products. Britain’s unusual wage and price structure is a key for
+understanding the demand for technology there and why it was different
+to that in other countries. The supply of technology was also important,
+and it depended on the standard of living and accumulated knowledge,
+skills and inventive institutions. North-western Europe (including Britain)
+stands out in these regards by virtue of high levels of literacy and numer-
+acy, but Britain was not ahead of the Netherlands or present-day Belgium.
+The Scientifi c Revolution of the seventeenth century also played a role by
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 203
+providing a couple of key ideas, which were the basis of important
+technology.
+I begin with the demand for technology, which was determined by
+Britain’s unique factor prices. In particular, wages were remarkably high
+in Britain, while coal and energy were cheap. This price structure created
+a demand for labour-saving, energy-using technology.
+British wages were high in four senses. The fi rst is comparison with
+wages in other countries. These comparisons require exchange rates, and I
+use the silver value of the currencies since silver coins were the principal
+medium of exchange. By the eighteenth century, British wages were higher
+than those almost anywhere else in the world, as Figure 1 shows.4 This is a
+20
+15
+10
+5
+0
+1375 1475 1575 1675 1775
+Figure 1. Labourers’ wages around the world.
+4 Figures 1–6 are based on price histories of the cities concerned. With co-authors, I have
+computerised these and converted the local weights and measures to metric or engineering units
+and the currencies to grams of silver for these comparisons. As a result, we can now compare
+wages and prices across Eurasia from the late Middle Ages to the twentieth century. For full
+sources and discussion, see Allen (2001, 2007, 2009a, 2009b) and Allen, Bassino, Ma, Moll-
+Murata, and van Zanden (2007).
+yad
+rep
+revlis
+fo
+smarG
+London Amsterdam Vienna
+Florence Delhi Beijing
+204 Robert C. Allen
+marked change from the late fi fteenth century when the wage of building
+labourers, for instance, was the same everywhere. Beginning in the sixteenth
+century, there has been a three-way split. There was little increase in wages
+in Central or Eastern Europe. In contrast, in Western Europe, wages rose
+during the price revolution (1560–1620), and they rose particularly in
+Britain. In the eighteenth century, British wages were higher than Asian
+wages, which, of course, is one of the reasons Brits went there to shop!
+The second sense in which British wages were high is relative to the
+cost of living. Figure 2 shows the wage rate defl ated by an international,
+intertemporal consumer price index. I will explain in a moment how it was
+calculated. It is a commonplace today that the standard of living is more
+or less the same everywhere in Western Europe, so we can ask: when in the
+past (if ever) was that last true? The answer is the end of the fi fteenth cen-
+tury. At that time real wage differences between European cities were
+small. Since then, they have diverged. Real wages in North-western Europe
+remained more or less constant from the end of the Middle Ages until the
+1870s. (It is remarkable that the Industrial Revolution passes through
+6
+5
+4
+3
+2
+1
+0
+1375 1475 1575 1675 1775 1875
+London Amsterdam Vienna
+Florence Delhi Beijing
+Figure 2. The subsistence ratio for labourers.
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 205
+these time series without a trace!) The real wage, however, in Central and
+Southern Europe dropped. As a result, there was a great divergence of
+living standards within Europe before the Industrial Revolution. Also, liv-
+ing standards in the Asian cities were on a par with those of Southern and
+Central Europe in the eighteenth century—not with England or the Low
+Countries. A rich North and a poor South was not a consequence of the
+Industrial Revolution but preceded it. Indeed, my argument is that the
+Great Divergence caused the Industrial Revolution.
+These fi gures have a further interpretation because of the way they have
+been scaled. Most of the Central and Eastern European real wage series as
+well as the Asian series end up with a value of about one in the eighteenth
+century. What that means is that a labourer who worked full-year, full-time
+earned just enough money to support a family at a bare-bones standard of
+living. This standard was one in which an adult male consumed 1940 calories
+per day. The calories came mainly from boiled grains and beans. The diet
+was quasi-vegetarian with very little fl esh and some butter or oil. Non-food
+items included a few candles, soap, and three metres of cloth for clothing.
+There was a 5 per cent allowance for house rent. Table 1 shows the spending
+pattern as it was specifi ed for North-western Europe where oatmeal was the
+cheapest source of calories. The diet was modifi ed for other parts of the
+world to use the cheapest available carbohydrate, that is polenta in Florence,
+sorghum in Beijing, millet chipatis in Delhi, rice in Madras, maize in Mexico.
+This kind of bare-bones diet was common in most of Asia and Southern
+and Central Europe. It was all that labourers could afford.
+Table 1. The annual subsistence spending pattern of a man in North-western Europe
+Quantity per year Calories per day Grams of protein per day
+Foods
+Oats 155 kilograms 1657 72
+Beans 20 kilograms 187 14
+Meat 5 kilograms 34 3
+Butter 3 kilograms 60 0
+Total 1938 89
+Non-foods
+Soap 1.3 kilograms
+Cotton 3.0 metres
+Candles 1.3 kilograms
+Lamp oil 1.3 litres
+Fuel 2.0 million BTU
+Source: Allen (2009a, p. 37), which also gives examples of subsistence based on maize, millet, and
+rice. The basket in the table is the consumption pattern of a man. The annual cost of maintaining
+a family is taken to be the cost of three of these baskets plus 5% for rent.
+206 Robert C. Allen
+As Figure 2 shows, labourers in North-western Europe earned four
+times bare-bones subsistence in the eighteenth century. They did not eat
+four times as much oatmeal as shown in Table 1. Instead, they upgraded
+the quality of their food to bread, beer and beef. They also had a bit of
+purchasing power left over to buy the Asian commodities like tea and the
+manufactured goods of the consumer revolution in the eighteenth century.
+That is why the consumer revolution happened in North-western Europe
+in the eighteenth century and why it was mainly confi ned to North-western
+Europe insofar as it affected the working class.
+A third sense in which British wages were high is relative to the cost of
+capital goods, and this is critical for the choice of technology and the pro-
+cess of invention. Figure 3 shows the builder’s wage rate relative to the user
+cost of capital based on the prices of wood, iron, non-ferrous metal, and
+bricks and an interest rate and depreciation rate. In Strasbourg, Vienna,
+and southern England there was not much difference in the ratio of the
+wage rate to the price of capital early in the seventeenth century, but by the
+eighteenth century a big differential had emerged. Labour was much more
+2.0
+1.5
+1.0
+0.5
+1680 1730 1780
+England Strasbourg Vienna
+Figure 3. Wages relative to price of capital.
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 207
+expensive relative to capital in Britain, and that difference gave British
+businesses a strong incentive to use capital intensive technologies and
+British inventors an incentive to invent them.
+The fourth sense in which British wages were high was relative to the
+price of energy. Figure 4 shows energy prices in different cities early in the
+eighteenth century. In this fi gure the prices of the various fuels (coal in
+London, peat in Amsterdam, etc.) are reduced to their energy content meas-
+ured in British Thermal Units (BTUs). Newcastle had the cheapest energy
+since coal was mined there. Beijing had the most expensive energy, Paris was
+almost as expensive, while Amsterdam and London were in the middle. The
+difference between the price in London and Newcastle refl ects the transpor-
+tation costs incurred in shipping the coal down the coast from Newcastle
+to London. Coal reached Amsterdam at almost the same price as it was
+available in London because it was just as cheap—or as expensive—to send
+a boat from Newcastle to Amsterdam as to London.
+The low cost of energy on the British coalfi elds meant that the wage
+rate relative to the price of energy was very high in Newcastle (Fig. 5).
+High British wages also contributed to this result, but cheap coal was the
+decisive factor.
+10
+8
+6
+4
+2
+0
+Amsterdam London Paris Newcastle Beijing
+Figure 4. The price of energy in the early 1700s.
+sUTB
+noillim
+rep
+revlis
+fo
+smarG
+Strasbourg
+208 Robert C. Allen
+5
+4
+3
+2
+1
+0
+Amsterdam London Paris Newcastle Beijing
+Contemporaries were aware of these relative prices. An interesting
+case in point is the production of plate glass, which was an industry in
+which the French were technological leaders. They had a major produc-
+tion centre at Saint Gobain, and the British imported the French technol-
+ogy to Ravenshead in the late eighteenth century. This was not just theft.
+There was cooperation with the French works. Delaunay Deslandes, who
+was the director of Saint Gobain, thought this was a quixotic thing for the
+British to do because he could not imagine how they could compete
+against the French. As he said,
+Given the manner in which the English and French lived . . . they could never
+make plate [glass] which could enter into competition with ours for the price.
+Our Frenchmen eat soup with a little butter and vegetables. They scarcely ever
+eat meat. They sometimes drink a little cider but more commonly water. Your
+Englishmen eat meat, and a great deal of it, and they drink beer continually in
+such a fashion that an Englishman spends three times more than a Frenchman.5
+Deslandes was describing the high cost diet that English workers could
+afford with their high wages in the eighteenth century. If the British glass
+works were going to have to pay these high wages how could they compete
+5 Quoted by Harris (1975, p. 67, n. 42).
+sUTB
+noillim
+rep
+revlis
+fo
+smarG
+Strasbourg
+Figure 5. The price of labour relative to energy, early 1700s.
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 209
+with low-wage French labour? The answer is that English coal cut fuel
+costs to one-sixth of the French level. Cheap coal sustained the high-wage
+economy.
+High wages and cheap energy were the distinctive features of the
+British economy during the Industrial Revolution. Where did this price
+structure come from? It was a result of Britain’s foreign trade boom in the
+seventeenth and eighteenth century (Allen 2003, 2009a, pp. 106–31). The
+boom began in the seventeenth century with the new draperies and was
+consolidated with the creation of a world empire in the eighteenth. The
+trade boom pushed the urbanisation rate from 7 per cent in 1500 to 29 per
+cent in 1800, which was one of the highest percentages in Europe. The
+growth of London accounts for much of this urbanisation. Its population
+rose from about 50,000 in 1500 to 200,000 in 1600, to half a million in
+1700, and reached one million in 1800. The growth of the city was driven
+by the growth in the volume of trade though the port. The resulting tight
+labour markets were the proximate cause of the high wages. They were
+sustained eventually by the cheap energy.
+16
+14
+12
+10
+8
+6
+4
+2
+0
+1400 1450 1500 1550 1600 1650 1700 1750 1800
+Wood Coal
+Figure 6. The real prices of wood and coal in London.
+sUTB
+noillim
+rep
+revlis
+fo
+smarG
+210 Robert C. Allen
+As London grew, the demand for fuel for industrial purposes and
+domestic heating increased as well. At the outset, most of the fuel was
+either fi rewood or charcoal, and this had to be shipped over greater and
+greater distances at greater and greater cost. Consequently, the price of
+fuel rose as the city expanded. Eventually, the prices of wood and char-
+coal rose high enough to make it profi table to use coal. Figure 6 charts this
+transition. The fi gure shows the real price of fuel, that is the price per
+BTU defl ated by a consumer price index. At the end of the Middle Ages
+the prices per BTU of wood fuels and coal were similar. Under those cir-
+cumstances, coal was only used to burn lime and for blacksmithing, uses
+in which it was regarded as superior to wood. In all other uses, wood was
+preferred. For heating, cooking, and most industrial processes, coal was
+the inferior fuel since it contained sulphur, which burnt with a foul smell
+and contaminated industrial processes (Nef 1932, Hatcher 1993).
+The price of wood and charcoal rose in the sixteenth century and, by
+1580, the price of charcoal per unit of energy was twice the price of coal.
+That differential was large enough to induce people to redesign their tech-
+nologies, so that they could use the cheaper fuel. Indeed that is when the
+coal trade took off.
+Technology responded to factor prices
+High British wages and cheap coal underpinned the Industrial Revolution
+by creating a demand for technology that substituted capital and energy
+for labour. In Asia and much of Europe, low wages and dear energy had
+the opposite effect. Silk weaving is one example. The English industry
+began when the Lombe brothers built a mill in Derby in 1715–19. It was
+expensive to erect and was powered by a water wheel, which was a capital-
+intensive system. What about the situation in Asia? The Tsukiji silk mill
+was built in Japan c.1870. It used European-style machinery, but it was
+re-engineered to be more labour-intensive in accord with Japanese factor
+proportions. It did not have a water wheel. Instead it was powered by a
+man turning a crank—a labour-intensive process, indeed! In England
+where labour was very expensive and capital was relatively cheap, a capital-
+intensive method was used, whereas in Japan, where labour was cheap, a
+labour-intensive method was preferred. Factor prices infl uenced the choice
+of technique at the opposite ends of Eurasia.
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 211
+Figure 7. An English-style pottery kiln.
+Another example that relates to energy is pottery production in China
+and England. Pottery kilns in England were built to economise on capital
+and were profl igate in their use of energy. Figure 7 shows an English-style
+kiln. It had a coal fi re in the bottom. The heat rose, enveloped the pots,
+and then vented out of the furnace through the hole in the top. Much of
+the energy was wasted. The English kiln was cheap to build but not ther-
+mally effi cient. In contrast, the Chinese kilns used lots of capital and
+employed lots of labour to preserve energy. Figure 8 shows a fi re at the
+entrance to the lower chamber where the heat was drawn in to bake the
+pots. The heat was not vented out of a hole in the top in the English man-
+ner. Instead, it was forced down through a hole at the bottom into the next
+chamber. The heat was reused in chamber after chamber, so it was not
+wasted. This design, of course, equated to more capital. Pottery kilns,
+therefore, are another example of the way in which technology was
+designed in response to factor prices. In this case, expensive fuel in China
+led to the substitution of capital for energy, in contrast to English design.
+The same considerations governed invention in Europe. Nail making
+is a prosaic example. One of the steps in making nails is putting the head
+212 Robert C. Allen
+Figure 8. A Chinese-style pottery kiln.
+on the nail. In Britain at the end of the seventeenth century a machine was
+developed to mechanise that process. It was called the oliver. It was a
+device like a sledgehammer. The shaft was hinged at the base. The head of
+the ‘hammer’ had a hole in which a dye was placed to shape the head of
+the nail. The hammer was raised with a foot pedal and then released so the
+head would drop on a nail and shape it. In contrast, in French nail shops
+there was no oliver. Again we have a situation where the low-wage country,
+France, was using the more labour-intensive process.
+The two stages of technological evolution
+The history of technology is a two-stage process. So far I have been dis-
+cussing the fi rst stage. It includes the famous macro-inventions of the
+Industrial Revolution—the spinning machinery, coke blast furnaces,
+weaving machines, and steam engines. These involved substantial changes
+in input proportions. They radically increased the amount of coal that
+was used, for instance, or increased capital relative to labour. They turn
+out to have been profi table at British input prices because they used inten-
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 213
+sively things that were cheap in Britain. At the outset, however, they barely
+covered costs, even in Britain. Despite the fact that a hundred years later
+these machines revolutionised the world, in the beginning they just barely
+paid their way.
+The second stage of the history of technology comprises the improve-
+ment of the revolutionary machines. This is the phase of micro-inventions.
+Engineers, owners, and operators studied the machines to improve them.
+The objective was to reduce costs, and, in the event, all inputs were saved,
+irrespective of whether they were abundant or scarce. Eventually a tipping
+point was reached when it became profi table to use these technologies (in
+their improved form) outside Britain. That is when the Industrial
+Revolution spread around the world.
+We can illustrate the two stages with isoquant diagrams. In the mid-
+eighteenth century, the only way to make coarse cotton yarn was with a
+spinning wheel. In Figure 9, this is represented by a single point corres-
+ponding to the labour of one woman and the cost of a wheel. Together
+they produced one pound of yarn per day. Two isocost lines are drawn—
+one for a high-wage economy and one for a low-wage economy. Both
+K*
+K
+L* L
+Figure 9. Isoquants for spinning yarn: mid-eighteenth century.
+latipaC
+Isoquant for new
+technique
+Isoquant for old
+technique
+High wage
+Low wage cost line
+cost lines
+Labour
+214 Robert C. Allen
+touch the single point of the isoquant since that represents the only way
+to make cotton whatever your factor prices.
+The spinning jenny is represented on the diagram with another point
+with more capital and less labour. With a jenny, a woman could spin one
+pound of coarse yarn in a couple of hours rather than a full day, but the
+jenny cost considerably more than the wheel. As the points are drawn, it
+would have been profi table to adopt the jenny in the high-wage economy,
+but it would have raised costs in the low-wage economy, so it would not
+have been used there. In 1787, over 20,000 jennies were installed in Britain
+but only 900 were installed in France in 1790, and most of those were in
+large state-assisted factories rather than in women’s cottages as in England
+(Aspin and Chapman 1964, p. 49, Wadsworth and Mann 1931, pp. 195–9,
+503–4). This diagram illustrates the important point that biased technical
+changes do not cut costs in the same proportion everywhere. The reduc-
+tion depends on factor prices, so biased technical change favours some
+parts of the world over others. The technologies that were invented in
+Britain raised labour productivity and covered their costs only when they
+were used under the conditions of Britain in the eighteenth century.
+K*
+K
+L* L
+Figure 10. Isoquants for spinning yarn after technological improvements.
+latipaC
+Isoquant for new
+technique
+Tipping point
+Isoquant for old
+technique
+Low wage cost line
+Trajectory of
+improvements
+High wage cost line
+Labour
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 215
+Table 2. Adult literacy, 1500–1800: percentage of the adult population that could sign its
+name.
+1500 1800
+England 6 53
+Netherlands 10 68
+Belgium 10 49
+Germany 6 35
+France 7 37
+Austria/Hungary 6 21
+Poland 6 21
+Italy 9 22
+Spain 9 20
+Source: Allen (2009a, p. 53).
+The second stage of technological development proceeded in this way:
+British engineers learned how to improve the spinning jenny as they used
+it and studied it. The mule was one of the fi rst spin-offs, and improved
+versions of it were used in many countries in the middle of the nineteenth
+century. This trajectory of improvement is represented by the arrow
+towards the origin in Figure 10. As the technology was improved, labour
+and capital were saved. By installing the fi rst cotton spinning machines,
+Britain became the world’s technological leader, and the subsequent
+improvements extended Britain’s lead. Historians as well as contemporar-
+ies have debated why France was not keeping up. Was it bad entrepreneurs
+or an engineering culture that was too theoretical? In fact, it was neither.
+At the end of the eighteenth century, it did not pay to spin with machines
+in France. Eventually, however, enough inputs were saved so that the cost
+of producing cotton with the improved process dropped below the cost of
+spinning with a wheel even in the low-wage country—like France. That
+juncture was the tipping point when the industrial revolution shifted
+abroad. Indeed, there was a great leap forward as the foreigners adopted
+the technology in its most advanced form. That, of course, was the only
+form that paid, given their lower wages.
+The supply of technology
+Thus far, my argument has been about the demand for technology. There
+was also a supply-side story that is prompted by the observation that not
+all high-wage economies have invented labour-saving machinery. The late
+Middle Ages had a high-wage economy, but it did not lead to an Industrial
+216 Robert C. Allen
+Revolution. Why not? The answer has two parts. First, commerce and
+urbanisation were more widespread in the eighteenth century than they
+had been in the Middle Ages, and trade and cities led to high levels of
+human capital. Second, the Scientifi c Revolution of the seventeenth century
+included scientifi c discoveries that led to two important technologies.
+First, with respect to human capital, Table 2 shows estimates of liter-
+acy rates in different countries (defi ned on modern borders) in 1500 and
+1800. These estimates are based on the proportions of people who could
+sign their name. In 1500, literacy was low everywhere. By 1800 it was
+higher everywhere and especially in North-western Europe. One explana-
+tion for the rise in literacy is the Protestant Reformation. This is doubtful,
+however, since the highly literate parts of Europe in 1800 included Belgium
+and North-eastern France, which were Catholic countries. The driving
+force behind literacy was really urbanisation and the expansion of com-
+mercial society. Literacy was valuable in trade and cities, and that value
+led parents to pay for schooling for their children. So far as we can tell
+from phenomena like age heaping, numeracy also increased in the early
+modern period in North-western Europe (Thomas 1987, A’Hearn, Baten,
+and Crayen 2009). Few people studied arithmetic for fun; the acquisition
+of numerical skill was entirely driven by economic value.
+Second, the Scientifi c Revolution was another important difference
+between the Middle Ages and the eighteenth century. Some historians have
+emphasised its impact on the culture at large, but I concentrate on specifi c
+connections between scientifi c discoveries and technological advances. Two
+discoveries were bases for two General Purpose Technologies (GPTs). The
+concept of General Purpose Technology was inspired by the computer and
+refers to technologies that can be adapted to many sectors of the economy.
+In the Industrial Revolution, the GPTs were steam power and ‘clockwork’,
+or gearing. Both had connections to the Scientifi c Revolution, although in
+the case of gearing the relationship was a distant one. Both technologies
+required Research and Development (R&D) projects to make them effec-
+tive in the various settings. The R&D projects were more profi table in
+Britain than elsewhere, which is why the Industrial Revolution was invented
+in Britain, as I will show you.
+The steam engine was an important application of knowledge dis-
+covered by seventeenth-century scientists.6 The science began with Galileo,
+6 Standard works on the history of the steam engine include Farey (1827), Dickinson (1939,
+1958), Forbes (1958), Hills (1970, pp. 134–207, 1989), Nuvolari (2004), and von Tunzelmann
+(1978).
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 217
+Figure 11. von Guericke’s apparatus.
+who was the fi rst to suspect that the atmosphere had weight. The idea
+occurred to him when he studied the problem of draining mines and
+noticed that suction pumps would not lift water more than about thirty
+feet. He put his secretary Evangelista Torricelli to work on this project.
+Torricelli invented the mercury barometer and weighed the atmosphere.
+In 1672, von Guericke of Magdebourg designed the apparatus shown in
+Figure 11, also to weigh the atmosphere. The cylinder, which is labelled A,
+contained a piston from which ropes went over the pulleys to hold the
+platform on which he put weights. He found that by pumping the air out
+of the cylinder the atmosphere pushed the piston down and raised the
+platform. He could offset that rise and weigh the atmosphere by putting
+weights on the platform. In 1675 Denis Papin eliminated the vacuum
+pump by fi lling the cylinder with steam and then condensing it. Papin had
+invented a proto-steam engine.
+The von Guerick experiment shown in Figure 11 is similar to the fi rst
+successful steam engine invented by Newcomen in 1712 (Fig. 12).
+Newcomen’s engine has the cylinder on the right (B) with a piston (D) in
+it. Instead of the pulleys, there is a balance beam (HF) and, instead of the
+weights on the left, there is a pump (I) for lifting water out of a mine. By
+fi lling the cylinder with steam from the boiler (A) and then condensing it
+with a squirt of cold water (B), the atmosphere would push the piston
+down and raise the pump. When the vacuum was relieved, the weights (K)
+above the pump pulled the left end of the beam down, steam was allowed
+to enter the cylinder, and the cycle was repeated. Newcomen had found
+218 Robert C. Allen
+Figure 12. Newcomen’s steam engine.
+a way to raise water—and make money—from the weight of the
+atmosphere.
+The science underlying the steam engine was pan-European (the lead-
+ing scientists were Italians, Germans, and French), but the R&D was car-
+ried out in Britain by an Englishman. The reason is that Britain was the
+only place where it was profi table to use the engine on a large scale, for two
+reasons. First, the main use of the engine was to drain mines, and Britain
+had the largest mining industry in Europe thanks to coal. Second, the
+engine used prodigious amounts of fuel, and coal mines offered cheap
+fuel. John Theophilus Desaguliers, a leading engineer in the early eight-
+eenth century, observed that ‘where there is no water [for power] to be
+had, and coals are cheap, the Engine now call’d the Fire Engine, or the
+Engine to raise the Water by Fire, is the best and most effectual. But it is
+especially of immense service (so as to be now of general use) in the Coal-
+Works, where the Power of the Fire is made from the Refuse of the Coals,
+which would not otherwise be sold’ (Desaguliers 1744, II, pp. 464–5). The
+reason it was profi table to develop the Newcomen engine in Britain was
+because there were coal mines to be drained.
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 219
+50
+40
+30
+20
+10
+0
+1727 1747 1767 1787 1807 1827 1847
+Newcomen Watt
+Cornish–Best Cornish–Average
+Figure 13. Coal consumption in pumping engines (lbs per HP-hour).
+Newcomen’s engine was the macro-invention that marked the fi rst phase
+of this technological trajectory. The second phase consisted of the perfec-
+tion of the engine and involved many of the most famous engineers of the
+Industrial Revolution. This phase involved saving all inputs and, in particu-
+lar, coal, which was cheap in Britain. Figure 13 shows the evolution of fuel
+consumption in pumping engines from an early Newcomen engine in 1727
+to the highly effi cient engines of the mid-nineteenth century. It includes the
+contributions of John Smeaton, James Watt, Richard Trevithick, Arthur
+Woolf, and the many engineers who improved Cornish engines. Fuel con-
+sumption dropped from 44 pounds of coal per horsepower-hour in 1727 to
+3 pounds in 1847. This improvement was a triumph for British engineering,
+and it also destroyed the country’s competitive advantage by turning the
+steam engine, which had mainly benefi ted Britain in the early eighteenth
+century, into a technology that could be used anywhere in the world. Once
+the coal consumption was reduced to 3 pounds per horsepower-hour, the
+price of coal became irrelevant to the engine’s commercial application.
+220 Robert C. Allen
+British engineers had invented the ‘appropriate technology’ for the rest of
+the world.
+Clockwork was the second General Purpose Technology in the
+Industrial Revolution.7 Clockwork refers to the use of gears to control and
+distribute power in machinery. Gears had been used for a long time.
+Medieval gears, however, were usually large, wooden, and crude. By the
+eighteenth century, gears had become small, metallic, and precise. The
+improvement in gears goes back to the invention of the pendulum clock by
+Christiaan Huygens in 1656. He was, of course, a world-class scientist and
+mathematician, and he was working on a world-class scientifi c problem.
+This was the measurement of longitude, and it had come to the fore with
+global navigation. The solution was easy if you knew the time difference
+between your location and Greenwich, and that was simple if you carried
+a time piece set to Greenwich Mean Time. The problem was designing an
+accurate clock or watch. Huygens realised that he could improve the accu-
+racy of a clock by adding a pendulum. The result was a better clock, and
+the clock industry expanded considerably. However, Huygens’ clock was
+not a satisfactory solution to the longitude problem since a pendulum
+clock did not keep good time on a ship pitching at sea. Huygens did not
+give up, however. He applied himself to improving the accuracy of watches
+and invented the coiled spring. This greatly improved their accuracy,
+although again not enough to determine longitude with suffi cient preci-
+sion. Nonetheless, the watch industry grew enormously since the more
+accurate watches were in demand. Attention was directed towards improv-
+ing the production of gears. In 1656, each gear had to be laid out by hand
+on a sheet of brass with a protractor. The teeth were marked and then sawn
+out individually with a fi le. In the second half of the seventeenth century,
+machines were developed that did the laying out and cutting automatically
+with the result that, by the eighteenth century, gears had become not only
+cheaper but also standardised and more accurate.
+Gears had uses besides watches. Early applications included auto-
+mata—clockwork toys, some of which were very elaborate. One of the
+most famous was the duck made by the great French engineer Vaucanson.
+The duck walked across the fl oor eating and pooping. It was a great hit at
+Versailles; according to Voltaire, ‘Without Vaucanson’s duck, you would
+have nothing to remind you of the glory of France.’ Of course, if you
+could control the movement of a toy duck with gears, perhaps you could
+do something useful like spin yarn or weave cloth. Edmund Cartwright,
+7 On the history of clocks and watches, see Weiss (1982) and Landes (2000).
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 221
+the inventor of the power loom, was inspired in part by automata, and the
+distribution of power to the rollers in Arkwright’s water frame was called
+‘the clock work’ since it used gears like a watch or clock. Indeed, Arkwright
+hired clockmakers over a fi ve-year period to design it.
+The possibility of using gears to design machinery was greatest where
+gears were made. As it happens, Britain had the largest watchmaking
+industry in the world since the high-wage economy sustained a high
+demand for watches. While fi nal assembly was done in London, the watch
+movements themselves were outsourced to southern Lancashire. Preston
+and Warrington had large industries making gears and supporting indus-
+tries that made the tooling to make the gears. The watchmakers and the
+toolmakers provided the ‘high tech’ inputs to produce textile machinery in
+the 1780s and 1790s. Britain’s success in ‘practical skills and engineering’,
+which has often been identifi ed as a cause of her industrial success, was
+the result of her earlier success in watchmaking.
+The economic basis of the Industrial Revolution
+Both steam power and clockwork were rooted in scientifi c discovery;
+nonetheless, they illustrate the importance of incentives in explaining
+eighteenth-century inventions. This lecture has advanced an economic
+explanation of the Industrial Revolution that involves three key ideas
+relating to incentives:
+• Engineering problems were the crux of invention;
+• The engineering problems were addressed in response to economic
+incentives resulting from Britain’s high wages and cheap energy;
+and
+• The famous inventions of the Industrial Revolution were made in
+Britain because it paid to invent them in Britain, not because the
+British were more practical, more enterprising, or better governed.
+References
+Acemoglu, Daren, Johnson, Simon, and Robinson, James (2005), ‘The rise of Europe:
+Atlantic trade, institutional change and economic growth’, American Economic
+Review, 95: 546–79.
+222 Robert C. Allen
+A’Hearn, Brian, Baten, Jörg, and Crayen, Dorothee (2009), ‘Quantifying quantitative
+literacy: age heaping and the history of human capital’, Journal of Economic
+History, 69: 783–808.
+Allen, Robert C. (2001), ‘The great divergence in European wages and prices from the
+Middle Ages to the First World War’, Explorations in Economic History, 38: 411–47.
+Allen, Robert C. (2003), ‘Poverty and progress in Early Modern Europe’, Economic
+History Review, 56: 403–43.
+Allen, Robert C. (2007), ‘India in the Great Divergence’, in Timothy J. Hatton, Kevin H.
+O’Rourke, and Alan M. Taylor (eds.), The New Comparative Economic History:
+Essays in Honor of Jeffery G. Williamson (Cambridge, MA), pp. 9–32.
+Allen, Robert C. (2009a), The British Industrial Revolution in Global Perspective
+(Cambridge).
+Allen, Robert C. (2009b), ‘The Industrial Revolution in miniature: the spinning jenny
+in Britain, France, and India’, Journal of Economic History, 69: 901–27.
+Allen, Robert C., Bassino, Jean-Paul, Ma, Debin, Moll-Murata, Christine, and van
+Zanden, Jan Luiten (with Jean-Pascal Bassino, Debin Ma, Christine Moll-Murata,
+and Jan Luiten van Zanden) (2007), ‘Wages, prices, and living standards in China,
+1739–1925: in comparison with Europe, Japan, and India’ (Oxford, Oxford
+University, Department of Economics, Working Paper 316, forthcoming in
+Economic History Review).
+Ashton, T. S. (1955), An Economic History of England: the 18th Century (London).
+Aspin, C., and Chapman, S. D. (1964), James Hargreaves and the Spinning Jenny
+(Preston, Helmshore Local History Society).
+Bayly, C. A. (1989), Imperial Meridian: the British Empire and the World, 1780–1830
+(London).
+Bonney, Richard (1999), The Rise of the Fiscal State in Europe, c.1200–1815 (Oxford).
+Bowman, Alan and Wilson, Andrew (eds.) (2009), Quantifying the Roman Economy:
+Methods and Problems (Oxford).
+Chaudhuri, K. N. (1985), Trade and Civilisation in the Indian Ocean: an Economic
+History from the Rise of Islam to 1750 (Cambridge).
+Clark, Greg (1996), ‘The political foundations of modern economic growth: England,
+1540–1800’, Journal of Interdisciplinary History, 26: 563–87.
+Clark, Greg (2007), A Farewell to Alms (Princeton, NJ).
+Crafts, N. F. R. (1985), British Economic Growth during the Industrial Revolution
+(Oxford).
+Crafts, N. F. R. and Harley, C. K. (1992), ‘Output growth and the British Industrial
+Revolution: a restatement of the Crafts–Harley view’, Economic History Review,
+2nd series, 45: 703–30.
+Crafts, N. F. R. and Harley, C. K. (2000), ‘Simulating the two views of the Industrial
+Revolution’, Journal of Economic History, 60: 819–41.
+De Long, J. Bradford and Schleifer, Andrei (1993), ‘Princes and merchants: European
+city growth before the Industrial Revolution’, Journal of Law and Economics, 36:
+671–702.
+Desaguliers, J. T. (1734–44), A Course of Experimental Philosophy (London).
+Dickinson, H. W. (1939), A Short History of the Steam Engine (Cambridge).
+BRITISH INDUSTRIAL REVOLUTION IN GLOBAL PERSPECTIVE 223
+Dickinson, H. W. (1958), ‘The steam-engine to 1830’, in Charles Singer, E. J. Holmyard,
+A. R. Hall and Trevor I. Williams (eds.), A History of Technology, Vol. IV, The
+Industrial Revolution, c.1750– c.1850 (Oxford), pp. 168–98.
+Epstein, S. R. (2000), Freedom and Growth: the rise of States and Markets in Europe,
+1300–1750 (London).
+Farey, John (1827), A Treatise on the Steam Engine, Historical, Practical, and
+Descriptive (London).
+Forbes, R. J. (1958), ‘Power to 1850’, in Charles Singer, E. J. Holmyard, A. R. Hall and
+Trevor I. Williams (eds.), A History of Technology, Vol. IV, The Industrial
+Revolution, c.1750–c.1850 (Oxford), pp. 148–67.
+Harris, J. R. (1975), ‘Saint-Gobain and Ravenshead’, in Barrie M. Ratcliffe (ed.),
+Great Britain and Her World, 1750–1914 (Manchester), pp. 27–70.
+Hatcher, J. (1993), The History of the British Coal Industry, Vol. I, Before 1700: Towards
+the Age of Coal (Oxford).
+Hills, Richard L. (1970), Power in the Industrial Revolution (Manchester).
+Hills, Richard L. (1989), Power from Steam: a History of the Stationary Steam Engine
+(Cambridge).
+Hoffman, Philip T. and Norberg, Kathryn (1994), Fiscal Crises, Liberty, and
+Representative Government, 1450–1789 (Stanford, CA).
+Hoffman, Philip T., Postel-Vinay, Gilles, and Rosenthal, Jean-Laurent (2000), Priceless
+Markets: the Political Economy of Credit in Paris, 1660–1870 (Chicago, IL).
+Hopkins, Anthony G. (1973), An Economic History of West Africa (London).
+Hoppit, Julian (1996), ‘Patterns of Parliamentary legislation, 1600–1800’, The History
+Journal, 39: 109–31.
+Landes, David S. (1969), The Unbound Prometheus: Technological Change and
+Industrial Development in Western Europe from 1750 to the Present (Cambridge).
+Landes, David S. (2000), Revolution in Time: Clocks and the Making of the Modern
+World (revised edition) (London).
+LaPorta, R., Lopez-de-Silanes, F., Schleifer, A. and Vishny, R. W. (1998), ‘Law and
+fi nance’, Journal of Political Economy, 106: 1113–55.
+Lockyer, Charles (1711), An Account of the Trade in India (London).
+Mathias, P. and O’Brien, P. K. (1976), ‘Taxation in England and France, 1715–1810’,
+Journal of European Economic History, 5: 601–50.
+Mathias, P. and O’Brien, P. K. (1978), ‘The incidence of taxes and the burden of
+proof’, Journal of European Economic History, 7: 211–13.
+Nef, J. U. (1932), The Rise of the British Coal Industry (London).
+North, D. C. and Weingast, B. R. (1989), ‘Constitutions and commitment: evolution
+of institutions governing public choice in seventeenth-century England’, Journal
+of Economic History, 49: 803–32.
+Nuvolari, Alessandro (2004a), The Making of Steam Power Technology: a Study of
+Technical Change during the Industrial Revolution (Eindhoven).
+Parthasarathi, P. (1998), ‘Rethinking wages and competitiveness in the eighteenth
+century: Britain and South India’, Past & Present, 158: 79–109.
+Parthasarathi, P. (2001), The Transition to a Colonial Economy. Weavers, Merchants
+and Kings in South India, 1720–1800 (Cambridge).
+Pomeranz, K. (2000), The Great Divergence: China, Europe, and the Making of the
+Modern World (Princeton, NJ).
+224 Robert C. Allen
+Quinn, Stephen (2001), ‘The Glorious Revolution’s effect on English private fi nance: a
+microhistory, 1680–1705’, Journal of Economic History, 61: 593–615.
+Rosenthal, J.-L. (1990), ‘The development of irrigation in Provence, 1700–1860: the
+French Revolution and economic growth’, Journal of Economic History, 50: 615– 38.
+Scheidel, Walter, Morris, Ian, and Saller, Richard (2007), The Cambridge Economic
+History of the Greco-Roman World (Cambridge).
+Temin, Peter (1997), ‘Two views of the British Industrial Revolution’, Journal of
+Economic History, 57: 63–82.
+Thomas, Keith (1987), ‘Numeracy in Early Modern England: the Prothero Lecture’,
+Transactions of the Royal Historical Society, 5th series, 37: 103–32.
+von Tunzelmann, G. N. (1978), Steam Power and British Industrialization to 1860
+(Oxford).
+Wadsworth, Alfred P. and Mann, Julia de Lacy (1931), The Cotton Trade and Industrial
+Lancashire, 1600–1780 (Manchester).
+Ward-Perkins, Bryan (2005), The Fall of Rome and the End of Civilization (Oxford).
+Weber, Max (1904–5), The Protestant Ethic and the Spirit of Capitalism, translated by
+Talcott Parsons (London, 1930).
+Weiss, Leonard (1982), Watch-Making in England (London).
+Wong, R. Bin (1997), China Transformed: Historical Change and the Limits of European
+Experience (Ithaca, NY).

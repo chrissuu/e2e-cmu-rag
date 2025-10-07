@@ -1,0 +1,16 @@
+The COVID-19 pandemic saw a marked surge of e-commerce and online grocery delivery services that persisted past lockdown conditions.
+The latest work (opens in new window) by Carnegie Mellon University College of Engineering researchers examined the impacts of grocery delivery on energy use, emissions and traffic congestion, and whether there might be a better way to manage and optimize deliveries. The study found that grocery delivery was less energy efficient than people shopping for themselves.
+“Right now, most people go to the grocery store on their way home from work, or during off-peak hours,” said Destenie Nock (opens in new window) , an assistant professor of civil and environmental engineering and engineering and public policy. “This is good because it doesn’t add to congestion on the roadways. Turns out most people already try to optimize their grocery trips.”
+They experimented with optimal delivery routing using publicly available data from the Puget Sound Regional Council (PSRC) in Seattle, Washington.
+“Basically, the model treats the flow of vehicles traveling from one area to another like a fluid,” said Mateo Samudio, a Ph.D. student in civil and environmental engineering (opens in new window) .
+They experimented with factors including:
+Batch size: How many grocery deliveries are made in one delivery route?
+Substitution rate: Are online deliveries being substituted for personal grocery trips?
+Penetration rate: How many people in a given area are using online delivery?
+Delivery time: Are orders being delivered during peak hour travel times?
+Grocery store location: Is the customer ordering from the closest grocery store to their home?
+Trip type: Was the grocery trip made on the way to other destinations or directly from home and back?
+Altering these factors showed little improvement in energy usage because deliveries replaced grocery trips when customers were on their way home from somewhere else. Even with high batch sizes of 10 groceries delivered per route, the results were net increases in emissions and energy use.
+However, their results suggested that reduced congestion is possible when consumers buy from grocery distribution locations close to home for off-peak delivery times instead of in-person grocery shopping. Local government and industry could also potentially encourage off-peak delivery times, bulk delivery orders and nearby delivery locations.
+The teams’ work provides a new tool that that PSRC and other metropolitan planning organizations will be able to use to integrate e-commerce and grocery delivery trends into the long-range planning of the transportation system. Local agencies can use the insights from this study to design policies that will lead to a more sustainable and equitable transportation system.
+In addition to Nock and Samudio, Corey Harper (opens in new window) , assistant professor of civil and environmental engineering and the Heinz College of Information Systems and Public Policy (opens in new window) ; Greg Lowry (opens in new window) , professor of civil and environmental engineering; and Jeremey Michalek (opens in new window) , professor of engineering and public policy and mechanical engineering, contributed to the research.

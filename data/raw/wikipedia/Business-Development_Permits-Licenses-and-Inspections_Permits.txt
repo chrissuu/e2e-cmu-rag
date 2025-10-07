@@ -1,0 +1,36 @@
+Permits
+Permit Configuration
+Permits, Licenses & Inspections (PLI) permit applications and associated requirements are configured based on permit type, structure type, work type, and work scope. Please see work not requiring a permit for work that can be performed without a PLI permit.
+Permit Type
+PLI regulates construction by issuing a separate permit for types of work and for each system type as follows: building, demolition, land operations, signs, electrical systems, mechanical systems (including fuel gas), fire alarm systems, and suppression systems permits. PLI also issues permits that do not include construction as follows: occupancy only, and occupant load placard permits. Please note that Allegheny County Health Department Plumbing Division is responsible for plumbing permits.
+The following types of work require a permit:
+To construct, enlarge, alter, repair, move, demolish or change the occupancy of a building, structure, and facility.
+To erect, install, enlarge, alter, repair, remove, convert or replace any electrical, gas, mechanical, or plumbing system.
+Structure Type
+Residential Structures and Commercial Structures types are defined as the following.
+Residential – single-family :
+Applicable to detached single-family dwellings and townhouses that are 3 stories or less in height regulated by the International Residential Code.
+Applicable to structures accessory to the dwelling.
+Not applicable if other uses beyond the dwelling unit are present in the structure.
+Residential – two-family :
+Applicable to detached two-family dwellings that are 3 stories or less in height regulated by the International Residential Code .
+Applicable to structures accessory to the dwelling.
+Not applicable if other uses beyond the dwelling units are present in the structure.
+Commercial – all other uses :
+Applies to structures regulated by the International Building Code;
+Applicable to attached single-family and two-family dwellings and accessory structures;
+Applicable to detached single-family and two-family dwellings that more than 3 stories in height and accessory structures;
+Applicable to dwelling units in mixed-use structure (contains non-residential uses);
+Applicable to non-residential uses.
+Work Type
+Work Types are defined generally as:
+New Construction : applicable for new buildings.
+Addition / Alteration : applicable for existing buildings and accessory structures.
+Minor Alteration : applicable for existing buildings with a valid Certificate of Occupancy . Single-family dwellings and townhouses do not require Certificates of Occupancy.
+Work Scope
+Work Scope is specific for each structure type, permit type, and work type.
+Permit Process
+The permit process consists of the following steps:
+Work Not Requiring a Permit
+Stop! Your demolition may also require a permit from the Allegheny County Health Department for Asbestos Abatement. Learn more and avoid fines of up to $25,000 at their Asbestos Renovation Guide .
+last updated: 04/23/2025

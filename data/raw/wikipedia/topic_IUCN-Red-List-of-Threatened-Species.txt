@@ -1,0 +1,35 @@
+Table of Contents Ask the Chatbot
+Criteria and assessement
+The IUCN system uses a set of five quantitative criteria to assess the extinction risk of a given species. In general, these criteria consider:
+Whether the species already possesses a small population size
+Whether the species already possesses a small population size
+Whether the species is very small or lives in a restricted area
+Whether the species is very small or lives in a restricted area
+After a given species has been thoroughly evaluated, it is placed into one of several categories. (The details of each have been condensed to highlight two or three of the category’s most salient points below.) In addition, three of the categories (CR, EN, and VU) are contained within the broader notion of “threatened.” The IUCN Red List of Threatened Species recognizes several categories of species status:
+More From Britannica
+endangered species: IUCN Red List of Threatened Species
+Extinct (EX), a designation applied to species in which the last individual has died or where systematic and time-appropriate surveys have been unable to log even a single individual
+Extinct (EX), a
+applied to species in which the last individual has died or where systematic and time-appropriate surveys have been unable to log even a single individual
+Extinct in the Wild (EW), a category containing those species whose members survive only in captivity or as artificially supported populations far outside their historical geographic range
+Extinct in the Wild (EW), a category containing those species whose members survive only in captivity or as artificially supported populations far outside their historical geographic range
+Critically Endangered (CR), a category containing those species that possess an extremely high risk of extinction as a result of rapid population declines of 80 to more than 90 percent over the previous 10 years (or three generations), a current population size of fewer than 50 individuals, or other factors
+(CR), a category containing those species that possess an extremely high risk of extinction as a result of rapid population declines of 80 to more than 90 percent over the previous 10 years (or three generations), a current population size of fewer than 50 individuals, or other factors
+Endangered (EN), a designation applied to species that possess a very high risk of extinction as a result of rapid population declines of 50 to more than 70 percent over the previous 10 years (or three generations), a current population size of fewer than 250 individuals, or other factors
+(EN), a designation applied to species that possess a very high risk of extinction as a result of rapid population declines of 50 to more than 70 percent over the previous 10 years (or three generations), a current population size of fewer than 250 individuals, or other factors
+Vulnerable (VU), a category containing those species that possess a very high risk of extinction as a result of rapid population declines of 30 to more than 50 percent over the previous 10 years (or three generations), a current population size of fewer than 1,000 individuals, or other factors
+(VU), a category containing those species that possess a very high risk of extinction as a result of rapid population declines of 30 to more than 50 percent over the previous 10 years (or three generations), a current population size of fewer than 1,000 individuals, or other factors
+Near Threatened (NT), a designation applied to species that are close to becoming threatened or may meet the criteria for threatened status in the near future
+Near Threatened (NT), a designation applied to species that are close to becoming threatened or may meet the criteria for threatened status in the near future
+Least Concern (LC), a category containing species that are pervasive and abundant after careful assessment
+Least Concern (LC), a category containing species that are
+and abundant after careful assessment
+Data Deficient (DD), a condition applied to species in which the amount of available data related to its risk of extinction is lacking in some way. Consequently, a complete assessment cannot be performed. Thus, unlike the other categories in this list, this category does not describe the conservation status of a species
+Data Deficient (DD), a condition applied to species in which the amount of available data related to its risk of extinction is lacking in some way. Consequently, a complete assessment cannot be performed. Thus, unlike the other categories in this list, this category does not describe the conservation status of a species
+Not Evaluated (NE), a category used to include any of the nearly 1.9 million species described by science but not assessed by the IUCN
+Not Evaluated (NE), a category used to include any of the nearly 1.9 million species described by
+but not assessed by the IUCN
+All else being equal, a species experiencing an 90 percent decline over 10 years (or three generations), for example, would be classified as critically endangered. Likewise, another species undergoing a 50 percent decline over the same period would be classified as endangered, and one experiencing a 30 percent reduction over the same time frame would be considered vulnerable. It is important to understand, however, that a species cannot be classified by using one criterion alone; it is essential for the scientist doing the assessment to consider all five criteria when determining the status of the species.
+Access to the database
+Each year thousands of scientists around the world assess or reassess species . The IUCN Red List is subsequently updated with these new data once the assessments have been checked for accuracy. In this way, the information helps to provide a continual spotlight on the status of the world’s at-risk plants , animals , and other organisms. As a result, interested parties, such as national governments and conservation organizations, may use the information provided in the IUCN Red List to prioritize their own species-protection efforts.
+The IUCN Red List brings into focus the ongoing decline of Earth’s biodiversity and the influence humans have on life on the planet. It provides a globally accepted standard with which to measure the conservation status of species over time. By 2024, 157,000 species had been assessed by using the IUCN Red List categories and criteria . Of these, more than 44,000 species of plants, animals, and others fall into the threatened categories (CR, EN, and VU). Today the list appears as an online database available to the public. Scientists can analyze the percentage of species in a given category and how these percentages change over time; they can also analyze the threats and conservation measures that underpin the observed trends.

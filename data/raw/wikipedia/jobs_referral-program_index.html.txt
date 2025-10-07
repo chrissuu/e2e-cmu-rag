@@ -1,0 +1,15 @@
+Who can I refer? All externally posted positions in Workday will have a "Refer" button, and CMU employees can refer any individuals who they think are qualified for positions. Note that only positions participating in the ERP will be eligible for a reward payment.
+Is there a waiting period to be able to be refer someone? No. You can refer talent to CMU day one of employment.
+Is there a limit to how many referrals I can submit? There is no limit to the number of referrals a staff member may make. However, please keep in mind that this program is provided to help identify applicants you truly believe will be successful in the service of Carnegie Mellon's mission.
+What if more than one CMU employee refers a candidate to a position in the ERP? Multiple CMU employees can refer the same applicant. If an applicant enters multiple referrals in their application, the ERP payment will be issued to the first name listed.
+If a candidate received multiple referral links inviting them to apply, the ERP payment will be based on which referring employee's application link the candidate used when applying for the position. Please note: if a candidate has already applied and you try to refer them to the position, you will receive an error.
+How long after I refer someone will I hear an update? An individual is not considered an applicant until they apply to the position. It is up to the individual you referred to apply for the position.
+How do I check the progress of a referral I previously submitted? Refer to the "My Referral Activity" report via the Jobs Hub in Workday:
+Log in to Workday
+Navigate to the Jobs Hub
+Select "My Referrals"
+Will I get notifications about the status of the individual I referred? You will get the following notifications:
+Successful submission of the referral
+Status update if the referred candidate is hired
+Status update if the referral does or does not complete their six-month provisional period
+Why are there points on the "My Referral Activity" report in Workday? These points are related to Workday functionality that we do not use at CMU, but we are unable to hide or remove them. They are not relevant to CMU's Employee Referral Program.

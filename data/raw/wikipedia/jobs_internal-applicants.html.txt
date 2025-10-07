@@ -1,0 +1,67 @@
+Grow Your Career at CMU
+Ready to take the next step in your career at Carnegie Mellon?
+Invest in Your Professional Development
+CMU is committed to helping you develop and advance in your career. Take advantage of skill-building resources, competency-based learning and leadership programs designed to expand your expertise and grow your network.
+Explore CMU's development programs
+Employee Referral Program
+Through the university's Employee Referral Program, staff members who refer applicants to positions participating in the program may be eligible to receive a one-time monetary reward if the referred applicant is selected for hire!
+Learn more about CMU's Employee Referral Program
+Start Your Search
+Need help getting started? Expand the sections below for step-by-step guidance:
+Search for Internal Postings
+Log in to Workday using your Andrew ID and password.
+Click on the Jobs Hub:
+In the navigation pane, click on Browse Jobs :
+Use the Search All Jobs box to search by keyword. Note: You may also utilize the Search Filters to search by a variety of job attributes.
+Click Search .
+Click View Job under the job posting you would like to view.
+Opt-In to Mobile Messaging Before Applying
+Carnegie Mellon Human Resources offers the ability to communicate with internal job seekers via text messages to your mobile device ("Mobile Messenger Service"). This service is optional and only used for staff recruitment purposes. You must opt-in to receive SMS-based messages.
+If you are interested in opting into SMS messaging before you apply to a position :
+On the job posting, under Related Links on the right side under Job Details, click SMS Opt-In .
+Scroll down to the Channel section and click SMS .
+To opt-in, click the checkbox and confirm the phone number is your mobile number. If not, you will have to update your contact details to include one. See the Update Your Contact Details Quick Guide [pdf] for more information.
+Click OK then click Done . The automated SMS will be sent to your mobile number.
+Confirm your opt-in by replying " YES" to the automated SMS message.
+You can also opt-in to receive text messages via Personal Information > Contact Information or My Account > Change Preferences .
+Apply for a Job
+Click the Apply button to access the internal job application and apply to the position.
+The information found in the sections within Application Details is automatically pulled from your Career Profile in Workday. Note: Any changes made to these sections in the application (i.e., job history, education, experience) can flow back to your Career Profile in Workday. Check the "Replace Experience information in my profile with this information" below the application section where you made an update. See Career Profile and Related Tools System Guide [pdf] as an additional resource.
+Attach your resume and other job application documents, such as a cover letter, to the Resume/Cover Letter section by clicking the Select Files button or by dragging and dropping files into the gray box.
+Answer the application questions. When you are ready to submit your application, click Submit . You will receive a message confirming your submission. Click View Details to view the application details.
+Manage Your Job Applications
+View Applications
+You can view the status and details of your job application in the Recent Applications section of the Jobs Hub.
+Click View Application to view a single job application or View All Applications to see details for all applied jobs.
+The My Applications report displays the following information:
+Submitted Date: The date you applied to the position
+Job Title: The position title
+Job Requisition: The job requisition number and title
+Application Status: The current status of your application. Potential application statuses include: Application Received: Your application is under review. No Longer in Consideration: You are no longer being considered for this opportunity. Process Completed: The position has been filled. You were not selected. Selected: You were hired for the position.
+Application Received: Your application is under review.
+No Longer in Consideration: You are no longer being considered for this opportunity.
+Process Completed: The position has been filled. You were not selected.
+Selected: You were hired for the position.
+Supervisory Organization: The supervisory organization associated with the job requisition
+Location: The primary location for the position
+Hiring Manager: The name of the supervisor
+Recruiter: The name of the recruiter who is managing the search
+Withdraw Applications
+You can withdraw applications that you previously submitted within Recent Applications (My Applications Report) on the Jobs Hub.
+Click on Withdraw Application .
+Click OK to confirm.
+The job application moves to the Inactive tab of the My Applications Report. The Application Status will reflect "Application Withdrawn."
+View and Respond to an Employment Offer
+If Carnegie Mellon extends to you an offer of employment, you will be notified via email. You can view and respond to the offer through My Tasks in Workday .
+View the Job Offer
+Click on the Workday Login link in the offer email or via this Workday login link.
+Click on the My Tasks icon located in the upper right corner of your screen.
+The offer is available for review in All Items .
+Click on the PDF link to review the details of the offer.
+Accept the Job Offer
+Check the " I Agree " checkbox on the Review Offer Letter screen.
+Click the Submit button.
+To decline the offer, click the Don't Accept button.
+Clicking Cancel cancels the review session and retains the offer in My Tasks to be addressed later.
+Need Additional Help?
+Please note: Carnegie Mellon is not an eligible employer for the purpose of STEM OPT Extension.

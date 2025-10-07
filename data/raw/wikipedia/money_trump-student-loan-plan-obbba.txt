@@ -1,0 +1,67 @@
+A crash course in changes to student loans.
+© ahirao/stock.adobe.com, © mnirat/stock.adobe.com; Photo illustration Encyclopædia Britannica, Inc
+The One Big Beautiful Bill Act (OBBBA) overhauls federal student aid in ways that will affect how families pay for college and take on debt . The law eliminates Grad PLUS loans, sets new borrowing caps for students and parents, and introduces a Repayment Assistance Plan (RAP) to replace most repayment plans that bases payments on how much money you earn . It also adds accountability rules for colleges tied to graduates’ earnings. Together, these changes rewrite the rules for borrowing and repaying federal student loans starting in 2026.
+Key Points
+The OBBBA ends Grad PLUS loans and replaces most existing income-driven repayment plans with a new Repayment Assistance Plan (RAP).
+Colleges could lose federal loan funding if their graduates fail to meet specific earnings thresholds.
+The law caps federal student loan borrowing, which may push some students to rely more on private loans.
+Student loan repayment changes under OBBBA
+One of the biggest shifts in the law is how repayment works. The OBBBA eliminates three income-driven repayment plans :
+Pay As You Earn (PAYE)
+Saving on a Valuable Education (SAVE)
+Income-Contingent Repayment (ICR)
+The act replaces these with a single option called the Repayment Assistance Plan (RAP).
+The SAVE plan, introduced by the Biden administration, allowed the Department of Education to stop interest from accruing on enrolled borrowers’ loans beginning in July 2024. After federal courts struck down key parts of SAVE , the agency said that interest would resume on August 1, 2025, affecting about 7.7 million borrowers still in the plan.
+Starting July 1, 2026, all new borrowers enter either RAP or a new standard repayment plan, which sets fixed payments over 10, 15, 20, or 25 years, depending on the loan’s size.
+Borrowers already enrolled in PAYE, SAVE, or ICR can stay in those plans temporarily, but they must move to Income-Based Repayment (IBR) or RAP by July 1, 2028. Borrowers who don’t make a choice will be automatically placed in RAP.
+Key features of RAP:
+A $10 minimum monthly payment for all borrowers.
+Payments are tied to income, ranging from 1% to 10% of adjusted gross income (AGI).
+Unpaid interest is waived, so your balance won’t grow if your payment is too low to cover interest.
+Loans are forgiven after 30 years.
+Payments count toward Public Service Loan Forgiveness (PSLF).
+A $50 monthly reduction in the base payment for each dependent.
+If your monthly payment doesn’t reduce your loan’s principal by at least $50, the Department of Education will chip in enough to bring the total reduction up to $50.
+Changes to deferment and forbearance
+RAP vs. SAVE
+Under SAVE, some borrowers qualified for no monthly payments, and unpaid interest wasn’t added to their balances. RAP sets a $10 minimum payment and calculates payments as a share of income, which often leads to higher bills.
+For example, a borrower earning $40,000 a year would have paid about $40 a month under SAVE but pays about $132 under RAP, according to Saving for College, a website devoted to higher education affordability. That means borrowers with lower incomes could see much higher required payments under RAP than they did under SAVE.
+Provision
+RAP
+SAVE
+Minimum payment
+$10 minimum
+No payment in some cases
+Income disregarded
+None
+First $35,000
+Income percentage
+1% to 10% of all income (depending on income level)
+5% of income above $35,000 for undergrad loans; 10% if graduate loans are included
+Interest waived
+Unpaid interest not added to balance; up to $50 a month may reduce principal
+Unpaid interest not added to balance
+Forgiveness
+30 years
+20 years (undergrad) or 25 years (graduate)
+Changes to PLUS loans
+The Direct PLUS loan program also gets an overhaul under the OBBBA.
+Grad PLUS eliminated. As of July 1, 2026, Grad PLUS loans are no longer available. Graduate and professional students are subject to new borrowing caps and may need to turn to private loans to cover gaps.
+New limits on parent PLUS loans . Before OBBBA, parents could borrow up to the full cost of attendance. Starting July 1, 2026, borrowing for each dependent child is capped at $20,000 a year, with a $65,000 lifetime limit.
+Existing parent PLUS loans. To remain eligible for IBR after July 1, 2028, existing parent PLUS loans must be consolidated through the Direct program and put into repayment under ICR.
+New parent PLUS loans. Any parent PLUS loans made after July 1, 2026, are ineligible for income-driven repayment.
+PLUS loans were traditionally a way for families to borrow beyond Direct subsidized and unsubsidized loan limits , although often at higher interest rates . The rules imposed by the OBBBA may push more parents and students toward private loans , which typically offer fewer protections than federal loans.
+New caps on federal student loan borrowing limits
+Parent PLUS borrowers aren’t the only group affected by new limits. The OBBBA also places limits on the amount of federal student loan debt that graduate and professional students can take on.
+Before the law, graduate and professional students could borrow up to $138,500, including undergraduate loans. Beginning July 1, 2026, the lifetime cap is $100,000 for graduate students, while the annual cap for unsubsidized loans is unchanged at $20,500. Professional students, such as those in medical or law school, face an annual cap of $50,000 and a lifetime cap of $200,000.
+All federal student loans combined are subject to a lifetime cap of $257,500, not including parent PLUS loan amounts. The amount actually available to each borrower still depends on the school’s cost of attendance.
+The difference between good debt and bad debt
+Encyclopædia Britannica, Inc.
+New college accountability rules
+The OBBBA ties federal loan eligibility to how well graduates fare in the job market . Programs must compare their graduates’ earnings with those of working adults with less education.
+Undergraduate programs are judged on the median earnings of students four years after completing a degree, compared to adults with a high school diploma or general equivalency diploma (GED) as their highest level of education.
+Graduate programs are judged on the median earnings of students four years after enrollment, compared to adults with only a bachelor’s degree .
+Programs that fail this test in two out of three years lose eligibility for federal Direct loans . Colleges must also warn students if a program fails.
+Private colleges have paid an excise tax on endowment income since the enactment of the 2017 Tax Cuts and Jobs Act , which set the rate at 1.4%. Beginning in the 2026 tax year, the OBBBA replaces the flat rate with a graduated tax ranging from 1.4% to 8%, depending on endowment size relative to enrollment.
+The bottom line
+The OBBBA reshapes how families pay for a college education by eliminating some loan options, capping how much can be borrowed, and replacing most income-driven repayment plans with the new Repayment Assistance Plan. If you or your child plan to borrow to pay for college in 2026 and beyond, understand how these rules change the way you take on and repay student loan debt, which is key to planning for college costs . To stay informed about loan limits, repayment plans, and eligibility requirements, check StudentAid.gov or talk with your school’s financial aid office before making borrowing decisions.

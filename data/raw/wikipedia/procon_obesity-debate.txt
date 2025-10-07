@@ -1,0 +1,1003 @@
+Table of Contents Ask the Chatbot
+Obesity , according to the World Heath Organization, is the “abnormal or excessive fat accumulation that presents a risk to health.” This is undeniable today, but perceptions of obesity have radically changed over time, changing in turn the debate about fatness. But however one views it, obesity is becoming an increasingly serious concern, as obesity rates rise and studies show a prominent tie between obesity and a host of potentially fatal health issues, including a tie to 13 kinds of cancer. [1] [60]
+Perceptions of weight
+Historically, across many cultures, fatness was viewed positively as a sign of wealth and power, beauty and fertility, healthiness and a jolly disposition (as depicted in Santa Claus ). Thinness, socially and medically, was deemed unhealthy and undesirable. The value and cultural significance attached to obesity was even a feature of the Stone Age , as seen in the era’s carved statues of obese goddesses and fertility symbols. [61]
+Serious concerns about the medical risks of obesity rose in the early 20th century, and they arose from a surprising source. As Dr. Garabed Eknoyan has written, “The first alarm against excess weight was sounded by the insurance industry. Actuarial studies that linked excess weight to increased mortality began to appear in the early years of the twentieth century. By the 1920s, studies on the experience of industrial policyholders of the Metropolitan Life Insurance Company were analyzed for differential mortality by weight and associated with specific diseases by Louis I. Dublin (1882-1969), a statistician and vice-president of the company.” [61]
+Beginning in the 1960s, there was a dual change in perceptions of fatness. On the one hand, fatness became “ugly” and was increasingly stigmatized in favor of thinness. Not for nothing was the model Lesley Hornby called “ Twiggy ,” becoming one of the world’s first supermodels. The fashion industry became obsessed with thinness in the 1990s and early 2000s, when models looked increasingly wan and waiflike, gaunt and emaciated, even skeletal— “ heroin chic,” this style was dubbed. It was part of the ongoing grunge movement [61] [62]
+Countering this perception was the rise in the 1960s of the “fat acceptance” and “body positivity” movements, which continue today and promote an acceptance and even celebration of diverse body types, including those dangerously overweight. [63]
+Obesity and BMI
+Body mass index (BMI) is an estimate of total body fat. A BMI of 30 or more is considered obese in adults age 20 or older, BMI’s of 25 to 29.9 are considered overweight, and BMI’s of 40+ are classified as severely obese. [1] [2]
+BMI is just one way to estimate total body fat. According to Encyclopaedia Britannica , “ BMI is defined as weight in kilograms divided by the square of the height in metres .” The number, however, is not a direct measure of body fat, and a skinfold caliper , a hand-held device that pinches the skin and measures body fat, can offer a quick, affordable, and often more accurate measurement. While BMI has been used in clinical settings for years, in 2023 the American Medical Association urged healthcare professionals not to rely solely on BMI as a measure of a patient’s health. [3] [4]
+You may calculate BMI at the CDC website .
+BMI, first known as the Quetelet Index, was created by Belgian astronomer, sociologist, and statistician Adolphe Quetelet in 1832 to determine the “homme moyen,” or the “average man.” Quetelet was not looking to diagnose health concerns in relation to body weight for individuals. He was, instead, making calculations of population health for the government to allocate resources, and based those calculations on a group of western European white men. [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
+The idea of “normal” weight was promoted in the United States by Louis I. Dublin, a statistician and vice president of Metropolitan Life Insurance Company, in the 1950s. The company saw that heavier people were filing more insurance claims and thus established weight tables for clients, placing them in small, medium, and large categories. Ancel Keys, a physiologist, coined “body mass index” in 1972. He analyzed 7,426 “healthy” men released a study emphasizing the ease of using BMI in population studies. Keys, however, like Quetelet, did not promote the idea of using BMI as an individual health marker. [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
+In 1985, the National Health and Nutrition Examination Survey (NHANES) combined health insurance weight tables and BMI to produce the calculations we all know today. BMI is used by health professionals to determine if a person over age 20 is underweight (a BMI under 18.5), a healthy weight (between 18.5 and 24.9), overweight (between 25.0 and 29.0), or obese (30.0 and over). But any have found the use of BMI as the primary indicator for body fat problematic because the measurement fails to consider the individual . As journalist Keith Devlin notes, BMI “makes no allowance for the relative proportions of bone, muscle and fat in the body. But bone is denser than muscle and twice as dense as fat, so a person with strong bones, good muscle tone and low fat will have a high BMI. Thus, athletes and fit, health-conscious movie stars who work out a lot tend to find themselves classified as overweight or even obese.” BMI also does not take into consideration waist circumference, race, gender, or age. [44] [45] [46] [47] [48] [49] [50] [51] [52] [53]
+Obesity Rates
+In the mid-1970s, the obesity rate for the United States was about 14 percent (meaning 14 percent of the population was categorized as obese). The Centers for Disease Control and Prevention (CDC) first collected data on weight from each U.S. state individually in 1994 when the obesity rate was 19 percent or lower in each state. During the COVID-19 pandemic, the U.S. obesity rate rose by 3 percent between March 2020 and March 2021. By 2023, all U.S. states and territories had an obesity rate over 20 percent; the Midwest (36 percent) and South (34.7 percent) had the highest rates of obesity, followed by the West (29.1 percent) and the Northeast (28.6 percent); and three states (Arkansas, Mississippi, and West Virginia) had obesity rates of 40 percent or greater (West Virginia had the highest, at 41.2 percent). As the CDC reported in 2024, more than 2 in 5 U.S. adults (40 percent of the adult population) are obese. [8] [9] [10] [11] [12] [56] [58]
+As Trust for America’s Health explained, “Obesity is multifactored and involves more than individual behavior.” Among the factors it cites for contributing to obesity is living in communities (so-called “ food deserts ”) with many fast-food establishments and convenience stores but limited access to healthier, affordable food options as available in full-service supermarkets, meaning many lower-income families in lower-income towns and neighborhoods must eat food that costs less but is also high in calories and low in nutritional value. [13]
+According to the WHO’s World Bank calculations for 2022, the United States was the 15th most obese jurisdiction in the world. This calculation, however, separated U.S. territories from the main American calculation, which is significant, because islands rank among the most obese areas of the world. In fact, the 11 locations in the world with the highest obesity rates are all islands: American Samoa (75.2 percent), Tonga (71.7 percent), Nauru (69.9 percent), Tuvalu (64.2 percent), Samoa (62.4 percent), French Polynesia (48.1 percent), the Bahamas (47.3 percent), Micronesia (47.1 percent), Kiribati (46.3 percent), Marshall Islands (45.9 percent), and St. Kitts and Nevis (45.6 percent). Overall, according to the WHO, 82 of the 196 jurisdictions of the world, or 41.8 percent, had obesity rates over 25 percent. [14] [57]
+The WHO organization declared obesity a “global epidemic ” in 1997, stating “obesity is a chronic disease , prevalent in both developed and developing countries , and affecting children as well as adults. Indeed, it is now so common that it is replacing the more traditional public health concerns, including malnutrition and infectious disease , as one of the most significant contributors to ill health.” Given the rising rates of obesity, the epidemic is only getting worse. [15]
+To help battle this epidemic in the United States, President Donald Trump signed an executive order on July 31, 2025, reinstituting the Presidential Fitness Test and the Presidential Fitness Award in public schools; the test and award had been discontinued by President Barack Obama in 2012. [59]
+Obesity Defined as a Disease
+By 2013, most major health organizations and agencies had defined obesity as a disease, including American Academy of Family Physicians, American College of Cardiology, American College of Gastroenterology, American Heart Association, American Medical Association (AMA), Food and Drug Administration (FDA), National Institutes of Health (NIH), and Obesity Society. Even the Internal Revenue Service (IRS) allows Americans who are medically diagnosed as obese to claim tax deductions for doctor-prescribed treatments. [16] [17] [18] [19] [20] [21] [22] [23]
+However, as recently as January 2025, the definition of obesity as a disease was not put into practice widely. An international commission of 58 experts by the The Lancet Diabetes & Endocrinology journal found
+Despite evidence that some people with excess adiposity have ill health due to obesity, obesity is generally considered a harbinger of other diseases, not a disease in itself. The idea of obesity as a disease remains therefore highly controversial. In addition, current BMI-based measures of obesity can both underestimate and overestimate adiposity and provide inadequate information about health at the individual level. [54] [55]
+Few observers now doubt that obesity is a global epidemic. The question more frequently debated is whether obesity should be treated as a disease. Is treating obesity as a “disease” a good thing for the patient? A good thing for society? And the best way to address this global epidemic?
+Pros and Cons at a Glance
+PROS
+CONS
+Pro 1: Obesity is widely defined as a disease by medical groups. Read More.
+Con 1: Medicalizing obesity discourages people from taking responsibility for unhealthy choices. Read More.
+Pro 2: Treating obesity as a disease lowers the risk of other diseases. Read More.
+Con 2: Obesity alone is not an indicator of ill health. Read More.
+Pro 3: Treating obesity as a disease has social value by lowering the stigma associated with being “fat.” Read More.
+Con 3: Treating obesity as a disease irresponsibly glorifies unhealthiness. Read More.
+Pro 1: Obesity is widely defined as a disease by medical groups.
+The FDA, the American Medical Association (AMA), the National Institutes of Health (NIH), American Heart Association, American College of Cardiology, the Obesity Society, the World Health Organization (WHO), the American College of Gastroenterology, the American Academy of Family Physicians (AAFP), and other medical organizations have all defined obesity as a disease. [16] [17] [18] [19] [20] [21] [22] [23]
+“Individuals with obesity have an increased accumulation of fat not always attributable to eating too many calories or lacking physical activity. They experience impaired metabolic pathways along with disordered signaling for hunger, satiety (the feeling of fullness), and fullness (the state of fullness),” according to the Obesity Medicine Association. “For many, efforts to lose weight are met with unyielding resistance or disappointing weight regain…. [In fact,] 90 percent of people who lose weight will regain most of it.” [24]
+Some 42 percent of Americans, according to the WHO, suffer from obesity, and yet only 4 percent of people with the disease seek treatment. Treating obesity as a disease like cancer or diabetes would increase recourse to needed medical treatment. [25]
+Further, “the rise of new obesity medicines … helps to frame it more as a disease. The general public tends to think of a disease as having a corresponding medication to treat it. As more patients come in asking about these medications, it can help to explain to them that this disease warrants a multi-pillared approach, which can mean addressing lifestyle factors too,” according to the Obesity Medicine Association. [24]
+“We need to accept that obesity is a disease. And since it’s a chronic disease, every person with obesity has to be diagnosed, and in each case a treatment needs to be defined. This is the future,” says Daniel Weghuber of the Paracelsus Medical University in Salzburg. [26]
+Pro 2: Treating obesity as a disease lowers the risk of other diseases.
+“Obesity is an inflammatory disease in which adipose tissue , or fat cells, release toxins known as cytokines into the bloodstream. These toxins can damage critical organs, contributing to conditions like fatty liver disease, diabetes and heart disease,” according to Christopher C. Thompson, a Harvard professor of medicine. Obesity is linked to 30-53 percent of new diabetes cases in the U.S. every year, reports the Journal of the American Heart Association. [10] [29]
+Obesity also increases the risk for around 200 other diseases, including arthritis, asthma, cancer, gallstones and gallbladder disease, high blood pressure, high cholesterol, osteoarthritis, and sleep apnea. Obesity triples the likelihood that COVID-19 will be severe. Mental illnesses including anxiety and depression are also linked to obesity. Obesity was a factor in almost 12 percent of American deaths in 2019. [26] [27]
+A 2025 study by the Jersey Shore University Medical Center reveals that obesity-associated cancers have tripled nationwide over the past two decades. For the study, the center examined more than 33,000 deaths from obesity-related cancers; the sharp increases in cancer deaths were especially prominent among women, older adults, and Native and Black Americans. Based on data from the CDC, reports the Endocrine Society, “Obesity is associated with a higher risk of developing 13 types of cancer. . . . These cancers make up 40% of all cancers diagnosed in the United States each year.” [60]
+Doctors and researchers are also finding that patients are more compliant in taking new drugs specifically targeting weight, compared to taking drugs for treating the effects of obesity, such as statins for reducing cholesterol. New prescription weight-loss drugs, such as Ozempic, Wegovy, and Zepbound, effectively treat obesity, thus lowering the risk of and damage done by other diseases. [28]
+By treating obesity like the disease it is, patients can benefit from better health care, better health, and fewer related diseases, which can improve their quality of life and lengthen their lifespans.
+Pro 3: Treating obesity as a disease has social value by lowering the stigma associated with being “fat.”
+“The societal stigma of being seen as ‘fat’ is a paralyzing barrier. So many still view obesity as a character flaw, or the result of someone not having enough willpower or being lazy. As best-selling author and social researcher Brene Brown explains, ‘shame is the most powerful, master emotion.’ Shame is killing people,” explains Christopher C. Thompson, a Harvard professor of medicine. [29]
+The idea that a person’s caloric consumption and physical activity are solely responsible for their weight is outdated and incorrect. Further, the idea that weight-loss management drugs and other interventions are “vanity medication” or “the easy way out,” is “rooted in weight bias and the principle that people with obesity are solely responsible for reversing their condition,” says William H. Dietz of George Washington University. [30]
+Dietz continues, “imagine, for any other chronic disease, foregoing medications that could spare a patient the risks and complications of major surgery, increase mobility, improve mental health, ease physical pain and financial burden, and begin to relieve the harms of that disease –all due to a bias that isn’t supported by the research or medical literature, but is held at every level of society.” [30]
+Treating obesity as a disease gives more patients access to interventions. As family doctor Mara Gordon explains, drugs like Ozempic may help “if you’re facing hatred and fatphobia on a daily basis, if you can’t do the things you need to do because the chair at your office isn’t the correct size…. I wish we lived in a less superficial society. But my job is to take care of the patient right in front of me.” [31]
+Treating obesity medically can not only help the patient but help minimize the stigma associated with being overweight.
+Con 1: Medicalizing obesity discourages people from taking responsibility for unhealthy choices.
+Our increasingly sedentary lifestyles have contributed greatly to the obesity epidemic, and treating obesity as a disease – as something out of our control – simply encourages many patients to ignore responsibility for choices contributing to their ill-health.
+Clearly, now that much of our work, school, and interpersonal relationships have gone digital, we have a reduced societal need to move our bodies. Unsurprisingly, a study found “a causal relationship” between four sedentary behaviors – leisure screen time, watching TV, computer use, and driving – and obesity. [32] [33]
+A correlation between digital gaming addiction, decreased physical activity, and obesity has also been found. As the study’s authors noted, “regular physical activity should be encouraged, digital gaming hours can be limited to maintain ideal weight. Furthermore, adolescents should be encouraged to engage in physical activity to reduce digital game addiction.” [34]
+Similar results, revealing a positive correlation between digital addiction and obesity among college students, was confirmed by a separate study. And yet another study found a correlation between Internet addiction, obesity, and sleep disorders in children aged 7-10. [35] [36]
+Treating obesity as a disease often back-fires. Obesity treatments and drugs are expensive and not covered by some insurances; their long-term effects are not known, and stopping the drugs can have immediate consequences including regaining the lost weight. Common-sense changes like increasing physical activity, monitoring our choices, and improving access to healthier food options can go a long way toward improving health, regardless of weight. [37]
+Con 2: Obesity alone is not an indicator of ill health.
+“We can be obese but remain healthy,” says Ruth Loos, an epidemiologist who studies the genetics of obesity at the University of Copenhagen. [38]
+Automatically treating obesity as a disease can mean both over- and under-diagnosing patients. As physiologist Lindo Bacon explains, “it’s very clear that there are a lot of people in that category called obese [who] don’t have any signs of disease and live long, healthy lives.” Without ill-health, obesity doesn’t necessarily need to be treated. [38]
+Bacon recounts “my father and I both went to orthopedic surgeons because we were having bad knee pain…. My father went to his death with knee problems” because he was diagnosed as obese and only told to lose weight rather than receiving treatment for knee pain. Bacon’s father “could have benefited from stretching, strengthening, [and] knee surgery. He didn’t get that.” Lindo Bacon, however, was of “normal” weight and thus offered surgery to correct the knee problems. [38]
+When there is ill-health, obesity is frequently only the side-effect of another disease or medical condition that should be treated. In these cases, treating obesity as the primary problem could result in doctors missing underlying problems like arthritis causing decreased mobility and exercise or polycystic ovary syndrome (PCOS) causing hormonal imbalances. Automatically treating obesity as a disease can mean treatments capable of relieving pain and helping patients get frequently overlooked and under-considered. [38] [39]
+Con 3: Treating obesity as a disease irresponsibly glorifies unhealthiness.
+Treating obesity as a disease has had unintended consequences. Not only have people been discouraged from thinking about how their lifestyles may be unhealthy, but obesity and unhealthiness have now been glorified. The “fat acceptance” movement has encouraged people, especially kids and teens, to be pleased with their weight no matter what, which is “toxic positivity.”
+The movement has encouraged people to suppress negative emotions about weight and to pretend to be happy with extra pounds and the related physical and mental health issues. “Toxic positivity is toxic! To deny and avoid acknowledging and expressing our authentic negative emotions, including fear, disappointment, anger, betrayal, etc. keeps us in a world of illusion and fantasy and inevitably harms our physical, emotional, and mental wellbeing,” explains therapist Beatty Cohan. [41]
+“No one should be subject to ridicule or teasing because of her weight,” says journalist Danielle Crittenden. “But it’s one thing to be compassionate, [and] quite another to glamorize what amounts to a dangerous health epidemic. In many ways, the current campaign to endorse female heaviness reminds me of the old smoking advertisements. Even as evidence accumulated that smoking could cause cancer and other diseases, tobacco companies continued to push their products as tickets to coolness, sophistication, and even a great way to get sex. Then, as now, they were not beneath marketing to children.” [42]
+Journalist Lizzie Cernik agrees, saying, “suggesting that being a size 30 is just as healthy as being a size 12 isn’t a body-positive message either – it’s an irresponsible form of denial.” Treating obesity as a disease out of an individual’s control and the body-positivity efforts have not yielded good results. Rates of mental and physical health issues related to obesity have not decreased. Overweight and obese people deserve good healthcare, but that healthcare will not be sought without honest assessments of their true medical condition and how it arose. [40] [43]
+U.S. Obesity Levels by State
+Obesity is usually determined by BMI (body mass index) measurements. Someone with a BMI of 30 or more is considered obese. According to the State of Childhood Obesity , adult obesity rates exceeded 35 percent in 23 states in 2023, meaning 35 percent of the adult population in a state was obese. In 2011, the oldest comparable data, no state had an obesity rate over 35 percent, though Mississippi was just below the threshold at 34.9 percent
+2023 Rank
+2023 Obesity Rate
+State
+2011 Obesity Rate
+2011 Rank
+State of Childhood Obesity, “Adult” (accessed July 28, 2025), stateofchildhoodobesity.org
+1
+41.2 percent
+West Virginia
+32.4 percent
+3
+2
+40.1 percent
+Mississippi
+34.9 percent
+1
+3
+40.0 percent
+Arkansas
+30.9 percent
+7
+4
+39.9 percent
+Louisiana
+33.4 percent
+2
+5
+39.2 percent
+Alabama
+32.0 percent
+4
+6
+38.7 percent
+Oklahoma
+31.1 percent
+6
+7
+37.8 percent
+Indiana
+30.8 percent
+8
+8
+37.8 percent
+Iowa
+29.0 percent
+18
+9
+37.6 percent
+Tennessee
+29.2 percent
+15
+10
+36.6 percent
+Nebraska
+28.4 percent
+21
+11
+36.4 percent
+Ohio
+29.6 percent
+13
+12
+36.0 percent
+Illinois
+27.1 percent
+29
+13
+36.0 percent
+South Carolina
+30.8 percent
+8
+14
+36.0 percent
+South Dakota
+28.1 percent
+23
+15
+35.9 percent
+Kansas
+29.6 percent
+13
+16
+35.9 percent
+Wisconsin
+27.7 percent
+27
+17
+35.7 percent
+Delaware
+28.8 percent
+19
+18
+35.6 percent
+North Dakota
+27.8 percent
+25
+19
+35.4 percent
+Michigan
+31.3 percent
+5
+20
+35.3 percent
+Missouri
+30.3 percent
+12
+21
+35.3 percent
+New Mexico
+26.3 percent
+34
+22
+35.2 percent
+Alaska
+27.4 percent
+28
+23
+35.0 percent
+Georgia
+28.0 percent
+24
+24
+34.4 percent
+Texas
+30.4 percent
+10
+25
+34.3 percent
+Virginia
+29.2 percent
+15
+26
+34.1 percent
+Maryland
+28.3 percent
+22
+27
+34.0 percent
+North Carolina
+29.1 percent
+17
+28
+33.6 percent
+Oregon
+26.7 percent
+31
+29
+33.3 percent
+Minnesota
+25.7 percent
+36
+30
+33.3 percent
+Wyoming
+25.0 percent
+39
+31
+32.8 percent
+New Hampshire
+26.2 percent
+35
+32
+32.6 percent
+Maine
+27.8 percent
+25
+33
+31.9 percent
+Arizona
+24.7 percent
+40
+34
+31.6 percent
+Rhode Island
+25.4 percent
+37
+35
+31.0 percent
+Idaho
+27.0 percent
+30
+36
+30.8 percent
+Nevada
+24.5 percent
+42
+37
+30.6 percent
+Washington
+26.5 percent
+33
+38
+30.5 percent
+Montana
+24.6 percent
+41
+39
+30.2 percent
+Utah
+24.4 percent
+45
+40
+30.1 percent
+Florida
+26.6 percent
+32
+41
+29.4 percent
+Connecticut
+24.5 percent
+42
+42
+28.9 percent
+New Jersey
+23.7 percent
+47
+43
+28.8 percent
+Vermont
+25.4 percent
+37
+44
+28.0 percent
+New York
+24.5 percent
+42
+45
+27.7 percent
+California
+23.8 percent
+46
+46
+27.4 percent
+Massachusetts
+22.7 percent
+49
+47
+26.1 percent
+Hawaii
+21.8 percent
+50
+48
+24.9 percent
+Colorado
+20.70percent
+51
+49
+23.5 percent
+District of Columbia
+23.7 percent
+47
+n/a
+no data
+Kentucky
+30.4 percent
+10
+n/a
+no data
+Pennsylvania
+28.6 percent
+20
+Global Obesity Levels
+The United States territory American Samoa was the most obese jurisdiction in the world with obesity affecting 75.2 percent of the adult population in 2022, according to the most recent data available from the World Health Organization (WHO). Vietnam was the least obese country with 2.0 percent of the adult population classified as obese.
+Global Rank
+Country
+Obesity Rate
+Source: World Bank Group, “Prevalence of Obesity Among Adults (%)” (November 18, 2024), humancapital.worldbank.org
+1
+American Samoa
+75.2 percent
+2
+Tonga
+71.7 percent
+3
+Nauru
+69.9 percent
+4
+Tuvalu
+64.2 percent
+5
+Samoa
+62.4 percent
+6
+French Polynesia
+48.1 percent
+7
+Bahamas, The
+47.3 percent
+8
+Micronesia
+47.1 percent
+9
+Kiribati
+46.3 percent
+10
+Marshall Islands
+45.9 percent
+11
+St. Kitts and Nevis
+45.6 percent
+12
+Egypt
+44.3 percent
+13
+Qatar
+43.1 percent
+14
+Belize
+42.3 percent
+15
+United States
+42.0 percent
+16
+Kuwait
+41.4 percent
+17
+Palau
+41.1 percent
+18
+Puerto Rico
+41.1 percent
+19
+Saudi Arabia
+40.6 percent
+20
+Iraq
+40.5 percent
+21
+Chile
+38.9 percent
+22
+Jordan
+38.5 percent
+23
+Barbados
+38.0 percent
+24
+West Bank and Gaza
+37.6 percent
+25
+Libya
+36.7 percent
+26
+Bahrain
+36.1 percent
+27
+Panama
+36.1 percent
+28
+Mexico
+36.0 percent
+29
+Argentina
+35.4 percent
+30
+Georgia
+34.7 percent
+31
+Romania
+34.0 percent
+32
+Syrian Arab Republic
+33.9 percent
+33
+Fiji
+33.8 percent
+34
+Jamaica
+33.8 percent
+35
+Nicaragua
+33.6 percent
+36
+New Zealand
+33.6 percent
+37
+St. Lucia
+33.5 percent
+38
+Uruguay
+33.3 percent
+39
+Turkiye
+33.3 percent
+40
+Antigua and Barbuda
+33.3 percent
+41
+St. Vincent and the Grenadines
+33.2 percent
+42
+Bermuda
+33.0 percent
+43
+Paraguay
+33.0 percent
+44
+Malta
+32.3 percent
+45
+United Arab Emirates
+32.1 percent
+46
+Brunei Darussalam
+31.7 percent
+47
+Hungary
+31.7 percent
+48
+Costa Rica
+31.4 percent
+49
+Dominica
+31.3 percent
+50
+Oman
+31.1 percent
+51
+El Salvador
+30.9 percent
+52
+South Africa
+30.8 percent
+53
+Croatia
+30.6 percent
+54
+Grenada
+30.3 percent
+55
+Australia
+30.2 percent
+56
+Eswatini
+30.1 percent
+57
+Uzbekistan
+30.0 percent
+58
+Lebanon
+29.8 percent
+59
+Honduras
+29.5 percent
+60
+Seychelles
+29.4 percent
+61
+Dominican Republic
+29.3 percent
+62
+Suriname
+29.0 percent
+63
+Bolivia
+28.7 percent
+64
+Guyana
+28.5 percent
+65
+Ireland
+28.3 percent
+66
+Brazil
+28.1 percent
+67
+Trinidad and Tobago
+28.1 percent
+68
+Greece
+28.0 percent
+69
+North Macedonia
+27.5 percent
+70
+Poland
+27.5 percent
+71
+Ecuador
+27.4 percent
+72
+Peru
+27.3 percent
+73
+Greenland
+27.0 percent
+74
+Tunisia
+26.8 percent
+75
+Slovak Republic
+26.8 percent
+76
+United Kingdom
+26.8 percent
+77
+Guatemala
+26.8 percent
+78
+Kyrgyz Republic
+26.6 percent
+79
+Azerbaijan
+26.5 percent
+80
+Canada
+26.2 percent
+81
+Czechia
+26.0 percent
+82
+Lithuania
+25.4 percent
+83
+Armenia
+24.5 percent
+84
+Latvia
+24.3 percent
+85
+Iran
+24.3 percent
+86
+Russia
+24.2 percent
+87
+Mongolia
+24.1 percent
+88
+Algeria
+23.8 percent
+89
+Tajikistan
+23.8 percent
+90
+Ukraine
+23.6 percent
+91
+Colombia
+23.6 percent
+92
+Albania
+23.4 percent
+93
+Pakistan
+23.0 percent
+94
+Moldova
+23.0 percent
+95
+Cyprus
+22.9 percent
+96
+Venezuela
+22.7 percent
+97
+Mauritania
+22.7 percent
+98
+Solomon Islands
+22.6 percent
+99
+Serbia
+22.5 percent
+100
+Israel
+22.5 percent
+101
+Estonia
+22.2 percent
+102
+Malaysia
+22.1 percent
+103
+Portugal
+21.8 percent
+104
+Morocco
+21.8 percent
+105
+Cuba
+21.8 percent
+106
+Finland
+21.5 percent
+107
+Turkmenistan
+21.4 percent
+108
+Belarus
+21.4 percent
+109
+Vanuatu
+21.3 percent
+110
+Iceland
+21.2 percent
+111
+Bosnia and Herzegovina
+21.2 percent
+112
+Gabon
+21.0 percent
+113
+Lesotho
+21.0 percent
+114
+Bulgaria
+20.6 percent
+115
+Papua New Guinea
+20.5 percent
+116
+Germany
+20.4 percent
+117
+Belgium
+20.0 percent
+118
+Slovenia
+19.4 percent
+119
+Mauritius
+19.2 percent
+120
+Afghanistan
+19.2 percent
+121
+Norway
+19.1 percent
+122
+Luxembourg
+18.4 percent
+123
+Kazakhstan
+18.4 percent
+124
+Botswana
+18.3 percent
+125
+Andorra
+18.1 percent
+126
+Montenegro
+18.0 percent
+127
+Equatorial Guinea
+17.7 percent
+128
+Maldives
+17.3 percent
+129
+Italy
+17.3 percent
+130
+Liberia
+17.0 percent
+131
+Sudan
+17.0 percent
+132
+Namibia
+17.0 percent
+133
+Sao Tome and Principe
+16.5 percent
+134
+Comoros
+16.3 percent
+135
+Cabo Verde
+15.8 percent
+136
+Spain
+15.7 percent
+137
+Thailand
+15.4 percent
+138
+Austria
+15.4 percent
+139
+Sweden
+15.3 percent
+140
+Gambia
+14.9 percent
+141
+Cameroon
+14.9 percent
+142
+Somalia
+14.6 percent
+143
+Netherlands
+14.5 percent
+144
+Zimbabwe
+14.2 percent
+145
+Singapore
+13.9 percent
+146
+Yemen
+13.7 percent
+147
+Denmark
+13.3 percent
+148
+Ghana
+12.9 percent
+149
+Tanzania
+12.6 percent
+150
+Kenya
+12.4 percent
+151
+Nigeria
+12.4 percent
+152
+Bhutan
+12.2 percent
+153
+Switzerland
+12.1 percent
+154
+Cote d’Ivoire
+11.6 percent
+155
+Togo
+11.6 percent
+156
+Angola
+11.5 percent
+157
+Guinea-Bissau
+11.5 percent
+158
+Mali
+11.4 percent
+159
+Djibouti
+11.3 percent
+160
+Indonesia
+11.2 percent
+161
+Benin
+11.2 percent
+162
+Zambia
+11.1 percent
+163
+North Korea
+10.8 percent
+164
+Haiti
+10.7 percent
+165
+Sri Lanka
+10.6 percent
+166
+Mozambique
+10.3 percent
+167
+Senegal
+10.2 percent
+168
+France
+9.7 percent
+169
+Guinea
+9.5 percent
+170
+Central African Republic
+9.3 percent
+171
+Philippines
+8.7 percent
+172
+South Sudan
+8.6 percent
+173
+Republic of the Congo
+8.5 percent
+174
+China
+8.3 percent
+175
+Laos
+8.0 percent
+176
+Uganda
+7.9 percent
+177
+Malawi
+7.7 percent
+178
+Myanmar
+7.4 percent
+179
+South Korea
+7.3 percent
+180
+India
+7.3 percent
+181
+Sierra Leone
+7.1 percent
+182
+Nepal
+7.0 percent
+183
+Burkina Faso
+6.7 percent
+184
+Chad
+6.7 percent
+185
+Democratic Republic of the Congo
+6.6 percent
+186
+Niger
+6.0 percent
+187
+Japan
+5.5 percent
+188
+Bangladesh
+5.3 percent
+189
+Burundi
+5.0 percent
+190
+Rwanda
+4.9 percent
+191
+Eritrea
+4.8 percent
+192
+Cambodia
+4.4 percent
+193
+Madagascar
+4.3 percent
+194
+Ethiopia
+2.8 percent
+195
+Timor-Leste
+2.4 percent
+196
+Viet Nam
+2.0 percent
+Assessment Quiz
+After reading the above debate, take our assessment quiz to test your knowledge of this issue. Good luck!
+1-minute Survey
+After reading this debate, take our quick survey to see how this information affected your opinion of this topic. We appreciate your feedback.
+Discussion Questions
+Should obesity be treated as a disease? Why or why not?
+Should obesity be treated as a disease? Why or why not?
+Should obesity be treated with medication? Why or why not?
+Should obesity be treated with medication? Why or why not?
+How can we treat obesity socially? Consider transportation seat sizes, meal portions, and clothing size availability, among other factors that make navigating the world difficult for some. Explain your answer.
+How can we treat obesity socially? Consider transportation seat sizes, meal portions, and clothing size availability, among other factors that make navigating the world difficult for some. Explain your answer.
+Take Action
+Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+Consider how you felt about the issue before reading this article. After reading the pros and cons on this topic, has your thinking changed? If so, how? List two to three ways. If your thoughts have not changed, list two to three ways your better understanding of the “other side of the issue” now helps you better argue your position.
+Sources
+World Health Organization, “Obesity” (accessed July 8, 2024), who.int
+National Institutes of Health National Institute of Diabetes and Digestive and Kidney Diseases, “Overweight and Obesity Statistics” (September 2021), niddk.nih.gov
+Encyclopaedia Britannica, “Body Mass Index” (July 7, 2023), britannica.com
+Dani Blum, “Medical Group Says B.M.I. Alone Is Not Enough to Assess Health and Weight” (June 15, 2023), nytimes.com
+Becca Muir, “Opinion: Women with Obesity Are Often Restricted from IVF. That’s Discriminatory” (January 14, 2024), npr.org
+Museum of London, “Fat and Social Identity” (accessed July 3, 2024), museumoflondon.org.uk
+Linda Gerhardt, “The Rebellious History of the Fat Acceptance Movement” (accessed August 14, 2024), centerfordiscovery.com
+CDC, “Adult Obesity Prevalence Maps” (September 21, 2023), cdc.gov
+CDC, “Adult Obesity Facts” (May 14, 2024), cdc.gov
+Emily Laurence, “Obesity Statistics and Facts in 2024” (January 10, 2024), forbes.com
+CDC, "Adult Obesity Facts” (March 28, 2014), cdc.gov
+National Bureau of Economic Research (NBER), "Economic Explanations of Increased Obesity” (accessed April 24, 2014), nber.org
+Trust for America’s Health, “State of Obesity 2022: Better Policies for a Healthier America” (September 27, 2022), tfah.org
+WHO, “Prevalence of Obesity among Adults, BMI >= 30 (Age-Standardized Estimate) (%)” (February 29, 2024), who.int
+WHO, “Obesity: Preventing and Managing the Global Epidemic: Report of a WHO Consultation on Obesity, Geneva, 3–5 June 1997” (June 3-5, 1997), iris.who.int
+Food and Drug Administration (FDA), "Regulations on Statements Made for Dietary Supplements Concerning the Effect of the Product on the Structure or Function of the Body; Final Rule” (January 6, 1999), fda.gov
+National Institutes of Health (NIH), "Understanding Adult Obesity,” (November 2008), win.niddk.nih.gov
+American Heart Association, "Treating Obesity as a Disease” (April 14, 2014), heart.org
+World Health Organization (WHO), "Obesity: Preventing and Managing the Global Epidemic” (2000), who.int
+Internal Revenue Service (IRS), “26CFR1.213-1” (2002), irs.gov
+National Institutes of Health (NIH), "Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults” (September 1998), nih.gov
+American College of Gastroenterology (ACG), "Obesity: A Growing & Dangerous Public Health Challenge” (2008), gi.org
+AAFP, "Diagnosis and Management of Obesity” (2013), aafp.org
+Obesity Medical Association, “Why Obesity Is a Disease” (December 30, 2023), obesitymedicine.org
+CDC, “Consequences of Obesity” (July 15, 2022), cdc.gov
+World Health Organization, “Time to Accept That Obesity Is a Disease – Austria Is Building a National System to Treat It” (accessed July 2, 2024), who.int
+Karen Weintraub, “Obesity Was Long Considered a Personal Failing. Science Shows It’s Not.” (July 26, 2022), usatoday.com
+Gina Kolata, “Doctors Test the Limits of What Obesity Drugs Can Fix” (June 18, 2024), nytimes.com
+Christopher Thompson, “Obesity Is a Disease. It’s Time We Treat It like One” (February 28, 2024), forbes.com
+William H. Dietz, “Obesity Is a Chronic Disease: Instead of Punishing Patients, Provide Access to Treatment” (August 18, 2022), healthaffairs.org
+Jamie Ducharme, “Should We End Obesity?” (November 8, 2023), time.com
+Erika Aparecida Silveira, et al., “Sedentary Behavior, Physical Inactivity, Abdominal Obesity and Obesity in Adults and Older Adults: A Systematic Review and Meta-Analysis” (August 2022), Clinical Nutrition ESPEN , sciencedirect.com
+Siqing Chen, et al., “Sedentary Behavior, Physical Activity, Sleep Duration and Obesity Risk: Mendelian Randomization Study” (March 8, 2024), PLoS One , ncbi.nlm.nih.gov
+Mehmet Gülü, et al., “Exploring Obesity, Physical Activity, and Digital Game Addiction Levels among Adolescents: A Study on Machine Learning-Based Prediction of Digital Game Addiction” (March 2, 2023), Frontiers in Psychology , frontiersin.org
+Ülkü Yıldız, et al., “The Relationship between Obesity and Internet Addiction in University Students: A Cross-Sectional Study” (January 11, 2024), American Journal of Health Promotion , journals.sagepub.com
+Şulenur Duran and Dilek Küçük Alemdar, “Investigation of the Correlation between Internet Addiction, Obesity Risk and Sleep Disorder in Children” (October 19, 2023), Journal of Pediatric Nursing , sciencedirect.com
+Allison Aubrey, “Wegovy Works. But Here’s What Happens If You Can’t Afford to Keep Taking the Drug” (January 30, 2023), npr.org
+Jennifer Couzin-Frankel, “A Lighter Burden” (July 29, 2021), science.org
+Stephanie Watson, “Polycystic Ovary Syndrome (PCOS) and Weight Gain” (March 2, 2023), webmd.com
+Sydney Barrera and Rachel Goodwin, “Toxic Body Positivity” (July 6, 2023), suncloudhealth.com
+Caitlin Harper, “Toxic Positivity And Its Impact On Our Mental Health” (accessed August 15, 2024), mywellbeing.com
+Danielle Crittenden, “The Danger of Fat Acceptance” (June 6, 2022), femsplainers.substack.com
+Lizzie Cernik, “It’s Not Fine to Be Fat. Celebrating Obesity Is Irresponsible” (April 10, 2018), theguardian.com
+Editors of Encyclopaedia Britannica, “Body Mass Index” (January 3, 2024), britannica.com
+Everett Munez, “How Is BMI Calculated?” (accessed January 4, 2024), britannica.com
+Keith Devlin, “Top 10 Reasons Why the BMI Is Bogus” (July 4, 2009), npr.org
+Rajive Patel, “The History of BMI: How It Has Developed over Time” (October 19, 2023), nowpatient.com
+Maani Truu, “The Really Old, Racist and Non-Medical Origins of the BMI” (January 1, 2022), abc.net.au
+Rachel Pray and Suzanne Riskin, “The History and Faults of the Body Mass Index and Where to Look Next: A Literature Review” (November 3, 2023), cureus.com
+Sabrina Strings, “How the Use of BMI Fetishizes White Embodiment and Racializes Fat Phobia” (July 2023), journalofethics.ama-assn.org
+Katherine M. Flegal, “Use and Misuse of BMI Categories” (July 2023), journalofethics.ama-assn.org
+Garabed Eknoyan, “Adolphe Quetelet (1796–1874)–the Average Man and Indices of Obesity” (September 22, 2007), pubmed.ncbi.nlm.nih.gov
+American Medical Association, “AMA Adopts New Policy Clarifying Role of BMI as a Measure in Medicine” (June 14, 2023), ama-assn.org
+The Lancet Diabetes & Endocrinology , “Definition and Diagnostic Criteria of Clinical Obesity” (January 14, 2025), thelancet.com
+Gina Kolata, “New Obesity Definition Challenges Current Use of B.M.I.” (January 14, 2025), nytimes.com
+CDC, “Adult Obesity Prevalence Maps” (September 12, 2024), cdc.gov
+World Bank Group, “Prevalence of Obesity Among Adults (%)” (November 18, 2024), humancapital.worldbank.org
+CDC, “Adult Obesity Facts” (May 14, 2024), cdc.gov
+Hannah Demissie, Rachel Scott, and Sarah Beth Hensley, “Presidential Fitness Test to return through Trump executive order” (July 31, 2025), abcnews.go.com
+Endocrine Society, “Obesity-associated cancers tripled nationwide over past two decades” (July 13, 2025), endocrine.org
+Garabed Eknoyan, “A History of Obesity, or How What Was Good Became Ugly and Then Bad,” Advances in Chronic Kidney Disease and Health (October 2006), akdh.org
+Robin Givhan, “Milan’s Beef About Skeletal Models” (December 7, 2006), washingtonpost.com
+Roni Caryn Rabin, “In the Fatosphere, Big Is In, or at Least Accepted” (Jan. 22, 2008), nytimes.com

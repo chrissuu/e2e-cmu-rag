@@ -1,0 +1,18 @@
+Compounding is when the earnings from an investment (e.g., interest on a bond or certificate of
+                    deposit) are
+                    added to your original investment pile, and those earnings then build upon themselves. Here’s
+                    how it works:
+Suppose you invest $5,000 in a five-year CD paying 5% per year, with no
+                    compounding, and you
+                    make no additional contributions along the way. You would earn $250 per year, and your $5,000
+                    would become $6,250 . Not bad, but if your interest compounded annually, you’d get $250 the
+                    first year,
+                    then $262.50, $275.62, $289.40, and $303.87 for a grand total of $6,381.41 at maturity.
+Use the calculator to play around with the inputs. Change the compounding frequency from
+                    annually to monthly,
+                    and it’s $6,416.79 . Raise the interest rate to 6%, and get $6,744.25 .
+But here’s where it gets interesting. Suppose you contribute that same $5,000 each year
+                    throughout a 40-year
+                    career. That pile, compounded annually at 6%, would grow to $825,238.42 . The
+                    earlier you
+                    start, the more interest you’ll earn on your interest.
