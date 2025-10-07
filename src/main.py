@@ -20,7 +20,7 @@ if torch.cuda.is_available():
     print("GPU name:", torch.cuda.get_device_name(0))
 
 
-model_id = "meta-llama/Llama-3.1-8B-Instruct"  # you can also use 70B, 405B, etc.
+model_id = "meta-llama/Llama-3.1-8B"  # you can also use 70B, 405B, etc.
 
 chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
@@ -67,8 +67,8 @@ outputs = pipe(
     qa_prompt,
     max_new_tokens=256,
     do_sample=True,
-    temperature=0.01,
-    top_p=0
+    temperature=0.4,
+    # top_p=0
 )
 
-print(outputs[0]["generated_text"])
+print(outputs)
