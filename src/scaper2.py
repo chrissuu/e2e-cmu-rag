@@ -1,5 +1,7 @@
-import argparse, hashlib, io, json, os, re, sys, time
+import argparse, hashlib, io, json, os, queue, re, sys, time
+from dataclasses import dataclass
 from urllib.parse import urlparse, urljoin
+from urllib import robotparser
 
 import requests
 from bs4 import BeautifulSoup
@@ -8,12 +10,30 @@ import pdfplumber
 from pypdf import PdfReader
 from tqdm import tqdm
 
+# ---------- utilities ----------
+SAFE_FILENAME_RE = re.compile(r"[^a-zA-Z0-9._-]+")
+
+def domain_of(url: str) -> str:
+    return urlparse(url).netloc
+
+def same_domain(a: str, b: str) -> bool:
+    return domain_of(a).lower() == domain_of(b).lower()
+
+def normalize(url: str) -> str:
+    p = urlparse(url)
+    fragless = p._replace(fragment="")
+    path = re.sub(r"/{2,}", "/", fragless.path or "/")
+    netloc = fragless.netloc.replace(":80", "").replace(":443", "")
+    return fragless._replace(path=path, netloc=netloc).geturl()
+
+def is_pdf_url(url: str) -> bool:
+    base = url.split("?", 1)[0].lower()
+    return base.endswith(".pdf")
+
 def sha256_bytes(b: bytes) -> str:
     return hashlib.sha256(b).hexdigest()
 
-SAFE_FILENAME_RE = re.compile(r"[^a-zA-Z0-9._-]+")
-
-def safe_filename_from_url(url: str, ext_hint: str) -> str:
+def safe_leaf_from_url(url: str, ext_hint: str) -> str:
     p = urlparse(url)
     path = p.path or "/"
     fn = path.strip("/").replace("/", "_") or "index"
@@ -23,15 +43,8 @@ def safe_filename_from_url(url: str, ext_hint: str) -> str:
         fn += ext_hint
     return fn
 
-def domain_of(url: str) -> str:
-    return urlparse(url).netloc
-
-def is_pdf_url(url: str) -> bool:
-    low = url.lower()
-    return low.endswith(".pdf") or ".pdf?" in low
-
-def ensure_dir(path: str):
-    os.makedirs(path, exist_ok=True)
+def ensure_dir(d: str):
+    os.makedirs(d, exist_ok=True)
 
 def save_bytes(path: str, data: bytes):
     ensure_dir(os.path.dirname(path))
@@ -53,19 +66,18 @@ def html_title(html: str) -> str:
     return ""
 
 def html_to_clean_text(html: str) -> str:
+    # try readability → fall back to simple stripping
     try:
         doc = Document(html)
         content_html = doc.summary()
         soup = BeautifulSoup(content_html, "lxml")
     except Exception:
         soup = BeautifulSoup(html, "lxml")
-
     for tag in soup(["script", "style", "noscript", "template"]):
         tag.decompose()
     for sel in ["nav", "header", "footer", "aside"]:
         for t in soup.select(sel):
             t.decompose()
-
     lines = []
     for el in soup.find_all(["h1","h2","h3","h4","h5","h6","p","li","td","th"]):
         txt = el.get_text(" ", strip=True)
@@ -74,14 +86,12 @@ def html_to_clean_text(html: str) -> str:
     return "\n".join(lines).strip()
 
 def pdf_to_text(pdf_bytes: bytes) -> str:
-    # try pdfplumber first
     try:
         with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
             pages = [p.extract_text() or "" for p in pdf.pages]
             return "\n".join(pages).strip()
     except Exception:
         pass
-    # fallback to pypdf
     try:
         reader = PdfReader(io.BytesIO(pdf_bytes))
         pages = []
@@ -91,139 +101,225 @@ def pdf_to_text(pdf_bytes: bytes) -> str:
     except Exception:
         return ""
 
-# ---------- core ----------
-def fetch(session: requests.Session, url: str, timeout: int, retries: int = 2):
+# ---------- fetching ----------
+def build_session(user_agent: str):
+    s = requests.Session()
+    s.headers.update({"User-Agent": user_agent})
+    return s
+
+def polite_get(session, url, timeout, retries, rate_limit_s):
     last_err = None
-    for _ in range(retries + 1):
+    for attempt in range(retries + 1):
         try:
+            time.sleep(max(0.0, rate_limit_s))
             resp = session.get(url, timeout=timeout)
             if 200 <= resp.status_code < 300:
                 return resp
+            last_err = RuntimeError(f"HTTP {resp.status_code}")
         except Exception as e:
             last_err = e
-        time.sleep(0.6)
-    if last_err:
-        raise last_err
-    raise RuntimeError(f"Failed to fetch {url}")
+        time.sleep(0.6 * (attempt + 1))
+    raise last_err
 
-def extract_linked_pdfs(html_bytes: bytes, base_url: str) -> list[str]:
+# ---------- crawl config ----------
+@dataclass
+class CrawlOpts:
+    seeds: list
+    max_depth: int
+    max_pages: int
+    allow_regex: list
+    deny_regex: list
+    also_linked_pdfs: bool
+    same_domain_only: bool
+    out_root: str
+    user_agent: str
+    timeout: int
+    retries: int
+    rate_limit_s: float
+    respect_robots: bool
+
+def compile_res(pats):
+    return [re.compile(p) for p in pats]
+
+def allowed(url: str, allow_res, deny_res):
+    if any(r.search(url) for r in deny_res):
+        return False
+    if not allow_res:
+        return True
+    return any(r.search(url) for r in allow_res)
+
+def get_robot_parser(seed_url: str, respect: bool):
+    rp = robotparser.RobotFileParser()
+    if not respect:
+        rp.can_fetch = lambda *args, **kwargs: True
+        return rp
+    robots_url = f"{urlparse(seed_url).scheme}://{domain_of(seed_url)}/robots.txt"
     try:
-        soup = BeautifulSoup(html_bytes, "lxml")
+        rp.set_url(robots_url); rp.read()
     except Exception:
-        return []
-    urls = []
-    for a in soup.find_all("a", href=True):
-        href = a["href"].strip()
-        full = urljoin(base_url, href)
-        if is_pdf_url(full):
-            urls.append(full)
-    # de-dup while preserving order
+        rp.can_fetch = lambda *args, **kwargs: True
+    return rp
+
+# ---------- main crawl ----------
+def crawl(opts: CrawlOpts):
+    session = build_session(opts.user_agent)
     seen = set()
-    out = []
-    for u in urls:
-        if u not in seen:
-            out.append(u); seen.add(u)
-    return out
+    q = queue.Queue()
+    total_saved = 0
 
-def process_url(session, url, out_root, ua, also_linked_pdfs, manifest_fp):
-    dom = domain_of(url)
-    raw_dir = os.path.join(out_root, "raw", SAFE_FILENAME_RE.sub("_", dom))
-    txt_dir = os.path.join(out_root, "cleaned", SAFE_FILENAME_RE.sub("_", dom))
+    manifest_path = os.path.join(opts.out_root, "manifest.jsonl")
+    ensure_dir(opts.out_root)
+    ensure_dir(os.path.join(opts.out_root, "raw"))
+    ensure_dir(os.path.join(opts.out_root, "cleaned"))
 
-    # fetch
-    resp = fetch(session, url, timeout=25)
-    ctype = (resp.headers.get("Content-Type") or "").lower()
-    content = resp.content
+    rp_map = {}
+    for s in opts.seeds:
+        d = domain_of(s)
+        if d not in rp_map:
+            rp_map[d] = get_robot_parser(s, opts.respect_robots)
 
-    # save raw
-    is_pdf = is_pdf_url(url) or ("application/pdf" in ctype)
-    raw_leaf = safe_filename_from_url(url, ".pdf" if is_pdf else ".html")
-    raw_path = os.path.join(raw_dir, raw_leaf)
-    save_bytes(raw_path, content)
+    allow_res = compile_res(opts.allow_regex)
+    deny_res  = compile_res(opts.deny_regex)
 
-    sha = sha256_bytes(content)
+    for s in opts.seeds:
+        q.put((normalize(s), 0))
 
-    # convert to text
-    if is_pdf:
-        text = pdf_to_text(content)
-        title = ""
-        mime = "application/pdf"
-    else:
-        html = content.decode("utf-8", errors="replace")
-        text = html_to_clean_text(html)
-        title = html_title(html)
-        mime = "text/html"
-
-    # save text
-    txt_leaf = safe_filename_from_url(url, ".txt")
-    text_path = os.path.join(txt_dir, txt_leaf)
-    save_text(text_path, text)
-
-    rec = {
-        "url": url,
-        "title": title,
-        "domain": dom,
-        "mime": mime,
-        "sha256": sha,
-        "raw_path": raw_path,
-        "text_path": text_path,
-    }
-    manifest_fp.write(json.dumps(rec, ensure_ascii=False) + "\n")
-
-    # optionally, pull any PDFs linked ON THIS PAGE (no further crawling)
-    new_pdf_urls = []
-    if (not is_pdf) and also_linked_pdfs:
-        new_pdf_urls = extract_linked_pdfs(content, url)
-    return new_pdf_urls
-
-def main():
-    ap = argparse.ArgumentParser(description="Minimal: scrape exactly the URLs you list (optional: PDFs linked on those pages).")
-    ap.add_argument("--input", required=True, help="Path to a text file with one URL per line")
-    ap.add_argument("--out", default="out", help="Output root directory (default: out)")
-    ap.add_argument("--also-linked-pdfs", action="store_true", help="Also download PDFs linked from the listed HTML pages")
-    ap.add_argument("--user-agent", default=None, help="Custom User-Agent (recommended)")
-    args = ap.parse_args()
-
-    ensure_dir(args.out)
-    ensure_dir(os.path.join(args.out, "raw"))
-    ensure_dir(os.path.join(args.out, "cleaned"))
-
-    urls = []
-    with open(args.input, "r", encoding="utf-8") as f:
-        for line in f:
-            u = line.strip()
-            if u and not u.startswith("#"):
-                urls.append(u)
-
-    if not urls:
-        print("No URLs found in input file.", file=sys.stderr)
-        sys.exit(1)
-
-    ua = args.user_agent or "SimpleScraper/1.0 (+contact@example.com)"
-    session = requests.Session()
-    session.headers.update({"User-Agent": ua})
-
-    manifest_path = os.path.join(args.out, "manifest.jsonl")
     with open(manifest_path, "w", encoding="utf-8") as mf:
-        pbar = tqdm(urls, desc="Scraping")
-        extra_pdf_queue = []
-        for url in pbar:
+        pbar = tqdm(total=opts.max_pages, desc="Crawling")
+        while not q.empty() and total_saved < opts.max_pages:
+            url, depth = q.get()
+            if url in seen:
+                continue
+            seen.add(url)
+
+            rp = rp_map.get(domain_of(url))
+            if rp is None:
+                rp = get_robot_parser(url, opts.respect_robots)
+                rp_map[domain_of(url)] = rp
+            if not rp.can_fetch(opts.user_agent, url):
+                continue
+
             try:
-                new_pdfs = process_url(session, url, args.out, ua, args.also_linked_pdfs, mf)
-                extra_pdf_queue.extend(new_pdfs)
+                resp = polite_get(session, url, opts.timeout, opts.retries, opts.rate_limit_s)
             except Exception as e:
-                print(f"[warn] {url}: {e}", file=sys.stderr)
+                print(f"[warn] fetch failed: {url} :: {e}", file=sys.stderr)
+                continue
 
-        # process one layer of PDFs found on those pages (no recursion)
-        if args.also_linked_pdfs and extra_pdf_queue:
-            pbar2 = tqdm(extra_pdf_queue, desc="Downloading linked PDFs")
-            for pdf_url in pbar2:
+            ctype = (resp.headers.get("Content-Type") or "").lower()
+            content = resp.content
+            dom = domain_of(url)
+            dom_dir = SAFE_FILENAME_RE.sub("_", dom)
+
+            is_pdf = is_pdf_url(url) or ("application/pdf" in ctype)
+            raw_leaf = safe_leaf_from_url(url, ".pdf" if is_pdf else ".html")
+            raw_path = os.path.join(opts.out_root, "raw", dom_dir, raw_leaf)
+            save_bytes(raw_path, content)
+
+            if is_pdf:
+                txt = pdf_to_text(content)
+                title = ""
+                mime = "application/pdf"
+            else:
+                html = content.decode("utf-8", errors="replace")
+                txt  = html_to_clean_text(html)
+                title = html_title(html)
+                mime = "text/html"
+
+            txt_leaf = safe_leaf_from_url(url, ".txt")
+            text_path = os.path.join(opts.out_root, "cleaned", dom_dir, txt_leaf)
+            save_text(text_path, txt)
+
+            rec = {
+                "url": url,
+                "title": title,
+                "domain": dom,
+                "mime": mime,
+                "sha256": sha256_bytes(content),
+                "raw_path": raw_path,
+                "text_path": text_path,
+                "depth": depth,
+            }
+            mf.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            total_saved += 1
+            pbar.update(1)
+
+            # enqueue links if html and depth allows
+            if (not is_pdf) and (depth < opts.max_depth):
                 try:
-                    process_url(session, pdf_url, args.out, ua, False, mf)
-                except Exception as e:
-                    print(f"[warn] {pdf_url}: {e}", file=sys.stderr)
+                    soup = BeautifulSoup(content, "lxml")
+                except Exception:
+                    soup = None
+                if soup:
+                    base = url
+                    for a in soup.find_all("a", href=True):
+                        nxt = urljoin(base, a["href"].strip())
+                        nxt = normalize(nxt)
 
-    print(f"Done. Manifest: {manifest_path}")
+                        # PDFs: optional off-domain inclusion
+                        if is_pdf_url(nxt):
+                            if opts.also_linked_pdfs and nxt not in seen:
+                                q.put((nxt, depth + 1))
+                            continue
+
+                        # HTML pages: same-domain by default
+                        if opts.same_domain_only and not same_domain(url, nxt):
+                            continue
+
+                        if allowed(nxt, allow_res, deny_res):
+                            if nxt not in seen:
+                                q.put((nxt, depth + 1))
+        pbar.close()
+
+    print(f"Done. Saved {total_saved} pages. Manifest: {manifest_path}")
+    print(f"Text files ready at: {os.path.join(opts.out_root, 'cleaned')}")
+
+# ---------- CLI ----------
+def parse_args():
+    ap = argparse.ArgumentParser(description="Auto-scrape seeds and their same-domain subpages (clean text output).")
+    ap.add_argument("--seed", action="append", help="Seed URL (repeatable).")
+    ap.add_argument("--seed-file", help="Path to a text file with one seed URL per line.")
+    ap.add_argument("--max-depth", type=int, default=3, help="Max link depth from seeds (default: 3).")
+    ap.add_argument("--max-pages", type=int, default=2000, help="Global page cap (default: 2000).")
+    ap.add_argument("--also-linked-pdfs", action="store_true", help="Also download PDFs linked on crawled pages.")
+    ap.add_argument("--same-domain-only", action="store_true", default=True, help="Limit to same-domain HTML pages (default).")
+    ap.add_argument("--no-same-domain-only", dest="same_domain_only", action="store_false", help="Allow cross-domain HTML pages if allowed by regex.")
+    ap.add_argument("--allow", action="append", default=[], help="Regex of URLs to allow (repeatable).")
+    ap.add_argument("--deny", action="append", default=[], help="Regex of URLs to deny (repeatable).")
+    ap.add_argument("--out", default="out", help="Output root directory (default: out)")
+    ap.add_argument("--user-agent", default="AutoScraper/1.0 (+contact@example.com)", help="Custom User-Agent (add a contact email).")
+    ap.add_argument("--timeout", type=int, default=25, help="HTTP timeout seconds (default: 25)")
+    ap.add_argument("--retries", type=int, default=2, help="HTTP retries (default: 2)")
+    ap.add_argument("--rate-limit", type=float, default=1.0, help="Seconds between requests (default: 1.0)")
+    ap.add_argument("--respect-robots", action="store_true", default=True, help="Respect robots.txt (default).")
+    ap.add_argument("--no-respect-robots", dest="respect_robots", action="store_false", help="Do not respect robots.txt (use with caution).")
+    return ap.parse_args()
 
 if __name__ == "__main__":
-    main()
+    args = parse_args()
+    seeds = list(args.seed or [])
+    if args.seed_file:
+        with open(args.seed_file, "r", encoding="utf-8") as f:
+            for line in f:
+                u = line.strip()
+                if u and not u.startswith("#"):
+                    seeds.append(u)
+    if not seeds:
+        print("No seeds provided. Use --seed or --seed-file.", file=sys.stderr)
+        sys.exit(1)
+
+    opts = CrawlOpts(
+        seeds=seeds,
+        max_depth=args.max_depth,
+        max_pages=args.max_pages,
+        allow_regex=args.allow,
+        deny_regex=args.deny,
+        also_linked_pdfs=args.also_linked_pdfs,
+        same_domain_only=args.same_domain_only,
+        out_root=args.out,
+        user_agent=args.user_agent,
+        timeout=args.timeout,
+        retries=args.retries,
+        rate_limit_s=args.rate_limit,
+        respect_robots=args.respect_robots,
+    )
+    crawl(opts)
