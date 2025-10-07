@@ -1,0 +1,75 @@
+In This Section Snow Plow Tracker Snow & Ice Immigrant and Refugee Affairs Snow Plow Tracker City of Pittsburgh snow vehicles are hard at work treating City streets, but you may not see all of their work on the tracker at this time. We are working to resolve the issue with these vehicles as soon as possible.
+
+Snow Plow Tracker App v.2.0 Your browser does not support inline frames.
+
+Launch Fullscreen Map What does the Plow Tracker 2.0 show me?
+
+The Plow Tracker v 2.0 displays the history trail of Public Works vehicles conducting deicing and/or anti-icing and plowing operations. Vehicle travel on City streets is displayed with a pink history trail.
+
+Street treatment efforts can be tracked within the last 1, 2, 4, 8, 12, and 24 hours by selecting the desired interval below the map.
+
+Roads are color-coded to show the City’s treatment responsibilities.
+
+City Treatment Responsibility Other Treatment Responsibility Green – County (County responsibility) Lilac – Private Where are the trucks treating the city’s streets?
+
+Current vehicle location is displayed with a vehicle icon on the screen on the “Now” and 2, 4, 12, and 24 interval time displays.
+
+The Plow Tracker v 2.0 does not display the current location of vehicles traveling slower than 2.5 m.p.h., or if the ignition is off. To ensure drivers are able to treat the roads without interruption, vehicle icons are presented with a time delay.
+
+How can I navigate to my street?
+
+What does treatment mean?
+
+Treatment is the application of anti-icing (before snow and ice arrive) and / or deicing (after snow / ice have fallen) materials. While their application indicates that the street has been treated it does not indicate that a street will be clear of any snow/ ice – that will happen when the temperatures are favorable (rising, not falling), the sun is prevalent and pedestrians and vehicles work the deicing and/or anti-icing material.
+
+Primary and secondary streets are treated simultaneously but during heavy snow or changing weather conditions Public Works vehicles may return to treating only primaries prior to returning to secondary and tertiary routes. The streets are categorized based on traffic volume.
+
+Who owns/maintains the street?
+
+In addition to City streets, Public Works conducts deicing and/or anti-icing operations on certain Allegheny County, and Commonwealth of Pennsylvania roads.
+
+Later this winter weather season we will update the Plow Tracker map to display city snow and ice treatment responsibility.
+
+Why do trucks go on streets that the city does not own or maintain?
+
+There are times that Public Works vehicles travel on streets they do not own or maintain: To efficiently connect to streets the city treats.
+
+To return to Public Works Division maintenance garages.
+
+To load more deicing and/or anti-icing materials.
+
+Why did the truck go halfway up the street and turn around?
+
+To apply deicing and/or anti-icing materials to streets during a winter weather event Public Works drivers may turn their vehicle around and back up steep hills because this is the most efficient and safest manner to treat the street. In other instances, drivers may encounter difficulty accessing narrow streets when cars are parked too far into the roadway. In such cases, the driver has to return in the hope the vehicle has moved or return with a smaller piece of equipment.
+
+Why is my de-icing material blue?
+
+For the 2018-19 winter weather season, Public Works is treating roads with a new rock salt made of Magnesium Chloride instead of Sodium Chloride treated with liquid Calcium Chloride. Magnesium Chloride is expected to have a lower melting point and better deicing capabilities, particularly at lower temperatures. Our new deicing material is treated with a blue pigment that enables residents and drivers to be better able to determine if the street has recently been treated.
+
+Don’t drive if you don’t have to!
+
+If you can delay your trip to allow our crews to get deicing and/or anti-icing materials down please do so.
+
+If you do, give the plow operators space to operate.
+
+Don’t park your car on a corner.
+
+If you have the ability to move your car off the street, we encourage you to do so.
+
+Don’t park your car too far in the street.
+
+Don’t shovel your snow into your street.
+
+Don’t clear your car into the street; clear it before you’re driving.
+
+Please be patient and give our crews the time needed to treat over 1,200 miles of streets.
+
+What are the snow levels and what do they mean?
+
+Public Works classifies storm conditions into Levels, which determine the required response for a given winter weather event. Based on the Levels, residents and drivers can expect that all streets will be treated in the following manner. Know that while there are periods when it is not snowing, that does not mean the weather event has ended.
+
+Level 0: No service response required.
+
+0.5" - 3" forecasted snow or ice Salting/plowing as needed Large equipment assigned to primary routes Small equipment assigned to secondary routes 3" - 6" forecasted snow or ice Salting/plowing as needed Emphasis on primary routes Small equipment assigned to secondary routes All DPW vehicles and equipment put into plow mode Recommend that resident vehicles be moved from side streets and alleys 6" - 10" forecasted snow or ice Salting/plowing as needed Heavy emphasis on emergency routes and primary routes; secondary and tertiary routes follow accordingly All DPW vehicles and equipment put into plow mode
+
+10+" forecasted snow or ice Primary focus on emergency routes, with primary, secondary and tertiary following accordingly Use of pre-qualified contractors activated as needed last updated: 04/04/2025 Back to top
