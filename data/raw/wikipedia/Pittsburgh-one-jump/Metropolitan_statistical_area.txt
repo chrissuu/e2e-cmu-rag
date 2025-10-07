@@ -1,0 +1,24 @@
+
+In the United States, a metropolitan statistical area (MSA) is a geographical region with a relatively high population density at its core and close economic ties throughout the region.[1][2] Such regions are not legally incorporated as a city or town would be and are not legal administrative divisions like counties or separate entities such as states. As a result, sometimes the precise definition of a given metropolitan area will vary between sources. The statistical criteria for a standard metropolitan area were defined in 1949 and redefined as a metropolitan statistical area in 1983.[3]
+
+Due to suburbanization, the typical metropolitan area is polycentric rather than being centered around a large historic core city such as New York City or Chicago.[4] Some metropolitan areas include more than one large historic core city; examples include the Dallas–Fort Worth metroplex, Virginia Beach–Norfolk–Newport News (Hampton Roads), Riverside–San Bernardino (Inland Empire), and Minneapolis–Saint Paul (Twin Cities). 
+
+MSAs are defined by the Office of Management and Budget (OMB), which is part of the Executive Office of the President, and are used by the U.S. Census Bureau and other U.S. federal government agencies for statistical purposes.[5]
+
+The U.S. Office of Management and Budget defines a set of core-based statistical areas (CBSAs) throughout the country, which are composed of counties and county equivalents.[7]
+
+CBSAs are delineated on the basis of a central contiguous area of relatively high population density, known as an urban area. The counties containing the core urban area are known as the "central counties" of the CBSA; these are defined as having at least 50% of their population living in urban areas of at least 10,000 in population.[8] Additional surrounding counties, known as "outlying counties", can be included in the CBSA if these counties have strong social and economic ties to the central county or counties as measured by commuting and employment. Outlying counties are included in the CBSA if 25% of the workers living in the county work in the central county or counties, or if 25% of the employment in the county is held by workers who live in the central county or counties.
+
+Adjacent CBSAs are merged into a single CBSA when the central county or counties of one CBSA qualify as an outlying county or counties to the other CBSAs.[8] One or more CBSAs may be grouped together or combined to form a larger statistical entity known as a combined statistical area (CSA) when the employment interchange measure (EIM) reaches 15% or more.
+
+CBSAs are subdivided into MSAs (formed around urban areas of at least 50,000 in population) and micropolitan statistical areas (μSAs), which are CBSAs built around an urban area of at least 10,000 in population but less than 50,000 in population. Some metropolitan areas may include multiple cities below 50,000 people, but combined have over 50,000 people.[8] Previous terms that are no longer used to describe these regions include "standard metropolitan statistical area" (SMSA) and "primary metropolitan statistical area" (PMSA).[9]
+
+On January 19, 2021, OMB submitted a regulation for public comment that would increase the minimum population needed for an urban area population to be a metropolitan statistical area to be increased from 50,000 to 100,000.[10] It ultimately decided to keep the minimum at 50,000 for the 2020 cycle.[11]
+
+On July 21, 2023, the Office of Management and Budget released revised delineations of the various CBSAs in the United States.[6]
+
+The Census Bureau created the metropolitan district for the 1910 census as a standardized classification for large urban centers and their surrounding areas. The original threshold for a metropolitan district was 200,000, but was lowered to 100,000 in 1930 and 50,000 in 1940.[12] The metropolitan districts were replaced by standard metropolitan areas (SMAs) in the 1950 census, which were defined by the Bureau of the Budget (now the Office of Management and Budget) and later renamed to standard metropolitan statistical areas (SMAs) in 1959.[12][13] The modern metropolitan statistical area was created in 1983 amid a large increase in the number of eligible markets, which grew from 172 in 1950 to 288 in 1980;[12][14] the core based statistical area (CBSA) was introduced in 2000 and defined in 2003 with a minimum population of 10,000 required for micropolitan areas and 50,000 for urban areas.[12][13]
+
+The 387 MSAs in the United States, including those in all 50 states and the national capital of Washington, D.C. are ranked, including: 
+
+This sortable table lists the six metropolitan statistical areas (MSAs) of Puerto Rico including:

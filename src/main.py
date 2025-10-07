@@ -1,4 +1,4 @@
-from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, pipeline
 import torch
 
 from sparse import SparseRetriever
@@ -22,20 +22,20 @@ if torch.cuda.is_available():
 
 model_id = "meta-llama/Llama-3.1-8B-Instruct"  # you can also use 70B, 405B, etc.
 
-chunking_strategy_info = {
+chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
     "window_length" : 8,
     "overlap_length" : 2,
 }
 
-output_configs = {
+output_config = {
     "print_info" : True
 }
 
 chunks = []
 file_paths = collect_file_paths(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump")
 for file_path in file_paths:
-    chunks.extend(chunk(file_path, chunking_strategy_info, output_configs))
+    chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
 retriever = SparseRetriever()
 retriever.build(chunks)
@@ -49,17 +49,13 @@ for doc_id, score in scored_doc_ids:
 
 qa_prompt = prompt(query, retrieved_chunks, k)
 
-# Load tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_id)
-
-# Load model (optionally with 8-bit quantization to save VRAM)
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
-    torch_dtype="auto",       # fp16/bf16 if supported
-    load_in_8bit=True        # set True if using bitsandbytes
+    dtype="auto",       # fp16/bf16 if supported
+    quantization_config=BitsAndBytesConfig(load_in_8bit=True)
 )
 
-# Create pipeline
 pipe = pipeline(
     "text-generation",
     model=model,
@@ -67,13 +63,12 @@ pipe = pipeline(
     device_map="auto"
 )
 
-# Run inference
 outputs = pipe(
     qa_prompt,
-    max_new_tokens=20000,
+    max_new_tokens=256,
     do_sample=True,
-    temperature=0.7,
-    top_p=0.9
+    temperature=0.01,
+    top_p=0
 )
 
 print(outputs[0]["generated_text"])

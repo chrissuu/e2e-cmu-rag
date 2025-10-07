@@ -1,0 +1,15 @@
+How does Penn Hills count among the "largest cities"?  Yes, it has a population exceeding Norristown, but I would imagine that several suburbs of Pittsburgh and Philadelphia could lay claim to that.  Nothing in the Penn Hills article leads me to an understanding of why it gets singled out.  -- Ventura 18:30, July 18, 2005 (UTC)
+
+^ I agree...Penn Hills, Levittown, Bethel Park, and Mt. Lebanon should all go.  They are glorified suburbs and there are other cities that could be placed on the template. Wrightchr
+
+Wikipedia:WikiProject U.S. states/state templates lists and displays all 50 U.S. state (and additional other) templates. It potentially can be used for ideas and standardization. //MrD9 07:25, 19 March 2006 (UTC)[reply]
+
+There is currently an ongoing discussion regarding standardization of state templates (primarily regarding layout and styling) at Wikipedia talk:WikiProject U.S. states/state templates. An effort was made earlier this year to standardize Canadian province templates (which mostly succeeded). Lovelac7 and I have already begun standardizing all state templates. If you have any concerns, they should be directed toward the discussion page for state template standardization. Thanks! — Webdinger BLAH | SZ 22:58, 27 August 2006 (UTC)[reply]
+
+I changed the near black background (at least on my screen) for the capital and regions rows to a light grey. The black made them nearly illegible. I realize there is standardization going on, but we don't want it to be standardly illegible - I used the same color as Template:Ohio does for the new backgrounds. Ruhrfisch 03:28, 5 September 2006 (UTC)[reply]
+
+According to the US Census map in New York metropolitan area, Pike County is in the area. As such, I am adding it. --AEMoreira042281 (talk) 04:07, 21 October 2008 (UTC)[reply]
+
+I appreciate that this is the official flag and we cannot change it but as a thumbnail it comes out very dark and hard to recognise any detail. Is there any other official seal or something we could use instead? --BozMo talk 10:12, 6 February 2009 (UTC)[reply]
+
+Is there a particular reason why this template is yellowish orange?  Wouldn't it be better to just go with the default used by {{navbox}} to avoid having a rainbow at the bottom of the page when this navbox is next to another one and per WP:ACCESSIBILITY?  Please let me know if there is a strong reason to have it a particular color.  I noticed this was attempted recently, but was reverted, so I thought I would be proactive and start a thread here to avoid an edit war. Thanks! Plastikspork ―Œ(talk) 21:33, 19 December 2010 (UTC)[reply]

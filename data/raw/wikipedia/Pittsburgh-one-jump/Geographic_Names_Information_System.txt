@@ -1,0 +1,95 @@
+The Geographic Names Information System (GNIS) is a database of name and location information about more than two million physical and cultural features, encompassing the United States and its territories; the associated states of the Marshall Islands, Micronesia, and Palau; and  Antarctica. It is a type of gazetteer. It was developed by the United States Geological Survey (USGS) in cooperation with the United States Board on Geographic Names (BGN) to promote the standardization of feature names.
+
+Data were collected in two phases.[1]
+Although a third phase was considered, which would have handled name changes where local usages differed from maps, it was never begun.[2]
+
+The database is part of a system that includes topographic map names and bibliographic references. The names of books and historic maps that confirm the feature or place name are cited. Variant names, alternatives to official federal names for a feature, are also recorded. Each feature receives a permanent, unique feature record identifier, sometimes called the GNIS identifier.[3] The database never removes an entry, "except in cases of obvious duplication."[4]
+
+The GNIS was originally designed for four major purposes: to eliminate duplication of effort at various other levels of government that were already compiling geographic data, to provide standardized datasets of geographic data for the government and others, to index all of the names found on official U.S. government federal and state maps, and to ensure uniform geographic names for the federal government.[5]
+
+Phase 1 lasted from 1978 to 1981, with a precursor pilot project run over the states of Kansas and Colorado in 1976, and produced 5 databases.[6][1][7]
+It excluded several classes of feature because they were better documented in non-USGS maps, including airports, the broadcasting masts for radio and television stations, civil divisions, regional and historic names, individual buildings, roads, and triangulation depot names.[8]
+
+The databases were initially available on paper (2 to 3 spiral-bound volumes per state), on microfiche, and on magnetic tape encoded (unless otherwise requested) in EBCDIC with 248-byte fixed-length records in 4960-byte blocks.[9]
+
+The feature classes for association with each name included (for examples) "locale" (a "place at which there is or was human activity" not covered by a more specific feature class), "populated place" (a "place or area with clustered or scattered buildings"), "spring" (a spring), "lava" (a lava flow, kepula, or other such feature), and "well" (a well).[10]
+Mountain features would fall into "ridge", "range", or "summit" classes.[11]
+
+A feature class "tank" was sometimes used for lakes, which was problematic in several ways.[12]
+This feature class was undocumented, and it was (in the words of a 1986 report from the Engineer Topographic Laboratories of the United States Army Corps of Engineers) "an unreasonable determination", with the likes of Cayuga Lake (in upstate New York) being labelled a "tank".[12]
+The USACE report assumed that "tank" meant "reservoir", and observed that often the coordinates of "tanks" were outside of their boundaries and were "possibly at the point where a dam is thought to be".[12]
+
+The National Geographic Names database (NGNDB[1] hereafter) was originally 57 computer files, one for each state and territory of the United States (except Alaska which got two) plus one for the District of Columbia.[13]
+The second Alaska file was an earlier database, the Dictionary of Alaska Place Names that had been compiled by the USGS in 1967.[13]
+A further two files were later added, covering the entire United States and that were abridged versions of the data in the other 57: one for the 50,000 most well known populated places and features, and one for most of the populated places.[14]
+The files were compiled from all of the names to be found on USGS topographic maps, plus data from various state map sources.[13]
+
+In phase 1, elevations were recorded in feet only, with no conversion to metric, and only if there was an actual elevation recorded for the map feature.[15]
+They were of either the lowest or highest point of the feature, as appropriate.[15]
+Interpolated elevations, calculated by interpolation between contour lines, were added in phase 2.[15]
+
+Names were the official name, except where the name contained diacritic characters that the computer file encodings of the time could not handle (which were in phase 1 marked with an asterisk for update in a later phase).[16]
+Generic designations were given after specific names, so (for examples) Mount Saint Helens was recorded as "Saint Helens, Mount", although cities named Mount Olive, not actually being mountains, would not take "Mount" to be a generic part and would retain their order "Mount Olive".[16]
+
+The primary geographic coordinates of features which occupy an area, rather than being a single point feature, were the location of the feature's mouth, or of the approximate center of the area of the feature.[17]
+Such approximate centers were "eye-balled" estimates by the people performing the digitization, subject to the constraint that centers of areal features were not placed within other features that are inside them.[18]
+alluvial fans and river deltas counted as mouths for this purpose.[17] For cities and other large populated places, the coordinates were taken to be those of a primary civic feature such as the city hall or town hall, main public library, main highway intersection, main post office, or central business district regardless of changes over time;[17][a] these coordinates are called the "primary point".[b]
+
+Secondary coordinates were only an aid to locating which topographic map(s) the feature extended across, and were "simply anywhere on the feature and on the topographic map with which it is associated".[17][22][23]
+River sources were determined by the shortest drain, subject to the proximities of other features that were clearly related to the river by their names.[23]
+
+The USGS Topographic Map Names database (TMNDB[24] hereafter) was also 57 computer files containing the names of maps: 56 for 1:24000 scale USGS maps as with the NGNDB, the 57th being (rather than a second Alaska file) data from the 1:100000 and 1:250000 scale USGS maps.[25]
+Map names were recorded exactly as on the maps themselves, with the exceptions for diacritics as with the NGNDB.[26]
+
+Unlike the NGNDB, locations were the geographic coördinates of the south-east corner of the given map, except for American Samoa and Guam maps where they were of the north-east cornder.[25]
+
+The TMNDB was later renamed the Geographic Cell Names database (GCNDB[24] hereafter) in the 1990s.[24]
+
+The Generic database was in essence a machine-readable glossary of terms and abbreviations taken from the map sources, with their definitions, grouped into collections of related terms.[27]
+
+The National Atlas database was an abridged version of the NGNDB that contained only those entries that were in the index to the USGS National Atlas of the United States, with the coördinates published in the latter substituted for the coördinates from the former.[27]
+
+The Board on Geographic Names database was a record of investigative work of the USGS Board on Geographic Names' Domestic Names Committee, and decisions that it had made from 1890 onwards, as well as names that were enshrined by Acts of Congress.[28]
+Elevation and location data followed the same rules as for the NGNDB.[29]
+So too did names with diacritic characters.[29]
+
+Phase 2 was broader in scope than phase 1, extending the scope to a much larger set of data sources.[1]
+It ran from the end of phase 1 and had managed to completely process data from 42 states by 2003, with 4 still underway and the remaining 4 (Alaska, Kentucky, Michigan, and New York) awaiting the initial systematic compilation of the sources to use.[1]
+
+Many more feature classes were included, including abandoned Native American settlements, ghost towns, railway stations on railway lines that no longer existed, housing developments, shopping centers, and highway rest areas.[2]
+
+The actual compilation was outsourced by the U.S. government, state by state, to private entities such as university researchers.[1]
+
+The Antarctica Geographic Names database (AGNDB[24] hereafter) was added in the 1990s and comprised records for BGN-approved names in Antarctica and various off-lying islands such as the South Orkney Islands, the South Shetland Islands, the Balleny Islands, Heard Island, South Georgia, and the South Sandwich Islands.[24]
+It only contained records for natural features, not for scientific outposts.[24]
+
+The media on which one could obtain the databases were extended in the 1990s (still including tape and paper) to floppy disc, over FTP, and on CD-ROM.[30]
+The CD-ROM edition only included the NGNDB, the AGNDB, the GCNDB, and a bibliographic reference database (RDB); but came with database search software that ran on PC DOS (or compatible) version 3.0 or later.[30]
+The FTP site included extra topical databases: a subset of the NGNDB that only included the records with feature classes for populated places, a "Concise" subset of the NGNDB that listed "major features", and a "Historical" subset that included the features that no longer exist.[30]
+
+There is no differentiation amongst different types of populated places.[31]
+In the words of the aforementioned 1986 USACE report, "[a] subdivision having one inhabitant is as significant as a major metropolitan center such as New York City".[31]
+
+In comparing GNIS populated place records with data from the Thematic Mapper of the Landsat program, researchers from the University of Connecticut in 2001 discovered that "a significant number" of populated places in Connecticut had no identifiable human settlement in the land use data and were at road intersections.[32]
+They found that such populated places with no actual settlement often had "Corner" in their names, and hypothesized that either these were historical records or were "cartographic locators".[32]
+In surveying in the United States, a "Corner" is a corner of the surveyed polygon enclosing an area of land, whose location is, or was (since corners can become "lost"[33] or "obliterated"[34]), marked in various ways including with trees known as "bearing trees"[35] ("witness trees" in older terminology[36]) or "corner monuments".[37]
+
+From analysing Native American names in the database in order to compile a dictionary, professor William Bright of UCLA observed in 2004 that some GNIS entries are "erroneous; or refer to long-vanished railroad sidings where no one ever lived".[38] Such false classifications have propagated to other geographical information sources, such as incorrectly classified train stations appearing as towns or neighborhoods on Google Maps.[39]
+
+The GNIS accepts proposals for new or changed names for U.S. geographical features through The National Map Corps.  The general public can make proposals at the GNIS web site and can review the justifications and supporters of the proposals.[citation needed]
+
+The usual sources of name change requests are an individual state's board on geographic names, or a county board of governors.[40]
+This does not always succeed, the State Library of Montana having submitted three large sets of name changes that have not been incorporated into the GNIS database.[41]
+
+Name changes may also be made by the President of the United States via an executive order, as was the case with Executive Order 14172 'Gulf of Mexico' being renamed to 'Gulf of America' in 2025.[42]
+
+Conversely, a group of middle school students in Alaska succeeded, with the help of their teachers, a professor of linguistics, and a man who had been conducting a years-long project to collect Native American placenames in the area, in changing the names of several places that they had spotted in class one day and challenged for being racist, including renaming "Negrohead Creek" to an Athabascan name Lochenyatth Creek and "Negrohead Mountain" to Tl'oo Khanishyah Mountain, both of which translate to "grassy tussocks" in Lower Tanana and Gwichʼin respectively.[43]
+Likewise, in researching a 2008 book on ethnic slurs in U.S. placenames Mark Monmonier of Syracuse University discovered "Niger Hill" in Potter County, Pennsylvania, an erroneous transcription of "Nigger Hill" from a 1938 map, and persuaded the USBGN to change it to "Negro Hill".[44]
+
+In November 2021, the United States Secretary of the Interior issued an order instructing that "Squaw" be removed from usage by the U.S. federal government.[45]
+Prior efforts had included a 1962 replacement of the "Nigger" racial pejorative for African Americans with "Negro" and a 1974 replacement of the "Jap" racial pejorative for Japanese Americans with "Japanese".[45][40][46]
+
+In 2015, a cross-reference of the GNIS database against the Racial Slur Database had found 1441 racial slur placenames, every state of the United States having them, with California having 159 and the state with the most such names being Arizona.[40][46]
+One of the two standard reference works for placenames in Arizona is Byrd Howell Granger's 1983 book Arizona's Names: X Marks the Place, which contains many additional names with racial slurs not in the GNIS database.[40][47]
+Despite "Nigger" having been removed from federal government use by Stewart Udall, its replacement "Negro" still remained in GNIS names in 2015, as did "Pickaninny", "Uncle Tom", and "Jim Crow" and 33 places named "Niggerhead".[40]
+There were 828 names containing "squaw", including 11 variations on "Squaw Tit" and "Squaw Teat", contrasting with the use of "Nipple" in names with non-Native American allusions such as "Susies Nipple".[40]

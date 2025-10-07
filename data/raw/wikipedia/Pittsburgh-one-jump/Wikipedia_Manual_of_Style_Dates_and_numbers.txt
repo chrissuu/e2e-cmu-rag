@@ -1,0 +1,107 @@
+This page guides the presentation of numbers, dates, times, measurements, currencies, coordinates, and similar items in articles. The aim is to promote clarity, cohesion, and consistency, and to make the encyclopedia easier and more intuitive to use. For numbers, dates, and similar items in Wikipedia article titles, see the Naming conventions (numbers and dates) guideline.
+
+Where this manual gives options, maintain consistency within an article unless there is a good reason to do otherwise. The Arbitration Committee has ruled that editors should not change an article from one guideline-defined style to another without a substantial reason unrelated to mere choice of style; edit-warring over optional styles is unacceptable.[a] If discussion fails to resolve the question of which style to use in an article, defer to the style used by the first major contributor.
+
+Quotations, titles of books and articles, and similar "imported" text should be faithfully reproduced, even if they use formats or units inconsistent with these guidelines or with other formats in the same article. If necessary, clarify via [bracketed interpolation], article text, or footnotes.
+
+Guidance on the use of non-breaking spaces ("hard spaces") is given in some sections below, but not all situations in which hard spaces ({{nbsp}} or &nbsp;) or {{nowrap}} may be appropriate are described. For further information see Wikipedia:Manual of Style § Non-breaking spaces and Wikipedia:Line-break handling.
+
+Except on pages that are inherently time-sensitive and updated regularly (e.g. the "Current events" portal), terms such as now, today, currently, present, to date, so far, soon, upcoming, ongoing, and recently should be avoided in favor of phrases such as during the 2010s, since 2010, and in August 2020. Wording can be modified to remove the "now" perspective: not she is the current director but she became director on 1 January 2025; not 2010–present but beginning in 2010 or since 2010. Terms likely to go out of date include best known for, holds the record for, etc.[b] For current and future events, use phrases such as as of October 2025 or since the beginning of 2025 to signal the time-dependence of the information; use the template {{as of}} (or {{updated}}) in conjunction. Terms such as moribund or soon to be defunct to describe a subject's oncoming discontinuation (e.g. a television channel or radio station, a system being phased out, program, or rule/law) are also discouraged, as the subject continues to exist until it ends and moves on into the past tense despite its oncoming ending.
+
+Even pages updated regularly that contain several phrases that go out of date throughout the page (e.g. use of has been instead of became) are tedious to update after, for example, an election where many people lose their seats, and even if updated tend to retain some neglected out-of-date language. Relative-time expressions are acceptable for very long periods, such as geological epochs: Humans diverged from other primates long ago, but only recently developed state legislatures.
+
+Articles on topics with strong ties to a particular English-speaking country (see Wikipedia:Manual of Style § Strong national ties to a topic) should generally use the date format most commonly used in that country.
+
+In articles without strong ties to a particular English-speaking country, the choice of date format ...
+
+A date can be given in any appropriate calendar, as long as it is (at the minimum) given in the Julian calendar or the Gregorian calendar or both, as described below. For example, an article on the early history of Islam may give dates in both Islamic and Julian calendars. Where a calendar other than the Julian or Gregorian is used, the article must make this clear.
+
+The dating method used should follow that used by reliable secondary sources (or if reliable sources disagree, that used most commonly, with an explanatory footnote). The guidance above is in line with the usage of reliable sources such as American National Biography,[1] Oxford Dictionary of National Biography, and Encyclopædia Britannica.[i]
+
+Where it is not obvious that a given date should be given in Julian alone or in Gregorian alone, consider giving both styles, for example by using {{OldStyleDate}}. If a date appears without being specified as Old Style or New Style, tagging that date with {{which calendar?}} will add the page to Category:Articles containing ambiguous dates for further attention.
+
+If an article contains Julian calendar dates after 4 October 1582 (as in the October Revolution), or if a start-of-year date other than 1 January was in force in the place being discussed, or both, a footnote should be provided on the first usage, explaining the calendar usage adopted for the article. The calendar usage should be compatible with this guideline.
+
+Designate chronological ranges using either an en dash or such forms as from 1822 to 1843 and between May 1 and May 20, but not a combination of a dash and words (from 1881–1886;  between June 1 – July 3). Where an en dash is used ...
+
+For a person still living: Serena Williams (born September 26, 1981) is a ..., not (September 26, 1981 – ) or (born on September 26, 1981).
+Do not use * to indicate born; use b. only where space is limited, e.g., in tables and infoboxes; use either born or b. consistently in any given table column.
+Where birthdate is unknown: John Smith (died May 1, 1622) or John Smith (died 1622)
+Do not use † to indicate died; use d. only where space is limited, with consistency within any given table column.
+An overnight period may be expressed using a slash between two contiguous dates: the night raids of 30/31 May 1942 or raids of 31 May / 1 June 1942.
+Or use an en dash: (unspaced) raids of 30–31 May 1942;  (spaced) raids of 31 May – 1 June 1942.
+Context determines whether the 12- or 24-hour clock is used. In all cases, colons separate hours, minutes, and (where present) seconds, e.g. 1:38:09 pm or 13:38:09. Use figures (11 a.m. or 12:45 p.m.) rather than words (twelve forty-five p.m.).
+
+Give dates and times appropriate to the time zone where an event took place. For example, the date of the attack on Pearl Harbor should be December 7, 1941 (Hawaii time/​date). Give priority to the place at which the event had its most significant effects; for example, if a hacker in Monaco attacked a Pentagon computer in the US, use the time zone for the Pentagon, where the attack had its effect. In some cases, the best solution may be to add the date and time in Coordinated Universal Time (UTC). For example:
+
+     8 p.m. Eastern Standard Time on January 15, 2001 (01:00 UTC, January 16)
+
+Alternatively, include just the UTC offset:
+
+     21:00 British Summer Time (UTC+1) on 27 July 2012
+
+Rarely, the time zone in which an event took place has since changed; for example, China until 1949 was divided into five time zones, whereas all of modern China is one time zone; UTC+8. Similarly, the term "UTC" is not appropriate for dates before this system was adopted in 1960;[2] Universal Time (UT) is the appropriate term for the mean time at the prime meridian (Greenwich) when it is unnecessary to specify the precise definition of the time scale. Be sure to show the UTC or offset appropriate to the clock time in use at the time of the event, not the modern time zone, if they differ.
+
+For spaceflight missions, the consensus[k] is to prioritize UTC over local time, even for events that take place in a specific timezone (such as launches and landings).
+
+The sequence of numbered years in dates runs ... 2 BC, 1 BC, 1 AD, 2 AD ...; there is no "year zero".
+
+Information on specific situations is scattered elsewhere on this page.
+
+Generally, in article text:
+
+Notes and exceptions:
+
+Other numbers
+
+Like date ranges, number ranges and page ranges should state the full value of both the beginning and end of the range, separated by an en dash: pp. 1902–1911 or entries 342–349;
+do not use a dash and words (from 6–16; between 100–200).
+
+Except within quotations, avoid abbreviated forms such as 1902–11 or 342–9, which are not understood universally, are sometimes ambiguous, and can cause inconsistent metadata to be created in citations.
+
+Sport scores, vote tallies, or other presentations that juxtapose two opposing quantities use an unspaced en dash:
+
+To avoid potential line breaks, use {{nowrap}} around the entire score construction, or use {{nbnd}} instead of {{ndash}}.
+
+Markup: {{val}} and {{e}} may be used to format scientific notation.
+
+There are multiple ways to display mathematical formulae, covered in detail at Wikipedia:Manual of Style/Mathematics § Typesetting of mathematical formulae. One uses special MediaWiki <math>...</math> markup using LaTeX syntax,[q] which is capable of complex formulae; the other relies on conventionalized HTML formatting of simple formulae.
+
+The <math> markup is displayed as a PNG image by default. Logged-in users can optionally have it rendered in MathML, or in HTML (via MathJax); detailed instructions are at Help:Displaying a formula.
+
+Do not put <math> markup in headings.
+
+Quantities are typically expressed using an appropriate "primary unit", displayed first, followed, when appropriate, by a conversion in parentheses e.g. 200 kilometres (120 mi). For details on when and how to provide a conversion, see the section § Unit conversions. The choice of primary units depends on the circumstances, and should respect the principle of strong national ties, where applicable:
+
+Special considerations:
+
+Where English-speaking countries use different units for the same quantity, provide a conversion in parentheses: the Mississippi River is 2,320 miles (3,734 km) long; the Murray River is 2,508 kilometres (1,558 mi) long. But in science-related articles, supplying such conversion is not required unless there is some special reason to do so.
+
+Note to table:
+
+In quantities of bits and bytes, the prefixes kilo- (symbol k or K), mega- (M), giga- (G), tera- (T), etc., are ambiguous in general usage. The meaning may be based on a decimal system (like the standard SI prefixes), meaning 103, 106, 109, 1012, etc., or it may be based on a binary system, meaning 210, 220, 230, 240, etc. The binary meanings are more commonly used in relation to solid-state memory (such as RAM), while the decimal meanings are more common for data transmission rates, disk storage and in theoretical calculations in modern academic textbooks.
+
+Follow these recommendations when using these prefixes in Wikipedia articles:
+
+Choice of currency
+
+Currency names
+
+Currency symbols
+
+Currency formatting
+
+Currency conversions
+
+Geographical coordinates on Earth should be entered using a template to standardise the format and to provide a link to maps of the coordinates. The {{Coord}} template offers users a choice of display format through user styles, emits a Geo microformat, and is recognised (in the title position) by the "nearby" feature of Wikipedia's mobile apps and by external service providers such as Google Maps and Google Earth, and Yahoo.
+
+Avoid excessive precision. Generally, the larger the object being mapped, the less precise the coordinates should be. For example, if just giving the location of a city, precision greater than degrees (°), minutes (′), seconds (″) is not needed, which suffice to locate, for example, the central administrative building. Specific buildings or other objects of similar size would justify precisions down to 10 meters or even one meter in some cases (1″ ~15 m to 30 m, 0.0001° ~5.6 m to 10 m).
+
+When adding coordinates, remove the {{coord missing}} tag from the article, if present (often at the top or bottom).
+
+For more information, see the geographical coordinates WikiProject.
+
+Templates other than {{coord}} should use the following variable names for coordinates: lat_d, lat_m, lat_s, lat_NS, long_d, long_m, long_s, long_EW.
+
+Some years ago an American student I knew at university went into a panic when she received a note informing her that her exams were scheduled to start on 03-05-1991. She went into a severe weekend of cramming (studying for 18+ hours per day), until she was almost hospitalised from exhaustion. Only then did she realise that her exams didn't start on the 5th of March – two weeks from the date she got the notice – but the 3rd of May.
+In contrast, there is no common usage in which 1991-05-03 represents anything other than May 3.

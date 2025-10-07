@@ -1,0 +1,5 @@
+
+Data collected with node and one neighbor from node.
+
+Node: https://en.wikipedia.org/wiki/Pittsburgh
+Number of neighbors: 1897

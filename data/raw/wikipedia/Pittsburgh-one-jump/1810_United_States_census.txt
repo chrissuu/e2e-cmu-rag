@@ -1,0 +1,11 @@
+The 1810 United States census was the third census conducted in the United States. It was conducted on August 6, 1810. It showed that 7,239,881 people were living in the United States, of whom 1,191,362 were slaves.[1]
+
+The 1810 census included one new state: Ohio. The original census returns for the District of Columbia, Georgia, Mississippi, New Jersey, and Ohio were lost or destroyed over the years.[2] Most of Tennessee's original forms were also lost, other than Grainger and Rutherford counties.[3]
+
+This was the last census with Virginia ranked as the most populous state.
+
+The 1810 census form contained the following information (identical to the 1800 census):
+
+Census taking was not yet an exact science. Before 1830, enumerators lacked pre-printed forms, and some drew up their own, resulting in pages without headings. Some enumerators did not tally their results. As a result, census records for many towns before 1830 are idiosyncratic. This is not to suggest that they are less reliable than subsequent censuses, but that they may require more work on the part of the researcher.
+
+No microdata from the 1810 population census are available, but aggregate data for small areas, together with compatible cartographic boundary files, can be downloaded from the National Historical Geographic Information System.

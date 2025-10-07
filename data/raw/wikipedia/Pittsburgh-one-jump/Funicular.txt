@@ -1,0 +1,75 @@
+A funicular (/fjuːˈnɪkjʊlər, f(j)ʊ-, f(j)ə-/ few-NIK-yoo-lər, f(y)uu-, f(j)ə-)[1], or funicular railway, is a type of cable railway system that connects points along a railway track laid on a steep slope. The system is characterized by two counterbalanced carriages (also called cars or trains) permanently attached to opposite ends of a haulage cable, which is looped over a pulley at the upper end of the track.[2][3] The result of such a configuration is that the two carriages move synchronously: as one ascends, the other descends at an equal speed. This feature distinguishes funiculars from inclined elevators, which have a single car that is hauled uphill.[2][3][4]
+
+The term funicular derives from the Latin word funiculus, the diminutive of funis, meaning 'rope'.[5]
+
+In a funicular, both cars are permanently connected to the opposite ends of the same cable, known as a haul rope; this haul rope runs through a system of pulleys at the upper end of the line. If the railway track is not perfectly straight, the cable is guided along the track using sheaves – unpowered pulleys that simply allow the cable to change direction. While one car is pulled upwards by one end of the haul rope, the other car descends the slope at the other end. Since the weight of the two cars is counterbalanced (except for the difference in the weight of passengers), the engine only has to provide energy to pull the excess passengers in the uphill car and the cable itself, plus the energy lost to friction by the cars' wheels and the pulleys.[2][6]
+
+For passenger comfort, funicular carriages are often, although not always, constructed so that the floor of the passenger deck is horizontal rather than parallel to the sloped track.
+
+In some installations, the cars may also be attached to a second cable – bottom towrope – which runs through a pulley at the bottom of the incline. In these designs, one of the pulleys must be designed as a tensioning wheel to avoid slack in the ropes. One advantage of such an installation is that the weight of the rope is balanced between the carriages; therefore, the engine no longer needs to use any power to lift the cable itself. This practice is used on funiculars with slopes below 6%, funiculars using sledges instead of carriages, or any other case where it is not ensured that the descending car is always able to pull out the cable from the pulley in the station on the top of the incline.[7] It is also used in systems where the engine room is located at the lower end of the track (such as the upper half of the Great Orme Tramway) – in such systems, the cable that runs through the top of the incline is still necessary to prevent the carriages from coasting down the incline.[8]
+
+In most modern funiculars, neither of the two carriages is equipped with an engine of its own; propulsion is provided by an electric motor in the engine room (typically at the upper end of the track), linked via a speed-reducing gearbox to a large pulley – a drive bullwheel – which then controls the movement of the haul rope using friction. Some early funiculars were powered in the same way, but using steam engines or other types of motors. The bullwheel has two grooves: after the first half turn around it the cable returns via an auxiliary pulley. This arrangement has the advantage of having twice the amount of contact area between the cable and the groove, and returning the downward-moving cable in the same plane as the upward-moving one.  Modern installations use high-friction liners to increase the friction between the bullwheel grooves and the cable.[6][9][10]
+
+There are two sets of brakes in the engine room: an emergency brake which directly grips the bullwheel, and a service brake mounted at the high speed shaft of the gear. The cars are also equipped with spring-applied, hydraulically opened rail brakes for emergency use.[10]
+
+The first funicular caliper brakes which clamp each side of the crown of the rail were invented by the Swiss entrepreneurs Franz Josef Bucher and Josef Durrer and implemented at the Stanserhorn funicular [de], opened in 1893.[11][12] The Abt rack and pinion system was also used on some funiculars for speed control or emergency braking.[2][6]
+
+Many early funiculars were built using water tanks under the floor of each car, which were filled or emptied until just sufficient imbalance was achieved to allow movement, and a few funiculars still operate that way. The car at the top of the hill is loaded with water until it is heavier than the car at the bottom, causing it to descend the hill and pull up the other car. The water is drained at the bottom, and the process repeats with the cars exchanging roles. The movement is controlled by a brakeman using the brake handle of the rack and pinion system engaged with the rack mounted between the rails.[2][6]
+
+The Bom Jesus funicular built in 1882 near Braga, Portugal, is an extant system of this type. Another example, the Fribourg funicular in Fribourg, Switzerland, built in 1899,[13] is of particular interest as it utilizes waste water, coming from a sewage plant at the upper part of the city.[14]
+
+Some funiculars of this type were later converted to electrical power. For example, the Giessbachbahn in the Swiss canton of Bern, opened in 1879, was originally powered by water ballast. In 1912 its energy provision was replaced by a hydraulic engine powered by a Pelton turbine, which in 1948 was replaced by an electric motor.[2]
+
+Three main rail layouts are used on funiculars; depending on the system, the track bed can consist of four, three, or two rails.
+
+Some funicular systems use a mix of different track layouts. An example of this arrangement is the lower half of the Great Orme Tramway, where the section "above" the passing loop has a three-rail layout (with each pair of adjacent rails having its own conduit which the cable runs through), while the section "below" the passing loop has a two-rail layout (with a single conduit shared by both cars). Another example is the Peak Tram in Hong Kong, which is mostly of a two-rail layout except for a short three-rail section immediately uphill of the passing loop.
+
+Some four-rail funiculars have their tracks interlaced above and below the passing loop; this allows the system to be nearly as narrow as a two-rail system, with a single platform at each station, while also eliminating the need for the costly junctions either side of the passing loop. The Hill Train at the Legoland Windsor Resort is an example of this configuration.
+
+In the case of two-rail funiculars, various solutions exist for ensuring that a carriage always enters the same track at the passing loop.
+
+One such solution involves installing switches at each end of the passing loop. These switches are moved into their desired position by the carriage's wheels during trailing movements (i.e. away from the passing loop); this procedure also sets the route for the next trip in the opposite direction. The Great Orme Tramway is an example of a funicular that utilizes this system.
+
+
+Another turnout system, known as the Abt switch, involves no moving parts on the track at all. Instead, the carriages are built with an unconventional wheelset design: the outboard wheels have flanges on both sides, whereas the inboard wheels are unflanged (and usually wider to allow them to roll over the turnouts more easily). The double-flanged wheels keep the carriages bound to one specific rail at all times. One car has the flanged wheels on the left-hand side, so it follows the leftmost rail, forcing it to run via the left branch of the passing loop; similarly, the other car has them on the right-hand side, meaning it follows the rightmost rail and runs on the right branch of the loop. This system was invented by Carl Roman Abt and first implemented on the Lugano Città–Stazione funicular in Switzerland in 1886;[2] since then, the Abt turnout has gained popularity, becoming a standard for modern funiculars.[9] The lack of moving parts on the track makes this system cost-effective and reliable compared to other systems.
+
+The majority of funiculars have two stations, one at the top and one at the bottom of the track. However, some systems have been built with additional intermediate stations. Because of the nature of a funicular system, intermediate stations are usually built symmetrically about the mid-point; this allows both cars to call simultaneously at a station. Examples of funiculars with more than two stations include the Wellington Cable Car in New Zealand with five stations, including one at the passing loop,[15] and the Carmelit in Haifa, Israel with six stations, three on each side of the passing loop.[16]
+
+There are a few funiculars with asymmetrically placed stations. For example, the Petřín funicular in Prague has three stations: one at each end, and a third (Nebozízek) a short way up from the passing loop.[17] Because of this arrangement, when a car on one side stops at Nebozízek the car on the other side stops without a station access.
+
+A number of cable railway systems which pull their cars on inclined slopes were built since the 1820s. 
+In the second half of the 19th century the design of a funicular as a transit system emerged. 
+It was especially attractive in comparison with the other systems of the time as counterbalancing of the cars was deemed to be a cost-cutting solution.[2]
+
+The first line of the Funiculars of Lyon (Funiculaires de Lyon) opened in 1862, followed by other lines in 1878, 1891 and 1900. The Budapest Castle Hill Funicular was built in 1868–69, with the first test run on 23 October 1869. 
+The oldest funicular railway operating in Britain dates from 1875 and is in Scarborough, North Yorkshire.[18]
+In Istanbul, Turkey, the Tünel has been in continuous operation since 1875 and is both the first underground funicular and the second-oldest underground railway. 
+It remained powered by a steam engine up until it was taken for renovation in 1968.[19]
+
+Until the end of the 1870s, the four-rail parallel-track funicular was the normal configuration. Carl Roman Abt developed the Abt Switch allowing the two-rail layout, which was used for the first time in 1879 when the Giessbach Funicular opened in Switzerland.[7]
+
+In the United States, the first funicular to use a two-rail layout was the Telegraph Hill Railroad in San Francisco, which was in operation from 1884 until 1886.[20] The Mount Lowe Railway in Altadena, California, was the first mountain railway in the United States to use the three-rail layout. Three- and two-rail layouts considerably reduced the space required for building a funicular, reducing grading costs on mountain slopes and property costs for urban funiculars. These layouts enabled a funicular boom in the latter half of the 19th century.
+
+Currently, the United States' oldest and steepest funicular in continuous use is the Monongahela Incline located in Pittsburgh, Pennsylvania. Construction began in 1869 and officially opened 28 May 1870 for passenger use. The Monongahela incline also has the distinction of being the first funicular in the United States for strictly passenger use and not freight.[21]
+
+In 1880 the funicular of Mount Vesuvius inspired the Italian popular song Funiculì, Funiculà. This funicular was destroyed repeatedly by volcanic eruptions and abandoned after the eruption of 1944.[22]
+
+According to the Guinness World Records, the smallest public funicular in the world is the Fisherman's Walk Cliff Railway in Bournemouth, England, which is 39 metres (128 ft) long.[23][24]
+
+Stoosbahn in Switzerland, with a maximum slope of 110% (47.7°), is the steepest funicular in the world.[25]
+
+The Lynton and Lynmouth Cliff Railway, built in 1888, is the steepest and longest water-powered funicular in the world. It climbs 152 metres (499 ft) vertically on a 58% gradient.[26]
+
+The city of Valparaíso in Chile used to have up to 30 funicular elevators (Spanish: ascensores). The oldest of them dates from 1883. 15 remain with almost half in operation,[when?] and others in various stages of restoration.
+
+The Carmelit in Haifa, Israel, with six stations and a tunnel 1.8 km (1.1 mi) long, is claimed by the Guinness World Records as the "least extensive metro" in the world.[16] Technically, it is an underground funicular.
+
+The Dresden Suspension Railway (Dresden Schwebebahn), which hangs from an elevated rail, is the only suspended funicular in the world.[27]
+
+The Fribourg funicular is the only funicular in the world powered by wastewater.[14]
+
+Standseilbahn Linth-Limmern, capable of moving 215 t, is said to have the highest capacity.[28]
+
+Some inclined elevators are incorrectly called funiculars. On an inclined elevator the cars operate independently rather than in interconnected pairs, and are lifted uphill.[3]
+
+A notable example is Paris' Montmartre Funicular. Its formal title is a relic of its original configuration, when its two cars operated as a counterbalanced, interconnected pair, always moving in opposite directions, thus meeting the definition of a funicular. However, the system has since been redesigned, and now uses two independently-operating cars that can each ascend or descend on demand, qualifying as a double inclined elevator; the term "funicular" in its title is retained as a historical reference.[4][29][30]

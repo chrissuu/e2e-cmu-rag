@@ -1,0 +1,9 @@
+Telerama was an Internet service provider (ISP) and technology company based in Pittsburgh, Pennsylvania.  It was founded in 1991 and promoted itself as the third ISP in world history.[1]
+
+Telerama launched its Wi-Fi network in Pittsburgh in 2001, comprising over 200 nodes.  It concentrated access mainly in "coffee-house" style arrangements.[2]
+
+In 2003, Telerama's Wi-Fi network started appearing at sites in the Cultural District, Pittsburgh.[3]  In 2004 it started lighting up large buildings in downtown Pittsburgh.[4]
+
+Telerama's stated approach to municipal Wi-Fi access was somewhat unusual.  Eschewing the typical Mu-Fi concept of blanketing every square inch of a town area with signal, Telerama instead concentrated on specific locations like coffee houses and apartments. Locations were usually serviced by a high-speed DSL line, a Linux based site router, and a handful of WiFi antennas arranged to service seating areas of a location.
+
+In April 2008, Telerama took its web site and associated email system off-line. On April 4, Telerama founder Doug Luce stated, "We're actually in negotiations now to move service over to another local ISP. If that works out, we will actually be going out of business."[5] On April 21, 2008, its IP space began to be announced by aspStation, Inc.  As of April 22, 2008, the Telerama nameservers and website are once again available.[6]
