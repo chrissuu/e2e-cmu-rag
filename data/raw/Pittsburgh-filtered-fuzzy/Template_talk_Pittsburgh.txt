@@ -1,0 +1,74 @@
+I suspect this is some Wiki standard to make every municipal thing blue, ok only problem is many articles such as KDKA (Pittsburgh broadcasters box, CBS Owned stations box, CBS affilates box), University of Pittsburgh (Big East box, AAU box) are also blue, in fact the zoo, inclines, parks, museums, stadiums all have 3-8 blue boxes at the bottom, couldnt we have the city in it's official colors of blk and gold? Marketdiamond (talk) 07:59, 27 April 2011 (UTC)[reply]
+
+I'm just one vote (and I do live by my own advice of not deleting until discussing some), overall I would vote for the current color scheme below the titlestyle but as most articles only see the titlestyle white and black in it doesn't quite represent a city that paints its fire hydrants and police cars black and gold not to mention every pro major sport team.  What shade or style of gold is up for debate, but as far as my vote CrazyPaco's titlestyle I did think best represented the city.  Contrast is very important but we aren't discussing the infobox for Estonia or the Whitesox.  Kudos for the black background, however the text provided the black in months prior.  I would as an aside say I appreciate all the attention focused on the color scheme since the coding and wikipolicies on this aren't my strong point as much as the regions history and factoids, and I welcome the help and clarity.  Bottom line the titlestyle is alone what appears on most articles unless a user clicks to open, the Whitesox and Estonia articles would not add yellow or gold to their titlestyle we really shouldn't add white to Pittsburgh's.  Marketdiamond (talk) 03:22, 12 May 2011 (UTC)[reply]
+
+I like the yellow/black color scheme. We sometimes use white and red on Polish templates. Although I'd be happy to look at MoS sections, if anybody can point me to relevant one(s). --Piotr Konieczny aka Prokonsul Piotrus| talk  21:12, 12 May 2011 (UTC)[reply]
+
+After talking to Marketdiamond I realised you Pittsburgher as slightly nuts but in a good way in that you love your you state very much. However I would ask you reconsider the yellow which is used. It's quite hard on the auld eyes Gnevin (talk) 09:43, 9 July 2011 (UTC)[reply]
+
+I don't think this is a "park."
+
+What do other editors think? 
+
+Grundle2600 (talk) 15:40, 10 February 2010 (UTC)[reply]
+
+What do you think of adding some of the more minor venues like the Petersen Sports Complex and Trees Pool to the D1 sports venue list? I'm also not sure Fitzgerald Field House belongs in "historic venues" as it is a dedicated D1 collegiate volleyball venue. CrazyPaco (talk) 03:23, 11 May 2011 (UTC)[reply]
+
+This template is rather large, with all the collapsible sections.  I would like to suggest moving some material to more targeted templates.  For example, we already have Template:Pittsburgh Corporations, which is redundant to the companies section, and Template:Pennsylvania Sports which is redundant to the sports section.  I am sure there are others as well.  If you look at (my eyes are already burning) a template like Template:New York City, it is very short.  Frietjes (talk) 21:42, 11 May 2011 (UTC)[reply]
+
+Can't the gold be toned down a bit? They hurt my eyes. (Yes, I saw that it was chosen to match the flag, but still, it hurts.) LadyofShalott 13:27, 15 August 2011 (UTC)[reply]
+
+If any editor wishes to suggest or comment on the changes please feel free to leave them here! Marketdiamond (talk) 17:53, 9 September 2012 (UTC)[reply]
+
+Talk about procrastination: Back in 2012 I added the selected parameter but only added the abbr parameter to the sports section.  I meant to add the rest but the template got protected & here it is 3 years later....
+
+Here is my request:
+
+| group1 = [[Government of Pittsburgh|Government]]
+| list1  = 
+
+to
+
+| group1 = [[Government of Pittsburgh|Government]]
+| abbr1 = Government
+| list1  = 
+
+Now this goes on for 8 more sections, so instead of copying the entire code, I'll only include the additional code to be inserted between the group# and list#.
+
+For group2, please add | abbr2 = Economy
+For group3, please add | abbr3 = Sports I did that one back in '12.
+For group4, please add | abbr4 = Parks
+For group5, please add | abbr5 = Transportation
+For group6, please add | abbr6 = Attractions
+For group7, please add | abbr7 = Shopping
+For group8, please add | abbr8 = Colleges
+For group9, please add | abbr9 = Culture
+
+Finally, at the bottom of the template, please add the documentation.  Please change:
+
+<noinclude>
+{{collapsible option}}
+
+[[Category:Pittsburgh navigational boxes]]
+[[Category:Pennsylvania city navigational boxes]]
+</noinclude>
+
+to
+
+<noinclude>
+{{documentation
+ |content =
+{{collapsible sections option
+ |list = "Government", "Economy", "Sports", "Parks", "Transportation", "Attractions", "Shopping", "Colleges", "Culture"
+ |example = Government
+}}
+{{collapsible option}}
+}}<!--(end documentation)-->
+
+[[Category:Pittsburgh navigational boxes]]
+[[Category:Pennsylvania city navigational boxes]]
+</noinclude>
+
+Two notes: (1) I am a dynamic IP that changes every 8 hours when my ISP auto-disconnects and my modem (!) re-dials (so pings & talkpage msgs won't work, I'll watch this page), & (2) I come here from the Homestead Grays article and am basing this request off of Template:Negro League teams (heavily edited by me) which implements the "abbr" parameters & documentation. Pinging @Frietjes: who has helped me in the past & who knows templates extensively. Rgrds. --64.85.217.37 (talk) 09:41, 17 August 2015 (UTC)[reply]
+
+I see @Frietjes: mentioned this years ago, but this template is unwieldy and far too large, making maintenance of the template a difficult task and much harder to use. It is definitely an anomaly in style vs. every other large city template used on the wikipedia. I believe we should split this up into at least 5 to 8 other templates. Some are already redundant (see Template:Pittsburgh Corporations nearly matching the "Economy" section, Template:Pittsburgh Shopping being similar to "Shopping and entertainment", Template:Pittsburgh parks similar to "Parks", etc). It appears this project, as well as most of the city based projects, were at one point commandeered to suit their personal preferences to point of ridiculousness (such as the recent nomination of Wikipedia:Articles for deletion/List of Pittsburgh sports seasons; another unwieldy, jargon-filled, and incoherently large article). If a much larger city like New York can have this many templates, I think this can be fixed and pared down to something far more reasonable. Yosemiter (talk) 20:24, 22 December 2017 (UTC)[reply]
