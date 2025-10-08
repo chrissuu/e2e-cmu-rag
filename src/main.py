@@ -14,14 +14,13 @@ from constants import RAW_DATA_ROOT, DATA_ROOT
 Source: https://github.com/huggingface/huggingface-llama-recipes
 """
 
-
 print("CUDA available:", torch.cuda.is_available())
 print("GPU count:", torch.cuda.device_count())
 if torch.cuda.is_available():
     print("GPU name:", torch.cuda.get_device_name(0))
 
-
-model_id = "meta-llama/Llama-3.1-8B"  # you can also use 70B, 405B, etc.
+# [NOTE]: do not use Instruct. it sucks.
+model_id = "meta-llama/Llama-3.1-8B"
 
 chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_WORD,
@@ -30,7 +29,7 @@ chunking_strategy_config = {
 }
 
 output_config = {
-    "print_info" : True
+    "print_info" : False
 }
 
 folder_paths = [
@@ -50,7 +49,7 @@ for folder_path in folder_paths:
 for file_path in file_paths:
     chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
-USE_DENSE = False
+USE_DENSE = True
 if USE_DENSE:
     retriever = DenseRetriever(DenseConfig(model_name="all-MiniLM-L6-v2", normalize=True)).fit(chunks)
 else:
@@ -63,13 +62,13 @@ ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_grou
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
 ground_truth_answers = AnswerKey(ANSWERS_FILE_PATH)
-model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH, True)
+model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH, form_mode=True)
 NUM_QUESTIONS = 50
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
-    dtype="auto",       # fp16/bf16 if supported
+    dtype="auto",
     quantization_config=BitsAndBytesConfig(load_in_8bit=True)
 )
 
@@ -81,6 +80,7 @@ pipe = pipeline(
 )
 
 for q_num in range(1,11):
+    print(f"Answering question num {q_num}")
     query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
     retrieved_chunks = []
