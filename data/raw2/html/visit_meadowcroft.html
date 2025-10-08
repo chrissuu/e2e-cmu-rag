@@ -1,0 +1,1776 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+	<head>
+	<meta charset="utf-8">
+<script type="text/javascript">
+/* <![CDATA[ */
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+/* ]]> */
+</script>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="mobile-web-app-capable" content="yes">
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/favicon-16x16.png">
+	<link rel="manifest" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/site.webmanifest">
+	<link rel="mask-icon" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/safari-pinned-tab.svg" color="004c97">
+	<link rel="shortcut icon" href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/favicon.ico">
+	<meta name="msapplication-TileColor" content="004c97">
+	<meta name="msapplication-TileImage" content="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/mstile-144x144.png">
+	<meta name="msapplication-config" content="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/favicons/browserconfig.xml">
+	<meta name="theme-color" content="004c97">
+	
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<title>Meadowcroft Rockshelter and Historic Village - Heinz History Center</title>
+	<meta name="description" content="Take your family on a day-long adventure at Meadowcroft Rockshelter and Historic Village, located in Avella, Washington County, Pa." />
+	<link rel="canonical" href="https://www.heinzhistorycenter.org/visit/meadowcroft/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Meadowcroft Rockshelter and Historic Village" />
+	<meta property="og:description" content="Take your family on a day-long adventure at Meadowcroft Rockshelter and Historic Village, located in Avella, Washington County, Pa." />
+	<meta property="og:url" content="https://www.heinzhistorycenter.org/visit/meadowcroft/" />
+	<meta property="og:site_name" content="Heinz History Center" />
+	<meta property="article:publisher" content="https://www.facebook.com/SenatorJohnHeinzHistoryCenter/" />
+	<meta property="article:modified_time" content="2025-09-03T18:40:20+00:00" />
+	<meta property="og:image" content="https://www.heinzhistorycenter.org/wp-content/uploads/2023/04/Free-Museum-Day_Hero-1-1-jpg.webp" />
+	<meta property="og:image:width" content="1601" />
+	<meta property="og:image:height" content="1200" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="Take your family on a day-long adventure at Meadowcroft Rockshelter and Historic Village, located in Avella, Washington County, Pa." />
+	<meta name="twitter:site" content="@HistoryCenter" />
+
+
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.heinzhistorycenter.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.heinzhistorycenter.org/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='wp-components-css' href='https://www.heinzhistorycenter.org/wp-includes/css/dist/components/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-preferences-css' href='https://www.heinzhistorycenter.org/wp-includes/css/dist/preferences/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-editor-css' href='https://www.heinzhistorycenter.org/wp-includes/css/dist/block-editor/style.min.css?ver=6.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-block-library-style-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/popup-maker/dist/packages/block-library-style.css?ver=dbea705cfafe089d65f1' type='text/css' media='all' />
+<style id='filebird-block-filebird-gallery-style-inline-css' type='text/css'>
+ul.filebird-block-filebird-gallery{margin:auto!important;padding:0!important;width:100%}ul.filebird-block-filebird-gallery.layout-grid{display:grid;grid-gap:20px;align-items:stretch;grid-template-columns:repeat(var(--columns),1fr);justify-items:stretch}ul.filebird-block-filebird-gallery.layout-grid li img{border:1px solid #ccc;box-shadow:2px 2px 6px 0 rgba(0,0,0,.3);height:100%;max-width:100%;-o-object-fit:cover;object-fit:cover;width:100%}ul.filebird-block-filebird-gallery.layout-masonry{-moz-column-count:var(--columns);-moz-column-gap:var(--space);column-gap:var(--space);-moz-column-width:var(--min-width);columns:var(--min-width) var(--columns);display:block;overflow:auto}ul.filebird-block-filebird-gallery.layout-masonry li{margin-bottom:var(--space)}ul.filebird-block-filebird-gallery li{list-style:none}ul.filebird-block-filebird-gallery li figure{height:100%;margin:0;padding:0;position:relative;width:100%}ul.filebird-block-filebird-gallery li figure figcaption{background:linear-gradient(0deg,rgba(0,0,0,.7),rgba(0,0,0,.3) 70%,transparent);bottom:0;box-sizing:border-box;color:#fff;font-size:.8em;margin:0;max-height:100%;overflow:auto;padding:3em .77em .7em;position:absolute;text-align:center;width:100%;z-index:2}ul.filebird-block-filebird-gallery li figure figcaption a{color:inherit}
+
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<style id='dominant-color-styles-inline-css' type='text/css'>
+img[data-dominant-color]:not(.has-transparency) { background-color: var(--dominant-color); }
+</style>
+<link rel='stylesheet' id='site-css' href='https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html//css/site.css?ver=1749735736' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.heinzhistorycenter.org/wp-content/uploads/tablepress-combined.min.css?ver=36' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-buttons-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.buttons.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-columnfilterwidgets-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.columnfilterwidgets.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-fixedheader-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedheader.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-fixedcolumns-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.fixedcolumns.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-datatables-scroll-buttons-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/datatables.scroll-buttons.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css?ver=3.1.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.heinzhistorycenter.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.heinzhistorycenter.org/wp-json/wp/v2/pages/507" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.heinzhistorycenter.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://www.heinzhistorycenter.org/?p=507' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.heinzhistorycenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.heinzhistorycenter.org%2Fvisit%2Fmeadowcroft%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.heinzhistorycenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.heinzhistorycenter.org%2Fvisit%2Fmeadowcroft%2F&#038;format=xml" />
+<meta name="generator" content="dominant-color-images 1.2.0">
+<meta name="generator" content="performance-lab 4.0.0; plugins: dominant-color-images">
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.heinzhistorycenter.org"><link rel="alternate" href="https://www.heinzhistorycenter.org/wp-json/tribe/events/v1/" />	
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W3SRS99');</script>
+</head>
+	<body class="body_layout_default preload fs-grid theme_meadowcroft">
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3SRS99" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<div class="js-alert-wrapper">
+			<script>
+				var AlertURL = "https://www.heinzhistorycenter.org/wp-admin/admin-ajax.php?action=get_alert";
+			</script>
+		</div>
+
+		<div class="page_wrapper has_page_media">
+			<header class="js-header header" id="header">
+				<a class="skip_link skip_main" id="skip_main_link" href="#page_title">Skip Main Navigation</a>
+				<a class="js-swap js-skip-alert skip_link skip_alert" id="alert_link" href="#alert" data-swap-target=".js-alert" data-swap-linked="alert">Skip to site alert</a>
+
+				<div class="header_primary">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="header_primary_inner">
+								<div class="header_primary_logo_wrapper">
+									<div class="logo logo_header">
+	<a class="logo_link" href="https://www.heinzhistorycenter.org/">
+				<img src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/logo-header-meadowcroft.png" alt="Heinz History Center Logo" class="logo_image_header">
+	</a>
+	</div>
+									<div class="js-location-group location_group">
+										<button class="locations_toggle js-swap" data-swap-target=".js-location-group" data-swap-linked="locations">
+	<span class="locations_toggle_inner_default locations_toggle_inner">
+		<span class="locations_toggle_label_default locations_toggle_label">Meadowcroft Rockshelter and Historic Village</span>
+				<span class="locations_toggle_icon_default locations_toggle_icon" aria-hidden="true">
+			<span class="locations_toggle_icon_inner_default locations_toggle_icon_inner"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_down"></use></svg></span>
+		</span>
+			</span>
+		<span class="locations_toggle_inner_active locations_toggle_inner">
+		<span class="locations_toggle_label_active locations_toggle_label">Select a Location</span>
+				<span class="locations_toggle_icon_active locations_toggle_icon" aria-hidden="true">
+			<span class="locations_toggle_icon_inner_active locations_toggle_icon_inner"><svg class="icon icon_close"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#close"></use></svg></span>
+		</span>
+			</span>
+	</button><nav class="js-nav js-locations-nav js-locations-nav-lg nav locations_nav locations_nav_lg" aria-labelledby="locations_nav_title_lg">
+	<div class="nav_header locations_nav_header">
+		<h2 class="nav_title locations_nav_title" id="locations_nav_title_lg">See What's On</h2>
+	</div>
+
+	<ul class="js-nav-list js-locations-nav-list nav_list locations_nav_list" aria-labelledby="locations_nav_title_lg">
+				<li class="js-nav-item js-locations-nav-item js-locations-nav-item-1 nav_item locations_nav_item">
+			<div class="nav_item_inner locations_nav_item_inner">
+				<a class="js-nav-link js-locations-nav-link nav_link locations_nav_link" href="https://www.heinzhistorycenter.org/whats-on/history-center/" >
+					<div class="nav_link_inner locations_nav_link_inner">
+												<span class="location_link_bullet color_red"></span>
+												<span class="nav_link_label locations_nav_link_label">Heinz History Center</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-locations-nav-item js-locations-nav-item-2 nav_item locations_nav_item">
+			<div class="nav_item_inner locations_nav_item_inner">
+				<a class="js-nav-link js-locations-nav-link nav_link locations_nav_link" href="https://www.heinzhistorycenter.org/whats-on/sports-museum/" >
+					<div class="nav_link_inner locations_nav_link_inner">
+												<span class="location_link_bullet color_blue"></span>
+												<span class="nav_link_label locations_nav_link_label">Sports Museum</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-locations-nav-item js-locations-nav-item-3 nav_item locations_nav_item">
+			<div class="nav_item_inner locations_nav_item_inner">
+				<a class="js-nav-link js-locations-nav-link nav_link locations_nav_link" href="https://www.heinzhistorycenter.org/whats-on/fort-pitt/" >
+					<div class="nav_link_inner locations_nav_link_inner">
+												<span class="location_link_bullet color_yellow"></span>
+												<span class="nav_link_label locations_nav_link_label">Fort Pitt Museum</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-locations-nav-item js-locations-nav-item-4 nav_item locations_nav_item">
+			<div class="nav_item_inner locations_nav_item_inner">
+				<a class="js-nav-link js-locations-nav-link nav_link locations_nav_link" href="https://www.heinzhistorycenter.org/whats-on/meadowcroft/" >
+					<div class="nav_link_inner locations_nav_link_inner">
+												<span class="location_link_bullet color_green"></span>
+												<span class="nav_link_label locations_nav_link_label">Meadowcroft Rockshelter</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav>									</div>
+								</div>
+
+								<div class="header_primary_group">
+									<nav class="js-nav js-secondary-nav js-secondary-nav-lg nav secondary_nav secondary_nav_lg" aria-labelledby="secondary_nav_title_lg">
+	<div class="nav_header secondary_nav_header">
+		<h2 class="nav_title secondary_nav_title" id="secondary_nav_title_lg">Site</h2>
+	</div>
+
+	<ul class="js-nav-list js-secondary-nav-list nav_list secondary_nav_list" aria-labelledby="secondary_nav_title_lg">
+				<li class="js-nav-item js-secondary-nav-item js-secondary-nav-item-1 nav_item secondary_nav_item">
+			<div class="nav_item_inner secondary_nav_item_inner">
+				<a class="js-nav-link js-secondary-nav-link nav_link secondary_nav_link" href="https://my.heinzhistorycenter.org/orders/558/calendar?cart=true&eventId=64babe950cc5e535df6f93d3&membershipIds=" >
+					<div class="nav_link_inner secondary_nav_link_inner">
+												<span class="nav_link_label secondary_nav_link_label">Tickets</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-secondary-nav-item js-secondary-nav-item-2 nav_item secondary_nav_item">
+			<div class="nav_item_inner secondary_nav_item_inner">
+				<a class="js-nav-link js-secondary-nav-link nav_link secondary_nav_link" href="https://www.heinzhistorycenter.org/join/" >
+					<div class="nav_link_inner secondary_nav_link_inner">
+												<span class="nav_link_label secondary_nav_link_label">Join</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-secondary-nav-item js-secondary-nav-item-3 nav_item secondary_nav_item">
+			<div class="nav_item_inner secondary_nav_item_inner">
+				<a class="js-nav-link js-secondary-nav-link nav_link secondary_nav_link" href="https://www.heinzhistorycenter.org/give/make-a-donation/" >
+					<div class="nav_link_inner secondary_nav_link_inner">
+												<span class="nav_link_label secondary_nav_link_label">Donate</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav>
+									<div class="header_controls">
+										<a
+	href="https://www.heinzhistorycenter.org/search/"	class="
+		search_link
+			"
+	>
+	<span class="search_link_inner">
+		<span class="search_link_label">Search</span>
+				<span class="search_link_icon" aria-hidden="true"><span class="search_link_icon_inner"><svg class="icon icon_search"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#search"></use></svg></span></span>
+			</span>
+</a><a href="#menu" class="menu_toggle js-menu-toggle js-swap" data-swap-target=".menu" data-swap-linked="menu">
+	<span class="menu_toggle_inner_default menu_toggle_inner">
+		<span class="menu_toggle_label_default menu_toggle_label">Menu</span>
+				<span class="menu_toggle_icon_default menu_toggle_icon" aria-hidden="true">
+			<span class="menu_toggle_icon_inner_default menu_toggle_icon_inner"><svg class="icon icon_menu"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#menu"></use></svg></span>
+		</span>
+			</span>
+	</a>									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</header>
+
+			<main class="page"><div class="page_header_bg" style="--gradient-before: 100; --gradient-after: 50">
+	<div class="page_header_bg_group">
+		<div class="page_header_bg_media">
+			<div class="page_header_bg_media_inner">
+				<figure class="page_header_bg_figure">
+					<div class="lazy_image_wrapper page_header_bg_image_wrapper">
+	<picture class="page_header_bg_picture">
+				<source media="(min-width: 1220px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-1440x617.jpg">
+				<source media="(min-width: 980px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-1220x686.jpg">
+				<source media="(min-width: 740px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-980x735.jpg">
+				<source media="(min-width: 500px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-740x740.jpg">
+				<img class="js-lazy js-lazyload page_header_bg_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-555x740.jpg" alt="A woman and two young children ascend a metal outdoor staircase surrounded by green trees and bushes, approaching a wooden historical building with log walls and a slanted roof.">
+	</picture>
+</div>
+
+<noscript>
+	<div class="page_header_bg_image_wrapper">
+		<picture class="page_header_bg_picture">
+						<source media="(min-width: 1220px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-1440x617.jpg">
+						<source media="(min-width: 980px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-1220x686.jpg">
+						<source media="(min-width: 740px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-980x735.jpg">
+						<source media="(min-width: 500px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-740x740.jpg">
+						<img class="page_header_bg_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2022/09/Meadowcroft-First-Frame_1.1.1-555x740.jpg" alt="A woman and two young children ascend a metal outdoor staircase surrounded by green trees and bushes, approaching a wooden historical building with log walls and a slanted roof.">
+		</picture>
+	</div>
+</noscript>				</figure>
+								<div class="js-background-video-wrapper page_header_bg_video" data-background-video="{&quot;display&quot;:&quot;background&quot;,&quot;id&quot;:&quot;751847309&quot;,&quot;type&quot;:&quot;vimeo&quot;}">
+					<div class="page_header_bg_video_iframe_wrap">
+						<div class="page_header_bg_video_iframe_target js-iframe-target"></div>
+					</div>
+					<div class="page_header_bg_video_controls">
+						<button class="page_header_bg_video_play_button js-page-header-bg-video-play-button">
+	<span class="page_header_bg_video_play_button_inner">
+		<span class="page_header_bg_video_play_button_label">Play Video</span>
+				<span class="page_header_bg_video_play_button_icon" aria-hidden="true"><span class="page_header_bg_video_play_button_icon_inner"><svg class="icon icon_play"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#play"></use></svg></span></span>
+			</span>
+</button><button class="page_header_bg_video_pause_button js-page-header-bg-video-pause-button">
+	<span class="page_header_bg_video_pause_button_inner">
+		<span class="page_header_bg_video_pause_button_label">Pause Video</span>
+				<span class="page_header_bg_video_pause_button_icon" aria-hidden="true"><span class="page_header_bg_video_pause_button_icon_inner"><svg class="icon icon_pause"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#pause"></use></svg></span></span>
+			</span>
+</button>					</div>
+				</div>
+							</div>
+					</div>
+		
+		<div class="page_header_bg_inner">
+						<div class="page_breadcrumb">
+				<div class="fs-row">
+					<div class="fs-cell">
+						<div class="page_breadcrumb_inner">
+							<div class="breadcrumb">
+	<nav class="breadcrumb_nav" aria-labelledby="breadcrumb_nav_title">
+		<div class="breadcrumb_nav_header">
+			<h2 class="breadcrumb_nav_title" id="breadcrumb_nav_title">You are here:</h2>
+		</div>
+	
+		<ol class="breadcrumb_list" aria-labelledby="breadcrumb_nav_title">
+			<li class="breadcrumb_item breadcrumb_item_home">
+				<a class="breadcrumb_pill breadcrumb_pill_link" href="https://www.heinzhistorycenter.org/">
+					<span class="breadcrumb_pill_inner">
+												<span class="breadcrumb_pill_icon"><svg class="icon icon_home"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#home"></use></svg>
+</span>
+												<span class="breadcrumb_pill_label" itemprop="name">Home</span>
+					</span>
+				</a>
+								<span class="breadcrumb_divider" aria-hidden="true">—</span>
+							</li>
+	
+						<li class="breadcrumb_item">
+				<a class="breadcrumb_pill breadcrumb_pill_link" href="https://www.heinzhistorycenter.org/visit/">
+					<span class="breadcrumb_pill_inner">
+						<span class="breadcrumb_pill_label">Visit</span>
+					</span>
+				</a>
+				<span class="breadcrumb_divider" aria-hidden="true">/</span>
+			</li>
+						<li class="breadcrumb_item">
+				<span class="breadcrumb_pill">
+					<span class="breadcrumb_pill_inner">
+						<span class="breadcrumb_pill_label">Meadowcroft Rockshelter and Historic Village</span>
+					</span>
+				</span>
+							</li>
+					</ol>
+	</nav>
+</div>						</div>
+					</div>
+				</div>
+			</div>
+						<div class="page_intro">
+				<div class="fs-row">
+					<div class="fs-cell fs-lg-10 fs-xl-9">
+						<div class="page_intro_inner">
+															<h1 class="page_title" id="page_title" tabindex="-1">19,000 Years of History, All in One Day</h1>
+													</div>
+					</div>
+				</div>
+			</div>
+					</div>
+	</div>
+		<div class="page_nav">
+		<div class="fs-row">
+			<div class="fs-cell">
+				<div class="page_nav_inner">
+					<a class="skip_link skip_subnav" id="skip_sub_link" href="#page_content">Skip Sub Navigation</a>
+					<div class="js-sub-nav-group sub_nav_group">
+	<button class="sub_nav_toggle js-sub-nav-toggle js-swap" data-swap-target=".js-sub-nav-group">
+	<span class="sub_nav_toggle_inner_default sub_nav_toggle_inner">
+		<span class="sub_nav_toggle_label_default sub_nav_toggle_label">Explore This Section</span>
+				<span class="sub_nav_toggle_icon_default sub_nav_toggle_icon" aria-hidden="true">
+			<span class="sub_nav_toggle_icon_inner_default sub_nav_toggle_icon_inner"><svg class="icon icon_plus"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#plus"></use></svg></span>
+		</span>
+			</span>
+		<span class="sub_nav_toggle_inner_active sub_nav_toggle_inner">
+		<span class="sub_nav_toggle_label_active sub_nav_toggle_label">Close</span>
+				<span class="sub_nav_toggle_icon_active sub_nav_toggle_icon" aria-hidden="true">
+			<span class="sub_nav_toggle_icon_inner_active sub_nav_toggle_icon_inner"><svg class="icon icon_minus"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#minus"></use></svg></span>
+		</span>
+			</span>
+	</button>	<nav class="js-sub-nav sub_nav" aria-label="Meadowcroft Rockshelter and Historic Village">
+		<div class="sub_nav_header">
+			<h2 class="sub_nav_title">Meadowcroft Rockshelter and Historic Village</h2>
+		</div>
+
+		<div class="js-sub-nav-body sub_nav_body">
+			<div class="js-sub-nav-body-inner sub_nav_body_inner">
+				<ul class="js-sub-nav-list sub_nav_list" aria-label="Meadowcroft Rockshelter and Historic Village">
+										<li class="sub_nav_item">
+						<a class="sub_nav_link" href="https://my.heinzhistorycenter.org/orders/558/calendar?cart=true&eventId=64babe950cc5e535df6f93d3&membershipIds=" >
+														<span class="sub_nav_link_label">Tickets</span>
+						</a>
+											</li>
+										<li class="sub_nav_item">
+						<a class="sub_nav_link" href="https://www.heinzhistorycenter.org/whats-on/meadowcroft/" >
+														<span class="sub_nav_link_label">What&#039;s On</span>
+						</a>
+											</li>
+										<li class="sub_nav_item">
+						<a class="sub_nav_link" href="https://www.heinzhistorycenter.org/visit/accessibility/#meadowcroft" >
+														<span class="sub_nav_link_label">Accessibility</span>
+						</a>
+											</li>
+										<li class="sub_nav_item">
+						<a class="sub_nav_link" href="https://www.heinzhistorycenter.org/visit/meadowcroft/directions-parking/" >
+														<span class="sub_nav_link_label">Directions &amp; Parking</span>
+						</a>
+											</li>
+										<li class="sub_nav_item">
+						<a class="sub_nav_link" href="https://www.heinzhistorycenter.org/learn/education/meadowcroft-field-trips/" >
+														<span class="sub_nav_link_label">Field Trips</span>
+						</a>
+											</li>
+									</ul>
+			</div>
+		</div>
+	</nav>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+<div class="page_content" id="page_content" tabindex="-1" aria-labelledby="page_title">
+	<div class="fs-row">
+		<div class="fs-cell fs-lg-10 fs-lg-push-1">
+			<div class="typography">
+								<p class="intro">
+					Take your family on a day-long adventure at Meadowcroft Rockshelter and Historic Village, located in Avella, Washington County, Pa.
+				</p>
+							</div>
+		</div>
+	</div>
+</div>
+
+<div class="full_width_callouts">
+	<div class="wysiwyg_block">
+	<div class="fs-row">
+		<div class="fs-cell fs-lg-10 fs-lg-push-1">
+			<div class="wysiwyg_block_inner typography">
+				<p>A National Historic Landmark, Meadowcroft features a massive rock overhang &#8211; the Rockshelter &#8211; used 19,000 years ago for shelter by the region’s first inhabitants. Take a tour of this internationally-renowned archeological treasure and learn more about the lives of Western Pennsylvania’s prehistoric hunters and gatherers.</p>
+<p>At Meadowcroft’s interpretive villages, you can step back in time to encounter rural life over the past 500 years. Explore a wigwam and test your aim with a spear thrower at the 16th-century Eastern Woodland Indian Village, experience an 18th-century log cabin and open-sided trading post, and watch a blacksmith forge red-hot iron or take a lesson in a one-room school house at the site’s 19th-century Historic Village.</p>
+<h2>Hours &amp; Location</h2>
+<ul>
+<li>Address: 401 Meadowcroft Road, Avella, PA 15312, in the town of Avella in Washington County, Pa., about a one-hour drive from downtown Pittsburgh</li>
+<li>Hours: Open seasonally from May through November 23<br />
+<table style="border-collapse: collapse; width: 69.6837%; height: 72px;">
+<tbody>
+<tr style="height: 24px;">
+<td style="width: 14.825%; height: 24px;"><strong>May</strong></td>
+<td style="width: 23.25%; height: 24px;">Saturdays and Sundays, 10 a.m. to 4 p.m.</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 14.825%; height: 24px;"><strong>Memorial Day to Labor Day</strong></td>
+<td style="width: 23.25%; height: 24px;">Wednesday through Sunday, 10 a.m. to 4 p.m.</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 14.825%; height: 24px;"><strong>Labor Day to November 23</strong></td>
+<td style="width: 23.25%; height: 24px;">Saturdays and Sundays, 10 a.m. to 4 p.m.</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
+<p><a class="button" href="https://www.heinzhistorycenter.org/visit/meadowcroft/directions-parking/"><span class="button_inner"><span class="button_inner_label">DRIVING DIRECTIONS</span></span></a></p>
+<h2>Admission</h2>
+<table style="border-collapse: collapse; width: 100%; height: 174px;">
+<tbody>
+<tr style="height: 45px;">
+<td style="width: 50%; height: 45px;">Adults</td>
+<td style="width: 50%; height: 45px;">$15</td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 50%; height: 33px;">Senior Citizens (65+)</td>
+<td style="width: 50%; height: 33px;">$14</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">Children ages 6-17</td>
+<td style="width: 50%; height: 24px;">$7</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">Children ages 5 and under</td>
+<td style="width: 50%; height: 24px;">FREE</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">Students with a valid school ID</td>
+<td style="width: 50%; height: 24px;">$7</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">History Center Members</td>
+<td style="width: 50%; height: 24px;">FREE</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">Retired &amp; Active Duty Military</td>
+<td style="width: 50%; height: 24px;">Receive $2 off admission</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 50%; height: 24px;">Teachers</td>
+<td style="width: 50%; height: 24px;">FREE this May</td>
+</tr>
+</tbody>
+</table>
+<h2>Daily Tours</h2>
+<p><span style="font-weight: 400;">During Meadowcroft’s season, tours of the Rockshelter are offered daily and last approximately one hour. Times vary. Please check in at the Visitor Center to sign up for a Rockshelter tour, or call 724-587-3412 for more information.</span></p>
+			</div>
+		</div>
+	</div>
+</div><div class="js-accordion accordion">
+		
+	<div class="accordion_body">
+		<div class="fs-row">
+			<div class="fs-cell fs-lg-8 fs-lg-push-1">
+				<div class="accordion_body_inner">
+					<div class="accordion_items">
+												<div class="js-accordion-item js-accordion-item-1-1 accordion_item">
+							<h2 class="accordion_item_heading">							<button class="js-accordion-swap js-swap accordion_item_button" data-swap-target=".js-accordion-item-1-1">
+								<span class="accordion_item_heading_inner">
+									<span class="accordion_item_heading_label">
+										<span class="accordion_item_heading_title">Learn More About Meadowcroft</span>
+									</span>
+									<span class="accordion_item_heading_icon"><svg class="icon icon_chevron_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#chevron_down"></use></svg>
+</span>
+								</span>
+							</button>
+							</h2>							<div class="js-accordion-content accordion_item_content typography" aria-label="Learn More About Meadowcroft">
+								
+
+
+
+
+
+
+
+<p>Meadowcroft Rockshelter, the oldest site of human habitation in North America, provides a unique glimpse into the lives of prehistoric hunters and gatherers. This National Historic Landmark, located in Avella, Washington County, Pa., features a massive rock overhang used 19,000 years ago for shelter by the first people in North America. The enclosure at Meadowcroft Rockshelter provides visitors with a unique, never-before-seen perspective into the oldest and deepest parts of this internationally-renowned archeological excavation.</p>
+<p>In addition to ancient history at the Rockshelter, visitors to Meadowcroft can also step back in time to experience rural life over the past 500 years through a series of interpretive villages, including a 16th century Eastern Woodland Indian Village, an 18th century log cabin and open-sided trading post, and a 19th century village that includes a church, one-room schoolhouse, and blacksmith shop.</p>
+<p><strong>Bring a picnic lunch, relax, and enjoy Meadowcroft’s beautiful rural setting for the afternoon. Plan to spend at least three hours if you want to see all that Meadowcroft has to offer.</strong></p>
+<p><strong><em>Thank you to the Observer-Reporter for being Meadowcroft’s media sponsor.</em></strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+							</div>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="js-checkpoint cta_visual theme_meadowcroft" data-checkpoint-offset="100" data-checkpoint-intersect="bottom-middle">
+	<figure class="cta_visual_figure">
+		<div class="lazy_image_wrapper cta_visual_image_wrapper">
+	<picture class="cta_visual_picture">
+				<source media="(min-width: 980px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-1440x810.jpg">
+				<source media="(min-width: 740px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-1220x686.jpg">
+				<source media="(min-width: 500px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-980x980.jpg">
+				<img class="js-lazy js-lazyload cta_visual_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-740x740.jpg" alt="A woman in 18th-century historical clothing prepares food outdoors next to a rustic log cabin at Meadowcroft. Several cooking pots hang over an open fire ring, surrounded by trees and a grassy clearing beneath a partly cloudy sky.">
+	</picture>
+</div>
+
+<noscript>
+	<div class="cta_visual_image_wrapper">
+		<picture class="cta_visual_picture">
+						<source media="(min-width: 980px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-1440x810.jpg">
+						<source media="(min-width: 740px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-1220x686.jpg">
+						<source media="(min-width: 500px)" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-980x980.jpg">
+						<img class="cta_visual_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2022/08/DSC05865-740x740.jpg" alt="A woman in 18th-century historical clothing prepares food outdoors next to a rustic log cabin at Meadowcroft. Several cooking pots hang over an open fire ring, surrounded by trees and a grassy clearing beneath a partly cloudy sky.">
+		</picture>
+	</div>
+</noscript>	</figure>
+	
+	<div class="fs-row">
+		<div class="fs-cell">
+			<div class="cta_visual_inner">
+				<div class="cta_visual_header">
+					<h2 class="cta_visual_title">What&#039;s On at Meadowcroft?</h2>
+
+					<div class="cta_visual_meta">
+												<p class="cta_visual_type">Exhibits &amp; Events</p>
+												<p class="cta_visual_location">Meadowcroft Rockshelter and Historic Village</p>
+											</div>
+				</div>
+				
+				<div class="cta_visual_body">
+					<div class="cta_visual_description">
+						<p>Learn more about Meadowcroft’s upcoming public programs and everyday offerings.</p>
+					</div>
+				</div>
+				
+				<div class="cta_visual_action">
+					<a
+	href="https://www.heinzhistorycenter.org/whats-on/meadowcroft/"	class="
+		cta_visual_link
+			"
+	aria-label="What's on at Meadowcroft">
+	<span class="cta_visual_link_inner">
+		<span class="cta_visual_link_label">What's On</span>
+			</span>
+</a>				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="event_related">
+	
+	<div class="event_related_body">
+		<div class="fs-row">
+			<div class="fs-cell">
+				<ul class="event_related_items" aria-label="Related Events">
+										<li class="event_related_item">
+						<div class="card theme_meadowcroft">
+	<p class="card_date">October 18</p>
+	<figure class="card_figure">
+		<img class="card_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2025/07/archaeology-day-1-300x200.jpg" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2025/07/archaeology-day-1-500x334.jpg 500w, https://www.heinzhistorycenter.org/wp-content/uploads/2025/07/archaeology-day-1-300x200.jpg 300w" loading="lazy" alt="Excavation site covered by a wooden roof with exposed support beams; ancient stone ruins and scattered artifacts partially embedded in the soil; several visitors standing behind a glass barrier observe the archaeological dig area." />
+
+	</figure>
+
+	<div class="card_body">
+		<div class="card_meta">
+						<span class="card_location">Meadowcroft Rockshelter and Historic Village</span> &ndash;
+						<span class="card_time">10:00 AM</span>
+		</div>
+
+		<h3 class="card_title">
+			<a
+	href="https://www.heinzhistorycenter.org/event/archaeology-day-2025/"	class="
+		card_title_link
+			"
+	>
+	<span class="card_title_link_inner">
+		<span class="card_title_link_label">Archaeology Day</span>
+			</span>
+</a>		</h3>
+
+		<div class="card_description">
+			<p>
+
+Dig into the past at Meadowcroft’s Archaeology Day!
+
+
+</p>
+		</div>
+
+			</div>
+</div>
+					</li>
+										<li class="event_related_item">
+						<div class="card theme_meadowcroft">
+	<p class="card_date">November 22</p>
+	<figure class="card_figure">
+		<img class="card_image" src="https://www.heinzhistorycenter.org/wp-content/uploads/2023/04/Taffy-Pull-and-Fall-Celebration_Listing-300x200.webp" srcset="https://www.heinzhistorycenter.org/wp-content/uploads/2023/04/Taffy-Pull-and-Fall-Celebration_Listing-500x334.webp 500w, https://www.heinzhistorycenter.org/wp-content/uploads/2023/04/Taffy-Pull-and-Fall-Celebration_Listing-300x200.webp 300w" loading="lazy" alt="Children and adults gather around a wooden table, using their hands to stretch and pull pieces of taffy. Several people are shaping the candy, while others dip pieces into a white mixture. All participants are focused on the taffy pull activity in a history museum setting." />
+
+	</figure>
+
+	<div class="card_body">
+		<div class="card_meta">
+						<span class="card_location">Meadowcroft Rockshelter and Historic Village</span> &ndash;
+						<span class="card_time">10:00 AM</span>
+		</div>
+
+		<h3 class="card_title">
+			<a
+	href="https://www.heinzhistorycenter.org/event/meadowcrofts-taffy-pull-fall-celebration-2025/"	class="
+		card_title_link
+			"
+	>
+	<span class="card_title_link_inner">
+		<span class="card_title_link_label">Meadowcroft’s Taffy Pull &amp; Fall Celebration</span>
+			</span>
+</a>		</h3>
+
+		<div class="card_description">
+			<p>
+
+Wrap up the season with a sweet celebration at Meadowcroft!
+
+
+</p>
+		</div>
+
+			</div>
+</div>
+					</li>
+									</ul>
+			</div>
+		</div>
+	</div>
+
+	<div class="event_related_footer">
+		<div class="fs-row">
+			<div class="fs-cell">
+				<div class="event_related_mobile_footer_cta">
+					<div class="event_related_mobile_footer_cta">
+						<a
+	href="https://www.heinzhistorycenter.org/events/"	class="
+		event_related_header_cta_link
+			"
+	>
+	<span class="event_related_header_cta_link_inner">
+		<span class="event_related_header_cta_link_label">View All Events</span>
+			</span>
+</a>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+			</main>
+
+			<footer class="footer" id="footer">
+				<div class="footer_primary">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="footer_primary_inner">
+								<div class="logo logo_footer">
+	<a class="logo_link" href="https://www.heinzhistorycenter.org/">
+				<img src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/logo-footer.png" alt="Senator John Heinz History Center in Association with the Smithsonian Institution" class="logo_image_footer">
+	</a>
+	</div>
+								<div class="footer_primary_group">
+									<nav class="js-nav js-footer-nav js-footer-nav-lg nav footer_nav footer_nav_lg" aria-labelledby="footer_nav_title_lg">
+	<div class="nav_header footer_nav_header">
+		<h2 class="nav_title footer_nav_title" id="footer_nav_title_lg">Footer</h2>
+	</div>
+
+	<ul class="js-nav-list js-footer-nav-list nav_list footer_nav_list" aria-labelledby="footer_nav_title_lg">
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-1 nav_item footer_nav_item active">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link active" href="https://www.heinzhistorycenter.org/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Home</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-2 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">About</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-3 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/contact-us/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Contact Us</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-4 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/visit/accessibility/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Accessibility</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-5 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/visit/health-safety/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Health &amp; Safety</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-6 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/work-with-us/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Work With Us</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-7 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/sitemap/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Sitemap</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-8 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/policies/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Policies</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav><div class="social_nav">
+	<div class="social_nav_header">
+		<h2 class="social_nav_title" id="social_nav_title">Social Navigation</h2>
+	</div>
+
+	<ul class="social_nav_list" aria-labelledby="social_nav_title">
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_facebook" href="https://www.facebook.com/SenatorJohnHeinzHistoryCenter" aria-label="Facebook (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_facebook"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#facebook"></use></svg>
+</span>
+				<span class="social_nav_label">Facebook</span>
+			</a>
+		</li>
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_x" href="https://twitter.com/historycenter" aria-label="X (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_x"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#x"></use></svg>
+</span>
+				<span class="social_nav_label">X</span>
+			</a>
+		</li>
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_instagram" href="http://instagram.com/historycenter" aria-label="Instagram (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_instagram"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#instagram"></use></svg>
+</span>
+				<span class="social_nav_label">Instagram</span>
+			</a>
+		</li>
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_tiktok" href="https://www.tiktok.com/@heinzhistorycenter" aria-label="Tiktok (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_tiktok"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#tiktok"></use></svg>
+</span>
+				<span class="social_nav_label">Tiktok</span>
+			</a>
+		</li>
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_youtube" href="https://www.youtube.com/user/heinzhistorycenter" aria-label="YouTube (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_youtube"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#youtube"></use></svg>
+</span>
+				<span class="social_nav_label">YouTube</span>
+			</a>
+		</li>
+				<li class="social_nav_item">
+			<a class="social_nav_link social_nav_link_email" href="https://lp.constantcontactpages.com/su/JY1eUky" aria-label="Email (external site)" target="_blank" rel="noopener">
+				<span class="social_nav_icon"><svg class="icon icon_email"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#email"></use></svg>
+</span>
+				<span class="social_nav_label">Email</span>
+			</a>
+		</li>
+			</ul>
+</div>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="footer_ribbon">
+					<div class="fs-row">
+						<div class="fs-cell">
+							<div class="footer_ribbon_inner">
+								<div class="footer_ribbon_group">
+									<div class="meta_info" id="meta_info">
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Organization",
+			"name": "Heinz History Center",
+			"logo": "https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html//images/logo-schema.png",
+			"address": [{"@type":"PostalAddress","streetAddress":"1212 Smallman Street","addressLocality":"Pittsburgh","addressRegion":"PA","postalCode":"15222"},{"@type":"PostalAddress","streetAddress":"1212 Smallman Street","addressLocality":"Pittsburgh","addressRegion":"PA","postalCode":"15222"},{"@type":"PostalAddress","streetAddress":"601 Commonwealth Place","addressLocality":"Pittsburgh","addressRegion":"PA","postalCode":"15222"},{"@type":"PostalAddress","streetAddress":" 401 Meadowcroft Road","addressLocality":"Avella","addressRegion":"PA","postalCode":"15312"}],
+			"email": "mailto:info@heinzhistorycenter.org",
+			"telephone": "(412) 454-6000",
+			"url": "https://www.heinzhistorycenter.org/"
+		}
+	</script>
+
+	<div class="meta_info_details">
+		<div class="meta_info_details_locations">
+						<div class="meta_info_details_location">
+				<div class="meta_info_detail meta_info_detail_address color_history js-meta-location-1">
+					<button class="meta_info_detail_address_toggle js-swap" data-swap-target=".js-meta-location-1">
+	<span class="meta_info_detail_address_toggle_inner_default meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_default meta_info_detail_address_toggle_label">Heinz History Center</span>
+				<span class="meta_info_detail_address_toggle_icon_default meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_default meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_down"></use></svg></span>
+		</span>
+			</span>
+		<span class="meta_info_detail_address_toggle_inner_active meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_active meta_info_detail_address_toggle_label">Heinz History Center</span>
+				<span class="meta_info_detail_address_toggle_icon_active meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_active meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_up"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_up"></use></svg></span>
+		</span>
+			</span>
+	</button>
+					<div class="meta_info_detail_data">
+						<a class="meta_info_detail_label meta_info_detail_link" href="//www.google.com/maps/place/?q=place_id:ChIJr7aBzePzNIgRi2Dp2ZCFmUY" target="_blank" rel="noopener" aria-label="1212 Smallman Street, Pittsburgh PA, 15222 (external site)">
+							<span class="meta_info_address_street">1212 Smallman Street,</span>
+							<span class="meta_info_address_group">
+								<span class="meta_info_address_city">Pittsburgh,</span>
+								<span class="meta_info_address_state">PA </span>
+								<span class="meta_info_address_zip">15222</span>
+							</span>
+						</a>
+												<a href="tel:4124546000" class="meta_info_detail_link">(412) 454-6000</a>
+												<a href="/cdn-cgi/l/email-protection#1970777f7659717c70776371706a6d766b607a7c776d7c6b37766b7e" class="meta_info_detail_link"><span class="__cf_email__" data-cfemail="83eaede5ecc3ebe6eaedf9ebeaf0f7ecf1fae0e6edf7e6f1adecf1e4">[email&#160;protected]</span></a>
+												<span class="meta_info_detail_hours">Today's Hours: 10 AM - 5 PM</span>
+					</div>
+				</div>
+			</div>
+						<div class="meta_info_details_location">
+				<div class="meta_info_detail meta_info_detail_address color_sports js-meta-location-2">
+					<button class="meta_info_detail_address_toggle js-swap" data-swap-target=".js-meta-location-2">
+	<span class="meta_info_detail_address_toggle_inner_default meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_default meta_info_detail_address_toggle_label">Western Pennsylvania Sports Museum</span>
+				<span class="meta_info_detail_address_toggle_icon_default meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_default meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_down"></use></svg></span>
+		</span>
+			</span>
+		<span class="meta_info_detail_address_toggle_inner_active meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_active meta_info_detail_address_toggle_label">Western Pennsylvania Sports Museum</span>
+				<span class="meta_info_detail_address_toggle_icon_active meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_active meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_up"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_up"></use></svg></span>
+		</span>
+			</span>
+	</button>
+					<div class="meta_info_detail_data">
+						<a class="meta_info_detail_label meta_info_detail_link" href="//www.google.com/maps/place/?q=place_id:ChIJr7aBzePzNIgRi2Dp2ZCFmUY" target="_blank" rel="noopener" aria-label="1212 Smallman Street, Pittsburgh PA, 15222 (external site)">
+							<span class="meta_info_address_street">1212 Smallman Street,</span>
+							<span class="meta_info_address_group">
+								<span class="meta_info_address_city">Pittsburgh,</span>
+								<span class="meta_info_address_state">PA </span>
+								<span class="meta_info_address_zip">15222</span>
+							</span>
+						</a>
+												<a href="tel:4124546000" class="meta_info_detail_link">(412) 454-6000</a>
+												<a href="/cdn-cgi/l/email-protection#88e1e6eee7c8e0ede1e6f2e0e1fbfce7faf1ebede6fcedfaa6e7faef" class="meta_info_detail_link"><span class="__cf_email__" data-cfemail="b6dfd8d0d9f6ded3dfd8ccdedfc5c2d9c4cfd5d3d8c2d3c498d9c4d1">[email&#160;protected]</span></a>
+												<span class="meta_info_detail_hours">Today's Hours: 10 AM - 5 PM</span>
+					</div>
+				</div>
+			</div>
+						<div class="meta_info_details_location">
+				<div class="meta_info_detail meta_info_detail_address color_fort js-meta-location-3">
+					<button class="meta_info_detail_address_toggle js-swap" data-swap-target=".js-meta-location-3">
+	<span class="meta_info_detail_address_toggle_inner_default meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_default meta_info_detail_address_toggle_label">Fort Pitt Museum</span>
+				<span class="meta_info_detail_address_toggle_icon_default meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_default meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_down"></use></svg></span>
+		</span>
+			</span>
+		<span class="meta_info_detail_address_toggle_inner_active meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_active meta_info_detail_address_toggle_label">Fort Pitt Museum</span>
+				<span class="meta_info_detail_address_toggle_icon_active meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_active meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_up"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_up"></use></svg></span>
+		</span>
+			</span>
+	</button>
+					<div class="meta_info_detail_data">
+						<a class="meta_info_detail_label meta_info_detail_link" href="//www.google.com/maps/place/?q=place_id:ChIJuwu6IVXxNIgRa1BuX7bHZ1Q" target="_blank" rel="noopener" aria-label="601 Commonwealth Place, Pittsburgh PA, 15222 (external site)">
+							<span class="meta_info_address_street">601 Commonwealth Place,</span>
+							<span class="meta_info_address_group">
+								<span class="meta_info_address_city">Pittsburgh,</span>
+								<span class="meta_info_address_state">PA </span>
+								<span class="meta_info_address_zip">15222</span>
+							</span>
+						</a>
+												<a href="tel:4122819284" class="meta_info_detail_link">(412) 281-9284</a>
+												<a href="/cdn-cgi/l/email-protection#44222b3630342d30302d2a222b042c212d2a3e2c2d37302b363d27212a3021366a2b3623" class="meta_info_detail_link"><span class="__cf_email__" data-cfemail="ea8c85989e9a839e9e83848c85aa828f8384908283999e859893898f849e8f98c485988d">[email&#160;protected]</span></a>
+												<span class="meta_info_detail_hours">Today's Hours: 10 AM - 5 PM</span>
+					</div>
+				</div>
+			</div>
+						<div class="meta_info_details_location">
+				<div class="meta_info_detail meta_info_detail_address color_meadowcroft js-meta-location-4">
+					<button class="meta_info_detail_address_toggle js-swap" data-swap-target=".js-meta-location-4">
+	<span class="meta_info_detail_address_toggle_inner_default meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_default meta_info_detail_address_toggle_label">Meadowcroft Rockshelter and Historic Village</span>
+				<span class="meta_info_detail_address_toggle_icon_default meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_default meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_down"></use></svg></span>
+		</span>
+			</span>
+		<span class="meta_info_detail_address_toggle_inner_active meta_info_detail_address_toggle_inner">
+		<span class="meta_info_detail_address_toggle_label_active meta_info_detail_address_toggle_label">Meadowcroft Rockshelter and Historic Village</span>
+				<span class="meta_info_detail_address_toggle_icon_active meta_info_detail_address_toggle_icon" aria-hidden="true">
+			<span class="meta_info_detail_address_toggle_icon_inner_active meta_info_detail_address_toggle_icon_inner"><svg class="icon icon_caret_up"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#caret_up"></use></svg></span>
+		</span>
+			</span>
+	</button>
+					<div class="meta_info_detail_data">
+						<a class="meta_info_detail_label meta_info_detail_link" href="//www.google.com/maps/place/?q=place_id:ChIJ_____z81NIgRAIsIZOTiR-A" target="_blank" rel="noopener" aria-label="401 Meadowcroft Road, Avella PA, 15312 (external site)">
+							<span class="meta_info_address_street"> 401 Meadowcroft Road,</span>
+							<span class="meta_info_address_group">
+								<span class="meta_info_address_city">Avella,</span>
+								<span class="meta_info_address_state">PA </span>
+								<span class="meta_info_address_zip">15312</span>
+							</span>
+						</a>
+												<a href="tel:7245873412" class="meta_info_detail_link">(724) 587-3412</a>
+												<a href="/cdn-cgi/l/email-protection#cea3abafaaa1b9adbca1a8baa7a0a8a18ea6aba7a0b4a6a7bdbaa1bcb7adaba0baabbce0a1bca9" class="meta_info_detail_link"><span class="__cf_email__" data-cfemail="bdd0d8dcd9d2cadecfd2dbc9d4d3dbd2fdd5d8d4d3c7d5d4cec9d2cfc4ded8d3c9d8cf93d2cfda">[email&#160;protected]</span></a>
+												<span class="meta_info_detail_hours">Today's Hours: CLOSED TODAY</span>
+					</div>
+				</div>
+			</div>
+					</div>
+	</div>
+</div>									<div class="footer_ribbon_navs">
+										<nav class="js-nav js-footer-nav js-footer-nav-sm nav footer_nav footer_nav_sm" aria-labelledby="footer_nav_title_sm">
+	<div class="nav_header footer_nav_header">
+		<h2 class="nav_title footer_nav_title" id="footer_nav_title_sm">Footer</h2>
+	</div>
+
+	<ul class="js-nav-list js-footer-nav-list nav_list footer_nav_list" aria-labelledby="footer_nav_title_sm">
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-1 nav_item footer_nav_item active">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link active" href="https://www.heinzhistorycenter.org/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Home</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-2 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">About</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-3 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/contact-us/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Contact Us</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-4 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/visit/accessibility/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Accessibility</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-5 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/visit/health-safety/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Health &amp; Safety</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-6 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/work-with-us/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Work With Us</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-7 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/sitemap/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Sitemap</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-8 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/policies/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Policies</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav><nav class="js-nav js-footer-nav js-footer-nav-sm nav footer_nav footer_nav_sm" aria-labelledby="footer_nav_title_sm">
+	<div class="nav_header footer_nav_header">
+		<h2 class="nav_title footer_nav_title" id="footer_nav_title_sm">Utility</h2>
+	</div>
+
+	<ul class="js-nav-list js-footer-nav-list nav_list footer_nav_list" aria-labelledby="footer_nav_title_sm">
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-1 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://my.heinzhistorycenter.org/orders/558/calendar?cart=true&eventId=64babe950cc5e535df6f93d3&membershipIds=" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Tickets</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-2 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/give/make-a-donation/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Donate</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-3 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://www.heinzhistorycenter.org/about/event-rentals/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Host an Event</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-footer-nav-item js-footer-nav-item-4 nav_item footer_nav_item">
+			<div class="nav_item_inner footer_nav_item_inner">
+				<a class="js-nav-link js-footer-nav-link nav_link footer_nav_link" href="https://shop.heinzhistorycenter.org/" >
+					<div class="nav_link_inner footer_nav_link_inner">
+												<span class="nav_link_label footer_nav_link_label">Shop</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav>									</div>
+								</div>
+								<div class="footer_ribbon_footer">
+									<div class="footer_ribbon_logos">
+										<img src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/logo_rad.png" alt="RAD Works Here logo" class="footer_ribbon_logo_rad" />
+										<img src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/logo_smithsonian.png" alt="Smithsonian Affiliate logo" class="footer_ribbon_logo_smithsonian" />
+									</div>
+
+									<p class="copyright"><span class="copyright_icon">&copy;</span> <span class="copyright_year">2025</span> <span class="copyright_holder"><span class="copyright_holder_name">Heinz History Center</span></span></p>								</div>
+																<div class="footer_ribbon_form">
+									
+                <div class='gf_browser_chrome gform_wrapper gravity-theme gform-theme--no-framework' data-form-theme='gravity-theme' data-form-index='0' id='gform_wrapper_21' ><div id='gf_21' class='gform_anchor' tabindex='-1'></div>
+                        <div class='gform_heading'>
+                            <h2 class="gform_title">Sign Up For Our Newsletter</h2>
+                        </div><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_21' id='gform_21'  action='/visit/meadowcroft/#gf_21' data-formid='21' novalidate> 
+ <input type='hidden' class='gforms-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' />
+                        <div class='gform-body gform_body'><div id='gform_fields_21' class='gform_fields top_label form_sublabel_below description_below validation_below'><div id="field_21_1" class="gfield gfield--type-email gfield--input-type-email gfield_contains_required field_sublabel_below gfield--no-description field_description_below field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_21_1'>Email Address<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_21_1' type='email' value='' class='large'   placeholder='Email Address' aria-required="true" aria-invalid="false"  />
+                        </div></div><div id="field_21_2" class="gfield gfield--type-captcha gfield--input-type-captcha gfield--width-full field_sublabel_below gfield--no-description field_description_below hidden_label field_validation_below gfield_visibility_visible"  ><label class='gfield_label gform-field-label' for='input_21_2'>CAPTCHA</label><div id='input_21_2' class='ginput_container ginput_recaptcha' data-sitekey='6LeD-qYhAAAAACjlingohQLblhtk2iAUa1IfvNcL'  data-theme='light' data-tabindex='0'  data-badge=''></div></div></div></div>
+        <div class='gform-footer gform_footer top_label'> <input type='submit' id='gform_submit_button_21' class='gform_button button' onclick='gform.submission.handleButtonClick(this);' data-submission-type='submit' value='Submit'  /> <input type='hidden' name='gform_ajax' value='form_id=21&amp;title=1&amp;description=&amp;tabindex=0&amp;theme=gravity-theme&amp;styles=[]&amp;hash=83bb484363de725e6e3da630460cb818' />
+            <input type='hidden' class='gform_hidden' name='gform_submission_method' data-js='gform_submission_method_21' value='iframe' />
+            <input type='hidden' class='gform_hidden' name='gform_theme' data-js='gform_theme_21' id='gform_theme_21' value='gravity-theme' />
+            <input type='hidden' class='gform_hidden' name='gform_style_settings' data-js='gform_style_settings_21' id='gform_style_settings_21' value='[]' />
+            <input type='hidden' class='gform_hidden' name='is_submit_21' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='21' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_21' value='WyJbXSIsIjNlZDdhNjlhMWMwZGY2OTU2YWQyZjhjMmYyZWVmOWIwIl0=' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_target_page_number_21' id='gform_target_page_number_21' value='0' />
+            <input type='hidden' autocomplete='off' class='gform_hidden' name='gform_source_page_number_21' id='gform_source_page_number_21' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+		                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_21' id='gform_ajax_frame_21' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
+		                <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 21, 'https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_21').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_21');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_21').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_21').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_21').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_21').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_21').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_21').val();gformInitSpinner( 21, 'https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [21, current_page]);window['gf_submitting_21'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}jQuery('#gform_wrapper_21').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_21').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [21]);window['gf_submitting_21'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_21').text());}else{jQuery('#gform_21').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger("gform_pre_post_render", [{ formId: "21", currentPage: "current_page", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_21" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_21";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_21" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 21, current_page );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } );} ); 
+/* ]]> */
+</script>
+								</div>
+																<div class="footer_ribbon_map">
+									<svg width="568" height="392" viewBox="0 0 568 392" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="locations_map">
+	<a href="//www.google.com/maps/place/?q=place_id:ChIJr7aBzePzNIgRi2Dp2ZCFmUY" target="_blank" rel="noopener" class="locations_map_link" aria-label="Map of Heinz History Center locations (external site)">
+		<foreignObject width="100%" height="100%">
+			<img src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/heinz-map.png" srcset="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/heinz-map.png 1x, https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/heinz-map@2x.png 2x" alt="Map of Heinz History Center locations" width="568" height="392" />
+		</foreignObject>
+	</a>
+
+	<!-- sports museum -->
+	<a href="//www.google.com/maps/place/?q=place_id:ChIJr7aBzePzNIgRi2Dp2ZCFmUY" target="_blank" rel="noopener" class="locations_map_link locations_map_link_blue" aria-label="Google Map link for the Sports Museum location (external site)">
+		<path class="locations_map_pin" d="M454.328 119.172C455.078 119.875 455.969 120.227 457 120.227C458.031 120.227 458.898 119.875 459.602 119.172C460.352 118.422 460.727 117.531 460.727 116.5C460.727 115.469 460.352 114.602 459.602 113.898C458.898 113.148 458.031 112.773 457 112.773C455.969 112.773 455.078 113.148 454.328 113.898C453.625 114.602 453.273 115.469 453.273 116.5C453.273 117.531 453.625 118.422 454.328 119.172ZM449.547 109.117C451.609 107.055 454.094 106.023 457 106.023C459.906 106.023 462.367 107.055 464.383 109.117C466.445 111.133 467.477 113.594 467.477 116.5C467.477 117.953 467.102 119.617 466.352 121.492C465.648 123.367 464.781 125.125 463.75 126.766C462.719 128.406 461.688 129.953 460.656 131.406C459.672 132.812 458.828 133.938 458.125 134.781L457 135.977C456.719 135.648 456.344 135.227 455.875 134.711C455.406 134.148 454.562 133.07 453.344 131.477C452.125 129.836 451.047 128.266 450.109 126.766C449.219 125.219 448.398 123.484 447.648 121.562C446.898 119.641 446.523 117.953 446.523 116.5C446.523 113.594 447.531 111.133 449.547 109.117Z" fill="#64A0C8"/>
+		<line x1="456.5" y1="160" x2="456.5" y2="141" stroke="#64A0C8"/>
+		<rect class="locations_map_label_bg" x="368" y="194" width="175" height="30" fill="#64A0C8"/>
+		<text class="locations_map_label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Satoshi" font-size="13" font-weight="bold" letter-spacing="0.08em"><tspan x="394.237" y="214.005">SPORTS MUSEUM</tspan></text>
+	</a>
+
+	<!-- history center -->
+	<a href="//www.google.com/maps/place/?q=place_id:ChIJr7aBzePzNIgRi2Dp2ZCFmUY" target="_blank" rel="noopener" class="locations_map_link locations_map_link_red" aria-label="Google Map link for the History Center location (external site)">
+		<path class="locations_map_pin" d="M449.328 119.172C450.078 119.875 450.969 120.227 452 120.227C453.031 120.227 453.898 119.875 454.602 119.172C455.352 118.422 455.727 117.531 455.727 116.5C455.727 115.469 455.352 114.602 454.602 113.898C453.898 113.148 453.031 112.773 452 112.773C450.969 112.773 450.078 113.148 449.328 113.898C448.625 114.602 448.273 115.469 448.273 116.5C448.273 117.531 448.625 118.422 449.328 119.172ZM444.547 109.117C446.609 107.055 449.094 106.023 452 106.023C454.906 106.023 457.367 107.055 459.383 109.117C461.445 111.133 462.477 113.594 462.477 116.5C462.477 117.953 462.102 119.617 461.352 121.492C460.648 123.367 459.781 125.125 458.75 126.766C457.719 128.406 456.688 129.953 455.656 131.406C454.672 132.812 453.828 133.938 453.125 134.781L452 135.977C451.719 135.648 451.344 135.227 450.875 134.711C450.406 134.148 449.562 133.07 448.344 131.477C447.125 129.836 446.047 128.266 445.109 126.766C444.219 125.219 443.398 123.484 442.648 121.562C441.898 119.641 441.523 117.953 441.523 116.5C441.523 113.594 442.531 111.133 444.547 109.117Z" fill="#B71234"/>
+		<line x1="451.5" y1="160" x2="451.5" y2="141" stroke="#B71234"/>
+		<rect class="locations_map_label_bg" x="368" y="163" width="175" height="30" fill="#B71234"/>
+		<text class="locations_map_label" fill="white" xml:space="preserve" style="white-space: pre" font-family="Satoshi" font-size="13" font-weight="bold" letter-spacing="0.08em"><tspan x="394.092" y="183.005">HISTORY CENTER</tspan></text>
+	</a>
+
+	<!-- fort pitt -->
+	<a href="//www.google.com/maps/place/?q=place_id:ChIJuwu6IVXxNIgRa1BuX7bHZ1Q" target="_blank" rel="noopener" class="locations_map_link locations_map_link_yellow" aria-label="Google Map link for the Fort Pitt location (external site)">
+		<path class="locations_map_pin" d="M435.328 116.172C436.078 116.875 436.969 117.227 438 117.227C439.031 117.227 439.898 116.875 440.602 116.172C441.352 115.422 441.727 114.531 441.727 113.5C441.727 112.469 441.352 111.602 440.602 110.898C439.898 110.148 439.031 109.773 438 109.773C436.969 109.773 436.078 110.148 435.328 110.898C434.625 111.602 434.273 112.469 434.273 113.5C434.273 114.531 434.625 115.422 435.328 116.172ZM430.547 106.117C432.609 104.055 435.094 103.023 438 103.023C440.906 103.023 443.367 104.055 445.383 106.117C447.445 108.133 448.477 110.594 448.477 113.5C448.477 114.953 448.102 116.617 447.352 118.492C446.648 120.367 445.781 122.125 444.75 123.766C443.719 125.406 442.688 126.953 441.656 128.406C440.672 129.812 439.828 130.938 439.125 131.781L438 132.977C437.719 132.648 437.344 132.227 436.875 131.711C436.406 131.148 435.562 130.07 434.344 128.477C433.125 126.836 432.047 125.266 431.109 123.766C430.219 122.219 429.398 120.484 428.648 118.562C427.898 116.641 427.523 114.953 427.523 113.5C427.523 110.594 428.531 108.133 430.547 106.117Z" fill="#EBB700"/>
+		<line x1="406" y1="117.5" x2="425" y2="117.5" stroke="#EBB700"/>
+		<rect class="locations_map_label_bg" x="286" y="103" width="116" height="30" fill="#EBB700"/>
+		<text class="locations_map_label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Satoshi" font-size="13" font-weight="bold" letter-spacing="0.08em"><tspan x="307.264" y="123.005">FORT PITT</tspan></text>
+	</a>
+
+	<!-- meadowcroft -->
+	<a href="//www.google.com/maps/place/?q=place_id:ChIJ_____z81NIgRAIsIZOTiR-A" target="_blank" rel="noopener" class="locations_map_link locations_map_link_green" aria-label="Google Map link for the Meadowcroft location (external site)">
+		<path class="locations_map_pin" d="M26.3281 287.172C27.0781 287.875 27.9688 288.227 29 288.227C30.0312 288.227 30.8984 287.875 31.6016 287.172C32.3516 286.422 32.7266 285.531 32.7266 284.5C32.7266 283.469 32.3516 282.602 31.6016 281.898C30.8984 281.148 30.0312 280.773 29 280.773C27.9688 280.773 27.0781 281.148 26.3281 281.898C25.625 282.602 25.2734 283.469 25.2734 284.5C25.2734 285.531 25.625 286.422 26.3281 287.172ZM21.5469 277.117C23.6094 275.055 26.0938 274.023 29 274.023C31.9062 274.023 34.3672 275.055 36.3828 277.117C38.4453 279.133 39.4766 281.594 39.4766 284.5C39.4766 285.953 39.1016 287.617 38.3516 289.492C37.6484 291.367 36.7812 293.125 35.75 294.766C34.7188 296.406 33.6875 297.953 32.6562 299.406C31.6719 300.812 30.8281 301.938 30.125 302.781L29 303.977C28.7188 303.648 28.3438 303.227 27.875 302.711C27.4062 302.148 26.5625 301.07 25.3438 299.477C24.125 297.836 23.0469 296.266 22.1094 294.766C21.2188 293.219 20.3984 291.484 19.6484 289.562C18.8984 287.641 18.5234 285.953 18.5234 284.5C18.5234 281.594 19.5312 279.133 21.5469 277.117Z" fill="#69923A"/>
+		<line x1="47" y1="288.5" x2="66" y2="288.5" stroke="#69923A"/>
+		<rect class="locations_map_label_bg" x="75" y="274" width="163" height="30" fill="#69923A"/>
+		<text class="locations_map_label" fill="black" xml:space="preserve" style="white-space: pre" font-family="Satoshi" font-size="13" font-weight="bold" letter-spacing="0.08em"><tspan x="99.0842" y="294.005">MEADOWCROFT</tspan></text>
+	</a>
+</svg>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+		<div class="js-menu menu" id="menu" aria-label="Site Menu">
+	<div class="menu_header">
+		<div class="fs-row">
+			<div class="fs-cell">
+				<div class="menu_header_inner">
+					<h2 class="menu_title">Site Menu</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="menu_primary">
+		<div class="fs-row menu_primary_row">
+			<div class="fs-cell menu_primary_cell">
+				<div class="menu_primary_inner">
+					<nav class="js-nav js-utility-nav js-utility-nav-sm nav utility_nav utility_nav_sm" aria-labelledby="utility_nav_title_sm">
+	<div class="nav_header utility_nav_header">
+		<h2 class="nav_title utility_nav_title" id="utility_nav_title_sm">Utility</h2>
+	</div>
+
+	<ul class="js-nav-list js-utility-nav-list nav_list utility_nav_list" aria-labelledby="utility_nav_title_sm">
+				<li class="js-nav-item js-utility-nav-item js-utility-nav-item-1 nav_item utility_nav_item">
+			<div class="nav_item_inner utility_nav_item_inner">
+				<a class="js-nav-link js-utility-nav-link nav_link utility_nav_link" href="https://my.heinzhistorycenter.org/orders/558/calendar?cart=true&eventId=64babe950cc5e535df6f93d3&membershipIds=" >
+					<div class="nav_link_inner utility_nav_link_inner">
+												<span class="nav_link_label utility_nav_link_label">Tickets</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-utility-nav-item js-utility-nav-item-2 nav_item utility_nav_item">
+			<div class="nav_item_inner utility_nav_item_inner">
+				<a class="js-nav-link js-utility-nav-link nav_link utility_nav_link" href="https://www.heinzhistorycenter.org/give/make-a-donation/" >
+					<div class="nav_link_inner utility_nav_link_inner">
+												<span class="nav_link_label utility_nav_link_label">Donate</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-utility-nav-item js-utility-nav-item-3 nav_item utility_nav_item">
+			<div class="nav_item_inner utility_nav_item_inner">
+				<a class="js-nav-link js-utility-nav-link nav_link utility_nav_link" href="https://www.heinzhistorycenter.org/about/event-rentals/" >
+					<div class="nav_link_inner utility_nav_link_inner">
+												<span class="nav_link_label utility_nav_link_label">Host an Event</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-utility-nav-item js-utility-nav-item-4 nav_item utility_nav_item">
+			<div class="nav_item_inner utility_nav_item_inner">
+				<a class="js-nav-link js-utility-nav-link nav_link utility_nav_link" href="https://shop.heinzhistorycenter.org/" >
+					<div class="nav_link_inner utility_nav_link_inner">
+												<span class="nav_link_label utility_nav_link_label">Shop</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav><nav class="js-nav js-main-nav js-main-nav-sm nav main_nav main_nav_sm" aria-labelledby="main_nav_title_sm">
+	<div class="nav_header main_nav_header">
+		<h2 class="nav_title main_nav_title" id="main_nav_title_sm">Site</h2>
+	</div>
+
+	<ul class="js-nav-list js-main-nav-list nav_list main_nav_list" aria-labelledby="main_nav_title_sm">
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-1 nav_item main_nav_item has_children active">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link active" href="https://www.heinzhistorycenter.org/visit/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">Visit</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-1" data-swap-group="main_nav_sm" aria-label="Visit" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="Visit">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/visit/heinz-history-center/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Heinz History Center</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/visit/sports-museum/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Western Pennsylvania Sports Museum</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/visit/fort-pitt/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Fort Pitt Museum</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/visit/meadowcroft/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Meadowcroft Rockshelter and Historic Village</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-2 nav_item main_nav_item has_children">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link" href="https://www.heinzhistorycenter.org/whats-on/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">What’s On</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-2" data-swap-group="main_nav_sm" aria-label="What’s On" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="What’s On">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/events/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Event Calendar</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/whats-on/exhibits/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Exhibits</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/whats-on/history-center/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Heinz History Center</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/whats-on/sports-museum/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Western Pennsylvania Sports Museum</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/whats-on/fort-pitt/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Fort Pitt Museum</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/whats-on/meadowcroft/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Meadowcroft Rockshelter and Historic Village</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-3 nav_item main_nav_item has_children">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link" href="https://www.heinzhistorycenter.org/research/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">Research</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-3" data-swap-group="main_nav_sm" aria-label="Research" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="Research">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/explore/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Explore Our Collections</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/detre-library-archives/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Detre Library &amp; Archives</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/african-american-program/" >
+												<span class="nav_child_link_label main_nav_child_link_label">African American Program</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/rauh-jewish-history-program-archives/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Rauh Jewish History Program &amp; Archives</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/italian-american-program/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Italian American Program</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/publications/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Publications</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/contribute-to-our-collections/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Contribute to Our Collections</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-4 nav_item main_nav_item has_children">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link" href="https://www.heinzhistorycenter.org/give/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">Join &amp; Give</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-4" data-swap-group="main_nav_sm" aria-label="Join &amp; Give" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="Join &amp; Give">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/join/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Become a Member</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/give/make-a-donation/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Make a Donation</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/give/fundraising-events/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Fundraising Events</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/give/commemorative-gifts/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Commemorative Gifts</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/give/planned-giving/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Planned Giving</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/research/contribute-to-our-collections/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Contribute to Our Collections</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-5 nav_item main_nav_item has_children">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link" href="https://www.heinzhistorycenter.org/learn/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">Learn</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-5" data-swap-group="main_nav_sm" aria-label="Learn" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="Learn">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/learn/education/" >
+												<span class="nav_child_link_label main_nav_child_link_label">For Schools &amp; Teachers</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/learn/scout-programs/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Scout Programs</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/learn/america-101/" >
+												<span class="nav_child_link_label main_nav_child_link_label">America 101</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/learn/virtual-tours/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Virtual Tours</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/blog/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Blog</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/learn/videos-and-podcasts/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Videos &#038; Podcasts</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+				<li class="js-nav-item js-main-nav-item js-main-nav-item-6 nav_item main_nav_item has_children">
+			<div class="nav_item_inner main_nav_item_inner">
+				<a class="js-nav-link js-main-nav-link nav_link main_nav_link" href="https://www.heinzhistorycenter.org/about/" >
+					<div class="nav_link_inner main_nav_link_inner">
+												<span class="nav_link_label main_nav_link_label">About</span>
+					</div>
+				</a>
+								<button class="js-swap js-nav-toggle js-main-nav-toggle nav_toggle main_nav_toggle" data-swap-target=".js-main-nav-item-6" data-swap-group="main_nav_sm" aria-label="About" aria-haspopup="true" aria-expanded="false">
+					<span class="nav_toggle_inner main_nav_toggle_inner">
+						<span class="nav_toggle_icon main_nav_toggle_icon"><svg class="icon icon_caret_down"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#caret_down"></use></svg>
+</span>
+					</span>
+				</button>
+							</div>
+
+						<ul class="js-nav-children js-main-nav-children nav_children main_nav_children" aria-label="About">
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/people/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Our People</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/press-awards-honors/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Press Releases, Awards &#038; Honors</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/history-center-affiliates-program/" >
+												<span class="nav_child_link_label main_nav_child_link_label">History Center Affiliates Program</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/event-rentals/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Event Rentals</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/contact-us/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Contact Us</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="https://www.heinzhistorycenter.org/about/work-with-us/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Work With Us</span>
+					</a>
+				</li>
+								<li class="js-nav-child-item js-main-nav-child-item nav_child_item main_nav_child_item">
+					<a class="js-nav-child-link js-main-nav-child-link nav_child_link main_nav_child_link" href="/blog/" >
+												<span class="nav_child_link_label main_nav_child_link_label">Blog</span>
+					</a>
+				</li>
+							</ul>
+					</li>
+			</ul>
+</nav><div class="js-site-search site_search site_search_menu" id="site_search_menu" role="search" itemscope itemtype="https://schema.org/WebSite" aria-label="Site Search">
+	<meta itemprop="url" content="https://www.heinzhistorycenter.org/">
+
+	<form class="site_search_form" action="https://www.heinzhistorycenter.org/search/" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction">
+		<meta itemprop="target" content="https://www.heinzhistorycenter.org/search/?q={q}">
+
+		<label class="js-site-search-label site_search_label" for="search_string__menu">Search</label>
+
+		<div class="site_search_field">
+			<input class="js-site-search-input site_search_input" itemprop="query-input" type="search" id="search_string__menu" name="q" placeholder="Find what you're looking for..." required>
+
+			<button class="site_search_button" type="submit">
+								<span class="site_search_button_label">Submit</span>
+								<span class="site_search_button_icon"><svg class="icon icon_search"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg?1749735736#search"></use></svg>
+</span>
+			</button>
+		</div>
+	</form>
+</div><nav class="js-nav js-audience-nav js-audience-nav-sm nav audience_nav audience_nav_sm" aria-labelledby="audience_nav_title_sm">
+	<div class="nav_header audience_nav_header">
+		<h2 class="nav_title audience_nav_title" id="audience_nav_title_sm">For You</h2>
+	</div>
+
+	<ul class="js-nav-list js-audience-nav-list nav_list audience_nav_list" aria-labelledby="audience_nav_title_sm">
+				<li class="js-nav-item js-audience-nav-item js-audience-nav-item-1 nav_item audience_nav_item">
+			<div class="nav_item_inner audience_nav_item_inner">
+				<a class="js-nav-link js-audience-nav-link nav_link audience_nav_link" href="https://www.heinzhistorycenter.org/families/" >
+					<div class="nav_link_inner audience_nav_link_inner">
+												<span class="nav_link_label audience_nav_link_label">Kids &amp; Families</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-audience-nav-item js-audience-nav-item-2 nav_item audience_nav_item">
+			<div class="nav_item_inner audience_nav_item_inner">
+				<a class="js-nav-link js-audience-nav-link nav_link audience_nav_link" href="https://www.heinzhistorycenter.org/groups/" >
+					<div class="nav_link_inner audience_nav_link_inner">
+												<span class="nav_link_label audience_nav_link_label">Groups</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-audience-nav-item js-audience-nav-item-3 nav_item audience_nav_item">
+			<div class="nav_item_inner audience_nav_item_inner">
+				<a class="js-nav-link js-audience-nav-link nav_link audience_nav_link" href="https://www.heinzhistorycenter.org/learn/education/" >
+					<div class="nav_link_inner audience_nav_link_inner">
+												<span class="nav_link_label audience_nav_link_label">Educators</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+				<li class="js-nav-item js-audience-nav-item js-audience-nav-item-4 nav_item audience_nav_item">
+			<div class="nav_item_inner audience_nav_item_inner">
+				<a class="js-nav-link js-audience-nav-link nav_link audience_nav_link" href="https://www.heinzhistorycenter.org/members/" >
+					<div class="nav_link_inner audience_nav_link_inner">
+												<span class="nav_link_label audience_nav_link_label">Members</span>
+					</div>
+				</a>
+							</div>
+
+					</li>
+			</ul>
+</nav>				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="menu_footer">
+		<div class="fs-row menu_footer_row">
+			<div class="fs-cell menu_footer_cell">
+				<div class="menu_footer_inner">
+					<button class="menu_close_toggle js-swap" data-swap-target=".menu" data-swap-linked="menu">
+	<span class="menu_close_toggle_inner_default menu_close_toggle_inner">
+		<span class="menu_close_toggle_label_default menu_close_toggle_label">Close</span>
+				<span class="menu_close_toggle_icon_default menu_close_toggle_icon" aria-hidden="true">
+			<span class="menu_close_toggle_icon_inner_default menu_close_toggle_icon_inner"><svg class="icon icon_close"><use xlink:href="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/images/icons.svg#close"></use></svg></span>
+		</span>
+			</span>
+	</button>				</div>
+			</div>
+		</div>
+	</div>
+</div>
+		<script>
+			var WWW_ROOT = "https://www.heinzhistorycenter.org/";
+			var STATIC_ROOT = "https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html/";
+			var $ = jQuery;
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/primary\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+        <script defer>
+            window.onload = function () {
+                CustomGPT.init({
+                    p_id: '64791',
+                    p_key: '1f2cfeb4fc7af6e22b13751d0181ecf2'
+                });
+            };
+        </script>
+        		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='gform_basic-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.9.19' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme_components-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.9.19' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_theme-css' href='https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.9.19' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-content/plugins/the-events-calendar/common/build/js/user-agent.js?ver=da75d0bdea6dde3898df" id="tec-user-agent-js"></script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-content/themes/primary/frontend/static-html//js/site.js?ver=1749735737" id="site-js"></script>
+<script type="text/javascript" src="//player.vimeo.com/api/player.js?ver=6.8.2" id="vimeo-js"></script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.heinzhistorycenter.org/wp-includes/js/dist/a11y.min.js?ver=3156534cc54473497e14" id="wp-a11y-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.9.19" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":0,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.heinzhistorycenter.org\/wp-content\/plugins\/gravityforms\/images"}};
+var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.heinzhistorycenter.org\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.heinzhistorycenter.org\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","version_hash":"b933c15ab0d050a906a5b1dd7c3681a6","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.9.19" id="gform_gravityforms-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.google.com/recaptcha/api.js?hl=en&amp;ver=6.8.2#038;render=explicit" id="gform_recaptcha-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.9.19" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=380b7a5ec0757c78876bc8a59488f2f3" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=21e5a4db1670166692ac5745329bfc80" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"b933c15ab0d050a906a5b1dd7c3681a6"},"ajax":{"ajaxurl":"https:\/\/www.heinzhistorycenter.org\/wp-admin\/admin-ajax.php","ajax_submission_nonce":"a1775789a1","i18n":{"step_announcement":"Step %1$s of %2$s, %3$s","unknown_error":"There was an unknown error processing your request. Please try again."}}}},"hmr_dev":"","public_path":"https:\/\/www.heinzhistorycenter.org\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/","config_nonce":"1e092d38c4"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer='defer' src="https://www.heinzhistorycenter.org/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=8fa5e6390c795318e567cd2b080e169b" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript" src="https://cdn.customgpt.ai/js/chat.js" id="customgpt-chat-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 21) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger("gform_pre_post_render", [{ formId: "21", currentPage: "1", abort: function() { this.preventDefault(); } }]);        if (event && event.defaultPrevented) {                return;        }        const gformWrapperDiv = document.getElementById( "gform_wrapper_21" );        if ( gformWrapperDiv ) {            const visibilitySpan = document.createElement( "span" );            visibilitySpan.id = "gform_visibility_test_21";            gformWrapperDiv.insertAdjacentElement( "afterend", visibilitySpan );        }        const visibilityTestDiv = document.getElementById( "gform_visibility_test_21" );        let postRenderFired = false;        function triggerPostRender() {            if ( postRenderFired ) {                return;            }            postRenderFired = true;            gform.core.triggerPostRenderEvents( 21, 1 );            if ( visibilityTestDiv ) {                visibilityTestDiv.parentNode.removeChild( visibilityTestDiv );            }        }        function debounce( func, wait, immediate ) {            var timeout;            return function() {                var context = this, args = arguments;                var later = function() {                    timeout = null;                    if ( !immediate ) func.apply( context, args );                };                var callNow = immediate && !timeout;                clearTimeout( timeout );                timeout = setTimeout( later, wait );                if ( callNow ) func.apply( context, args );            };        }        const debouncedTriggerPostRender = debounce( function() {            triggerPostRender();        }, 200 );        if ( visibilityTestDiv && visibilityTestDiv.offsetParent === null ) {            const observer = new MutationObserver( ( mutations ) => {                mutations.forEach( ( mutation ) => {                    if ( mutation.type === 'attributes' && visibilityTestDiv.offsetParent !== null ) {                        debouncedTriggerPostRender();                        observer.disconnect();                    }                });            });            observer.observe( document.body, {                attributes: true,                childList: false,                subtree: true,                attributeFilter: [ 'style', 'class' ],            });        } else {            triggerPostRender();        }    } ); 
+/* ]]> */
+</script>
+	</body>
+</html>

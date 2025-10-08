@@ -1,0 +1,643 @@
+From Wikipedia, the free encyclopedia
+This is a list of notable people associated with Carnegie Mellon University in the United States of America.
+Notable students and alumni
+John L. Hall (B.S. 1956, M.S. 1958, Ph.D. 1961), 2005 Nobel Prize in Physics
+Finn E. Kydland (Ph.D. 1973, faculty member), 2004 Bank of Sweden Prize in Economic Sciences
+Dale Thomas Mortensen (Ph.D. 1967), 2010 Bank of Sweden Prize in Economic Sciences
+John Forbes Nash (B.S. 1948, M.S. 1948), 1994 Bank of Sweden Prize in Economic Sciences, the subject of A Beautiful Mind
+Edward C. Prescott (Ph.D. 1967, faculty member 1971–1980), 2004 Bank of Sweden Prize in Economic Sciences
+Clifford Shull (B.S. 1937), 1994 Nobel Prize in Physics
+Oliver E. Williamson (Ph.D. 1963), 2009 Bank of Sweden Prize in Economic Sciences
+Alan Perlis (B.S. 1943, faculty member 1956–1971), compiler construction, 1966;  first Turing Award winner
+Allen Newell (Ph.D 1957, faculty member 1961–1992), artificial intelligence , 1975
+Ivan Sutherland (B.S. 1959), computer graphics , 1988
+Edward Feigenbaum (B.S. 1956, Ph.D 1960), artificial intelligence , 1994
+Shafi Goldwasser (B.S. 1979), cryptography , 2012
+Daniel Nagin (B.S, M.S. 1971, Ph.D. 1976, Professor), criminologist, 2014
+Raoul Bott (Ph.D. 1949), Mathematical, Statistical, and Computer Sciences, 1987
+Allen Newell (Ph.D. 1957, Professor), Mathematical, Statistical, and Computer Sciences, 1992
+George Pake (B.S., M.S. 1945), Physical Sciences, 1987
+Frederick Rossini (B.S. 1925, M.S. 1926, DSc (hon.) 1948), Chemistry
+Paul Allaire ( M.B.A 1966), former Xerox director (1986–1990) CEO (1990–2000) and Chairman (1991–2000)
+Kushagra Bajaj (B.S.), Vice Chairman of Bajaj Group
+Ted Decker , (M.B.A. 1993), CEO and president of The Home Depot [ 1 ]
+Francisco D'Souza (Master of Science in Industrial Administration 1992), CEO of Cognizant Technology Solutions
+Dina Dublon (Master of Science in Industrial Administration 1979), former EVP and CFO of JP Morgan Chase ; board member of Microsoft , Accenture , PepsiCo , and Carnegie Mellon University
+Marc Ewing (B.S. 1992), co-founder of Red Hat Inc., maker of Red Hat Enterprise Linux
+Yoshiaki Fujimori (Master of Science in Industrial Administration 1981), President and CEO of Lixil Group
+Scott Griffith (1981), Chairman and CEO of Zipcar
+Cormac Kinney (B.S. 1993, Master of Science in Industrial Administration 1994), software inventor and entrepreneur
+Alexander Knaster (B.S. 1980), billionaire private equity investor; founder and chairman of Pamplona Capital Management
+Jim Levy (B.S. 1965, Master of Science in Industrial Administration 1966), founding CEO of Activision (1979–1986)
+Andrew Ng (B.S. 1997), co-founder of education technology company Coursera , director of Stanford University 's Artificial Intelligence Lab
+Frank Marshall (B.S.), former Director of Juniper Networks , former Vice President of Cisco (1992–1997)
+Gerald C. Meyers (B.S., M.S.), former Chairman of American Motors
+Ted Nierenberg (B.S. 1944), founder of Dansk International Designs [ 2 ]
+David Tepper (Master of Science in Industrial Administration 1982), founder and Chairman of Appaloosa Management , owner of the NFL 's Carolina Panthers , and the MLS 's Charlotte FC
+Madhavi Vuppalapati , CEO and Chairperson of Prithvi Information Solutions. [ 3 ]
+Romesh Wadhwani (M.S., Ph.D.), billionaire private equity investor; founder and chairman of Symphony Technology Group
+Charles Erwin Wilson (1909), CEO of General Motors (1946–1953), President of General Motors (1941–1953) ( See also : Government and politics section )
+Sulajja Firodia Motwani , Indian woman entrepreneur
+Sunil Wadhwani , co-founder of Mastech Digital and IGATE
+Brian Olsavsky ( M.B.A ), CFO of Amazon [ 4 ]
+Steve (Satish) Sangapu , (Software Architecture Professional Certificate), Author & Founder and CTO of D3V Technology Solutions [ 5 ]
+Ratul Puri , chairman of Hindustan Powerprojects Private Limited
+Science and technology
+Kimberly W. Anderson (Ph.D.), chemist, Gill Eminent Professor, Chemical and Materials Engineering, Associate Dean for Administration and Academic Affairs in the College of Engineering at the University of Kentucky .
+Andrea Arpaci-Dusseau (B.S. 1991), author, professor, faculty member in the Computer Sciences Department at University of Wisconsin-Madison , ACM Fellow , winner of SIGOPS Mark Weiser Award .
+Monica S. Lam (Ph.D. 1987), American Computer Scientist, ACM Fellow , and founder of Omlet
+Allen Barnett (1966), principal investigator of the DARPA -funded Consortium for Very High Efficiency Solar Cells
+Andy Bechtolsheim (M.S. 1976), co-founder of Sun Microsystems ; Managing Director of Cisco 1996–2002; Chief Architect of Sun Microsystems 2003–2005; an original investor in Google , and the first person to document the company name
+Joshua Bloch (Ph.D. 1990), Chief Java Architect of Google , author of Jolt Award -winning book Effective Java
+Nik Bonaddio (B.S. 2004, M.S. 2005), founder of numberFire
+Nathaniel Borenstein (M.S. 1981, Ph.D. 1985), Chief Open Standards Strategist and Distinguished Engineer at IBM , co-creator of MIME for formatting multimedia email
+Mark Canepa (B.S. 1976, M.S. 1977), Executive Vice President of Network Storage Products Group, then Data Management for Sun Microsystems
+Jane C. Charlton (B.S. 1983), professor of astronomy and astrophysics, received her B.S. at age 18 [ 6 ]
+Harshvardhan Chunawala (M.S. 2023), Cybersecurity researcher, early contributor of Carnegie Mellon Mission Control and first lunar rover Mission Operator from the Information Networking Institute
+Bob Colwell (Ph.D.), Chief Architect of Intel Pentium Pro
+Robert Dennard (Ph.D. 1958), inventor of dynamic random access memory (DRAM); IBM Fellow ; proved the theories leading to Moore's Law
+Scott Fahlman (Professor), creator of the emoticon
+Gerald Gardner (1922–2009), geophysicist and social activist whose statistical analysis led to the banning of classified advertising segregated by gender in a 1973 ruling by the U.S. Supreme Court [ 7 ]
+Charles Geschke (Ph.D. 1973), co-founder of Adobe Systems
+James J. Gillogly (Ph.D. 1978), cryptographer who was the first to publicly solve parts 1-3 of Kryptos
+Virgil D. Gligor , pioneer in computer security and co-director of Carnegie Mellon's CYLAB
+James Gosling (M.S. 1983, Ph.D. 1983), Vice President and Fellow of Sun Microsystems , creator of Java programming language
+William Walter Hay (B.S. 1931) professor of railway engineering at the University of Illinois Urbana-Champaign remembered with the American Railway Engineering and Maintenance-of-Way Association Hay Award [ 8 ]
+Maynard Holliday , Robotics Engineer and former technology officer at The Pentagon
+Feng-hsiung Hsu (Ph.D. 1990), co-creator of ChipTest (while at CMU), the predecessor of Deep Thought , which evolved into Deep Blue at IBM
+Phil Karn (M.S. 1979), engineer; his name is on at least six RFCs ; inventor of Karn's Algorithm , a method for calculating the round trip time for IP packet retransmission
+Vinod Khosla (M.S. 1978), co-founder of Sun Microsystems , venture capitalist at Kleiner, Perkins, Caufield & Byers
+James H. Kindelberger (1920), pioneer of aviation, Chairman of North American Aviation (1948–1960)
+Kai-Fu Lee (Ph.D. 1988, Assistant Professor), former President of Google China
+Ira N. Levine (B.A. 1958), author, professor and faculty member in the Chemistry Department at Brooklyn College .
+Qi Lu (Ph.D. 1996), President of Online Services Division, Microsoft , former Executive Vice President at Yahoo!
+Mao Yisheng (Ph.D. 1919), bridge engineering expert, first Ph.D. graduate of Carnegie Tech
+Edgar Mitchell (B.S. 1952), astronaut , 6th man to walk on the Moon
+James G. Mitchell (Ph.D. 1970), computer scientist, Vice President and Fellow of Sun Microsystems , developer of WATFOR compiler
+Nikolai Mushegian (B.S. 2014), computer scientist and software engineer who contributed to software platforms supporting decentralized autonomous organizations and decentralized finance
+Harvey C. Nathanson (B.S., M.S., Ph.D.), inventor of first MEMS device, former Chief Scientist at Northrop Grumman
+Bruce J. Nelson (Ph.D. 1981), inventor of the Remote procedure call for computer communications
+Andrew Ng (B.S. 1997), professor at Stanford University and co-founder of Coursera
+John Ousterhout (Ph.D. 1980), inventor of the Tcl scripting language
+David Parnas (M.S. 1964, Ph.D. 1965), early pioneer of software engineering
+Randy Pausch (Ph.D. 1988, Professor), founder of Alice (software) , and the man behind The Last Lecture
+Drew D. Perkins (B.S. 1986), author of Point-to-Point Protocol (PPP)
+Judith Resnik (B.S. 1970), astronaut who died in the Challenger accident during the launch of the mission STS-51-L
+Mark Russinovich (B.S., Ph.D. 1994), Windows expert and technical fellow of Microsoft
+Mahadev Satyanarayanan (Ph.D. 1983), principal computer architect of Coda and Andrew File System
+Joshua Schachter (B.S. 1996), founder of del.icio.us
+Jonathan I. Schwartz (transferred to Wesleyan University ), CEO of Sun Microsystems
+Harry Shum (Ph.D. 1996), Corporate Vice President, Microsoft
+Pradeep Sindhu (Ph.D. 1982), co-founder and CTO of Juniper Networks
+Javier Soltero (B.S. 1997), former founder and CEO of Hyperic , former CTO of SaaS at VMware , currently founder and CEO of Acompli
+Ivan Sutherland (B.S. 1959), Vice President and Fellow of Sun Microsystems
+Shanghua Teng , Professor of Computer Science at Boston University and winner of Gödel Prize
+Avie Tevanian (M.S. 1985, Ph.D. 1988), former Apple CTO
+Richard Wallace (Ph.D. 1989), Chairman and co-founder of the A.L.I.C.E. Artificial Intelligence Foundation; author of Artificial Intelligence Markup Language ; Botmaster of the chatbot A.L.I.C.E.
+Earl L. Warrick inventor of Silly Putty and developer of silicone rubber .
+Red Whittaker (M.S. 1975, Ph.D. 1979), professor at CMU; led CMU teams that won second and third place in the DARPA Grand Challenge in 2005 and first place in 2007
+Philip Wadler (Ph.D. 1984), American Computer Scientist, creator of Orwell and ACM Fellow
+Dan Wilson (Ph.D. 2021), biologist and science communicator
+Yishan Wong (B.S. 2001), chief executive officer of Reddit Inc.
+Performing arts, film, television and video games
+William Atherton (1969), film, stage and television actor, Die Hard , The Day of the Locust , The Girl Next Door
+Jason Antoon (1994), actor, No Ordinary Family
+Hale Appleman , actor, ( The Magicians )
+René Auberjonois (1962), actor, Benson , Star Trek: Deep Space Nine , Boston Legal
+William Ball , director, founder of American Conservatory Theater
+Brent Barrett , film and Broadway actor, singer; Chicago , Phantom: The Las Vegas Spectacular , The Producers
+Shari Belafonte , actress, singer, Hotel , Cane River , The Heidi Chronicles
+Natalie Venetia Belcon , actress, singer, originated role of Gary Coleman in Broadway musical Avenue Q
+Benny Benack , orchestra leader, "King of Pittsburgh Dixieland"
+Lourdes Benedicto , actress, NYPD Blue , ER , Dawson's Creek , 24
+Denée Benton (2014), actress, Natasha, Pierre, & the Great Comet of 1812 (Tony nomination for Best Actress in a Leading Role), The Book of Mormon
+Paul Ben-Victor (1987), actor, The Wire , The Shield , Entourage
+Steven Bochco (1966), writer, producer, Hill Street Blues , L.A. Law , NYPD Blue ; ten-time Emmy Award winner
+Matthew Bomer (2000), actor, White Collar , The Normal Heart , Magic Mike
+Liam Bonner (2004), baritone opera singer
+Christian Borle , actor, Legally Blonde ; Tony Award winner in 2012 for Peter and the Starcatcher and in 2015 for Something Rotten! , NBC's Smash
+Barbara Bosson (1970), actress, Hill Street Blues , Murder One
+Abby Brammell (2001), actress, The Unit
+Albert Brooks (attended for two years), actor, screenwriter and director, Finding Nemo , Broadcast News , Lost in America
+Michael Campayno (2014) actor, The Sound of Music LIVE ", The Cher Show ", " Wicked the musical "
+Lori Cardille (1976), actress, Day of the Dead
+Jean Carson (1945), actress, The Andy Griffith Show
+Anthony Carrigan (2006), [ 9 ] actor, Barry
+Arthur Chadwick (1997), set designer for Accidentally on Purpose
+Donna Lynne Champlin (1993), actress, Crazy Ex Girlfriend
+Carol Channing (1943), Tony Award-winning actress, Hello Dolly!
+Gaius Charles (2005), actor, Friday Night Lights
+François Clemmons (1969), founder/director of Harlem Spiritual Ensemble , special guest, Mister Rogers' Neighborhood
+Kat Coiro , director and writer
+Rhys Coiro (2002), actor, HBO 's Entourage
+Frank Converse (1962), actor, Coronet Blue , The Rowdyman , N.Y.P.D.
+Casey Cott (2016), actor, Riverdale
+Corey Cott (2012), actor, Disney's Newsies , Bandstand , Gigi
+Ellen Crawford (1975), actress, Boston Legal
+James Cromwell (1964), actor, known for L.A. Confidential , The General's Daughter , Babe ; Oscar nominee and winner of the 2013 Primetime Emmy Award for Outstanding Supporting Actor in a Miniseries or a Movie
+Bob Cummings (1930), actor, known for films ( Dial M for Murder , Saboteur ) and television's The Bob Cummings Show
+Ted Danson (1972), actor, Cheers , Three Men and a Baby , The Good Place ; two-time Emmy Award winner; three-time Golden Globe Award winner
+Joan Darling (1957), actress, Mary Hartman , MASH
+Cote de Pablo (2000), actress, NCIS
+Nicole DeHuff , actress, Meet The Parents , Unbeatable Harold
+Kim Director (2000), actress, Orange is the New Black
+Neal Dodson , film producer
+Dagmara Dominczyk (1998), actress, The Count of Monte Cristo
+Neil Druckmann (2005), writer and creative director at Naughty Dog [ 10 ]
+Peggy Eisenhauer (1983), Tony Award-winning lighting designer
+Esteban (1970), flamenco guitarist
+Abe Feder (1930), lighting designer, lighting director
+Barbara Feldon (1955), actress, Get Smart , Fitzwilly , Mad About You
+Jules Fisher (1960), lighting designer; won a Tony Award
+Seth Fisher (2004), director, The Good Wife
+Sutton Foster (left after freshman year), actress, Thoroughly Modern Millie , Anything Goes , Shrek ; won two Tony Awards
+Robert Foxworth (1965), actor, Falcon Crest , Six Feet Under
+Mark Frost (1975), producer, Twin Peaks
+Sidney Furie (1955), director and screenwriter , The Ipcress File , The Entity
+Josh Gad (2003), actor, " Olaf " in Frozen , The Book of Mormon , The Wedding Ringer
+Herb Gardner (1956), Tony Award-winning playwright, A Thousand Clowns , I'm Not Rappaport
+Yusuf Gatewood (2002), The Originals (TV series) , The Umbrella Academy [ 11 ]
+Michael Goldenberg (1986), screenwriter and director Harry Potter
+Renée Elise Goldsberry (1993), actress, Tony Award for Hamilton , The Lion King , The Immortal Life of Henrietta Lacks , Rent
+Frank Gorshin (1955), actor, best known as " The Riddler " in the Batman live action television series
+Ralph Guggenheim (1974), producer, Toy Story
+Javier Grillo-Marxuach (1991), television screenwriter, producer, best known for his work on the first two seasons of Lost
+Josh Groban (left after freshman year), singer and Broadway actor, Natasha, Pierre, and the Great Comet of 1812 (Tony Nomination for Best Actor in a Leading Role)
+Demetrius Grosse (2003), Justified
+Charles Haid (1968), actor and director, NYPD Blue , L. A. Law , Doogie Howser, M.D.
+Van Hansis (2004), actor, Luke Snyder of As the World Turns ; three-time Emmy Award nominee
+Ian Harding (2009), actor, Pretty Little Liars
+Mariette Hartley (1965), Emmy Award-winning actress, Ride the High Country , Peyton Place , The Incredible Hulk
+Elizabeth Hartman , actress
+Lisa Hartman-Black (1978), actress, Tabitha
+David Haskell (1970), actor ( Godspell )
+Anne Marie Cummings (B.F.A. 1990), 4X Emmy-nominated TV creator, actress, writer, director of Conversations in L.A.
+Ethan Hawke (briefly attended), actor
+Sian Heder (1999) writer, filmmaker; Orange Is The New Black , Tallulah
+Grey Henson (2012) actor, The Book of Mormon , Mean Girls
+Megan Hilty (2004), actress, played Glinda in Wicked , Ivy in TV series Smash , Doralee in Nine to Five
+Leonard "Hub" Hubbard , Grammy Award winner, composer, bassist , The Roots
+Chuck Hittinger (2005), Screamfest , Boogeyman 3
+David Hornsby (1998), actor, screenwriter, producer, It's Always Sunny in Philadelphia
+Holly Hunter (1980), actress; won an Academy Award , two Emmy Awards and a Golden Globe Award
+Sam Hyde (attended for one year), actor, writer, comedian and co-creator of Million Dollar Extreme Presents: World Peace
+Peter Hylenski (1997), sound designer, Tony Award for Best Sound Design winner [ 12 ]
+James Jacks (1969), producer, Raising Arizona , The Mummy , The Mummy Returns , Mallrats , Michael , Tombstone
+Cherry Jones (1978), actress; won an Emmy Award and a Tony Award
+David Kagen , actor, Friday the 13th Part VI: Jason Lives
+Caren Kaye (1973) (M.S., Ph.D. in Psychology), lead actress, My Tutor
+Arthur Kennedy (1936), actor, 5-time Oscar nominee, Lawrence of Arabia , All My Sons , Elmer Gantry
+Jack Klugman (1948), Emmy Award-winning actor, best known for The Odd Couple , Quincy, M.E.
+Frederick Koehler (1997), actor, Kate and Allie and All My Children
+Michael Kooman , musical theater composer, half of Kooman and Dimond , whose works have been performed at The Kennedy Center , Williamstown Theater Festival , and American Conservatory Theater
+David Lander (1969), actor, Squiggy on the sitcom Laverne and Shirley
+David Larsen (1999), actor, The Book of Mormon
+William Law (1966), How to Make an American Quilt , Iron Man Returns
+Eugene Lee (1962), two-time Tony Award-winning scenic designer
+Telly Leung (2002), actor, Allegiance
+Kara Lindsay (2006), actress, Newsies , Beautiful: The Carole King Musical
+Judith Light (1970), Daytime Emmy Award and two-time Tony Award-winning actress, One Life to Live , Who's the Boss?
+Keith Lockhart (1983), conductor of the Boston Pops Orchestra
+Arthur Lubin (1920), film director and producer of the 1943 film Phantom of the Opera and the 1960s TV series Mister Ed
+Jordan Lund (1957), actor Lock Up
+Gabriel Macht (1994), actor, Suits
+Erin Mackey (2008), Broadway, television, and film actress, known for playing Glinda in Wicked
+Henry Mancini (1947), composer; nominated for 72 Grammy Awards , winning 20; also nominated for 18 Academy Awards , winning four
+Joe Manganiello (2000), actor
+Sonia Manzano (1972), actress, writer, Maria Rodriguez on Sesame Street
+Nancy Marchand (1949), actress, known for Lou Grant and HBO 's The Sopranos ; four-time Emmy Award winner
+Rob Marshall (1982), director; nominated for two Academy Awards ( Chicago , Memoirs of a Geisha )
+Henry Mazer , conductor and recording artist for Taipei Philharmonic Orchestra and Chicago Symphony Orchestra [ 13 ]
+Gilmer McCormick (1969), actress, Godspell
+John McDaniel , producer, composer, conductor, known for leading the band on The Rosie O'Donnell Show
+Michael McKean (1969), actor and ensemble comedian ( Best in Show , Waiting for Guffman , This Is Spinal Tap , Better Call Saul ); played Lenny on Laverne and Shirley
+Kennedy McMann (2018), actress, [ 14 ] Nancy Drew
+Michael McMillian (2002), True Blood
+James Meena (1973), conductor and opera administrator
+Patina Miller (2006), Tony Award-winning actress ( Pippin , Sister Act , All My Children )
+Katy Mixon (2003), actress, Mike & Molly , American Housewife
+Roger Morgan (1961), The Crucifer of Blood
+Greg Mottola (BFA, Art),  director, Superbad , The Daytrippers , several episodes of Undeclared and Arrested Development
+Jeffrey Mylett (1971), actor, Godspell
+David Norona (1994), The Mentalist
+Vince O'Brien (1949), Broadway, television, and film actor
+Leslie Odom, Jr. (2003), actor, Hamilton , Red Tails
+Rory O'Malley (2003), actor, The Book of Mormon , Hamilton
+Oopali Operajita (1995), choreographer and classical Odissi and Bharatanatyam dancer
+Stephanie Palmer (1997), Hollywood executive, author of Good in a Room
+Van Dyke Parks , composer, arranger, producer, musician most notably with Brian Wilson and the Beach Boys
+John Pasquin (1969), Emmy Award-winning director
+Victoria Pedretti (2017), actress [ 15 ]
+George Peppard (1951), actor, best known for Breakfast at Tiffany's and as John "Hannibal" Smith on The A-Team
+Fern Persons (1934), actress, Risky Business , Hoosiers , Field of Dreams
+Martin Platt (1971), producer, Vanya and Sonia and Masha and Spike
+John C. Picardi (1996). playwright, The Sweepers, Seven Rabbits on a Pole. Novel; Oliver Pepper's Pickle
+Derek Stephen Prince (1991), voice actor, Bleach , Naruto , Love Hina , Cowboy Bebop , Digimon and JoJo's Bizarre Adventure
+Erin Quill , actress, writer, and singer
+Zachary Quinto (1999), actor, played Sylar on Heroes , and Spock in Star Trek (2009 and later films)
+Sally Jessy Raphaël (briefly attended), talk show host
+Lester Rawlins (1950), A Man for All Seasons
+Norman René (1974), theatre and film director; Obie Award winner
+Darren Ritchie (1999), actor/singer
+Kali Rocha (1993), actress, Sledge
+Lori Rom (1997), actress, Love's Enduring Promise
+George A. Romero (1960), film director , Night of the Living Dead and Dawn of the Dead
+Ann Roth (1953), film and Broadway costume designer; won an Academy Award and two Emmy Awards
+Polly Rowles (1936), film and TV actor, Springtime in the Rockies , Auntie Mame
+Laura San Giacomo (1984), actress, Just Shoot Me! , Quigley Down Under , Sex, Lies, and Videotape , Pretty Woman
+Lou Scheimer (1952), Flash Gordon
+Mary Kate Schellhardt (BFA 2001), actress, What's Eating Gilbert Grape , Free Willy 2 , Apollo 13
+Robert Schmertz (1921), architect and folk musician , CMU faculty and author of the CMU fight song
+Pablo Schreiber (2000), actor, Vicky Cristina Barcelona
+Stephen Schwartz (1968), composer of shows including Wicked , Godspell , and Pippin (originally a Carnegie Mellon production, presented by the Scotch'n'Soda theatrical club on campus under the title Pippin Pippin )
+Roxanne Seeman , songwriter and lyricist
+Kyle Selig (2014), actor, The Book of Mormon , Mean Girls
+Sushma Seth , (1960) Bollywood actress, Junoon , Ram Teri Ganga Maili
+John Shaffer (1976), art director, The Big Bang Theory , Friends , Dharma & Greg
+Mel Shapiro (1961), An Actor Performs , Two Gentlemen of Verona
+Leigh Silverman (1996), producer, Violet
+Emily Skinner (1992), musical theater actress; nominated for a Tony Award alongside Side Show co-star Alice Ripley
+Josef Sommer (1957), actor, Dirty Harry , Absence of Malice , Witness
+Jamie Smith (1947), actor, The Faithful City , Killer's Kiss [ 16 ] [ 17 ]
+Aaron Staton (2004), actor, Mad Men
+Patricia Tallman (1979), actress and stunt woman, played Lyta Alexander on Babylon 5 , Barbara in 1990 remake of Night of the Living Dead
+John-Michael Tebelak (1971)(MFA), playwright and director ( Godspell ; originally a Carnegie Mellon production)
+Irene Tedrow (1929), actress, Eleanor and Franklin , James at 16 , Bonanza
+Jim Tetlow (1977), lighting designer and theatre consultant ; won an Emmy Award for lighting design
+Thom Thomas (1963), playwright, Without Apologies
+Sada Thompson (1949), actress, Family
+Michael Tucker (1966), actor, L.A. Law
+Tamara Tunie (1981), actress, Law & Order: Special Victims Unit
+Susan Tsu , costume designer
+William J. G. Turner (1974), composer, director, dramatist, producer, and actor
+Blair Underwood (1988), actor, L.A. Law , LAX , Gattaca , Sex and the City
+Michelle Veintimilla (2014), actress, Not Cool
+Paula Wagner (1969), film producer and executive
+Loudon Wainwright III , musician; withdrew in 1967
+Bruce Weitz (1966), actor, Hill Street Blues , Deep Impact
+John Wells (1970), writer, producer, China Beach , ER , The West Wing , Third Watch ; won an Emmy Award
+Ming-Na Wen (1986), actress, ER , The Joy Luck Club ; Annie Award winner as voice of "Mulan" in Mulan ; voice of Aki Ross in Final Fantasy: The Spirits Within
+Daniel Wilson (2003, 2004, 2005), TV host, The Works , writer, How to Survive a Robot Uprising
+Patrick Wilson (1995), actor; nominated for a Tony Award , an Emmy Award , and a Golden Globe Award
+George Wood (1945), actor, Harold and Maude
+Bud Yorkin (1948), producer, director, writer, actor ( All in the Family , Maude , Good Times , Sanford and Son , One Day at a Time , Diff'rent Strokes )
+Mel Bochner (1962), pioneer of postminimal arts and conceptual art
+Jonathan Borofsky (1964), 20th-century conceptual artist and sculptor
+Mia Brownell (1993), painter
+Sheila Butler (1960), visual artist
+Virgil Cantini (1946), artist and professor at the University of Pittsburgh
+Elizabeth Carpenter (1976), author, clothing designer, creator of educational children's puzzles
+John Currin (1984), contemporary figure and portrait painter
+Ken Ferguson (1952), ceramist
+Raymond Kaskey (1967), sculptor
+Joyce Kozloff (1942), artist and founder of Pattern and Decoration movement
+Katharine Kuharic (1984), figurative painter and educator
+Matt Keegan (1998), visual artist [ 18 ]
+Burton Morris (1986), pop artist
+Shalom Neuman (1970), painter and sculptor
+Philip Pearlstein (1949), figure painter
+Rob Rogers (1984), editorial cartoonist
+Dane Mitchell (1997), visual artist [ 19 ]
+Abigail Satinsky (2003), art curator
+Jacqueline Thurston (1961), artist, writer and educator
+Andy Warhol (1949), painter and major figure in the pop art movement
+Architecture and design
+Government and politics
+Gust Avrakotos (attended for two years), Directorate of Operations, Central Intelligence Agency
+Nilofar Bakhtiar (M.S.), Senator and Federal Minister for Tourism in Pakistan
+Malia Cohen (M.A.), 34th California State Controller
+Peter Corroon (B.S.), Mayor of Salt Lake County, Utah
+Carmen Yulín Cruz (MS in Public Policy), member of the 28th House of Representatives of Puerto Rico (2009–2013); Mayor of San Juan, Puerto Rico (2013–present) [ 21 ] [ 22 ]
+Peter J. De Muth (BS 1914), U.S. Congressman from Pennsylvania
+Charles L. Evans (M.S., Ph.D. in Economics), President and CEO of the Federal Reserve Bank of Chicago , 2007–2023
+Rich Fitzgerald (BSME 1981), President, Allegheny County Council, Pennsylvania (January 2001–present)
+Anita K. Jones (Ph.D. 1973), Director of Defense Research and Engineering of the U.S. Department of Defense
+Sydney Kamlager (MA, 1994), Trustee-Elect to the Los Angeles Community College District Seat 3, District Director for California State Senator Holly Mitchell
+Salim Saifullah Khan (BS Mechanical Engineering, 1968), Senator and Federal Minister for Petroleum & Natural Resources, Commerce, Housing & Works, Inter-Provincial Coordination in Pakistan
+Vasili Kuznetsov , Soviet political figure
+Susie Lee (BS, 1989; MS, 1990), United States Representative for Nevada’s 3rd District
+Nara Lokesh , Former Member of Legislative Council (28 March 2017 – 29 March 2023) Government of Andhra Pradesh, Republic of India.
+Keith B. McCutcheon (B.S. 1937), four-star general and Assistant Commandant of the Marine Corps (1970)
+Oopali Operajita (MAPW 1995), Senior Parliamentary Adviser, India
+Joseph D. Patch , U.S. Army major general [ 23 ]
+Bill Peduto (attended), Mayor of Pittsburgh
+Jairam Ramesh (Master of Science in Public Policy and Public Management), Former Minister of Rural Development, Government of India. [ 24 ]
+Henry J. Schultz (B.S. 1932) Mayor of Easton, Pennsylvania (1976–1980)
+Dennis B. Sullivan , U.S. Air Force general
+Jeffrey W. Talley (Ph.D. 2000), Lieutenant General retired, 32nd Chief of Army Reserve (CAR) and 7th Commanding General, United States Army Reserve Command (USARC) 2012-2016
+Charles Erwin Wilson (1909), United States Secretary of Defense (1953–1957) under President Dwight D. Eisenhower
+Yarone Zober (MPM 2000),  Chief of Staff, Mayor's Office, City of Pittsburgh (September 2006–present); former Deputy Mayor of the City of Pittsburgh (August to September 2006)
+Padmanabhan Balaram (Ph.D. 1973), Director of Indian Institute of Science , India
+John P. Crecine (B.S. 1961, M.S. 1963, Ph.D. 1966), former Dean of the Dietrich College of Humanities and Social Sciences at Carnegie Mellon and President of Georgia Institute of Technology (1987–1994)
+James W. Dean Jr. , PhD, President of the University of New Hampshire [ 25 ]
+Michael D. C. Drout (B.A. 1990), professor at Wheaton College and scholar specializing in Anglo-Saxon and medieval literature, science fiction and fantasy, especially the works of J. R. R. Tolkien and Ursula K. Le Guin
+Arthur T. Benjamin (B.S. 1983), American Mathematician and Mathemagician specializing in Combinatorics
+Marvin L. Goldberger (B.S. 1943), former President of the California Institute of Technology (1978–1987), former director of Institute for Advanced Study (1987–1991), former dean of the natural science at University of California, San Diego (1994–1999)
+John Graham (Ph.D. 1983), former Dean of the Frederick S. Pardee RAND Graduate School and current Dean of the Indiana University School of Public and Environmental Affairs
+Robert Kibbee (died 1982), Chancellor of the City University of New York
+Robert Lepper , art professor who developed the country's first industrial design degree program
+Rob Linsenmeier , Professor Emeritus of Biomedical Engineering and Professor Emeritus of Neurobiology, Northwestern University
+Michael C. McFarland (M.S. 1979, Ph.D. 1981), President of College of the Holy Cross , former Dean of the College of Arts and Sciences at Gonzaga University (1996–2000)
+Joseph S. B. Mitchell (B.S. 1981, M.S. 1981), Professor, Applied Mathematics and Computer Science at Stony Brook University
+William F. Pounds (B.S. 1950, M.S. 1959, Ph.D. 1964), Dean of MIT Sloan School of Management (1966–1980)
+Suh Nam Pyo (Ph.D. 1964), President of KAIST , South Korea
+Madhav V. Rajan (PhD 1990), former associate professor at the Wharton School of the University of Pennsylvania , full professor at the Stanford Graduate School of Business , and dean of the Booth School of Business at the University of Chicago [ 26 ]
+Mendu Rammohan Rao (M.S. 1968, Ph.D. 1969), Dean Emeritus of Indian School of Business , India
+Jon Strauss (Ph.D. 1964), Dean of Engineering, Whitacre College of Engineering , Texas Tech University , former President of Bainbridge Graduate Institute (2008–2009), Harvey Mudd College (1997–2006) and Worcester Polytechnic Institute (1985–1994)
+Richard L. Van Horn (Ph.D. 1976), former President of the University of Houston and the University of Oklahoma
+Hugh D. Young (Ph.D. 1959), longtime Professor who taught Physics for over 50 years at Carnegie Mellon . Professor Young was co-author of the later editions of the highly regarded textbook University Physics , now in its 15th edition, and received many of Carnegie Mellon's highest awards.
+Suresh P. Sethi (Ph.D. 1972) Eugene McDermott Professor at the Naveen Jindal School of Management at The University of Texas at Dallas , former General Motors professor at the University of Toronto , Alumni Achievement Award from Tepper School , fellow of Royal Society of Canada , AAAS , INFORMS , IEEE
+Frederick Rossini (B.S. 1925, M.S. 1926, DSc (hon.) 1948), Chemistry, 1951
+Marvin L. Goldberger (B.S. 1943), Physics, 1963
+Raoul Bott (Ph.D. 1949), Mathematics, 1964
+Philip Morrison (B.S. 1936), Physics, 1971
+Allen Newell (Ph.D 1957, Professor), Computer and Information Sciences, 1972
+Frederick Mosteller (B.S. 1938, M.S. 1939), Mathematics, 1974
+Clifford Shull (B.S. 1937), Physics, 1975
+Ivan Sutherland (B.S. 1959), Computer and Information Sciences, 1978
+John L. Hall (B.S. 1956, M.S. 1958, Ph.D. 1961), Physics, 1984
+Leonard Lerman (B.S. 1945), Genetics, 1986
+Oliver Williamson (Ph.D. 1963), Economic Sciences, 1994
+Stephen Fienberg (B.S. 1979), Applied mathematical sciences, 1999
+Shafrira Goldwasser (B.S. 1979), Computer and Information Sciences, 2004
+Alan Perlis (B.S. 1943, Professor), Computer Science & Engineering, 1977
+James D. Meindl (B.S. 1955, M.S. 1956, Ph.D. 1958), Electronics Engineering, 1978
+Mao Yisheng (Ph.D. 1919), Civil Engineering, Materials Engineering, 1982
+Robert Dennard (Ph.D. 1958), Electronics Engineering, 1984
+Angel Jordan (M.S. 1959, Ph.D. 1959, Professor), Electronics Engineering, 1986
+H. T. Kung (Ph.D. 1973), Computer Science & Engineering, 1993
+Anita K. Jones (Ph.D. 1973), Computer Science & Engineering, 1994
+Charles Geschke ( Ph.D. 1973), Computer Science & Engineering, 1995
+Andy Bechtolsheim ( M.S. 1976), Electronics Engineering, 2000
+Stephanie Kwolek (B.S. 1946), Chemical Engineering, 2001
+John Ousterhout (Ph.D. 1980), Computer Science & Engineering, 2001
+Bernard Cohen (Ph.D. 1950), Electric Power/Energy Systems Engineering, 2003
+James Gosling (Ph.D. 1983), Computer Science & Engineering, 2004
+Jonathan Rothberg (B.S. 1985), Bioengineering, 2004
+Shafrira Goldwasser (B.S. 1979), Computer Science & Engineering, 2005
+Pradeep K. Khosla (Dowd University Professor), Electrical and Computer Engineering, and Robotics, 2006
+Bob Colwell (Ph.D.), Computer Science & Engineering, 2006
+Stuart Card (M.S. 1970, Ph.D. 1978), Computer Science & Engineering, 2007
+Shree K. Nayar (Ph.D. 1991), Computer Science and Engineering, 2008
+William L. Whittaker (M.S. 1975, Ph.D. 1979, Professor), Computer Science & Engineering, 2009
+Manuela M. Veloso (Ph.D. 1992, Professor), Computer Science & Engineering, 2022
+Other prominent faculty
+Bob Altemeyer (PhD 1965), Associate Professor of Psychology at the University of Manitoba
+Costas Azariadis (MBA 1971, Ph.D. 1975), Edward Mallinckrodt Distinguished University Professor in Arts & Sciences at Washington University in St. Louis
+William A. Barnett (M.A. 1970, Ph.D. 1974), Oswald Distinguished Professor of Macroeconomics at the University of Kansas
+Timothy Devinney (B.S., 1977), Chair and Professor of International Business University of Manchester , Fellow of Academy of Management , Fellow of Academy of International Business
+Ravi Jagannathan (M.S. 1981, Ph.D. 1983), Chicago Mercantile Exchange/John F. Sandner Professor of Finance at Kellogg School of Management , Northwestern University , former director of American Finance Association (2002–2005)
+Kevin Lane Keller (MSIA 1980), E.B. Osborn Professor of Marketing at Tuck School of Business , Dartmouth College
+John E. Laird (Ph.D. 1983), John L. Tishman Professor of Engineering at University of Michigan , co-creator of Soar cognitive architecture
+Rose Hum Lee (B.S. 1942),  first woman and the first Chinese American to head a US university sociology department, at Roosevelt University
+Charles E. Leiserson (Ph.D. 1981), Professor of Computer Science at Massachusetts Institute of Technology , co-author of the Introduction to Algorithms
+Ronald D. Macfarlane (M.S. 1957, Ph.D. 1959), Distinguished Professor of Chemistry at Texas A&M University
+Nolan McCarty (M.S. 1992, Ph.D. 1993), Susan Dod Brown Professor of Politics and Public Affairs at Princeton University
+Greg Morrisett (M.S. 1991, Ph.D. 1995), Allen B. Cutting Professor of Computer Science and Associate Dean for Computer Science and Engineering, Harvard University
+Michael S. Scott Morton (B.S. 1961), Jay W. Forrester Professor of Management (Emeritus) at MIT Sloan School of Management
+Jan Mossin (Ph.D.), made significant contribution to capital asset pricing model
+John Muth (Ph.D., Professor 1956–1964), father of the rational expectations revolution in economics
+Jay Nunamaker (B.S. 1964), Regents Professor of Management Information Systems, Computer Science, and Communication at University of Arizona
+Jeffrey Pfeffer (B.S. 1968, MSIA 1968), Thomas D. Dee II Professor of Organizational Behavior at the Stanford Graduate School of Business
+Demetri Psaltis (B.S. 1974, M.S. 1975, Ph.D. 1977), Thomas G. Myers Professor of Electrical Engineering at California Institute of Technology
+Norman Sadeh (PhD 1991), Professor, Founding CEO and Chairman Wombat Security Technologies; Chief Scientist, e-Commerce & e-Work Program, EU Commission
+Millicent Sullivan (Ph.D. 2003), Alvin B. & Julie O. Stiles Professor Of Chemical & Biomolecular Engineering at the University of Delaware [ 27 ]
+Jerry D. Thompson ( Doctor of Arts in history), Regents Professor of History, Texas A&M International University , Laredo, Texas ; specialist on American Southwest
+Sheridan Titman (M.S. 1978, Ph.D. 1981), Walter W. McAllister Centennial Professor of Finance at McCombs School of Business , University of Texas at Austin , President of Western Finance Association
+Andrew B. Whinston (M.S. 1960, Ph.D. 1962), Hugh Roy Cullen Centennial Professor in Business Administration at McCombs School of Business , University of Texas at Austin
+Dr. Abul Hasnat (M.S. 1950), Late Professor of Department of Civil Engineering, Bangladesh University of Science and Technology (BUET) , Bangladesh; University of Basrah , Iraq and King Abdulaziz University , Jeddah
+Michael Chabon (attended), Pulitzer Prize -winning author
+Christina Crawford (attended), author of Mommie Dearest
+Iris Rainer Dart (1966), author of Beaches
+E. L. Konigsburg (1952), author of children's books
+Jewell Parker Rhodes (B.A. 1975, M.A. 1976, D.A. 1979), novelist
+William Roos , novelist, playwright, and screenwriter [ 28 ]
+Manil Suri (Ph.D. 1983), mathematician and writer
+Astro Teller (Ph.D. 1998), author of Exegesis
+Kurt Vonnegut (briefly attended), author, Slaughterhouse Five
+Jeffrey Zaslow , columnist for the Wall Street Journal ; co-author of The Last Lecture
+Nada Arkaji , the first woman to represent Qatar at the Olympic Games
+Dwight "Dike" Beede , college football coach who created and introduced the penalty flag
+Howard Harpster (1928), All-American quarterback , inducted into College Football Hall of Fame , led defeat of Knute Rockne 's Notre Dame Fighting Irish
+Brian Harvey , distance runner, 3-time Olympic Trials qualifier
+Rich Lackner (1979), current Carnegie Mellon head football coach
+Hans Lobert , Major League Baseball player, manager
+John McGraw (born Roy Elmer Hoar), Major League Baseball player, not to be confused with hall-of-famer John McGraw
+Aron Ralston (1997), mountain climber, subject of the film 127 Hours
+Herb Sendek (1985), men's basketball head coach, Santa Clara , Arizona State , and North Carolina State
+Lloyd Yoder (1923-26), College Football Hall of Fame tackle, NBC Executive, football official (1928-52)
+Merl Condit , end, Brooklyn Dodgers , Pittsburgh Steelers (1940–1946) [ 29 ]
+Bull Karcis , fullback, Brooklyn Dodgers , New York Giants (1932–1943) [ 29 ]
+Hap Moran , end, Frankford Yellow Jackets , New York Giants (1926–1933) [ 29 ]
+Bill Rieth , center, Cleveland Rams (1941–1945) [ 29 ]
+Jimmy Robertson , fullback, halfback, Akron Pros (1924–1925) [ 29 ]
+Joe Rudolph , guard, Philadelphia Eagles , San Francisco 49ers (1995, 1997)
+Hugh Sprinkle , tackle, Akron Pros (1923–1925) [ 29 ]
+Ray Tesser , end, Pittsburgh Pirates (1933–1934) [ 29 ]
+Clinton Davisson (Professor), Nobel Prize in Physics , 1937
+Otto Stern (Professor), Nobel Prize in Physics, 1943
+Paul Flory (Research Associate, Mellon Institute ), Nobel Prize in Chemistry , 1974
+Herbert A. Simon (Professor, 1949–2001), Bank of Sweden Prize in Economic Sciences , 1978
+Franco Modigliani (Professor), Bank of Sweden Prize in Economic Sciences , 1985
+Merton Miller (Professor), Bank of Sweden Prize in Economic Sciences, 1990
+Robert Lucas Jr (Professor), Bank of Sweden Prize in Economic Sciences, 1995
+John Pople (Professor 1964–1993), Nobel Prize in Chemistry, 1998
+Lars Peter Hansen (Professor), Bank of Sweden Prize in Economic Sciences, 2013
+Walter Kohn (Professor), Nobel Prize in Chemistry, 1998
+Paul Lauterbur (Research Associate, Mellon Institute , 1951–1953), Nobel Prize in Physiology or Medicine , 2003
+Finn E. Kydland (Ph.D. 1973, Professor), Bank of Sweden Prize in Economic Sciences, 2004
+Edward C. Prescott (Ph.D. 1967, Professor 1971–1980), Bank of Sweden Prize in Economic Sciences, 2004
+Ada Yonath (Postdoctoral researcher, 1969), Nobel Prize in Chemistry, 2009
+Geoffrey Hinton (Professor 1982–1987), Nobel Prize in Physics, 2024
+Alan Perlis (B.S. 1943, Professor 1956–1971), compiler construction, 1966 – first Turing Award winner
+Allen Newell (Ph.D. 1957, Professor 1961–1992) and Herbert A. Simon (Professor), artificial intelligence , 1975
+Dana S. Scott (Professor 1981–2003), nondeterministic machines, 1976
+Robert Floyd (Professor 1963–1968), methodologies for the creation of efficient and reliable software, 1978
+Raj Reddy (Professor 1969–present), artificial intelligence , 1994
+Manuel Blum (Professor 1999–2018), computational complexity theory , 1995
+Edmund M. Clarke (Professor 1982–2020), model checking , 2007
+Leslie Valiant (Professor 1973–1974), machine learning , 2010
+William Mattis (Professor 1976–1993), artificial intelligence , 2012
+Geoffrey Hinton (Professor 1982–1987), artificial intelligence , 2018
+Herbert A. Simon (Professor), Behavior and Social Sciences, 1986
+Paul Lauterbur (Research Associate, Mellon Institute , 1951–1953), Physical Sciences, 1987
+Allen Newell (Ph.D. 1957, Professor), Mathematical, Statistical, and Computer Sciences, 1992
+Luis von Ahn (Ph.D. 2005), assistant professor of computer science, 2006
+Yoky Matsuoka , assistant professor affiliated with the Robotics Institute, the Department of Mechanical Engineering, and the Center for the Neural Basis of Cognition (2001–2006), 2007
+Anna Deavere Smith , acting instructor (1970–1971), 1996
+Dawn Song (M.S. 1999), professor of computer science (2002–2007), 2010
+Terrance Hayes , professor of poetry (2001–2013)
+Otto Stern (Professor 1933–1945), Physics, 1945
+Herbert A. Simon (Professor), Computer and Information Sciences, 1967
+Walter Kohn (Professor 1950–1960), Physics, 1969
+Richard Duffin (Professor 1946–1988), Applied Mathematical Sciences, 1972
+Allen Newell (Ph.D 1957, Professor), Computer and Information Sciences, 1972
+James G. March (Professor 1953–1964), Social and Political Sciences, 1973
+Franco Modigliani (Professor 1952–1960), Economic Sciences, 1973
+Brian Berry (Professor 1981–1986), Human Environmental Sciences, 1975
+Harrison White (Professor 1957–1959), Social and Political Sciences, 1975
+Lincoln Wolfenstein (Professor), Physics, 1978
+Robert Lucas Jr (Professor 1963–1974), Economic Sciences, 1981
+Paul Lauterbur (Research Associate, Mellon Institute , 1951–1953), Physics, 1985
+Robert Griffiths (Professor), Computer and Information Sciences, 1987
+Dana Scott (Professor), Computer and Information Sciences, 1988
+John Anderson (Professor), Psychology, 1999
+Stephen Fienberg (Professor), Applied Mathematical Sciences, 1999
+James McClelland (Professor 1984–2006), Psychology, 2001
+Manuel Blum (Professor), Computer and Information Sciences, 2002
+Robert Parr (Professor 1948–1962), Chemical Sciences, 2004
+Gordon Bell (Professor 1966–1972), Computer and Information Sciences, 2007
+Marlene Behrmann (Professor 1993–present), Psychology, 2015
+Kathryn Roeder (Professor 1994–present), Statistics and Computational Biology, 2019
+Daniel Berg (Professor 1977–1983), Special Fields & Interdisciplinary Engineering, 1976
+Steven J. Fenves (Professor), Civil Engineering, 1976
+Gordon Bell (Professor 1966–1972), Computer Science & Engineering, 1977
+Alan Perlis (B.S. 1943, Professor), Computer Science & Engineering, 1977
+Allen Newell (Ph.D 1957, Professor), Computer Science & Engineering, 1980
+Raj Reddy (Professor), Computer Science & Engineering, 1984
+Joseph F Traub (Professor 1971–1979), Computer Science & Engineering, 1985
+George Bugliarello (Professor 1959–1969), Civil Engineering, 1987
+Arthur W. Westerberg (Professor), Chemical Engineering, 1987
+C. D. Mote, Jr. (Professor 1965–1967), Mechanical Engineering, 1988
+John L. Anderson (Professor), Chemical Engineering, 1992
+William Wulf (Professor 1968–1981), Computer Science & Engineering, 1993
+Mark Kryder (Professor), Electronics Engineering, 1994
+Hubert Aaronson (B.S. 1948, Ph.D. 1954, Professor), Materials Engineering, 1997
+Takeo Kanade (Professor), Computer Science & Engineering, 1997 [ 30 ]
+Alfred Blumstein (Professor), Industrial, Manufacturing & Operational Systems Engineering, 1998
+Ignacio E. Grossmann (Professor), Chemical Engineering, 2000
+Daniel P. Siewiorek (Professor), Computer Science & Engineering, 2000
+Guy L. Steele Jr. (Professor 1980–1994), Computer Science & Engineering, 2001
+Randal Bryant (Professor), Computer Science & Engineering, 2003
+Richard Rashid (Professor, 1979–1991), Computer Science & Engineering, 2003
+Alfred Spector (Professor, 1981–1992), Computer Science & Engineering, 2004
+Edmund M. Clarke (Professor), Computer Science & Engineering, 2005
+Egon Balas (Professor, 1967-2019), Industrial, Manufacturing & Operational Systems Engineering, 2006
+Manuel Blum (Professor), Computer Science & Engineering, 2006
+Krzysztof Matyjaszewski (Professor), Materials Engineering, 2006
+David A. Dzombak (Professor), Civil Engineering, 2008
+Bhakta B. Rath (Professor), Materials engineering, 2008
+Tom M. Mitchell (Professor), Computer Science & Engineering, 2010
+Jacobo Bielak (Professor), Civil Engineering, 2010
+Chris T. Hendrickson (Professor), Civil Engineering, 2011
+Nadine Aubry (Professor), Mechanical Engineering, 2011
+Jared L. Cohon (Professor), Civil Engineering, 2012
+Lorenz Biegler (Professor), Chemical Engineering, 2013
+José M. F. Moura (Professor), Computer Science & Engineering, 2013
+Gérard Cornuéjols (Professor), Industrial, Manufacturing & Operational Systems Engineering, 2016
+Sridhar Tayur (Professor), Industrial, Manufacturing & Operational Systems Engineering, 2017
+Manuela M. Veloso (Professor), Computer Science & Engineering, 2022
+Other prominent faculty
+Igor Ansoff (Professor), "father of strategic management " and Professor of Industrial Administration
+Jerome Apt (Professor), former NASA astronaut and now Professor of Technology; Executive Director of Carnegie Mellon Electricity Industry Center, Graduate School of Industrial Administration
+Elizabeth Bailey (Professor 1983–1991), former Dean and Professor of Economics, Industrial Administration and Public Policy, Graduate School of Industrial Administration , now John C. Hower Professor of Business and Public Policy at Wharton School of the University of Pennsylvania
+Lenore Blum (Professor), renowned for being a National Science Foundation Career Advancement Award winner and for her contributions to Computer Science , wife of Manuel Blum
+Peter Braam (Professor), computer scientist, founder of Lustre file system , Intermezzo file system
+Kathleen Carley (Professor), Computational sociologist and pioneer of dynamic network analysis
+William W. Cooper (Professor), professor of operations research and accounting at the Tepper School of Business and founding Dean of the Heinz College
+Edward Creutz (Professor), physics, the Manhattan Project
+Lorrie Cranor (Professor), expert in information privacy and Chief Technologist of the Federal Trade Commission
+Anthony Daniels (Adjunct Professor), Actor famous for portraying C-3PO in the Star Wars films
+Robyn Dawes (Professor), pioneer in the field of mathematical psychology
+Scott Dodelson (Professor, 2017–present), astrophysicist and former Fermilab scientist
+David Farber (Professor, 2003–present), co-creator of ARPANET and former Chief Technologist for the FCC
+Richard Florida (Professor, 1987–2005), economist and author of Rise of the Creative Class
+David Garlan (Professor, 1990–present), a pioneer in software architecture and self-adaptive software systems
+Francesca Gino , Italian-American behavioral scientist
+James Goodby (Professor, 1989–present), Distinguished Service Professor of Engineering and Public Policy, former U.S. Foreign Service Officer including US Ambassador to Finland (1980–1981)
+William D. Haseman (faculty member, 1975–1980), IBM Professor of Information Technology Management at the University of Wisconsin-Milwaukee , founding Director for the Center for Technology Innovation in Milwaukee , and author
+John Heinz III (faculty member, 1970–1971), Senator from Pennsylvania
+Robert Hess (1938–1994), President of Brooklyn College
+Israel Hicks (1943–2010), stage director who presented August Wilson 's entire 10-play Pittsburgh Cycle [ 31 ]
+Henry Hornbostel (Professor), helped found the Carnegie Mellon School of Architecture ; designed the original buildings on campus
+Watts Humphrey (Professor), former Vice President of IBM , Fellow of Software Engineering Institute
+Jeffrey Hunker (Professor), Senior Director for Critical Infrastructure for the United States National Security Council (1999–2001), Deputy Assistant to the Secretary of Commerce (1996–1998), senior Department of Commerce official for environmental policy (1996–1998), former Senior Policy Advisor to the Secretary of Commerce (1993–1996), former Dean of the Heinz College
+Robert Kaplan (Professor), co-creator of the Balanced Scorecard
+Michael Keaton (Adjunct Professor), actor known for films such as Beetlejuice , Batman , and Batman Returns
+Roberta Klatzky (Professor), cognitive scientist and leading researcher in haptics
+Mordecai Lawner , actor and former faculty member for the theater program [ 32 ]
+Jennifer Lerner , decision scientist and psychologist in the Department of Social and Decision Sciences
+Golan Levin , new media artist and current faculty member of the School of Art
+Margot Livesey , author of six novels, short stories, and essays on fiction
+George Loewenstein (Professor), pioneer in the field of Behavioural Economics and faculty in the Department of Social and Decision Sciences
+Alex John London [ 33 ] (Clara L. West Professor of Ethics and Philosophy), Director of the Center for Ethics and Policy [ 34 ] at Carnegie Mellon University, Elected Fellow of the Hastings Center; prominent bioethicist
+Brian MacWhinney (Professor), leading language acquisition researcher and creator of CHILDES database
+Allan Meltzer (Professor), chairperson of a special U.S. congressional commission that studied how the World Bank and the International Monetary Fund operated; it made its recommendations for changes in March 2000 in its report to the U.S. Congress
+Richard Rashid (Professor, 1979–1991), computer scientist, Microsoft Research SVP
+Britt Ransom (associate professor), artist and sculptor
+Robert V. Rice (Professor), biochemist and leading researcher in smooth muscle myosin
+Scott Sandage (Professor), noted cultural historian in the Dietrich College of Humanities and Social Sciences
+Robert Schmertz (Professor), folk artist and professor of architecture
+Walter Dill Scott (Professor, 1916–1918), pioneer in applied psychology , President of the American Psychological Association , President of Northwestern University
+Mel Shapiro (Head of Drama Department), Tony Award -winning writer and director
+Robert S. Siegler (Professor), Teresa Heinz Professor of Psychology at Carnegie Mellon University and recipient of the American Psychological Association 's 2005 Distinguished Scientific Contribution Award
+Daniel Sleator (Professor), Paris Kanellakis Award -winning professor of computer science known for inventing data structures such as the splay tree
+Alfred Spector (Professor), Vice President of Research and Special Initiatives at Google
+Latanya Sweeney (Professor), former Chief Technologist of the Federal Trade Commission
+Joel A. Tarr (Professor), noted environmental historian in the Dietrich College of Humanities and Social Sciences
+Joe William Trotter Jr. (Professor), an eminent scholar of African American labor and urban life in the Dietrich College of Humanities and Social Sciences , and an elected member of the American Academy of Arts and Sciences
+Honus Wagner , baseball and basketball coach, one of the first five members of the Baseball Hall of Fame
+Arnold R. Weber (Professor and Provost), professor in economics and public policy at Carnegie Mellon and President of the University of Colorado and Northwestern University
+Jerome Wolken (1917–1999), biophysicist and head of biology department [ 35 ]
+Clarence Zener (Professor, 1968–1993), theoretical physicist, namesake of the Zener diode , Zener voltage, and Zener pinning
+Presidents of Carnegie Mellon University
+Arthur Hamerschlag , 1903–1922
+Thomas Baker , 1922–1935
+Robert Doherty , 1936–1950
+John Warner , 1950–1965
+Guyford Stever , 1965–1972
+Richard Cyert , 1972–1990
+Robert Mehrabian , 1990–1997
+Jared Cohon , 1997–2013
+Subra Suresh , 2013–2017
+Farnam Jahanian , 2018–present
+Founders and major benefactors of Carnegie Mellon University
+The Mellon Family of Pittsburgh :
+Eleanor Bartlet , first daughter of the United States in The West Wing
+Ben Bruckner , main character in Queer as Folk
+Delilah Fielding-McGee , a Department of Defense employee and the girlfriend/wife of Timothy McGee in NCIS , as revealed in S22 E17
+Theodore Donald Finch, a computer hacker in The Core
+Doctor Colette Green , research associate from the PC game Half-Life: Decay
+Dr. Bunsen Honeydew , scientist from The Muppet Show who graduated from "Carnegie-Melonhead University"
+Brian Kinney , main character in Queer as Folk
+Gabriel LaRoche, NCIS Deputy Director in NCIS , as revealed in S22 E17
+Johanna 'Jo' Mitchell, main character of film Mean Girls 2
+Randall and Beth Pearson, characters on This is Us , met while attending the school
+Sebastian Shaw , the Black King of the Hellfire Club of the Marvel Universe ( Earth-616 )
+Bethany Sloane , main character of the film Dogma
+Jaime Sommers , title character of The Bionic Woman
+^ Myers, Valerie (October 19, 2020). "Fairview native is Home Depot president/COO" . Erie Times-News . Gannett Company . Retrieved August 27, 2022 .
+^ Fox, Margalit. "Theodore Nierenberg, Founder of Dansk, Dies at 86" , The New York Times , August 3, 2009. Retrieved August 4, 2009.
+^ "Vuppalapati Madhavi" . Prithvisolutions.com . Retrieved March 20, 2014 .
+^ "Brian T. Olsavsky" . Amazon.com.
+^ "Steve Sangapu - LinkedIn" .
+^ "CURRICULUM VITAE JANE CHARLTON" (PDF) . Archived from the original (PDF) on March 12, 2012 . Retrieved May 25, 2011 .
+^ Weber, Bruce. "Gerald Gardner, 83, Dies; Bolstered Sex Bias Suit" , The New York Times , July 28, 2009. Retrieved July 29, 2009.
+^ Barkan, Christopher P. L.; Franke, Michael W. (2022). "William W. Hay Award for Excellence honors legacy of CEE rail professor". CEE (Summer). University of Illinois Urbana-Champaign Department of Civil and Environmental Engineering: 34– 36.
+^ "The Sunniest Sociopath: Carrigan Breaks Out in "Barry" " . Carnegie Mellon University School of Drama . September 18, 2019.
+^ Webster, Andrew (September 19, 2013). "The power of failure: making 'The Last of Us' " . The Verge . Vox Media . Retrieved October 20, 2014 .
+^ "Yusuf GateWood" . Carnegie Mellon University School of Drama . November 18, 2014.
+^ Wigley, Pam (September 26, 2021). "Carnegie Mellon Alumni Win Two Tony Awards" . Carnegie Mellon University . Retrieved November 13, 2021 .
+^ von Rhein, John (August 4, 2002). "Henry Mazer, 84: Longtime CSO associate conductor" . Chicago Tribune . Retrieved May 21, 2017 .
+^ "Kennedy McMann" . Carnegie Mellon University School of Drama . March 7, 2021.
+^ "Victoria Pedretti" . Carnegie Mellon University School of Drama . October 22, 2018. Archived from the original on October 23, 2018 . Retrieved October 25, 2018 .
+^ Mendlowitz, Leonard (May 16, 1952). "Pittsburgh Actor Lands Movie Role" . Pittsburgh Sun-Telegraph . p. 21. Retrieved February 9, 2025.
+^ Lambert, Gavin (Spring 1956). "In Brief: Killer's Kiss". Sight and Sound . p. 198. ProQuest 1305505809 . The young couple created by Jamie Smith and Irene Kane have a modest, attractive naturalness
+^ https://www.guggenheim.org/artwork/artist/matt-keegan
+^ https://gasworks.org.uk/residencies/dane-mitchell/
+^ "Iran Center for Management Studies, Tehran, Iran" .
+^ Arys L. Rodríguez Andino, Leysa Caro González. "Carmen Yulín: "Soy alcaldesa de San Juan" " . Archived from the original on January 16, 2013 . Retrieved January 15, 2013 .
+^ WAPA. "Carmen Yulín Cruz Soto - Decisión 2012" . Archived from the original on March 24, 2012 . Retrieved January 15, 2013 .
+^ General Catalogue of the Carnegie Technical Schools . Pittsburgh, PA: Carnegie Technical Schools. 1906. p. 76 – via Google Books .
+^ "Jairam Ramesh, Shri | National Portal of India" . Archived from the original on November 1, 2018.
+^ "James W. Dean Jr" . Kenan-Flager Business School . UNC . Retrieved June 3, 2018 .
+^ "MadhavV.Rajan" . Stanford Graduate School of Business . Stanford University . Retrieved March 24, 2017 .
+^ "Millicent O. Sullivan" . Chemical & Biomolecular Engineering at University of Delaware . Retrieved March 28, 2024 .
+^ Amnon Kabatchnik (2011). "Speaking of Murder (1956)" . Blood on the Stage, 1950-1975: Milestone Plays of Crime, Mystery, and Detection . Scarecrow Press . p. 210. ISBN 9780810869639 .
+^ a b c d e f g "NFL Players who attended Carnegie Mellon University" . databaseSports.com. Archived from the original on December 29, 2008 . Retrieved April 5, 2008 .
+^ "NAE Website - Dr. Takeo Kanade" .
+^ Weber, Bruce. "Israel Hicks, Director of August Wilson's Cycle, Dies at 66" , The New York Times , July 7, 2010. Accessed July 8, 2010.
+^ Stedman, Alex (December 14, 2014). "Mordecai Lawner, Actor Who Appeared in 'Annie Hall,' Dies at 86" . Variety . Retrieved December 14, 2014 .
+^ "Alex John London" . Cmu.edu . Archived from the original on June 3, 2017 . Retrieved July 2, 2018 .
+^ "Center for Ethics and Policy" . Centerforethicsandpolicy.com . Retrieved July 2, 2018 .
+^ Saxon, Wolfgang. "Jerome Wolken, 82, Scientist Who Gave Sight to Some Blind" , The New York Times , May 20, 1999. Accessed July 6, 2010.
