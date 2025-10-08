@@ -33,9 +33,7 @@ output_config = {
 }
 
 folder_paths = [
-    f"{RAW_DATA_ROOT}/cmu-one-jump",
-    f"{RAW_DATA_ROOT}/general_scraped",
-    f"{RAW_DATA_ROOT}/Pittsburgh-filtered"
+    f"{DATA_ROOT}/raw2/text",
 ]
 
 file_paths = []
@@ -47,14 +45,15 @@ for folder_path in folder_paths:
 for file_path in file_paths:
     chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
-USE_DENSE = False
+print(f"Found {len(chunks)} chunks.")
+USE_DENSE = True
 if USE_DENSE:
     retriever = DenseRetriever(DenseConfig(model_name="all-MiniLM-L6-v2", normalize=True)).fit(chunks)
 else:
     retriever = SparseRetriever()
     retriever.build(chunks)
 
-k = 5
+k = 2
 QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions_group_1.txt"
 ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_group_1.json"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
