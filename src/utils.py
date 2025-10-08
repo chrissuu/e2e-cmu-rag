@@ -1,4 +1,5 @@
 import os
+import json
 
 class Pipe:
     def __init__(self, value):
@@ -41,3 +42,29 @@ def make_human_readable(chunk: str):
 
     lines = list(map(lambda line_array : ' '.join(line_array), lines))
     return '\n'.join(lines)
+
+class TestForm:
+    def __init__(self, path):
+        f = open(path, "r")
+        lines = f.readlines()
+        test_form = {}
+        for i, line in enumerate(lines):
+            test_form[str(i+1)] = line
+        self.test_form = test_form
+
+    def get_question(self, num):
+        return self.test_form[num]
+
+class AnswerKey:
+
+    def __init__(self, path, form_mode = False):
+        if form_mode:
+            self.answer_key = open(path, "w")
+        else:
+            self.answer_key = json.load(path)
+
+    def get_answer(self, key):
+        return self.answer_key[key]
+    
+    def submit_answer(self, q_num, answer):
+        self.answer_key[q_num] = answer

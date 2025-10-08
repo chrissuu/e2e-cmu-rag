@@ -9,6 +9,7 @@ def safe_get(key: str):
         raise ValueError(f"Env variable {key} was not found.")
 
 REPO_ROOT_PATH = safe_get("E2E_CMU_RAG")
+DATA_ROOT = f"{REPO_ROOT_PATH}/data"
 RAW_DATA_ROOT = f"{REPO_ROOT_PATH}/data/raw"
 CLEANED_DATA_ROOT = f"{REPO_ROOT_PATH}/data/cleaned"
 ANNOTATION_DATA_ROOT = f"{REPO_ROOT_PATH}/data/to-annotate/"
