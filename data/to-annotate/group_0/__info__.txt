@@ -1,4 +1,4 @@
-Folders chunked: ['/home/chrissuu/dev/e2e-cmu-rag/data/raw']
+Folders chunked: ['/home/chrissuu/dev/e2e-cmu-rag/data/raw/cmu-one-jump', '/home/chrissuu/dev/e2e-cmu-rag/data/raw/general_scraped', '/home/chrissuu/dev/e2e-cmu-rag/data/raw/Pittsburgh-filtered', '/home/chrissuu/dev/e2e-cmu-rag/data/raw/pittsburghpa_text_cleaned']
 Random seed used: 19
 Group index: 0
 Number of files: 50

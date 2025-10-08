@@ -1,1 +1,39 @@
-conservation of energy, mass, and charge. Fundamental physics seeks to better explain and understand phenomena in all spheres, without a specific practical application as a goal, other than the deeper insight into the phenomema themselves. Applied physics is a general term for physics research and development that is intended for a particular use. An applied physics curriculum usually contains a few classes in an applied discipline, like geology or electrical engineering. It usually differs from engineering in that an applied physicist may not be designing something in particular, but rather is using physics or conducting physics research with the aim of developing new technologies or solving a problem. The approach is similar to that of applied mathematics. Applied physicists use physics in scientific research. For instance, people working on accelerator physics might seek to build better particle detectors for research in theoretical physics. Physics is used heavily in engineering. For example, statics, a subfield of mechanics, is used in the building of bridges and other static structures. The understanding and use of acoustics results in sound control and better concert halls; similarly, the use of optics creates better optical devices. An understanding of physics makes for more realistic flight simulators, video games, and movies, and is often critical in forensic investigations. With the standard consensus that the laws of physics are universal and do not change with time, physics can be used to study things that would ordinarily be mired in uncertainty. For example, in the study of the origin of the Earth, a physicist can reasonably model Earth's mass, temperature, and rate of rotation, as a function of time allowing the extrapolation forward or backward in time and so predict future or prior events. It also allows for simulations in engineering that speed up the development of a new technology. There is also considerable interdisciplinarity, so many other important fields are influenced by physics (e. g. , the fields of econophysics and sociophysics).
+the departments of Architecture, Civil, Geo and Environmental Engineering, Electrical
+and Computer Engineering and the Schools of Management, Governance, Education are
+located here. The TUM School of Medicine is located at the site of its university
+hospital, the Rechts der Isar Hospital, in the district of Haidhausen. The TUM Department
+of Sport and Health Sciences is located in the Olympiapark, the former site of the
+1972 Summer Olympics. The campus in Garching, located around 10 km north of Munich,
+has grown to become the largest TUM campus. In the last decades, the departments of
+Physics, Chemistry, Mechanical Engineering, Informatics and Mathematics have all relocated
+from their former buildings in the Main Campus. They have since been joined by numerous
+research institutes, including the Max Planck Institutes for Plasma Physics, Astrophysics,
+Extraterrestrial Physics and Quantum Optics, the Forschungsreaktor München II (FRM
+II), the headquarters of the European Southern Observatory (ESO), and the Leibniz
+Supercomputing Centre, one of the fastest supercomputers in Europe. [9] A landmark
+of the Garching campus is the Oskar von Miller Tower, a meteorological measurement
+tower with a height of 62 m. The Garching campus is connected to Munich by the Autobahn
+and the Munich U-Bahn. It has its own fire department. The third TUM campus is located
+35 km north of Munich in Weihenstephan, Freising. It hosts the School of Life Sciences.
+Additional TUM facilities are located in Ottobrunn (Department of Aerospace and Geodesy),
+[10] Straubing, [11] Heilbronn, [12] and Singapore. TUM operates a subsidiary in Singapore.
+In 2001, the German Institute of Science and Technology (GIST) – TUM Asia was founded
+in partnership with the National University of Singapore and the Nanyang Technological
+University, offering a range of Master's programs. In 2010, TUM Asia started offering
+bachelor's degrees in collaboration with the Singapore Institute of Technology. In
+2010, TUM and the Nanyang Technological University founded TUMCREATE, a research platform
+for the improvement of Singapore's public transportation. [13] As a technical university,
+the university specializes in engineering, technology, medicine, and the applied and
+natural sciences. Compared to a Volluniversität (a universal university), it lacks
+the Geisteswissenschaften, including law and many branches of the social sciences.
+As of 2025, the Technical University of Munich is organized into seven schools: [14]
+Other institutions include the Rechts der Isar Hospital, the TUM Graduate School and
+the Munich School of Politics and Public Policy. The TUM School of Management is triple
+accredited by the European Quality Improvement System (EQUIS), the Association to
+Advance Collegiate Schools of Business (AACSB) and the Association of MBAs (AMBA).
+[15][16][17] The Technical University of Munich is one of the most research-focused
+universities in Europe. This claim is supported by relevant rankings, such as the
+funding ranking of the German Research Foundation and the research ranking of the
+Centre for Higher Education. [18] Under the German Universities Excellence Initiative,
+TUM has obtained funding for multiple research clusters, including e-conversion (energy
+technology), MCQST (quantum mechanics), ORIGINS (astrophysics, biophysics and particle

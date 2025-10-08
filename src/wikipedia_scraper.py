@@ -85,14 +85,14 @@ def get_wikipedia_info(wikipedia_links: List[str], folder_path: str, max_workers
         for future in as_completed(futures):
             future.result()
 
-start = "https://en.wikipedia.org/wiki/Pittsburgh"
+start = "https://en.wikipedia.org/wiki/History_of_Pittsburgh"
 neighbors = find_neighbors(start)
 neighbors.append(start)
 print(f"Found {len(neighbors)} neighbors")
 
-get_wikipedia_info(neighbors, f"{RAW_DATA_ROOT}/wikipedia/Pittsburgh-one-jump/")
+get_wikipedia_info(neighbors, f"{RAW_DATA_ROOT}/wikipedia/History_of_Pittsburgh-one-jump/")
 
-with open(f"{RAW_DATA_ROOT}/wikipedia/Pittsburgh-one-jump/___info___.txt", "w") as f:
+with open(f"{RAW_DATA_ROOT}/wikipedia/History_of_Pittsburgh-one-jump/___info___.txt", "w") as f:
     f.write(
         f"""
 Data collected with node and one neighbor from node.

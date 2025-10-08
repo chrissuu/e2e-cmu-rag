@@ -1,5 +1,5 @@
 from document_chunker import chunk, DocumentChunkerStrategy
-from utils import collect_file_paths, flatten
+from utils import collect_file_paths, flatten, make_human_readable
 from constants import ANNOTATION_DATA_ROOT, RAW_DATA_ROOT
 import random
 import os
@@ -17,26 +17,34 @@ random.seed(SEED)
 
 chunking_strategy_config = {
     "chunking_strategy" : DocumentChunkerStrategy.BY_WORD,
-    "window_length" : 1000,
+    "window_length" : 300,
     "overlap_length" : 100,
 }
 
 output_config = {
     "print_info" : False
 }
-folders_to_chunk = [RAW_DATA_ROOT]
+folders_to_chunk = [
+    f"{RAW_DATA_ROOT}/cmu-one-jump",
+    f"{RAW_DATA_ROOT}/general_scraped",
+    f"{RAW_DATA_ROOT}/Pittsburgh-filtered",
+    f"{RAW_DATA_ROOT}/pittsburghpa_text_cleaned"
+]
+
 file_paths_to_chunk = flatten(list(map(collect_file_paths, folders_to_chunk)))
 chunks = list(map(lambda file_path: chunk(file_path, chunking_strategy_config, output_config), file_paths_to_chunk))
 chunks = flatten(chunks)
+chunks = list(filter(lambda chunk : len(chunk) > 0, chunks))
 print(f"Found {len(chunks)} different chunks.")
 print(f"Sampling {TEST_SIZE} chunks from this population.")
 
 assert len(chunks) >= TEST_SIZE
 
 random.seed(SEED)
-random_chunk_sample = random.sample(chunks, TEST_SIZE)
+chunks_to_annotate = random.sample(chunks, TEST_SIZE)
+chunks_to_annotate = list(map(make_human_readable, chunks_to_annotate))
 
-group_size = math.ceil(len(random_chunk_sample) / NUM_GROUPS)
+group_size = math.ceil(len(chunks_to_annotate) / NUM_GROUPS)
 output_root = ANNOTATION_DATA_ROOT
 os.makedirs(output_root, exist_ok=True)
 
@@ -45,8 +53,8 @@ for i in range(NUM_GROUPS):
     os.makedirs(group_dir, exist_ok=True)
     
     start_idx = i * group_size
-    end_idx = min((i + 1) * group_size, len(random_chunk_sample))
-    group_files = random_chunk_sample[start_idx:end_idx]
+    end_idx = min((i + 1) * group_size, len(chunks_to_annotate))
+    group_files = chunks_to_annotate[start_idx:end_idx]
     
     for j, chunk_data in enumerate(group_files):
         chunk_name = f"chunk_{j}.txt"

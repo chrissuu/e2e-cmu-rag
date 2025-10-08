@@ -1,1 +1,35 @@
-a benchmark for comparison and as an aid to understanding - for example, for comparative assessment of different organizations where there is something in common that can be used as a basis for comparison. In the case of the CMM, for example, the basis for comparison would be the organizations' software development processes. The model involves five aspects: There are five levels defined along the continuum of the model and, according to the SEI: "Predictability, effectiveness, and control of an organization's software processes are believed to improve as the organization moves up these five levels. While not rigorous, the empirical evidence to date supports this belief". [18] Within each of these maturity levels are Key Process Areas which characterise that level, and for each such area there are five factors: goals, commitment, ability, measurement, and verification. These are not necessarily unique to CMMI, representing — as they do — the stages that organizations must go through on the way to becoming mature. The model provides a theoretical continuum along which process maturity can be developed incrementally from one level to the next. Skipping levels is not allowed/feasible. Between 2008 and 2019, about 12% of appraisals given were at maturity levels 4 and 5. [19][20] The model was originally intended to evaluate the ability of government contractors to perform a software project. It has been used for and may be suited to that purpose, but critics [who? ] pointed out that process maturity according to the CMM was not necessarily mandatory for successful software development. The software process framework documented is intended to guide those wishing to assess an organization's or project's consistency with the Key Process Areas. For each maturity level there are five checklist types:
+street-ready to ever emerge from any fire academy in the country, ” said Pittsburgh
+Bureau of Fire Chief Darryl Jones. “We are very proud of that fact. ” Public Safety
+Director Lee Schmidt spoke of the community that often forms with the job. “You have
+a whole group of other fellow firefighters that are here to support you. Some days
+are going to be harder than others, but you can persevere and you can make it through
+as long as you have the support that you need. ” Mayor Ed Gainey administered the
+Oath of Office after calling for a standing ovation and thanking families. “To the
+families, I want to say ‘thank you. ’ Thank you, because at the end of the day, I
+know you watched them grow as they arrived at this moment. We know the power of love
+and support and what it does. Thank you for your dedication to making them believe
+in themselves. ” After being granted the traditional weekend off after graduation
+by Chief Jones, firefighters will begin work with their platoons next week. 11/2/2022
+13: 46: 24 Pittsburgh Bureau of EMS Holds Swearing-In and Promotions Ceremony PITTSBURGH,
+PA (March 4, 2022) – Pittsburgh Bureau of Emergency Medical Services held a swearing-in
+ceremony Friday for EMTs and paramedics. The ceremony was held in Council Chambers
+at the City-County Building. Three new EMTs and ten paramedics were sworn in during
+the ceremony. One paramedic received a promotion. Romi Chaouk, Williams McHenry and
+Logan Ondos were sworn in as EMTs. Robert Catley, Willem deBoer, Ryan Kesting, Zachary
+Koenecke, Brandon Prevost, Samuel Rest, Andrew Schartner, Michael Schmidt, Cameron
+Rogers and Graham Weston were sworn in as paramedics. Paramedic Edward Parker was
+promoted. Kicking off the ceremony, EMS Chief Ronald Romano directly addressed the
+families. “Thank you for supporting them in the work they do for the city’s citizens.
+Thank you for sharing them with us and understanding when they miss a family event
+because they are helping someone else. ” Medical Director for the City of Pittsburgh
+Dr. Ronald Roth cited the foundational and revolutionary history of emergency care
+in Pittsburgh by the Freedom House Ambulance Service. Established in 1967, it was
+the first emergency medical service to provide training beyond basic first aid. The
+team of mostly Black paramedics set the standard for emergency care not only for future
+Pittsburgh paramedics, but programs around the country. “This legacy continues today,
+” he said. “Not satisfied with that success, Pittsburgh EMS is on the forefront of
+treating victims of opioid overdose. We actually start treating victims in the field.
+We are one of only three or four other agencies in the country to do this. ” Public
+Safety Director Lee Schmidt connected that past with the new potential in the Bureau
+of EMS. “You are now a part of that history. I want you to think about the future,
+and think about what we as Pittsburgh can continue to do to create new pathways for

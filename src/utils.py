@@ -28,3 +28,16 @@ def flatten(container_container):
             flattened_container.append(e)
 
     return flattened_container
+
+def make_human_readable(chunk: str):
+    MAX_CHARS_PER_LINE = 80
+    lines = []
+    curr_line = []
+    for word in chunk.split(' '):
+        if len(' '.join(curr_line)) > MAX_CHARS_PER_LINE:
+            lines.append(curr_line)
+            curr_line = []
+        curr_line.append(word)
+
+    lines = list(map(lambda line_array : ' '.join(line_array), lines))
+    return '\n'.join(lines)
