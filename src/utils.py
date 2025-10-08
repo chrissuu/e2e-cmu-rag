@@ -55,13 +55,13 @@ class TestForm:
     def get_question(self, num):
         return self.test_form.get(str(num), None)
 
-
 class AnswerKey:
     def __init__(self, path, form_mode=False):
         self.path = path
         self.form_mode = form_mode
 
         if form_mode:
+            # Start with an empty answer key
             self.answer_key = {}
         else:
             with open(path, "r") as f:
@@ -72,7 +72,11 @@ class AnswerKey:
     
     def submit_answer(self, q_num, answer):
         self.answer_key[str(q_num)] = answer
+        self.write()
 
-        if not self.form_mode:
-            with open(self.path, "w") as f:
-                json.dump(self.answer_key, f, indent=2)
+    def write(self):
+        """Writes the current answer key to the file at self.path."""
+        # Ensure directory exists
+        os.makedirs(os.path.dirname(self.path), exist_ok=True)
+        with open(self.path, "w") as f:
+            json.dump(self.answer_key, f, indent=2)

@@ -2,6 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
 
 from sparse import SparseRetriever
+# from dense import DenseRetriever
 from document_chunker import chunk, DocumentChunkerStrategy
 
 from utils import collect_file_paths, AnswerKey, TestForm
@@ -49,12 +50,17 @@ for folder_path in folder_paths:
 for file_path in file_paths:
     chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
-retriever = SparseRetriever()
-retriever.build(chunks)
+USE_DENSE = False
+if USE_DENSE:
+    retriever = DenseRetriever()
+    retriever.build(chunks)
+else:
+    retriever = SparseRetriever()
+    retriever.build(chunks)
 
 k = 5
-QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions_group_0.txt"
-ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_group_0.json"
+QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions_group_1.txt"
+ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_group_1.json"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
 ground_truth_answers = AnswerKey(ANSWERS_FILE_PATH)
@@ -74,7 +80,8 @@ pipe = pipeline(
     tokenizer=tokenizer,
     device_map="auto"
 )
-for q_num in range(NUM_QUESTIONS):
+
+for q_num in range(1,11):
     query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
     retrieved_chunks = []
@@ -88,8 +95,11 @@ for q_num in range(NUM_QUESTIONS):
         max_new_tokens=256,
         do_sample=True,
         temperature=0.4,
+        return_full_text=False
     )
 
     model_answer = outputs[0]['generated_text']  
 
     model_answers.submit_answer(q_num, model_answer)
+
+print(model_answers.answer_key)
