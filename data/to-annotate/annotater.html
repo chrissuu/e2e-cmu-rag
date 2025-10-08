@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG Annotation Tool</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .controls {
+            margin-bottom: 20px;
+            padding: 15px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+        }
+        .folder-selector {
+            padding: 20px;
+            text-align: center;
+            background: #f0f8ff;
+            border: 2px solid #007bff;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+        .control-group {
+            margin-bottom: 10px;
+        }
+        label {
+            display: inline-block;
+            width: 120px;
+            font-weight: bold;
+        }
+        button {
+            padding: 8px 15px;
+            margin: 5px;
+            cursor: pointer;
+            background: #007bff;
+            color: white;
+            border: none;
+            border-radius: 3px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+        .main-content {
+            display: flex;
+            gap: 20px;
+        }
+        .left-panel {
+            flex: 1;
+            padding: 15px;
+            border: 1px solid #ddd;
+            background: #fafafa;
+        }
+        .right-panel {
+            flex: 1;
+            padding: 15px;
+            border: 1px solid #ddd;
+        }
+        .chunk-text {
+            white-space: pre-wrap;
+            line-height: 1.6;
+            padding: 10px;
+            background: white;
+            border: 1px solid #ddd;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        .annotation-section {
+            margin-top: 20px;
+        }
+        textarea {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            font-family: Arial, sans-serif;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+        }
+        .answer-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+        }
+        .answer-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 5px;
+        }
+        .remove-btn {
+            background: #dc3545;
+            padding: 4px 8px;
+            font-size: 12px;
+        }
+        .remove-btn:hover {
+            background: #c82333;
+        }
+        .add-answer-btn {
+            background: #28a745;
+            margin-top: 10px;
+        }
+        .add-answer-btn:hover {
+            background: #218838;
+        }
+        .navigation {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f9f9f9;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        .export-section {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e7f3ff;
+            border: 1px solid #b3d9ff;
+        }
+        h3 {
+            margin-top: 0;
+        }
+        .status {
+            color: #666;
+            font-size: 14px;
+            margin-top: 10px;
+        }
+        .file-list {
+            max-height: 150px;
+            overflow-y: auto;
+            background: white;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 12px;
+        }
+        .hidden {
+            display: none;
+        }
+        .warning {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>RAG Q&A Annotation Tool</h1>
+        
+        <div class="controls">
+            <h3>Load Chunks from Folder</h3>
+            <div class="folder-selector">
+                <p><strong>Select a folder containing your chunk files</strong></p>
+                <button onclick="selectFolder()">📁 Select Folder</button>
+                <p style="font-size: 12px; color: #666; margin-top: 15px;">
+                    Will automatically load all .txt files (excluding those starting with "__")
+                </p>
+            </div>
+            <div class="status" id="status">No chunks loaded</div>
+            <div id="fileListContainer" class="hidden">
+                <strong>Loaded files:</strong>
+                <div class="file-list" id="fileList"></div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="left-panel">
+                <h3>Current Chunk</h3>
+                <div><strong>File:</strong> <span id="currentFile">-</span></div>
+                <div class="chunk-text" id="chunkText">Load chunks to begin annotation</div>
+            </div>
+
+            <div class="right-panel">
+                <h3>Annotation</h3>
+                <div class="annotation-section">
+                    <label><strong>Question:</strong></label>
+                    <textarea id="question" rows="3" placeholder="Enter your question here"></textarea>
+                </div>
+
+                <div class="annotation-section">
+                    <label><strong>Answers:</strong></label>
+                    <div id="answersContainer"></div>
+                    <button class="add-answer-btn" onclick="addAnswer()">+ Add Answer</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="navigation">
+            <button onclick="prevChunk()">← Previous Chunk</button>
+            <button onclick="saveAnnotation()">Save Current Annotation</button>
+            <button onclick="nextChunk()">Next Chunk →</button>
+        </div>
+
+        <div class="export-section">
+            <h3>Export Annotations</h3>
+            <button onclick="exportQuestions()">Download questions.txt</button>
+            <button onclick="exportAnswers()">Download reference_answers.json</button>
+            <button onclick="exportAll()">Download Both Files</button>
+        </div>
+    </div>
+
+    <script>
+        let chunks = [];
+        let currentIndex = 0;
+        let annotations = {};
+        let answerCounter = 0;
+
+        async function selectFolder() {
+            try {
+                // Check if the browser supports the File System Access API
+                if (!window.showDirectoryPicker) {
+                    alert('Your browser does not support folder selection. Please use Chrome, Edge, or another Chromium-based browser.');
+                    return;
+                }
+
+                // Show directory picker
+                const dirHandle = await window.showDirectoryPicker();
+                await loadFilesFromDirectory(dirHandle);
+                
+            } catch (error) {
+                if (error.name !== 'AbortError') {
+                    console.error('Error selecting folder:', error);
+                    alert('Error accessing folder: ' + error.message);
+                }
+            }
+        }
+
+        async function loadFilesFromDirectory(dirHandle) {
+            chunks = [];
+            const files = [];
+
+            // Recursively read all files from directory
+            async function readDirectory(dirHandle, path = '') {
+                for await (const entry of dirHandle.values()) {
+                    if (entry.kind === 'file') {
+                        const file = await entry.getFile();
+                        const filename = path ? `${path}/${file.name}` : file.name;
+                        
+                        // Filter: must be .txt and not start with __
+                        if (file.name.endsWith('.txt') && !file.name.startsWith('__')) {
+                            files.push({
+                                file: file,
+                                filename: filename
+                            });
+                        }
+                    } else if (entry.kind === 'directory') {
+                        // Recursively process subdirectories
+                        const newPath = path ? `${path}/${entry.name}` : entry.name;
+                        await readDirectory(entry, newPath);
+                    }
+                }
+            }
+
+            await readDirectory(dirHandle);
+
+            if (files.length === 0) {
+                alert('No valid .txt files found in the selected folder (excluding files starting with "__")');
+                return;
+            }
+
+            // Sort files with natural/numeric ordering for chunk numbers
+            files.sort((a, b) => {
+                // Extract numbers from filenames if they exist
+                const extractNumbers = (str) => {
+                    const matches = str.match(/\d+/g);
+                    return matches ? matches.map(Number) : [];
+                };
+                
+                const aNumbers = extractNumbers(a.filename);
+                const bNumbers = extractNumbers(b.filename);
+                
+                // Compare numbers first
+                for (let i = 0; i < Math.max(aNumbers.length, bNumbers.length); i++) {
+                    const aNum = aNumbers[i] || 0;
+                    const bNum = bNumbers[i] || 0;
+                    if (aNum !== bNum) return aNum - bNum;
+                }
+                
+                // Fall back to lexicographic if no numbers or numbers are equal
+                return a.filename.localeCompare(b.filename);
+            });
+
+            // Read all files
+            for (const fileInfo of files) {
+                try {
+                    const text = await fileInfo.file.text();
+                    chunks.push({
+                        filename: fileInfo.filename,
+                        content: text
+                    });
+                } catch (error) {
+                    console.error(`Error reading file ${fileInfo.filename}:`, error);
+                }
+            }
+
+            if (chunks.length === 0) {
+                alert('Failed to read any files');
+                return;
+            }
+
+            currentIndex = 0;
+            updateStatus();
+            displayFileList();
+            loadCurrentChunk();
+        }
+
+        function updateStatus() {
+            const statusText = `Loaded ${chunks.length} chunk${chunks.length !== 1 ? 's' : ''}`;
+            const annotatedCount = Object.keys(annotations).length;
+            document.getElementById('status').textContent = 
+                `${statusText} | Annotated: ${annotatedCount}/${chunks.length}`;
+        }
+
+        function displayFileList() {
+            const fileList = document.getElementById('fileList');
+            const container = document.getElementById('fileListContainer');
+            
+            fileList.innerHTML = chunks.map((chunk, idx) => 
+                `<div>${idx + 1}. ${chunk.filename}</div>`
+            ).join('');
+            
+            container.classList.remove('hidden');
+        }
+
+        function loadCurrentChunk() {
+            if (chunks.length === 0) return;
+
+            const chunk = chunks[currentIndex];
+            document.getElementById('currentFile').textContent = 
+                `${chunk.filename} (${currentIndex + 1}/${chunks.length})`;
+            document.getElementById('chunkText').textContent = chunk.content;
+
+            // Load existing annotation if any
+            const key = currentIndex + 1; // 1-indexed
+            if (annotations[key]) {
+                document.getElementById('question').value = annotations[key].question;
+                
+                // Clear and reload answers
+                document.getElementById('answersContainer').innerHTML = '';
+                annotations[key].answers.forEach(ans => {
+                    addAnswer(ans);
+                });
+            } else {
+                // Clear form
+                document.getElementById('question').value = '';
+                document.getElementById('answersContainer').innerHTML = '';
+                addAnswer(); // Start with one answer field
+            }
+        }
+
+        function addAnswer(value = '') {
+            const container = document.getElementById('answersContainer');
+            const answerId = `answer_${answerCounter++}`;
+            
+            const div = document.createElement('div');
+            div.className = 'answer-item';
+            div.id = answerId;
+            
+            div.innerHTML = `
+                <div class="answer-header">
+                    <strong>Answer ${container.children.length + 1}:</strong>
+                    <button class="remove-btn" onclick="removeAnswer('${answerId}')">Remove</button>
+                </div>
+                <textarea rows="2" placeholder="Enter answer">${value}</textarea>
+            `;
+            
+            container.appendChild(div);
+        }
+
+        function removeAnswer(id) {
+            const elem = document.getElementById(id);
+            if (elem) {
+                elem.remove();
+                // Renumber remaining answers
+                const container = document.getElementById('answersContainer');
+                Array.from(container.children).forEach((child, idx) => {
+                    const header = child.querySelector('.answer-header strong');
+                    header.textContent = `Answer ${idx + 1}:`;
+                });
+            }
+        }
+
+        function saveAnnotation() {
+            if (chunks.length === 0) {
+                alert('Please load chunks first');
+                return;
+            }
+
+            const question = document.getElementById('question').value.trim();
+            if (!question) {
+                alert('Please enter a question');
+                return;
+            }
+
+            const answerElements = document.querySelectorAll('#answersContainer textarea');
+            const answers = Array.from(answerElements)
+                .map(ta => ta.value.trim())
+                .filter(a => a.length > 0);
+
+            if (answers.length === 0) {
+                alert('Please enter at least one answer');
+                return;
+            }
+
+            const key = currentIndex + 1; // 1-indexed
+            annotations[key] = {
+                question: question,
+                answers: answers
+            };
+
+            updateStatus();
+            alert('Annotation saved!');
+        }
+
+        function prevChunk() {
+            if (chunks.length === 0) return;
+            if (currentIndex > 0) {
+                currentIndex--;
+                loadCurrentChunk();
+            }
+        }
+
+        function nextChunk() {
+            if (chunks.length === 0) return;
+            if (currentIndex < chunks.length - 1) {
+                currentIndex++;
+                loadCurrentChunk();
+            }
+        }
+
+        function exportQuestions() {
+            if (Object.keys(annotations).length === 0) {
+                alert('No annotations to export');
+                return;
+            }
+
+            const questions = [];
+            const keys = Object.keys(annotations).map(Number).sort((a, b) => a - b);
+            
+            keys.forEach(key => {
+                questions.push(annotations[key].question);
+            });
+
+            const blob = new Blob([questions.join('\n')], { type: 'text/plain' });
+            downloadFile(blob, 'questions.txt');
+        }
+
+        function exportAnswers() {
+            if (Object.keys(annotations).length === 0) {
+                alert('No annotations to export');
+                return;
+            }
+
+            const answers = {};
+            const keys = Object.keys(annotations).map(Number).sort((a, b) => a - b);
+            
+            keys.forEach(key => {
+                // Join multiple answers with semicolons
+                answers[key] = annotations[key].answers.join('; ');
+            });
+
+            const blob = new Blob([JSON.stringify(answers, null, 2)], { type: 'application/json' });
+            downloadFile(blob, 'reference_answers.json');
+        }
+
+        function exportAll() {
+            exportQuestions();
+            setTimeout(() => exportAnswers(), 100);
+        }
+
+        function downloadFile(blob, filename) {
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>
