@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
 
 from sparse import SparseRetriever
-# from dense import DenseRetriever
+from dense import DenseRetriever, DenseConfig
 from document_chunker import chunk, DocumentChunkerStrategy
 
 from utils import collect_file_paths, AnswerKey, TestForm
@@ -52,8 +52,7 @@ for file_path in file_paths:
 
 USE_DENSE = False
 if USE_DENSE:
-    retriever = DenseRetriever()
-    retriever.build(chunks)
+    retriever = DenseRetriever(DenseConfig(model_name="all-MiniLM-L6-v2", normalize=True)).fit(chunks)
 else:
     retriever = SparseRetriever()
     retriever.build(chunks)
