@@ -35,9 +35,7 @@ output_config = {
 folder_paths = [
     f"{RAW_DATA_ROOT}/cmu-one-jump",
     f"{RAW_DATA_ROOT}/general_scraped",
-    f"{RAW_DATA_ROOT}/History_of_Pittsburgh-one-jump",
-    f"{RAW_DATA_ROOT}/Pittsburgh-one-jump",
-    f"{RAW_DATA_ROOT}/pittsburghpa_text_cleaned"
+    f"{RAW_DATA_ROOT}/Pittsburgh-filtered"
 ]
 
 file_paths = []
@@ -49,7 +47,7 @@ for folder_path in folder_paths:
 for file_path in file_paths:
     chunks.extend(chunk(file_path, chunking_strategy_config, output_config))
 
-USE_DENSE = True
+USE_DENSE = False
 if USE_DENSE:
     retriever = DenseRetriever(DenseConfig(model_name="all-MiniLM-L6-v2", normalize=True)).fit(chunks)
 else:
@@ -79,7 +77,7 @@ pipe = pipeline(
     device_map="auto"
 )
 
-for q_num in range(1,11):
+for q_num in range(1, 11):
     print(f"Answering question num {q_num}")
     query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
