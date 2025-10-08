@@ -276,7 +276,6 @@
                 return;
             }
 
-<<<<<<< HEAD
             // Sort files with natural/numeric ordering for chunk numbers
             files.sort((a, b) => {
                 // Extract numbers from filenames if they exist
@@ -298,10 +297,6 @@
                 // Fall back to lexicographic if no numbers or numbers are equal
                 return a.filename.localeCompare(b.filename);
             });
-=======
-            // Sort files alphabetically
-            files.sort((a, b) => a.filename.localeCompare(b.filename));
->>>>>>> 2d7d838 (QA Pipeline supporting annotated answers)
 
             // Read all files
             for (const fileInfo of files) {
@@ -478,7 +473,8 @@
             const keys = Object.keys(annotations).map(Number).sort((a, b) => a - b);
             
             keys.forEach(key => {
-                answers[key] = annotations[key].answers;
+                // Join multiple answers with semicolons
+                answers[key] = annotations[key].answers.join('; ');
             });
 
             const blob = new Blob([JSON.stringify(answers, null, 2)], { type: 'application/json' });
