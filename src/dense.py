@@ -138,6 +138,34 @@ def build_cmd(args):
     retr.save(out_dir)
     print(out_dir)
 
+def build_from_texts(
+    texts,
+    out_dir,
+    model: str = "all-MiniLM-L6-v2",
+    normalize: bool = True,
+):
+    if not isinstance(texts, list) or not all(isinstance(t, str) for t in texts):
+        raise ValueError("texts must be a List[str].")
+
+    cfg = DenseConfig(model_name=model, normalize=normalize, device=_st_device())
+    retr = DenseRetriever(cfg)
+
+    # build simple meta
+    retr.meta = [{"id": i, "text": t} for i, t in enumerate(texts) if t.strip()]
+    texts_clean = [m["text"] for m in retr.meta]
+    if not texts_clean:
+        raise ValueError("No non-empty chunks to index.")
+
+    X = retr._embed(texts_clean)
+    d = X.shape[1]
+    retr.index = faiss.IndexFlatIP(d) if retr.config.normalize else faiss.IndexFlatL2(d)
+    retr.index.add(X)
+
+    os.makedirs(out_dir, exist_ok=True)
+    retr.save(out_dir)
+    return out_dir
+
+
 def query_cmd(args):
     repo_root = safe_get_env("E2E_CMU_RAG")
     index_dir = args.index_dir or os.path.join(repo_root, "outputs", "dense")
