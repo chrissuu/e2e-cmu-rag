@@ -63,8 +63,8 @@ else:
 
 
 k = 2
-QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions_group_1.txt"
-ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_group_1.json"
+QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_questions.txt"
+ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_references.json"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
 ground_truth_answers = AnswerKey(ANSWERS_FILE_PATH)
@@ -85,7 +85,7 @@ pipe = pipeline(
     device_map="auto"
 )
 
-for q_num in range(1, 11):
+for q_num in range(1, 50):
     print(f"Answering question num {q_num}")
     query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
