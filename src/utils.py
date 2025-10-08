@@ -43,28 +43,36 @@ def make_human_readable(chunk: str):
     lines = list(map(lambda line_array : ' '.join(line_array), lines))
     return '\n'.join(lines)
 
+import json
+
 class TestForm:
     def __init__(self, path):
-        f = open(path, "r")
-        lines = f.readlines()
-        test_form = {}
-        for i, line in enumerate(lines):
-            test_form[str(i+1)] = line
-        self.test_form = test_form
+        with open(path, "r") as f:
+            lines = f.readlines()
+        # Strip newlines and build dict
+        self.test_form = {str(i + 1): line.strip() for i, line in enumerate(lines)}
 
     def get_question(self, num):
-        return self.test_form[num]
+        return self.test_form.get(str(num), None)
+
 
 class AnswerKey:
+    def __init__(self, path, form_mode=False):
+        self.path = path
+        self.form_mode = form_mode
 
-    def __init__(self, path, form_mode = False):
         if form_mode:
-            self.answer_key = open(path, "w")
+            self.answer_key = {}
         else:
-            self.answer_key = json.load(path)
+            with open(path, "r") as f:
+                self.answer_key = json.load(f)
 
     def get_answer(self, key):
-        return self.answer_key[key]
+        return self.answer_key.get(str(key), None)
     
     def submit_answer(self, q_num, answer):
-        self.answer_key[q_num] = answer
+        self.answer_key[str(q_num)] = answer
+
+        if not self.form_mode:
+            with open(self.path, "w") as f:
+                json.dump(self.answer_key, f, indent=2)

@@ -23,16 +23,23 @@ if torch.cuda.is_available():
 model_id = "meta-llama/Llama-3.1-8B"  # you can also use 70B, 405B, etc.
 
 chunking_strategy_config = {
-    "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
-    "window_length" : 8,
-    "overlap_length" : 2,
+    "chunking_strategy" : DocumentChunkerStrategy.BY_WORD,
+    "window_length" : 300,
+    "overlap_length" : 100,
 }
 
 output_config = {
     "print_info" : True
 }
 
-folder_paths = []
+folder_paths = [
+    f"{RAW_DATA_ROOT}/cmu-one-jump",
+    f"{RAW_DATA_ROOT}/general_scraped",
+    f"{RAW_DATA_ROOT}/History_of_Pittsburgh-one-jump",
+    f"{RAW_DATA_ROOT}/Pittsburgh-one-jump",
+    f"{RAW_DATA_ROOT}/pittsburghpa_text_cleaned"
+]
+
 file_paths = []
 chunks = []
 
@@ -46,37 +53,35 @@ retriever = SparseRetriever()
 retriever.build(chunks)
 
 k = 5
-QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions.txt"
-ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers.json"
+QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/questions_group_0.txt"
+ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/reference_answers_group_0.json"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
 ground_truth_answers = AnswerKey(ANSWERS_FILE_PATH)
-model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH)
+model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH, True)
 NUM_QUESTIONS = 50
 
+tokenizer = AutoTokenizer.from_pretrained(model_id)
+model = AutoModelForCausalLM.from_pretrained(
+    model_id,
+    dtype="auto",       # fp16/bf16 if supported
+    quantization_config=BitsAndBytesConfig(load_in_8bit=True)
+)
+
+pipe = pipeline(
+    "text-generation",
+    model=model,
+    tokenizer=tokenizer,
+    device_map="auto"
+)
 for q_num in range(NUM_QUESTIONS):
-    query = questions[q_num]
+    query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
     retrieved_chunks = []
     for doc_id, score in scored_doc_ids:
         retrieved_chunks.append(retriever.get_doc(doc_id))
 
-
     qa_prompt = prompt(query, retrieved_chunks, k)
-
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
-    model = AutoModelForCausalLM.from_pretrained(
-        model_id,
-        dtype="auto",       # fp16/bf16 if supported
-        quantization_config=BitsAndBytesConfig(load_in_8bit=True)
-    )
-
-    pipe = pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-        device_map="auto"
-    )
 
     outputs = pipe(
         qa_prompt,
