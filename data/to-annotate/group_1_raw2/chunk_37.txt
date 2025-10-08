@@ -1,0 +1,39 @@
+Newell-Simon hall. [ 117 ] The Software Engineering Institute (SEI) is a federally
+funded research and development center sponsored by the U. S. Department of Defense
+and operated by Carnegie Mellon, with offices in Pittsburgh, Pennsylvania, USA and
+Arlington, Virginia. The SEI publishes books on software engineering for industry,
+government and military applications and practices. The organization is known for
+its Capability Maturity Model [ 118 ] [ 119 ] (CMM) and Capability Maturity Model
+Integration (CMMI), which identify essential elements of effective system and software
+engineering processes and can be used to rate the level of an organization's capability
+for producing quality systems. The SEI is also the home of CERT/CC , the federally
+funded computer security organization. The CERT Program's primary goals are to support
+secure requirements and development of computer systems and ensure that appropriate
+technology and systems management practices are used to resist attacks on networked
+systems and to limit damage and ensure continuity of critical services subsequent
+to attacks, accidents, or failures. [ 120 ] The Human–Computer Interaction Institute
+(HCII) is a division of the School of Computer Science and is considered one of the
+leading centers of human–computer interaction research, integrating computer science,
+design, social science, and learning science. [ 121 ] Such interdisciplinary collaboration
+is the hallmark of research done throughout the university. The Language Technologies
+Institute (LTI) is another unit of the School of Computer Science and is famous for
+being one of the leading research centers in the area of language technologies . The
+primary research focus of the institute is on machine translation , speech recognition
+, speech synthesis , information retrieval , parsing and information extraction .
+[ 122 ] Until 1996, the institute existed as the Center for Machine Translation that
+was established in 1986. From 1996 onwards, it started awarding graduate degrees and
+the name was changed to Language Technologies Institute. The Ray and Stephanie Lane
+Computational Biology Department , one of the seven departments in the School of Computer
+Science , was established in 2007 (as Lane Center for Computational Biology), officially
+became a department within the School of Computer Science in 2009, and named the Ray
+and Stephanie Lane Computational Biology Department in 2023. The department is the
+leader in developing computational methodologies to advance biomedical research. Carnegie
+Mellon is also home to the Carnegie School of management and economics. This intellectual
+school grew out of the Tepper School of Business in the 1950s and 1960s and focused
+on the intersection of behavioralistm and management. Several management theories,
+most notably bounded rationality and the behavioral theory of the firm , were established
+by Carnegie School management scientists and economists. Carnegie Mellon also develops
+cross-disciplinary and university-wide institutes and initiatives to take advantage
+of strengths in various colleges and departments and develop solutions in critical
+social and technical problems. To date, these have included the Cylab Security and
+Privacy Institute , the Wilton E. Scott Institute for Energy Innovation, the Neuroscience

@@ -1,6 +1,6 @@
 from document_chunker import chunk, DocumentChunkerStrategy
 from utils import collect_file_paths, flatten, make_human_readable
-from constants import ANNOTATION_DATA_ROOT, RAW_DATA_ROOT
+from constants import ANNOTATION_DATA_ROOT, RAW_DATA_ROOT, DATA_ROOT
 import random
 import os
 import math
@@ -25,10 +25,7 @@ output_config = {
     "print_info" : False
 }
 folders_to_chunk = [
-    f"{RAW_DATA_ROOT}/cmu-one-jump",
-    f"{RAW_DATA_ROOT}/general_scraped",
-    f"{RAW_DATA_ROOT}/Pittsburgh-filtered",
-    f"{RAW_DATA_ROOT}/pittsburghpa_text_cleaned"
+    f"{DATA_ROOT}/raw2/text",
 ]
 
 file_paths_to_chunk = flatten(list(map(collect_file_paths, folders_to_chunk)))
@@ -49,7 +46,7 @@ output_root = ANNOTATION_DATA_ROOT
 os.makedirs(output_root, exist_ok=True)
 
 for i in range(NUM_GROUPS):
-    group_dir = os.path.join(output_root, f"group_{i}")
+    group_dir = os.path.join(output_root, f"group_{i}_raw2")
     os.makedirs(group_dir, exist_ok=True)
     
     start_idx = i * group_size

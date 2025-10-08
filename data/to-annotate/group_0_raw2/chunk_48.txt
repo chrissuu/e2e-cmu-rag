@@ -1,0 +1,35 @@
+the Tartan Racing team to victory in the 2007 DARPA Grand Challenge . He is also leading
+a team of Carnegie Mellon students to win the Google Lunar X Prize . [ 21 ] Whittaker
+is the Fredkin Professor of Robotics at the Robotics Institute and the director of
+the Robotics Institute's Field Robotics Center [ 22 ] since its creation in 1983.
+Whittaker earned his master's and doctoral degrees in Civil Engineering from Carnegie
+Mellon in the late 1970s. [ 23 ] Raj Reddy is the University Professor of Computer
+Science and Robotics and Moza Bint Nasser Chair at the School of Computer Science
+at Carnegie Mellon University . His areas of interest include artificial intelligence
+and human-computer interaction . He received the ACM Turning award in 1994. He received
+the French Legion of Honour in 1984 and Padma Bhushan award in 2001. He was also awarded
+the Honda Prize in 2005, and the Vannevar Bush Award in 2006. [ 24 ] Reddy was the
+founding directory of the Robotics Institute [ 25 ] and the Dean of School of Computer
+Science. He was one of the founders of the American Association for Artificial Intelligence
+[ 26 ] and was its President from 1987 to 1989. [ 27 ] Takeo Kanade is a U. A. and
+Helen Whitaker University Professor of Computer Science and Robotics. He is the director
+of the Quality of Life Technology Engineering Research Center at Carnegie Mellon.
+His main areas of interest include computer vision , multi-media , manipulators, autonomous
+mobile robots , and sensors . [ 28 ] Hans Moravec is a research professor at the Robotics
+Institute with interests in mobile robots and artificial intelligence . He worked
+in the RI's Mobile Robot Lab, a research space designed to produce robots able to
+move through intricate indoor and outdoor areas. [ 29 ] He also helped develop Moravec's
+paradox in the 1980s, which states that it is more difficult for computers to learn
+basic human instincts than human reason. Manuela M. Veloso is the Herbert A. Simon
+Professor at the School of Computer Science, Carnegie Mellon University. She is the
+President of the International RoboCup Federation that she co-founded and the President
+Elect of the Association for the Advancement of Artificial Intelligence. She is a
+fellow of the American Association for Artificial Intelligence, a fellow of the American
+Association for the Advancement of Science, and a Fellow of IEEE. Her research focus
+on the scientific and engineering challenges of creating teams of intelligent agents
+in complex, dynamic, and uncertain environments, in particular adversarial environments,
+such as robot soccer, that Cooperate, Observe the world, Reason, Act, and Learn. She
+currently researches and develops effective indoor mobile service robots aiming at
+contributing to a multi-robot, multi-human symbiotic relationship, in which robots
+and humans coordinate and cooperate as a function of their limitations and strengths.
+Manuel Blum is the Bruce Nelson Professor of Computer Science and a Turing Award winner.

@@ -1,0 +1,37 @@
+Carnegie Mellon became a partner of the Pittsburgh Health Data Alliance to leverage
+data analysis in health care. [ 135 ] Discoveries and innovation Computer and applied
+sciences Alice (software) – freeware (for non-commercial purposes) object-based educational
+programming language with an integrated development environment (IDE). [ 136 ] Andrew
+Project – distributed computing environment developed at Carnegie Mellon beginning
+in 1982. It was an ambitious project for its time and resulted in an unprecedentedly
+vast and accessible university computing infrastructure. The goal was to have connected
+3M computer workstations. [ 137 ] Artificial intelligence – Several of the first AI
+software programs were created at Carnegie Mellon. These include the Logic Theorist
+, General Problem Solver , and Soar . Autonomous vehicle – Navlab , the first autonomous
+car program was developed by Carnegie Mellon. Since then, H1ghlander and Sandstorm
+autonomous vehicles were developed at Carnegie Mellon and placed 3rd and 2nd in the
+DARPA Grand Challenge and Carnegie Mellon's Boss won the DARPA Grand Challenge (2007)
+. [ 138 ] The university continues to be a leader in autonomous research and development.
+Dynamic random-access memory – In 1966, Robert H. Dennard invented the one-transistor
+memory cell consisting of a transistor and a capacitor for which a patent was issued
+in 1968. It became the basis for today's dynamic random-access memory (DRAM). MEMS
+– Harvey C. Nathanson invented the first MEMS (micro-electro-mechanical systems) device
+of the type now found in products ranging from iPhones to automobiles. Typical MEMS
+devices include the accelerometers found in smartphones and video game controllers,
+and the gyroscopes used in automobiles and wearables. Xerox PARC – Founded in 1969
+by George Pake and Jack Goldman, Xerox PARC has been at the heart of numerous revolutionary
+computer developments as laser printing, Ethernet, the modern personal computer, graphical
+user interface (GUI) and desktop paradigm, object-oriented programming, ubiquitous
+computing, electronic paper, amorphous silicon (a-Si) applications, the computer mouse,
+and advancing very-large-scale integration (VLSI) for semiconductors. BLISS – system
+programming language developed at Carnegie Mellon by W. A. Wulf , D. B. Russell ,
+and A. N. Habermann around 1970. It was perhaps the best known systems programming
+language until C made its debut in 1972. [ 139 ] Emoticon – The first true emoticon
+was developed at Carnegie Mellon by Scott Fahlman in 1982. Hashtag – In a 2007 tweet,
+Chris Messina proposed vertical/associational grouping of messages, trends, and events
+on Twitter by the means of hashtags. Java – class-based object oriented programming
+language that was originally developed by James Gosling at Sun Microsystems (which
+has since been acquired by Oracle ) and released in 1995 as a core component of Sun
+Microsystems' Java platform. Mach (kernel) – Richard Rashid and Avie Tevanian developed
+Mach at Carnegie Mellon from 1985 to 1994, ending with Mach 3. 0, which is a true
+microkernel . Mach was developed as a replacement for the kernel in the BSD version
