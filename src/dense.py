@@ -59,6 +59,7 @@ class DenseRetriever:
     def _ensure_model(self):
         if self.model is None:
             self.model = SentenceTransformer(self.config.model_name, device=self.config.device)
+         
 
     def _embed(self, texts):
         self._ensure_model()
@@ -66,7 +67,7 @@ class DenseRetriever:
         if self.config.normalize:
             faiss.normalize_L2(X)
         return X
-
+     
     def build_from_jsonl(self, jsonl_path):
         meta, texts = [], []
         with open(jsonl_path, "r", encoding="utf-8") as f:
@@ -91,6 +92,12 @@ class DenseRetriever:
     def _ensure_gpu_index(self):
         if self.gpu_index is None and _gpu_available() and self.index is not None:
             self.gpu_index = _to_gpu(self.index)
+
+    def get_doc(self, doc_id: int) -> str:
+        return self.meta[doc_id]["text"]
+
+    def get_meta(self, doc_id: int):
+        return self.meta[doc_id]
 
     def search(self, query, k):
         self._ensure_model()
