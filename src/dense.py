@@ -101,6 +101,33 @@ class DenseRetriever:
         idx = self.gpu_index if self.gpu_index is not None else self.index
         D, I = idx.search(Q, k)
         return [(int(i), float(s)) for i, s in zip(I[0], D[0])]
+     
+    def fit(self, texts, metas=None):
+        """
+        Build the FAISS index in-memory from a list[str] of chunk texts.
+        Returns self so you can chain calls. Does not save to disk.
+        """
+        if not isinstance(texts, list) or not all(isinstance(t, str) for t in texts):
+            raise ValueError("texts must be List[str].")
+
+        # build meta (or use provided)
+        if metas is None:
+            self.meta = [{"id": i, "text": t} for i, t in enumerate(texts) if t.strip()]
+        else:
+            if len(metas) != len(texts):
+                raise ValueError("metas must match texts length.")
+            self.meta = metas
+
+        texts_clean = [m["text"] for m in self.meta if isinstance(m.get("text"), str)]
+        if not texts_clean:
+            raise ValueError("No non-empty chunks to index.")
+
+        X = self._embed(texts_clean)
+        d = X.shape[1]
+        self.index = faiss.IndexFlatIP(d) if self.config.normalize else faiss.IndexFlatL2(d)
+        self.index.add(X)
+        return self
+
 
     def save(self, out_dir):
         os.makedirs(out_dir, exist_ok=True)
