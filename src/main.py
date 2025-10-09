@@ -51,7 +51,7 @@ USE_DENSE = True
 if USE_DENSE:
     retriever = DenseRetriever(
         DenseConfig(
-            model_name="Qwen/Qwen3-Embedding-8B",  # << switch to Qwen embeddings
+            model_name="Linq-AI-Research/Linq-Embed-Mistral",  # << switch to Qwen embeddings
             normalize=True,                        # L2-normalize for cosine via FAISS IP
             batch_size=8,                          # tune for VRAM; 8–16 is typical on A100
             max_length=2048                        # your chunks are ~300 words, so 2048 is plenty
