@@ -1,14 +1,15 @@
 # FILE: src/dense.py
 """
 Dense retrieval
-- Default: Qwen/Qwen3-Embedding-8B via Hugging Face Transformers
-- Mean pooling + L2 normalization -> FAISS Inner Product (cosine)
-- Uses FAISS on GPU if available, else CPU
-- Batching + bf16 on GPU for speed/VRAM
-- Backward-compatible CLI:
+- Default: Linq-AI-Research/Linq-Embed-Mistral (Sentence-Transformers)
+- L2 normalize -> FAISS Inner Product (cosine)
+- GPU FAISS if available, else CPU
+- Batching via Sentence-Transformers
+
+CLI:
     python dense.py build \
       --chunks_jsonl "$E2E_CMU_RAG/data/processed/chunks.jsonl" \
-      --model Qwen/Qwen3-Embedding-8B \
+      --model Linq-AI-Research/Linq-Embed-Mistral \
       --normalize
 
     python dense.py query \
@@ -18,18 +19,15 @@ Dense retrieval
 """
 from __future__ import annotations
 import os, json, argparse
+from typing import List, Dict, Any, Tuple
 import numpy as np
 import faiss
 import torch
-from typing import List, Dict, Any, Tuple
 
-# Optional fallback to Sentence-Transformers if user requests an ST model
 try:
-    from sentence_transformers import SentenceTransformer  # pip install sentence-transformers
+    from sentence_transformers import SentenceTransformer  # pip install -U sentence-transformers
 except Exception:  # pragma: no cover
     SentenceTransformer = None
-
-from transformers import AutoModel, AutoTokenizer
 
 
 # ---------------------------
@@ -67,17 +65,19 @@ def _st_device():
 class DenseConfig:
     def __init__(
         self,
-        model_name: str = "Qwen/Qwen3-Embedding-8B",
+        model_name: str = "Linq-AI-Research/Linq-Embed-Mistral",
         normalize: bool = True,
         device: str = _st_device(),
         batch_size: int = 16,
-        max_length: int = 4096,    # plenty for most web chunks; raise if you truly need longer
+        max_length: int = 4096,
+        query_instruction: str | None = None,  # optional: instruction prefix for queries
     ):
         self.model_name = model_name
         self.normalize = normalize
         self.device = device
         self.batch_size = batch_size
         self.max_length = max_length
+        self.query_instruction = query_instruction
 
 
 # ---------------------------
@@ -86,9 +86,7 @@ class DenseConfig:
 class DenseRetriever:
     def __init__(self, config: DenseConfig | None = None):
         self.config = config or DenseConfig()
-        self.model = None            # HF model or ST model
-        self.tokenizer = None        # HF tokenizer (for Qwen)
-        self.backend = None          # "qwen" or "st"
+        self.model: SentenceTransformer | None = None
         self.index = None
         self.gpu_index = None
         self.meta: List[Dict[str, Any]] = []
@@ -97,85 +95,40 @@ class DenseRetriever:
     def _ensure_model(self):
         if self.model is not None:
             return
-        name = (self.config.model_name or "").lower()
-
-        # Heuristic: use HF path when model name suggests Qwen embedding
-        if "qwen3-embedding" in name or ("qwen" in name and "embedding" in name):
-            torch_dtype = torch.bfloat16 if torch.cuda.is_available() else torch.float32
-            self.tokenizer = AutoTokenizer.from_pretrained(
-                self.config.model_name,
-                trust_remote_code=True
+        if SentenceTransformer is None:
+            raise ImportError(
+                "sentence-transformers is required. Install: pip install -U sentence-transformers"
             )
-            # device_map="auto" places on GPU if available
-            self.model = AutoModel.from_pretrained(
-                self.config.model_name,
-                trust_remote_code=True,
-                torch_dtype=torch_dtype,
-                device_map="auto"
-            )
-            self.backend = "qwen"
+        # Back-compat aliasing: treat any 'qwen' request as Linq-Embed-Mistral
+        name_lower = (self.config.model_name or "").lower()
+        if "qwen" in name_lower or "embedding-8b" in name_lower:
+            resolved_name = "Linq-AI-Research/Linq-Embed-Mistral"
         else:
-            # Fall back to Sentence-Transformers
-            if SentenceTransformer is None:
-                raise ImportError(
-                    f"Requested non-Qwen model '{self.config.model_name}', "
-                    "but sentence-transformers is not installed."
-                )
-            self.model = SentenceTransformer(self.config.model_name, device=self.config.device)
-            self.backend = "st"
+            resolved_name = self.config.model_name or "Linq-AI-Research/Linq-Embed-Mistral"
 
-    # ---------- embedding implementations ----------
-    @torch.no_grad()
-    def _embed_qwen(self, texts: List[str]) -> np.ndarray:
-        bs = max(1, int(self.config.batch_size))
-        vecs: List[torch.Tensor] = []
-        for i in range(0, len(texts), bs):
-            batch = texts[i:i+bs]
-            inputs = self.tokenizer(
-                batch,
-                padding=True,
-                truncation=True,
-                max_length=self.config.max_length,
-                return_tensors="pt"
-            )
-            # move to model device
-            dev = self.model.device
-            inputs = {k: v.to(dev) for k, v in inputs.items()}
+        self.model = SentenceTransformer(resolved_name, device=self.config.device)
+        try:
+            self.model.max_seq_length = int(self.config.max_length)
+        except Exception:
+            pass
 
-            # Forward
-            out = self.model(**inputs)
-
-            # Mean pooling over valid tokens
-            last = out.last_hidden_state            # [B, T, D]
-            mask = inputs["attention_mask"].unsqueeze(-1).to(last.dtype)  # [B, T, 1]
-            summed = (last * mask).sum(dim=1)       # [B, D]
-            counts = mask.sum(dim=1).clamp(min=1e-6)
-            pooled = summed / counts                # [B, D]
-            vecs.append(pooled.detach().cpu())
-
-        X = torch.cat(vecs, dim=0).to(torch.float32).numpy()
-        if self.config.normalize:
-            faiss.normalize_L2(X)
-        return X
-
-    def _embed_st(self, texts: List[str]) -> np.ndarray:
-        # Sentence-Transformers handles batching internally
-        X = self.model.encode(
-            texts,
+    # ---------- embedding ----------
+    def _encode(self, texts: List[str], *, is_query: bool = False) -> np.ndarray:
+        self._ensure_model()
+        kwargs = dict(
             batch_size=self.config.batch_size,
             convert_to_numpy=True,
             show_progress_bar=True,
-            normalize_embeddings=False
-        ).astype("float32")
+            normalize_embeddings=False,
+        )
+        if is_query and self.config.query_instruction:
+            prompt = f"Instruct: {self.config.query_instruction}\nQuery: "
+            X = self.model.encode(texts, prompt=prompt, **kwargs).astype("float32")
+        else:
+            X = self.model.encode(texts, **kwargs).astype("float32")
         if self.config.normalize:
             faiss.normalize_L2(X)
         return X
-
-    def _embed(self, texts: List[str]) -> np.ndarray:
-        self._ensure_model()
-        if self.backend == "qwen":
-            return self._embed_qwen(texts)
-        return self._embed_st(texts)
 
     # ---------- build / search ----------
     def build_from_jsonl(self, jsonl_path: str):
@@ -198,9 +151,8 @@ class DenseRetriever:
         if not texts:
             raise ValueError("No valid chunks in JSONL. Need at least a 'text' field per line.")
 
-        X = self._embed(texts)
+        X = self._encode(texts, is_query=False)
         d = X.shape[1]
-        # For normalized vectors, IP == cosine similarity
         self.index = faiss.IndexFlatIP(d) if self.config.normalize else faiss.IndexFlatL2(d)
         self.index.add(X)
         self.meta = meta
@@ -216,26 +168,16 @@ class DenseRetriever:
         return self.meta[doc_id]
 
     def search(self, query: str, k: int) -> List[Tuple[int, float]]:
-        self._ensure_model()
-        if self.backend == "qwen":
-            Q = self._embed_qwen([query])
-        else:
-            Q = self._embed_st([query])
-
+        Q = self._encode([query], is_query=True)
         self._ensure_gpu_index()
         idx = self.gpu_index if self.gpu_index is not None else self.index
         D, I = idx.search(Q, k)
         return [(int(i), float(s)) for i, s in zip(I[0], D[0])]
 
     def fit(self, texts: List[str], metas: List[Dict[str, Any]] | None = None):
-        """
-        Build the FAISS index in-memory from a list[str] of chunk texts.
-        Returns self so you can chain calls. Does not save to disk.
-        """
         if not isinstance(texts, list) or not all(isinstance(t, str) for t in texts):
             raise ValueError("texts must be List[str].")
 
-        # build meta (or use provided)
         if metas is None:
             self.meta = [{"id": i, "text": t} for i, t in enumerate(texts) if t.strip()]
         else:
@@ -247,7 +189,7 @@ class DenseRetriever:
         if not texts_clean:
             raise ValueError("No non-empty chunks to index.")
 
-        X = self._embed(texts_clean)
+        X = self._encode(texts_clean, is_query=False)
         d = X.shape[1]
         self.index = faiss.IndexFlatIP(d) if self.config.normalize else faiss.IndexFlatL2(d)
         self.index.add(X)
@@ -266,6 +208,7 @@ class DenseRetriever:
                 "normalize": self.config.normalize,
                 "batch_size": self.config.batch_size,
                 "max_length": self.config.max_length,
+                "query_instruction": self.config.query_instruction,
             }, f)
 
     @classmethod
@@ -273,11 +216,12 @@ class DenseRetriever:
         with open(os.path.join(out_dir, "dense_config.json"), "r", encoding="utf-8") as f:
             cfg = json.load(f)
         self = cls(DenseConfig(
-            model_name=cfg.get("model_name", "Qwen/Qwen3-Embedding-8B"),
+            model_name=cfg.get("model_name", "Linq-AI-Research/Linq-Embed-Mistral"),
             normalize=cfg.get("normalize", True),
             device=_st_device(),
             batch_size=cfg.get("batch_size", 16),
             max_length=cfg.get("max_length", 4096),
+            query_instruction=cfg.get("query_instruction"),
         ))
         self.index = faiss.read_index(os.path.join(out_dir, "index.faiss"))
         meta = []
@@ -289,7 +233,7 @@ class DenseRetriever:
 
 
 # ---------------------------
-# Helpers used by your CLI
+# CLI helpers
 # ---------------------------
 def safe_get_env(key):
     v = os.getenv(key)
@@ -315,10 +259,11 @@ def build_cmd(args):
 def build_from_texts(
     texts: List[str],
     out_dir: str,
-    model: str = "Qwen/Qwen3-Embedding-8B",
+    model: str = "Linq-AI-Research/Linq-Embed-Mistral",
     normalize: bool = True,
     batch_size: int = 16,
     max_length: int = 4096,
+    query_instruction: str | None = None,
 ):
     if not isinstance(texts, list) or not all(isinstance(t, str) for t in texts):
         raise ValueError("texts must be a List[str].")
@@ -329,16 +274,16 @@ def build_from_texts(
         device=_st_device(),
         batch_size=batch_size,
         max_length=max_length,
+        query_instruction=query_instruction,
     )
     retr = DenseRetriever(cfg)
 
-    # build simple meta
     retr.meta = [{"id": i, "text": t} for i, t in enumerate(texts) if t.strip()]
     texts_clean = [m["text"] for m in retr.meta]
     if not texts_clean:
         raise ValueError("No non-empty chunks to index.")
 
-    X = retr._embed(texts_clean)
+    X = retr._encode(texts_clean, is_query=False)
     d = X.shape[1]
     retr.index = faiss.IndexFlatIP(d) if retr.config.normalize else faiss.IndexFlatL2(d)
     retr.index.add(X)
@@ -352,7 +297,7 @@ def query_cmd(args):
     repo_root = safe_get_env("E2E_CMU_RAG")
     index_dir = args.index_dir or os.path.join(repo_root, "outputs", "dense")
     retr = DenseRetriever.load(index_dir)
-    # allow overriding model/normalize at query time (useful for trying other encoders)
+    # allow overriding at query time
     retr.config.model_name = args.model
     retr.config.normalize = args.normalize
     retr.config.device = _st_device()
@@ -386,7 +331,7 @@ def main():
     b = sub.add_parser("build")
     b.add_argument("--chunks_jsonl", required=True)
     b.add_argument("--out_dir", default=None)
-    b.add_argument("--model", default="Qwen/Qwen3-Embedding-8B")
+    b.add_argument("--model", default="Linq-AI-Research/Linq-Embed-Mistral")
     b.add_argument("--normalize", action="store_true")
     b.add_argument("--batch_size", type=int, default=16)
     b.add_argument("--max_length", type=int, default=4096)
@@ -397,7 +342,7 @@ def main():
     q.add_argument("--queries_path")
     q.add_argument("--top_k", type=int, default=5)
     q.add_argument("--index_dir", default=None)
-    q.add_argument("--model", default="Qwen/Qwen3-Embedding-8B")
+    q.add_argument("--model", default="Linq-AI-Research/Linq-Embed-Mistral")
     q.add_argument("--normalize", action="store_true")
     q.add_argument("--batch_size", type=int, default=16)
     q.add_argument("--max_length", type=int, default=4096)
