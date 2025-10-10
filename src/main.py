@@ -80,7 +80,7 @@ QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_questions.t
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
 model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH, form_mode=True)
-NUM_QUESTIONS = 50
+NUM_QUESTIONS = 400
 
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 model = AutoModelForCausalLM.from_pretrained(
@@ -96,7 +96,7 @@ pipe = pipeline(
     device_map="auto"
 )
 
-for q_num in range(1, 50):
+for q_num in range(1, NUM_QUESTIONS + 1):
     print(f"Answering question num {q_num}")
     query = questions.get_question(q_num)
     scored_doc_ids = retriever.search(query, k = k)
