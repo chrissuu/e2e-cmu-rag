@@ -1,3 +1,14 @@
+"""
+Prompt
+
+Prompt generation function.
+
+Intentionally modular.
+
+This will collect chunks and a query and form
+the relevant prompt.
+"""
+
 def prompt(query, chunks, k):
     chunk_str = "\n\n".join([f"[CHUNK {i+1}]\n{chunk}" for i, chunk in enumerate(chunks)])
     return f"""

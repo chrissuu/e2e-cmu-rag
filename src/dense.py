@@ -17,6 +17,7 @@ CLI:
       --top_k 5 \
       --normalize
 """
+
 from __future__ import annotations
 import os, json, argparse
 from typing import List, Dict, Any, Tuple
@@ -26,7 +27,7 @@ import torch
 
 try:
     from sentence_transformers import SentenceTransformer  # pip install -U sentence-transformers
-except Exception:  # pragma: no cover
+except Exception:
     SentenceTransformer = None
 
 

@@ -1,3 +1,16 @@
+"""
+main
+
+Main run script.
+
+Ensure that you've set the E2E_CMU_RAG environment
+variable. 
+
+This main script (and other files / programs) will
+use that environment variable to locate data folders
+and other modules.
+"""
+
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig, pipeline
 import torch
 
@@ -62,7 +75,7 @@ else:
     retriever.build(chunks)
 
 
-k = 2
+k = 5
 QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_questions.txt"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)

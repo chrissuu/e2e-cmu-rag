@@ -1,3 +1,41 @@
+"""
+One Jump Scraper
+
+Main scraping script.
+
+This scraping script IS multithreaded so
+that it runs a bit faster.
+
+scrape_webpage is the main endpoint that this
+scraper will call.
+
+In general, there are two types of scrapes:
+
+    One Jump Scrape
+    Zero Jump Scrape
+
+The pipeline is as follows.
+
+Given a list of hyperlinks:
+
+    one_jump_links
+    zero_jump_links
+
+The scraper will first collect all links:
+
+    links := zero_jump_links + one_jump_links + 
+                get_one_jump_links(one_jump_links)
+
+Where get_one_jump_links will return all links in the
+webpage for link in one_jump_links.
+
+It will deduplicate by passing this into a set.
+
+Finally, it will call the scrape_webpage function
+for each link in this set, and store it in the
+specified folder path.
+"""
+
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
@@ -143,12 +181,10 @@ def scrape(zero_jump_links: List[str], one_jump_links: List[str],
     
     start_time = time.time()
     
-    # Step 1: Collect all links
-    print(f"Step 1: Collecting links from one_jump_links...")
+    print(f"Collecting links from one_jump_links...")
     all_links: Set[str] = set(zero_jump_links)
     all_links.update(one_jump_links)
     
-    # Collect outgoing links from one_jump_links using multithreading
     collected_links = []
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_link = {executor.submit(one_jump_collector, link): link 
@@ -161,23 +197,19 @@ def scrape(zero_jump_links: List[str], one_jump_links: List[str],
             except Exception as e:
                 print(f"✗ Error processing link: {str(e)}")
     
-    # Add collected links to the set
     all_links.update(collected_links)
     
-    # Step 2: Deduplicate and sort
-    print(f"\nStep 2: Deduplicating and sorting {len(all_links)} links...")
+    print(f"\nDeduplicating and sorting {len(all_links)} links...")
     sorted_links = sorted(list(all_links))
     
-    # Step 3: Write to scrape_info_path
-    print(f"\nStep 3: Writing links to {scrape_info_path}...")
+    print(f"\nWriting links to {scrape_info_path}...")
     Path(scrape_info_path).parent.mkdir(parents=True, exist_ok=True)
     with open(scrape_info_path, 'w', encoding='utf-8') as f:
         for link in sorted_links:
             f.write(f"{link}\n")
     print(f"✓ Wrote {len(sorted_links)} links to {scrape_info_path}")
     
-    # Step 4: Scrape all webpages using multithreading
-    print(f"\nStep 4: Scraping {len(sorted_links)} webpages...")
+    print(f"\nScraping {len(sorted_links)} webpages...")
     successful_scrapes = []
     failed_scrapes = []
     
@@ -238,7 +270,6 @@ def scrape(zero_jump_links: List[str], one_jump_links: List[str],
     print(f"{'='*60}\n")
 
 
-# Example usage
 if __name__ == "__main__":
     zero_jump = []
     zero_jump_seeds = open(f"{SEEDS_ROOT}/zero_jump_seeds.txt", "r")

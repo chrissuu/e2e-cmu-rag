@@ -1,9 +1,19 @@
 from enum import Enum
-
 import re
-
 from utils import Pipe
 from constants import RAW_DATA_ROOT
+
+"""
+Document Chunker Helpers
+
+The chunk function is able to take in arbitrary containers
+and then create chunks with overlap or no overlap.
+
+This definition allows it to handle any type of
+"split", whether it be by character, by word, or by
+sentence, as long as the container size is nonzero and
+represents some "split" of a piece of text.
+"""
 
 class DocumentChunkerStrategy(Enum):
     BY_CHAR = 1
@@ -124,15 +134,3 @@ def chunk(file_path, chunking_strategy_config, output_config) -> list[str]:
         *=====================================================================================*
         """)
     return joint_chunks
-
-# chunking_strategy_config = {
-#     "chunking_strategy" : DocumentChunkerStrategy.BY_SENTENCE,
-#     "window_length" : 5,
-#     "overlap_length" : 1
-# }
-
-# output_config = {
-#    "print_info" : True
-# }
-
-# chunk(f"{RAW_DATA_ROOT}/wikipedia/cmu-one-jump/Carnegie_Mellon_University.txt", chunking_strategy_config, output_config)

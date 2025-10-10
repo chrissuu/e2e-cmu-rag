@@ -1,3 +1,14 @@
+"""
+Eval
+
+This file is an evaluation script
+for comparing an LLM generated output
+against the reference answers.
+
+Computes relevant metrics such as
+exact match or F1.
+"""
+
 # FILE: src/eval.py
 import json, re, string
 from collections import defaultdict

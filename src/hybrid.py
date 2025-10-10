@@ -1,3 +1,9 @@
+"""
+Hybrid
+
+This is the hybrid retriever.
+"""
+
 def _minmax_norm(pairs):
     if not pairs:
         return {}
