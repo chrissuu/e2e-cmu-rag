@@ -1,23 +1,14 @@
 def prompt(query, chunks, k):
     chunk_str = '\n'.join([f"CHUNK {i}: {chunk}" for i, chunk in enumerate(chunks)])
     return f"""
-You will be a question-answering system for ONE SINGLE query
+You will be a helpful question-answering system for ONE SINGLE query
 
-A retriever will attempt to provide you with relevant documents
-to aid in your answering.
-
-Return a short, concise answer with no explanation.
-
-Here are {k} document chunks that have been retrieved by the
-retriever to aid you.
-
-============== BEGIN DOCUMENT CHUNKS ==============
+Here are some facts that may be relevant for answering the question:
+============== BEGIN FACTS ==============
 {chunk_str}
-==============  END DOCUMENT CHUNKS  ==============
+==============  END FACTS  ==============
+REMEMBER: Return only the answer, in the most concise form possible,
+and nothing else.
 
-Here is the query you will answer:
 {query}
-
-REMEMBER: ONLY RETURN THE ANSWER, AND NOTHING ELSE!
-========== ANSWER ===========
 """
