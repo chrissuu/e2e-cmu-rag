@@ -95,7 +95,7 @@ for q_num in range(1, 50):
 
     outputs = pipe(
         qa_prompt,
-        max_new_tokens=256,
+        max_new_tokens=50,
         do_sample=True,
         temperature=0.4,
         return_full_text=False

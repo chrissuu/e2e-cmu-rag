@@ -1,0 +1,655 @@
+local
+Customer Viewpoint Ratings and Reviews
+close Customer Viewpoint Ratings and Reviews
+Who leaves ratings and reviews?
+Ratings and reviews are provided by customers who have either purchased a vehicle or visited a dealership for service.
+How are ratings and reviews collected?
+Customers are invited to participate in a survey administered by MaritzCX, an independent, third-party supplier.
+Can dealerships edit or remove reviews?
+No. Ford personnel and/or dealership personnel cannot modify or remove reviews.
+Are reviews modified or monitored before being published?
+MaritzCX moderates public reviews to ensure they contain content that meet Review guidelines, such as:
+‣No Profanity or inappropriate defamatory remarks
+‣Fraud
+‣No Personal Identifying information (e.g., customer phone number or email)
+‣No Competitor references (e.g., another brand or dealership)
+‣Dangerous behavior (e.g. threatening to harm employees or others)
+‣Lack of adequate text (e.g., symbols, emoji’s and random letters)
+Reviews on the product and not the customer’s Sales or Service experience
+close Search anytime by typing
+Search anytime by typing
+submit search
+Popular on Ford.com
+Electric Vehicles
+Ranger
+Explorer
+How do I...
+Pay my bill
+Update my SYNC
+Replace a Part
+Skip To Content
+Ford Home Page
+Menu
+display menu
+close menu
+close menu
+Ford Home Page
+Locate Dealer
+Vehicles
+SUVs & Cars
+Trucks & Vans
+Electric & Hybrid
+Performance Vehicles
+Commercial Vehicles
+Future Vehicles
+Technology
+SUVs & Cars
+The Horizon Awaits
+Go to SUVs & Cars
+Mustang®
+1
+Escape®
+1
+Hybrid Available
+Hybrid Available
+Bronco Sport®
+1
+Bronco®
+1
+Explorer®
+1
+Mustang Mach-E®
+1
+All Electric
+All Electric
+Expedition®
+1
+Trucks & Vans
+Quitting Time? No Such Thing.
+Go to Trucks & Vans
+Maverick®
+1
+Hybrid Available
+Hybrid Available
+Ranger®
+1
+F-150®
+1
+Hybrid Available
+Hybrid Available
+Super Duty®
+1
+E-Transit™
+1
+All Electric
+All Electric
+F-150 Lightning®
+1
+All Electric
+All Electric
+Transit®
+1
+Electric & Hybrid
+Power with a Purpose
+Go to Electric & Hybrids
+Mustang Mach-E®
+1
+All Electric
+All Electric
+F-150 Lightning®
+1
+All Electric
+All Electric
+E-Transit™
+1
+All Electric
+All Electric
+Maverick®
+1
+Hybrid Available
+Hybrid Available
+F-150®
+1
+Hybrid Available
+Hybrid Available
+Escape® ST-Line Elite Hybrid
+1
+Hybrid
+Hybrid
+Escape® Plug-in Hybrid
+1
+Plug-In Hybrid
+Plug-In Hybrid
+Performance Vehicles
+Motorsports, Parts & Clubs
+Check out the latest in Performance
+Explorer®
+1
+Bronco® Raptor®
+1
+F-150® Raptor®
+1
+Ranger® Raptor®
+1
+Mustang® GTD
+Ford Mustang® Dark Horse™ R
+Not Street Legal
+Ford Mustang® GT3
+Not Street Legal
+Ford Mustang® GT4
+Not Street Legal
+Ford GT Mk IV
+Not Street Legal
+Commercial Vehicles
+Works Hard From 9 to Whatever
+Go to Ford Pro™
+E-Series Stripped Chassis
+1
+F-Stripped Chassis
+1
+E-Series Cutaway
+1
+Transit® CC-CA
+1
+Transit®
+1
+Super Duty®
+1
+Chassis Cab
+1
+E-Transit™
+1
+All Electric
+All Electric
+F-650 - F-750
+1
+Future Vehicles
+Moving ahead to move you.
+See what’s in the Future at Ford
+Mustang® GTD
+Ford BlueCruise
+Connected Services
+Software Updates
+FordPass
+Electrification
+Shop
+Build & Price
+Search Inventory
+Locate Dealer
+Accessories
+Experiences
+Merchandise
+Special Offers
+Certified Used
+EV Chargers
+Parts
+Ford Credit
+Financing Options
+Pre-Qualify
+Shop by Category
+Shop All
+Categories
+Go to Support Home
+Shop by Categories
+Go to Technology Home
+Shop by Categories
+Go to Service & Maintenance Home
+Shop by Categories
+Find Your Vehicle
+Shop by Category
+Shop all
+Shop by Popular
+Shop All
+Exterior
+Ford Performance Parts
+Electronics
+Bed Products
+Interior
+Wheels
+Cargo
+Floor Mats
+Warranty
+EV Support
+Roadside Assistance
+Collision Assistance
+FordPass App
+Connected Services
+Software Updates
+Schedule Service
+Maintenance Schedule
+Mobile Service
+Pickup & Delivery
+Ford Protect Service Plans
+Owner’s Manual
+Help Articles
+Towing Resources
+Connected Services
+BlueCruise
+Ford Connectivity Package
+Ford Security Package
+Connected Navigation
+Performance Upgrade
+Premium Connectivity
+Ford Digital Experience
+Home Chargers
+Cables & Adapters
+Replacement Parts
+Charging Accessories
+Brakes
+Batteries
+Filters
+Fluids & Lubricants
+Wipers & Washers
+Spark Plugs
+Climate Control
+Hardware & Fasteners
+Shop by Popular
+Learn More
+Shop by Category
+Floor Mats
+Tonneau Cover
+Bed Cover
+Splash Guards
+Comfort & Convenience
+Home Charging
+Ford Power Promise
+Charging Comparison Chart
+Body
+Engine
+Electrical
+Suspension
+Transmission
+Shop by Vehicle
+Additional Links
+Shop by Vehicle
+Bronco
+Maverick
+F-150
+Mustang
+Sync
+Navigation Update
+Software Updates
+FordPass App
+Bronco®
+F-150®
+Support & Service
+Support Home
+Recalls
+Vehicle Support
+Maintenance
+Get to Know Your Vehicle
+Technology
+Contact Us
+Shop by Category
+Shop All
+Categories
+Go to Support Home
+Shop by Categories
+Go to Technology Home
+Shop by Categories
+Go to Service & Maintenance Home
+Shop by Categories
+Find Your Vehicle
+Shop by Category
+Shop all
+Shop by Popular
+Shop All
+Exterior
+Ford Performance Parts
+Electronics
+Bed Products
+Interior
+Wheels
+Cargo
+Floor Mats
+Warranty
+EV Support
+Roadside Assistance
+Collision Assistance
+FordPass App
+Connected Services
+Software Updates
+Schedule Service
+Maintenance Schedule
+Mobile Service
+Pickup & Delivery
+Ford Protect Service Plans
+Owner’s Manual
+Help Articles
+Towing Resources
+Connected Services
+BlueCruise
+Ford Connectivity Package
+Ford Security Package
+Connected Navigation
+Performance Upgrade
+Premium Connectivity
+Ford Digital Experience
+Home Chargers
+Cables & Adapters
+Replacement Parts
+Charging Accessories
+Brakes
+Batteries
+Filters
+Fluids & Lubricants
+Wipers & Washers
+Spark Plugs
+Climate Control
+Hardware & Fasteners
+Shop by Popular
+Learn More
+Shop by Category
+Floor Mats
+Tonneau Cover
+Bed Cover
+Splash Guards
+Comfort & Convenience
+Home Charging
+Ford Power Promise
+Charging Comparison Chart
+Body
+Engine
+Electrical
+Suspension
+Transmission
+Shop by Vehicle
+Additional Links
+Shop by Vehicle
+Bronco
+Maverick
+F-150
+Mustang
+Sync
+Navigation Update
+Software Updates
+FordPass App
+Bronco®
+F-150®
+Ford Pro Solutions
+Overview
+Vehicles
+Software
+Service
+Charging
+Financing
+Shop by Category
+Shop All
+Categories
+Go to Support Home
+Shop by Categories
+Go to Technology Home
+Shop by Categories
+Go to Service & Maintenance Home
+Shop by Categories
+Find Your Vehicle
+Shop by Category
+Shop all
+Shop by Popular
+Shop All
+Exterior
+Ford Performance Parts
+Electronics
+Bed Products
+Interior
+Wheels
+Cargo
+Floor Mats
+Warranty
+EV Support
+Roadside Assistance
+Collision Assistance
+FordPass App
+Connected Services
+Software Updates
+Schedule Service
+Maintenance Schedule
+Mobile Service
+Pickup & Delivery
+Ford Protect Service Plans
+Owner’s Manual
+Help Articles
+Towing Resources
+Connected Services
+BlueCruise
+Ford Connectivity Package
+Ford Security Package
+Connected Navigation
+Performance Upgrade
+Premium Connectivity
+Ford Digital Experience
+Home Chargers
+Cables & Adapters
+Replacement Parts
+Charging Accessories
+Brakes
+Batteries
+Filters
+Fluids & Lubricants
+Wipers & Washers
+Spark Plugs
+Climate Control
+Hardware & Fasteners
+Shop by Popular
+Learn More
+Shop by Category
+Floor Mats
+Tonneau Cover
+Bed Cover
+Splash Guards
+Comfort & Convenience
+Home Charging
+Ford Power Promise
+Charging Comparison Chart
+Body
+Engine
+Electrical
+Suspension
+Transmission
+Shop by Vehicle
+Additional Links
+Shop by Vehicle
+Bronco
+Maverick
+F-150
+Mustang
+Sync
+Navigation Update
+Software Updates
+FordPass App
+Bronco®
+F-150®
+My Account
+My Account
+Get more with a Ford Account
+Sign in for easier vehicle and accessories shopping, order tracking or to manage your vehicle.
+Sign In
+Create Account
+{firstName}'s Account
+Check Order Status
+Vehicle Dashboard
+Orders
+Payment Center
+FordPass Rewards
+FordPass Rewards
+Saved Items
+Sign Out
+Search Submit
+Clear search input
+Recent Searches
+Clear
+Suggested Searches
+Search History
+Type your search
+Locate Dealer
+My Account
+My Account
+Get more with a Ford Account
+Sign in for easier vehicle and accessories shopping, order tracking or to manage your vehicle.
+Sign In
+Create Account
+{firstName}'s Account
+Check Order Status
+Vehicle Dashboard
+Orders
+Payment Center
+FordPass Rewards
+FordPass Rewards
+Saved Items
+Sign Out
+English
+EN
+English
+Spanish
+Search Submit
+Clear search input
+Recent Searches
+Suggested Searches
+Search History
+Find local incentives
+Enter your ZIP code so we can find incentives near you.
+ZIP code
+Please enter a valid 5-digit ZIP code
+Submit location
+Use my location
+close
+Please choose a language
+English
+Spanish
+Disclosures
+close Welcome A/Z Plan Participant
+Welcome A/Z Plan Participant
+Now you can view exclusive price savings on our Build & Price shopping tool.
+Note: A/Z Plan pricing information is not available on all Ford websites. In addition, some vehicles, trims or options you select may not qualify for A/Z Plans. Also, some dealers may choose not to participate in A/Z Plan pricing. Contact your local dealer to determine their level of participation in the program and final vehicle pricing.
+What happens if I close this site before I'm finished?
+If you close your window or tab, you must re-access the site through the A/Z Plan Pricing website to ensure that all eligible plan pricing is visible. If you need additional information concerning the A/Z Plans, please refer back to your A/Z Plan Pricing website for complete details.
+A/X/Z Plan pricing, including A/X/Z Plan option pricing, is exclusively for eligible Ford Motor Company employees, friends and family members of eligible employees, and Ford Motor Company eligible partners. Restrictions apply. See your Ford or Lincoln Dealer for complete details and qualifications. Ford Motor Company reserves the right to modify the terms of this plan at any time.
+close Thank you for visiting www.ford.com
+Thank you for visiting www.ford.com
+You’ll now be redirected to your local Ford Dealer site.
+Continue
+Cancel
+close
+To help you find your ideal certified used Ford vehicle, Ford is partnering with Autotrader to bring you the Ford Blue Advantage website.
+The Ford Blue Advantage website is operated by Autotrader. Autotrader’s privacy statement and visitor agreement apply to the Ford Blue Advantage website and the collection and use of data on that site.
+Continue
+Cancel
+close You are now leaving www.ford.com.
+You are now leaving www.ford.com.
+Ford's privacy policy will no longer apply. Please refer to the redirected website for its privacy policy.
+Continue
+Cancel
+close You are now leaving www.ford.com.
+You are now leaving www.ford.com.
+Ford's privacy policy will no longer apply. Please refer to the redirected website for its privacy policy.
+Continue
+Cancel
+Lightning®
+Bronco®
+Maverick®
+Lightning®
+Bronco®
+Maverick®
+All Vehicles
+SUVs & Crossovers
+Trucks & Vans
+Cars
+Electrified
+Commercial Vehicles
+Future Vehicles
+Certified Used
+All Vehicles
+Performance Vehicles
+Awards
+Shop
+Build & Price
+Search Inventory
+Get a Quote
+Trade-In Value
+Towing Guides
+Compare Vehicles
+Get Updates
+Certified Used Inventory
+Model E SATD
+First Responder
+Accessories Store
+Ford Merchandise
+Accessibility Program
+Finance
+Ford Credit Home
+Why Ford Credit
+Finance Options
+Payment Calculator
+Credit Education
+Customer Support
+Qualify for Financing
+Ford Credit Account
+Ford Insure
+Ford Interest Advantage
+Investor Center
+Experience Ford
+Corporate
+Careers
+Investors
+Company News
+About Ford
+Ford Pro
+Ford Racing
+Warriors in Pink
+Ford Philanthropy
+SYNC
+Connected Navigation
+FordPass
+Ford Co-Pilot360 Technology
+Owner Benefits
+Going Electric
+Ford Heritage Vault
+Support
+Locate a Dealer
+Support Home
+Technology Support
+Service and Maintenance
+Electric Vehicle Support
+Owner Vehicle Dashboard Log In
+FordPass Rewards
+Vehicle Health Report
+Warranty & Owner Manuals
+Maintenance Schedule
+Recalls
+Coupons and Offers
+Roadside Assistance
+Collision Assistance
+California Consumer Notice
+Disconnect Remote Vehicle Access
+Get Updates
+Follow Ford
+Facebook
+Twitter
+Youtube
+Instagram
+Threads
+TikTok
+Change Language
+© 2025 Ford Motor Company
+© 2025 Ford Motor Company
+Site Map
+|
+Site Feedback
+|
+Glossary
+|
+Contact Us
+|
+Accessibility
+|
+Terms & Conditions
+|
+Privacy Notice
+|
+Cookie Settings
+|
+Your Privacy Choices
+|
+Interest Based Ads
+|
+Third-Party Trademarks

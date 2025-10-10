@@ -18,3 +18,5 @@ WIKIPEDIA_REQUEST_HEADER = {
     "User-Agent": "11711 ANLP HW 2 (contact: chrissu@andrew.cmu.edu)"
 }
 WIKI_BASE = "https://en.wikipedia.org"
+
+SEEDS_ROOT = f"{REPO_ROOT_PATH}/src/seeds"
