@@ -1,14 +1,24 @@
 def prompt(query, chunks, k):
-    chunk_str = '\n'.join([f"CHUNK {i}: {chunk}" for i, chunk in enumerate(chunks)])
+    chunk_str = "\n\n".join([f"[CHUNK {i+1}]\n{chunk}" for i, chunk in enumerate(chunks)])
     return f"""
-You will be a helpful question-answering system for ONE SINGLE query
+You are a factual question-answering assistant.
 
-Here are some facts that may be relevant for answering the question:
-============== BEGIN FACTS ==============
+You will receive a single user query and {k} retrieved document chunks that may contain the answer.
+Read them carefully and extract the most relevant information to answer the query directly.
+
+If the answer is not found in the documents, reply with: "Not found."
+
+==================== DOCUMENTS ====================
 {chunk_str}
-==============  END FACTS  ==============
-REMEMBER: Return only the answer, in the most concise form possible,
-and nothing else.
+==================== END DOCUMENTS ====================
 
-{query}
+Query: {query}
+
+Instructions:
+- Answer concisely in one sentence or less.
+- Do not explain or justify your answer.
+- Do not repeat or reference the documents.
+- If uncertain or no evidence is present, say "Not found."
+
+Answer:
 """

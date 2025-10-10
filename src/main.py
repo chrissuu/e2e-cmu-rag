@@ -64,10 +64,8 @@ else:
 
 k = 2
 QUESTIONS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_questions.txt"
-ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/collated_references.json"
 MODEL_ANSWERS_FILE_PATH = f"{DATA_ROOT}/to-annotate/annotations/system_output.json"
 questions = TestForm(QUESTIONS_FILE_PATH)
-ground_truth_answers = AnswerKey(ANSWERS_FILE_PATH)
 model_answers = AnswerKey(MODEL_ANSWERS_FILE_PATH, form_mode=True)
 NUM_QUESTIONS = 50
 
