@@ -19,4 +19,4 @@ WIKIPEDIA_REQUEST_HEADER = {
 }
 WIKI_BASE = "https://en.wikipedia.org"
 
-SEEDS_ROOT = f"{REPO_ROOT_PATH}/src/seeds"
+SEEDS_ROOT = f"{REPO_ROOT_PATH}/data/seeds"
