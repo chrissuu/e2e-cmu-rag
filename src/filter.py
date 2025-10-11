@@ -3,8 +3,8 @@ import re
 
 from constants import *
 # ===== CONFIGURATION - CHANGE THESE PATHS =====
-INPUT_FILE = f"{DATA_ROOT}/scrape_output_oct10/system_output.json"
-OUTPUT_FILE = f"{DATA_ROOT}/scrape_output_oct10/system_output_1.json"
+INPUT_FILE = f"{REPO_ROOT_PATH}/chrissu/system_outputs/system_output_1.json"
+OUTPUT_FILE = f"{REPO_ROOT_PATH}/chrissu/system_outputs/system_output_2.json"
 # ==============================================
 
 def clean_answer(text):
