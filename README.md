@@ -36,3 +36,17 @@ python src/eval.py \
   --gold data/to-annotate/annotations/collated_references.json \
   --pred data/to-annotate/annotations/system_output.json \
   --dump-per-item outputs/per_item_scores.json
+
+# Running Scrapers
+The main scraper can be found in one_jump_scraper file.
+
+# Implementations
+The retriever implementations can be found in:
+
+dense.py, hybrid.py, sparse.py, respectively.
+
+The main run script is main.py
+
+Ensure environment variables are set.
+
+Also ensure that the configurations you want are proper / set to the ones you want.
