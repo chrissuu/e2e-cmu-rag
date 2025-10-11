@@ -1,7 +1,7 @@
 import json
 from constants import *
 
-with open(f'{REPO_ROOT_PATH}/chrissu/system_outputs/system_output_2.json', 'r') as f:
+with open(f'{REPO_ROOT_PATH}/chrissu/system_outputs/system_output_1.json', 'r') as f:
     data = json.load(f)
 
 filtered_data = {
